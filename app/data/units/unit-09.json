@@ -1,0 +1,1223 @@
+[
+ {
+  "id": "w0321",
+  "unit": 9,
+  "headword": "polite",
+  "ipa": "pә'lait",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 有禮貌的, 文雅的, 客氣的, 有教養的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom used to be polite.",
+    "zh": "湯姆以前有禮貌的。"
+   },
+   {
+    "en": "Tom is polite and sensitive.",
+    "zh": "湯姆既彬彬有禮又善解人意。"
+   },
+   {
+    "en": "Magdalena is very polite to me.",
+    "zh": "馬格達萊納對我很有禮貌。"
+   }
+  ],
+  "synonyms": [
+   "civilized",
+   "civilised",
+   "cultivated",
+   "cultured",
+   "genteel"
+  ],
+  "antonyms": [
+   "impolite",
+   "uncivil"
+  ],
+  "phrases": null,
+  "defsEn": "showing regard for others in manners, speech, behavior, etc.",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0322",
+  "unit": 9,
+  "headword": "protective",
+  "ipa": "prә'tektiv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 給予保護的, 保護的\n[醫] 保護的, 防護的, 保護劑, 保護物, 油綢",
+  "forms": null,
+  "examples": [],
+  "synonyms": null,
+  "antonyms": [
+   "unprotective"
+  ],
+  "phrases": null,
+  "defsEn": "intended or adapted to afford protection of some kind",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0323",
+  "unit": 9,
+  "headword": "seller",
+  "ipa": "'selә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 銷售者\n[化] 賣方",
+  "forms": {
+   "plural": "sellers"
+  },
+  "examples": [],
+  "synonyms": [
+   "marketer",
+   "vender",
+   "vendor",
+   "trafficker"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who promotes or exchanges goods or services for money",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0324",
+  "unit": 9,
+  "headword": "sidewalk",
+  "ipa": "'saidwɒ:k",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 人行道",
+  "forms": {
+   "plural": "sidewalks"
+  },
+  "examples": [
+   {
+    "en": "Tom is sweeping the sidewalk.",
+    "zh": "湯姆正在清掃人行道。"
+   },
+   {
+    "en": "I found a coin on the sidewalk.",
+    "zh": "我在人行道上發現了一枚硬幣。"
+   },
+   {
+    "en": "I saw Tom pushing a stroller down the sidewalk.",
+    "zh": "我看到湯姆推著嬰兒車走在人行道上。"
+   }
+  ],
+  "synonyms": [
+   "pavement"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "walk consisting of a paved area for pedestrians; usually beside a street or roadway",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0325",
+  "unit": 9,
+  "headword": "sightsee",
+  "ipa": "'saitsi:",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 遊覽；觀光",
+  "forms": {
+   "ing": "sightseeing",
+   "past": "sightsaw",
+   "thirdSg": "sightsees",
+   "pp": "sightseen"
+  },
+  "examples": [
+   {
+    "en": "The sightseeing bus ran through a long tunnel.",
+    "zh": "觀光巴士穿過了一條長長的隧道。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "visit famous or interesting sights",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0326",
+  "unit": 9,
+  "headword": "soup",
+  "ipa": "su:p",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 湯, 馬力\nvt. 加速, 增加馬力",
+  "forms": {
+   "plural": "soups",
+   "past": "souped",
+   "ing": "souping",
+   "thirdSg": "soups",
+   "pp": "souped"
+  },
+  "examples": [
+   {
+    "en": "Stir the soup.",
+    "zh": "攪一下湯。"
+   },
+   {
+    "en": "I'm having soup.",
+    "zh": "我喝湯。"
+   },
+   {
+    "en": "The soup is thick.",
+    "zh": "湯很稠。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "liquid food especially of meat or fish or vegetable stock often containing pieces of solid food",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0327",
+  "unit": 9,
+  "headword": "transit",
+  "ipa": "'trænsit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 經過, 通行, 運輸, 運輸線, 轉變\nvt. 運送, 使透過, 經過\nvi. 透過",
+  "forms": {
+   "plural": "transits",
+   "ing": "transiting",
+   "pp": "transitted",
+   "past": "transited",
+   "thirdSg": "transits"
+  },
+  "examples": [],
+  "synonyms": [
+   "theodolite",
+   "transportation",
+   "passage"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a surveying instrument for measuring horizontal and vertical angles, consisting of a small telescope mounted on a tripod",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0328",
+  "unit": 9,
+  "headword": "wallet",
+  "ipa": "'wɒlit",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 皮夾\n[法] 皮包, 皮夾, 錢袋",
+  "forms": {
+   "plural": "wallets"
+  },
+  "examples": [
+   {
+    "en": "I lost my wallet.",
+    "zh": "我掉了我的錢包。"
+   },
+   {
+    "en": "I've lost my wallet.",
+    "zh": "我掉了我的錢包。"
+   },
+   {
+    "en": "I have lost my wallet.",
+    "zh": "我掉了我的錢包。"
+   }
+  ],
+  "synonyms": [
+   "billfold",
+   "notecase",
+   "pocketbook"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a pocket-size case for holding papers and paper money",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0329",
+  "unit": 9,
+  "headword": "cashier",
+  "ipa": "kæ'ʃiә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 出納員\n[經] 司庫, 出納員, 收支員",
+  "forms": {
+   "plural": "cashiers",
+   "pp": "cashiered",
+   "ing": "cashiering",
+   "past": "cashiered",
+   "thirdSg": "cashiers"
+  },
+  "examples": [
+   {
+    "en": "Mary works as a cashier.",
+    "zh": "瑪麗是個收銀員。"
+   },
+   {
+    "en": "Pay the cashier on the way out.",
+    "zh": "在出口處的收銀臺付款。"
+   },
+   {
+    "en": "Currently, my sister works as a cashier at a supermarket.",
+    "zh": "目前，我妹妹在一家超市當收銀員。"
+   }
+  ],
+  "synonyms": [
+   "teller"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an employee of a bank who receives and pays out money",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0330",
+  "unit": 9,
+  "headword": "casual",
+  "ipa": "'kæʒjuәl",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 偶然的, 不經意的, 便裝的\nn. 臨時工, 待命士兵",
+  "forms": {
+   "plural": "casuals"
+  },
+  "examples": [],
+  "synonyms": [
+   "insouciant",
+   "nonchalant",
+   "everyday",
+   "daily"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "marked by blithe unconcern",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0331",
+  "unit": 9,
+  "headword": "drill",
+  "ipa": "dril",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 鑽孔機, 鑽子, 播種機, 粗斜紋布\nv. 訓練, 鑽孔",
+  "forms": {
+   "ing": "drilling",
+   "plural": "drills",
+   "pp": "drilled",
+   "past": "drilled",
+   "thirdSg": "drills"
+  },
+  "examples": [
+   {
+    "en": "We had a fire drill yesterday.",
+    "zh": "我們昨天進行了火警演習。"
+   }
+  ],
+  "synonyms": [
+   "exercise",
+   "practice",
+   "recitation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0332",
+  "unit": 9,
+  "headword": "fountain",
+  "ipa": "'fauntin",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 水源, 源, 噴泉, 泉水, 本源\n[醫] 泉",
+  "forms": {
+   "plural": "fountains",
+   "past": "fountained",
+   "ing": "fountaining"
+  },
+  "examples": [
+   {
+    "en": "My fountain pen is new.",
+    "zh": "我的鋼筆是新的。"
+   },
+   {
+    "en": "I lost my fountain pen.",
+    "zh": "我丟了我的鋼筆。"
+   },
+   {
+    "en": "I dropped my fountain pen.",
+    "zh": "我的鋼筆掉了。"
+   }
+  ],
+  "synonyms": [
+   "spring",
+   "outflow",
+   "outpouring",
+   "jet"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a structure from which an artificially produced jet of water arises",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0333",
+  "unit": 9,
+  "headword": "juice",
+  "ipa": "dʒu:s",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 汁, 活力, 體液\nvt. 擠出汁來, 加汁",
+  "forms": {
+   "plural": "juices"
+  },
+  "examples": [
+   {
+    "en": "Drink this juice.",
+    "zh": "喝這果汁。"
+   },
+   {
+    "en": "Tom drinks juice.",
+    "zh": "Tom喝果汁。"
+   },
+   {
+    "en": "Do you like juice?",
+    "zh": "你喜歡果汁嗎？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the liquid part that can be extracted from plant or animal tissue by squeezing or cooking",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0334",
+  "unit": 9,
+  "headword": "lane",
+  "ipa": "lein",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 小路, 巷, 弄, 單行道",
+  "forms": {
+   "plural": "lanes"
+  },
+  "examples": [
+   {
+    "en": "Leaves lay thick in the lane.",
+    "zh": "小路上舖滿了落葉。"
+   },
+   {
+    "en": "Are there any bike lanes in Algiers?",
+    "zh": "阿爾及爾有腳踏車道嗎？"
+   },
+   {
+    "en": "Get into the left lane to make room for the guy who's trying to merge.",
+    "zh": "移到左線，為想併入的那輛車騰出空間。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a narrow way or road",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0335",
+  "unit": 9,
+  "headword": "popularity",
+  "ipa": ".pɒpju'læriti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 名聲, 受大眾歡迎, 流行",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The movie gained her great popularity.",
+    "zh": "這部電影為她贏得了人氣。"
+   },
+   {
+    "en": "His music has attained great popularity overseas.",
+    "zh": "他的音樂在國外很受歡迎。"
+   },
+   {
+    "en": "His first work gained great popularity among people.",
+    "zh": "他的處女作受到了大家的極大歡迎。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "unpopularity"
+  ],
+  "phrases": null,
+  "defsEn": "the quality of being widely admired or accepted or sought after",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0336",
+  "unit": 9,
+  "headword": "poster",
+  "ipa": "'pәustә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 海報, 招貼, 驛馬",
+  "forms": {
+   "plural": "posters"
+  },
+  "examples": [
+   {
+    "en": "Where are those posters now?",
+    "zh": "那些海報現在都到哪裡去了？"
+   },
+   {
+    "en": "He paused to look at the poster.",
+    "zh": "他停下腳步看起海報。"
+   }
+  ],
+  "synonyms": [
+   "posting",
+   "placard",
+   "notice",
+   "bill",
+   "card"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a sign posted in a public place as an advertisement",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0337",
+  "unit": 9,
+  "headword": "promptly",
+  "ipa": "'prɒmptli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 敏捷地, 迅速地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Would you please replace the broken one promptly?",
+    "zh": "請快點把碎了的那個換掉好嗎？"
+   }
+  ],
+  "synonyms": [
+   "quickly",
+   "quick",
+   "readily",
+   "pronto"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "with little or no delay",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0338",
+  "unit": 9,
+  "headword": "retailer",
+  "ipa": "'ri:teilә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 零售商人, 傳播的人\n[經] 零售商",
+  "forms": {
+   "plural": "retailers"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a merchant who sells goods at retail",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0339",
+  "unit": 9,
+  "headword": "vacancy",
+  "ipa": "'veikәnsi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 空, 空白, 空缺, 空虛, 空閒\n[化] 空位",
+  "forms": {
+   "plural": "vacancies"
+  },
+  "examples": [],
+  "synonyms": [
+   "void",
+   "emptiness",
+   "vacuum"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "being unoccupied",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0340",
+  "unit": 9,
+  "headword": "bench",
+  "ipa": "bentʃ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 長椅子\n[機] 臺",
+  "forms": {
+   "plural": "benches",
+   "past": "benched",
+   "ing": "benching",
+   "thirdSg": "benches",
+   "pp": "benched"
+  },
+  "examples": [
+   {
+    "en": "She sat on a bench.",
+    "zh": "她坐在長椅上。"
+   },
+   {
+    "en": "He sat on the bench.",
+    "zh": "他坐在長凳上。"
+   },
+   {
+    "en": "She sat on the bench.",
+    "zh": "她坐在長椅上。"
+   }
+  ],
+  "synonyms": [
+   "terrace",
+   "judiciary"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a long seat for more than one person",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0341",
+  "unit": 9,
+  "headword": "cumulative",
+  "ipa": "'kju:mjulәtiv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 累積的\n[醫] 蓄積的, 累積的",
+  "forms": null,
+  "examples": [],
+  "synonyms": [
+   "accumulative"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "increasing by successive addition",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0342",
+  "unit": 9,
+  "headword": "directory",
+  "ipa": "di'rektәri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 目錄, 工商名錄, 指南\n[計] 目錄",
+  "forms": {
+   "plural": "directories"
+  },
+  "examples": [
+   {
+    "en": "May I see the telephone directory?",
+    "zh": "我能看看電話簿嗎？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an alphabetical list of names and addresses",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0343",
+  "unit": 9,
+  "headword": "disposal",
+  "ipa": "dis'pәuzәl",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 丟掉, 處理, 排列, 銷燬, 佈置\n[醫] 處理, 處置",
+  "forms": {
+   "plural": "disposals"
+  },
+  "examples": [
+   {
+    "en": "My car is at your disposal.",
+    "zh": "你可以隨便用我的車。"
+   },
+   {
+    "en": "Oh, I almost forgot! Today is garbage disposal day!",
+    "zh": "啊！差點忘了。今天是扔垃圾的日子！"
+   }
+  ],
+  "synonyms": [
+   "administration",
+   "disposition"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the power to use something or someone",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0344",
+  "unit": 9,
+  "headword": "housekeeper",
+  "ipa": "'hauski:pә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 主婦, 女管家",
+  "forms": {
+   "plural": "housekeepers"
+  },
+  "examples": [
+   {
+    "en": "Every Tuesday morning the housekeeper vacuums.",
+    "zh": "每週二早上主婦用吸塵器清掃。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a servant who is employed to perform domestic task in a household",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0345",
+  "unit": 9,
+  "headword": "internship",
+  "ipa": "'intә:nʃip",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 實習醫師的職務\n[醫] 實習醫師職位, 實習醫師期",
+  "forms": {
+   "plural": "internships"
+  },
+  "examples": [
+   {
+    "en": "I applied for a summer internship.",
+    "zh": "我應徵了一個暑期實習。"
+   },
+   {
+    "en": "I am writing my internship report.",
+    "zh": "我在寫實習報告。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the position of a medical intern",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0346",
+  "unit": 9,
+  "headword": "knowledgeable",
+  "ipa": "'nɒlidʒәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 聰明的, 有知識的",
+  "forms": null,
+  "examples": [],
+  "synonyms": [
+   "knowing",
+   "learned",
+   "lettered",
+   "well-educated",
+   "well-read"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "highly educated; having extensive information or understanding",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0347",
+  "unit": 9,
+  "headword": "organizer",
+  "ipa": "'ɒ:gәnaizә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 組織者, 編制者, 創立者, 組織導體\n[醫] 組織導體, 機化中心(胚)",
+  "forms": {
+   "plural": "organizers"
+  },
+  "examples": [],
+  "synonyms": [
+   "organiser",
+   "arranger",
+   "PDA"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who brings order and organization to an enterprise",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0348",
+  "unit": 9,
+  "headword": "overdue",
+  "ipa": "'әuvә'dju:",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 過期的, 未兌的, 遲到的, 早就成熟的\n[經] 過期未付的",
+  "forms": {
+   "plural": "overdues"
+  },
+  "examples": [],
+  "synonyms": [
+   "delinquent"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "past due; not paid at the scheduled time",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0349",
+  "unit": 9,
+  "headword": "prediction",
+  "ipa": "pri'dikʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 預言, 預報\n[化] 預測",
+  "forms": {
+   "plural": "predictions"
+  },
+  "examples": [
+   {
+    "en": "Many predictions fail.",
+    "zh": "很多的謠言失敗。"
+   },
+   {
+    "en": "My prediction was accurate.",
+    "zh": "我的預言是真確的。"
+   },
+   {
+    "en": "My predictions were accurate.",
+    "zh": "我的預測是正確的。"
+   }
+  ],
+  "synonyms": [
+   "anticipation",
+   "prevision",
+   "foretelling",
+   "forecasting",
+   "prognostication"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of predicting (as by reasoning about the future)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0350",
+  "unit": 9,
+  "headword": "subscriber",
+  "ipa": "sʌbs'kraibә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 簽署者, 捐獻者, 訂戶\n[經] 定戶",
+  "forms": {
+   "plural": "subscribers"
+  },
+  "examples": [],
+  "synonyms": [
+   "endorser",
+   "indorser",
+   "ratifier",
+   "reader",
+   "contributor"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who expresses strong approval",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0351",
+  "unit": 9,
+  "headword": "booklet",
+  "ipa": "'buklit",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 小冊子",
+  "forms": {
+   "plural": "booklets"
+  },
+  "examples": [
+   {
+    "en": "This booklet is free of charge.",
+    "zh": "這本小冊子是免費的。"
+   }
+  ],
+  "synonyms": [
+   "brochure",
+   "folder",
+   "leaflet",
+   "pamphlet"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a small book usually having a paper cover",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0352",
+  "unit": 9,
+  "headword": "conditioner",
+  "ipa": "kәn'diʃәnә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 調節器, 土壤團粒結構促進劑\n[計] 調節器, 整形器",
+  "forms": {
+   "plural": "conditioners"
+  },
+  "examples": [
+   {
+    "en": "The air conditioner doesn't work.",
+    "zh": "空調故障了。"
+   },
+   {
+    "en": "The air conditioner has got out of order.",
+    "zh": "空調壞了。"
+   },
+   {
+    "en": "The air conditioner in the lab is broken.",
+    "zh": "實驗室裡的空調壞了。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "exercise that conditions the body",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0353",
+  "unit": 9,
+  "headword": "enroll",
+  "ipa": "in'rәul",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 登記, 使加入\nvi. 參軍, 註冊",
+  "forms": {
+   "ing": "enrolling",
+   "past": "enrolled",
+   "thirdSg": "enrols",
+   "pp": "enrolled"
+  },
+  "examples": [
+   {
+    "en": "I want to enroll at graduate school.",
+    "zh": "我想在研究生院註冊。"
+   }
+  ],
+  "synonyms": [
+   "inscribe",
+   "enter",
+   "enrol",
+   "recruit"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "register formally as a participant or member",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0354",
+  "unit": 9,
+  "headword": "frustrate",
+  "ipa": "'frʌstreit",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "defsZh": "vt. 挫敗, 擊敗, 破壞\na. 無益的, 挫敗的, 挫折的",
+  "forms": {
+   "pp": "frustrated",
+   "past": "frustrated",
+   "thirdSg": "frustrates",
+   "ing": "frustrating"
+  },
+  "examples": [
+   {
+    "en": "How frustrated must a person be to commit suicide?",
+    "zh": "一個人得遇到多大的挫折才會自殺？"
+   },
+   {
+    "en": "The frustrated artist stomped on his failed painting, leaving a trail of shattered colors.",
+    "zh": "畫家失望地踐踏失敗之作，留下一片混亂的色彩。"
+   }
+  ],
+  "synonyms": [
+   "thwart",
+   "queer",
+   "spoil",
+   "scotch",
+   "foil"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "hinder or prevent (the efforts, plans, or desires) of",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0355",
+  "unit": 9,
+  "headword": "garment",
+  "ipa": "'gɑ:mәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 衣服, 衣裝, 外表",
+  "forms": {
+   "plural": "garments",
+   "ing": "garmenting",
+   "past": "garmented",
+   "thirdSg": "garments",
+   "pp": "garmented"
+  },
+  "examples": [
+   {
+    "en": "These garments are made of 100 percent wool.",
+    "zh": "這些布是全羊毛的。"
+   },
+   {
+    "en": "I use Yan garments as my plain robe, and turn Liqiu into ruins.",
+    "zh": "以兗衣為褋兮，以黎邱為墟。"
+   },
+   {
+    "en": "The qipao is a classic female garment that originated in 17th century China.",
+    "zh": "旗袍是一種17世紀起源於中國的傳統式樣的女性服裝。"
+   }
+  ],
+  "synonyms": [
+   "dress",
+   "clothe",
+   "enclothe",
+   "garb",
+   "raiment"
+  ],
+  "antonyms": [
+   "undress"
+  ],
+  "phrases": null,
+  "defsEn": "an article of clothing",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0356",
+  "unit": 9,
+  "headword": "orientation",
+  "ipa": ".ɒ:rien'teiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 定方位, 適應, 向東方\nn. 方向\n[計] 方向",
+  "forms": {
+   "plural": "orientations"
+  },
+  "examples": [
+   {
+    "en": "This room's orientation is great.",
+    "zh": "這間房間朝向很好。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of orienting",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0357",
+  "unit": 9,
+  "headword": "outlet",
+  "ipa": "'autlet",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 出口, 發洩方法, 市場\n[醫] 出口",
+  "forms": {
+   "plural": "outlets"
+  },
+  "examples": [
+   {
+    "en": "Is the power cord plugged into a power outlet?",
+    "zh": "插頭插到插座裡了嗎？"
+   },
+   {
+    "en": "I spilled jam on the electric outlet and there was a short circuit.",
+    "zh": "我把果醬撒到電源插座上短路了。"
+   }
+  ],
+  "synonyms": [
+   "exit",
+   "issue"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a place of business for retailing goods",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0358",
+  "unit": 9,
+  "headword": "packet",
+  "ipa": "'pækit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 小包, 一批信件, 大量, 資訊包\nvt. 打包, 裝進小包\n[計] 分組, 分組報文, 資料分組",
+  "forms": {
+   "plural": "packets"
+  },
+  "examples": [
+   {
+    "en": "I'd like a packet of aspirin.",
+    "zh": "我要一盒阿司匹林。"
+   },
+   {
+    "en": "She opened a packet of biscuits.",
+    "zh": "她開啟了一包餅乾。"
+   },
+   {
+    "en": "I bought two packets of pistachios.",
+    "zh": "買了兩包開心果。"
+   }
+  ],
+  "synonyms": [
+   "package",
+   "bundle",
+   "parcel"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a collection of things wrapped or boxed together",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0359",
+  "unit": 9,
+  "headword": "plumber",
+  "ipa": "'plʌmә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 水管工人\n[法] 堵漏防漏人員",
+  "forms": {
+   "plural": "plumbers"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a craftsman who installs and repairs pipes and fixtures and appliances",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0360",
+  "unit": 9,
+  "headword": "specification",
+  "ipa": ".spesifi'keiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 規格, 詳述, 詳細說明書\n[計] 規範; 形式說明; 說明; 說明書; 規格",
+  "forms": {
+   "plural": "specifications"
+  },
+  "examples": [],
+  "synonyms": [
+   "spec"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a detailed description of design criteria for a piece of work",
+  "note": null,
+  "audioUrl": null
+ }
+]

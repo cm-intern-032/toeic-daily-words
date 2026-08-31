@@ -1,0 +1,1331 @@
+[
+ {
+  "id": "w0121",
+  "unit": 4,
+  "headword": "expire",
+  "ipa": "ik'spaiә",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 期滿, 呼氣, 斷氣\nvt. 撥出",
+  "forms": {
+   "past": "expired",
+   "thirdSg": "expires",
+   "pp": "expired",
+   "ing": "expiring"
+  },
+  "examples": [
+   {
+    "en": "My passport has expired.",
+    "zh": "我的護照過期了。"
+   },
+   {
+    "en": "Tom's passport has expired.",
+    "zh": "湯姆的護照過期了。"
+   },
+   {
+    "en": "Your driver's license has expired.",
+    "zh": "你的駕駛執照已經過期了。"
+   }
+  ],
+  "synonyms": [
+   "die",
+   "decease",
+   "perish",
+   "go",
+   "exit"
+  ],
+  "antonyms": [
+   "be born",
+   "inhale"
+  ],
+  "phrases": null,
+  "defsEn": "lose validity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0122",
+  "unit": 4,
+  "headword": "folder",
+  "ipa": "'fәuldә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 資料夾, 摺紙機, 摺疊式書本, 卷宗\n[計] 資料夾",
+  "forms": {
+   "plural": "folders"
+  },
+  "examples": [
+   {
+    "en": "Where's my folder?",
+    "zh": "我的資料夾去哪了？"
+   },
+   {
+    "en": "Where is my folder?",
+    "zh": "我的資料夾去哪了？"
+   },
+   {
+    "en": "I've lost one of my folders.",
+    "zh": "我丟了我的一個資料夾。"
+   }
+  ],
+  "synonyms": [
+   "booklet",
+   "brochure",
+   "leaflet",
+   "pamphlet"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a small book usually having a paper cover",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0123",
+  "unit": 4,
+  "headword": "photocopy",
+  "ipa": "'fәutәu.kɒpi",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 影印, 影印件\nv. 影印",
+  "forms": {
+   "plural": "photocopies",
+   "pp": "photocopied",
+   "ing": "photocopying",
+   "past": "photocopied",
+   "thirdSg": "photocopies"
+  },
+  "examples": [],
+  "synonyms": [
+   "xerox"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a photographic copy of written or printed or graphic work",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0124",
+  "unit": 4,
+  "headword": "renovate",
+  "ipa": "'renәuveit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 更新, 革新, 重新整理, 修復, 使恢復活力",
+  "forms": {
+   "pp": "renovated",
+   "ing": "renovating",
+   "past": "renovated",
+   "thirdSg": "renovates"
+  },
+  "examples": [
+   {
+    "en": "Our venue wasn't renovated too long ago.",
+    "zh": "我們的場地不久前翻新了。"
+   },
+   {
+    "en": "My neighbor renovated her house completely.",
+    "zh": "我的鄰居把她的屋子翻新了一遍。"
+   }
+  ],
+  "synonyms": [
+   "restitute",
+   "refurbish",
+   "animate",
+   "recreate",
+   "reanimate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "restore to a previous or better condition",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0125",
+  "unit": 4,
+  "headword": "sunny",
+  "ipa": "'sʌni",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 陽光充足的, 樂觀的, 快樂的, 像太陽的",
+  "forms": {
+   "plural": "sunnies"
+  },
+  "examples": [
+   {
+    "en": "I wonder if it will be sunny outside.",
+    "zh": "我想知道天會不會變晴。"
+   },
+   {
+    "en": "The first time feels like a sunny day.",
+    "zh": "這是初次的感覺，好像天空般晴朗。"
+   },
+   {
+    "en": "A warm, sunny day is ideal for a picnic.",
+    "zh": "溫暖的晴天最適合野餐。"
+   }
+  ],
+  "synonyms": [
+   "cheery",
+   "gay"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "bright and pleasant; promoting a feeling of cheer",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0126",
+  "unit": 4,
+  "headword": "calendar",
+  "ipa": "'kælindә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 日曆, 日程表\nvt. 列入表中\n[計] 日曆",
+  "forms": {
+   "plural": "calendars",
+   "ing": "calendaring",
+   "past": "calendared",
+   "thirdSg": "calendars",
+   "pp": "calendared"
+  },
+  "examples": [
+   {
+    "en": "I hang the calendar on the wall.",
+    "zh": "我把日曆掛在牆上。"
+   },
+   {
+    "en": "I hung the calendar on the wall.",
+    "zh": "我把日曆掛在牆上。"
+   },
+   {
+    "en": "She hung the calendar on the wall.",
+    "zh": "她把日曆掛在牆上了。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a system of timekeeping that defines the beginning and length and divisions of the year",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0127",
+  "unit": 4,
+  "headword": "donation",
+  "ipa": "dәu'neiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 捐贈物, 捐款, 捐贈\n[經] 贈品, 捐款, 捐贈",
+  "forms": {
+   "plural": "donations"
+  },
+  "examples": [
+   {
+    "en": "Cash donations will be accepted.",
+    "zh": "接受現金捐贈。"
+   },
+   {
+    "en": "Would the girls please bring the donation boxes up to the stage?",
+    "zh": "我們請女孩帶著募捐箱來到舞臺。"
+   }
+  ],
+  "synonyms": [
+   "contribution"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a voluntary gift (as of money or service or ideas) made to some worthwhile cause",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0128",
+  "unit": 4,
+  "headword": "feedback",
+  "ipa": "'fi:dbæk",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 反饋, 反應\n[計] 反饋",
+  "forms": {
+   "plural": "feedbacks"
+  },
+  "examples": [
+   {
+    "en": "The company welcomes feedback from consumers who use their products.",
+    "zh": "公司歡迎消費者對他們產品的反饋"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the process in which part of the output of a system is returned to its input in order to regulate its further output",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0129",
+  "unit": 4,
+  "headword": "shortly",
+  "ipa": "'ʃɒ:tli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 不久, 簡短, 唐突地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom will join us shortly.",
+    "zh": "湯姆很快就會加入我們。"
+   },
+   {
+    "en": "My grandfather died shortly after my birth.",
+    "zh": "我出生不久之後我的爺爺就去世了。"
+   },
+   {
+    "en": "Shortly after the accident, the police came.",
+    "zh": "事故發生後不久，警察來了。"
+   }
+  ],
+  "synonyms": [
+   "soon",
+   "presently",
+   "curtly",
+   "short"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "for a short time",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0130",
+  "unit": 4,
+  "headword": "snack",
+  "ipa": "snæk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 小吃, 點心, 快餐\nvi. 吃零食, 吃快餐",
+  "forms": {
+   "plural": "snacks",
+   "ing": "snacking",
+   "thirdSg": "snacks",
+   "pp": "snacked",
+   "past": "snacked"
+  },
+  "examples": [
+   {
+    "en": "Buy me a snack.",
+    "zh": "幫我買點零食吧。"
+   },
+   {
+    "en": "Ahhh, it's snack time.",
+    "zh": "啊，吃點心的時間到了。"
+   },
+   {
+    "en": "Tom brought some snacks.",
+    "zh": "湯姆帶了一些零食。"
+   }
+  ],
+  "synonyms": [
+   "bite",
+   "collation",
+   "nosh"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a light informal meal",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0131",
+  "unit": 4,
+  "headword": "warehouse",
+  "ipa": "'wєәhaus",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 倉庫, 貨棧, 大商店\nvt. 儲入倉庫",
+  "forms": {
+   "plural": "warehouses",
+   "past": "warehoused",
+   "ing": "warehousing",
+   "thirdSg": "warehouses",
+   "pp": "warehoused"
+  },
+  "examples": [
+   {
+    "en": "Hide it inside the warehouse for now.",
+    "zh": "暫時藏在倉庫裡好了。"
+   },
+   {
+    "en": "Tom waited for Mary in front of the warehouse.",
+    "zh": "湯姆在倉庫前等瑪麗。"
+   },
+   {
+    "en": "Who was it that forgot to lock the door of the warehouse?",
+    "zh": "是誰忘了把倉庫的門鎖上？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a storehouse for goods and merchandise",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0132",
+  "unit": 4,
+  "headword": "copier",
+  "ipa": "'kɔpiә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 謄寫者, 模仿者, 抄寫員\n[計] 複製機",
+  "forms": {
+   "plural": "copiers"
+  },
+  "examples": [],
+  "synonyms": [
+   "duplicator"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "apparatus that makes copies of typed, written or drawn material",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0133",
+  "unit": 4,
+  "headword": "provider",
+  "ipa": "prә'vaidә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 供應者, 供養人, 伙食承辦人\n[計] 提供器",
+  "forms": {
+   "plural": "providers"
+  },
+  "examples": [],
+  "synonyms": [
+   "supplier"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone whose business is to supply a particular service or commodity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0134",
+  "unit": 4,
+  "headword": "beverage",
+  "ipa": "'bevәridʒ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 飲料\n[化] 飲料(如牛奶、茶、咖啡、啤酒等)",
+  "forms": {
+   "plural": "beverages"
+  },
+  "examples": [
+   {
+    "en": "What's your favorite beverage?",
+    "zh": "你最喜歡的飲料是什麼？"
+   },
+   {
+    "en": "What beverages do you like to drink?",
+    "zh": "你喜歡喝什麼飲料？"
+   },
+   {
+    "en": "I don't like drinking beverages that are too sweet.",
+    "zh": "我不喜歡喝太甜的飲料。"
+   }
+  ],
+  "synonyms": [
+   "drink",
+   "drinkable",
+   "potable"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "any liquid suitable for drinking",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0135",
+  "unit": 4,
+  "headword": "hungry",
+  "ipa": "'hʌŋgi",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 飢餓的, 荒年的, 渴望的, 不毛的\n[化] 欠鞣皮",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Am I hungry!",
+    "zh": "我好餓！"
+   },
+   {
+    "en": "I am hungry.",
+    "zh": "我餓了！"
+   },
+   {
+    "en": "I felt hungry.",
+    "zh": "我餓了！"
+   }
+  ],
+  "synonyms": [
+   "athirst",
+   "thirsty"
+  ],
+  "antonyms": [
+   "thirsty"
+  ],
+  "phrases": null,
+  "defsEn": "feeling hunger; feeling a need or desire to eat food",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0136",
+  "unit": 4,
+  "headword": "inspection",
+  "ipa": "in'spekʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 檢驗, 檢查, 視察\n[醫] 檢查, 視察, 監督, 望診",
+  "forms": {
+   "plural": "inspections"
+  },
+  "examples": [
+   {
+    "en": "Korea allowed an inspection by the IAEA.",
+    "zh": "韓國允許了國際原子能總署的視察。"
+   }
+  ],
+  "synonyms": [
+   "review"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a formal or official examination",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0137",
+  "unit": 4,
+  "headword": "recipient",
+  "ipa": "ri'sipiәnt",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 領受的, 容易接受的, 感受性強的\nn. 領受者, 容納者, 容器",
+  "forms": {
+   "plural": "recipients"
+  },
+  "examples": [
+   {
+    "en": "Don't flip-flop the addresses of the sender and recipient!",
+    "zh": "不要把寄件人、收件人地址的姓名填反了！"
+   }
+  ],
+  "synonyms": [
+   "receiver"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who receives something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0138",
+  "unit": 4,
+  "headword": "aisle",
+  "ipa": "ail",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 走廊, 側廊, 過道\n[機] 走道",
+  "forms": {
+   "plural": "aisles"
+  },
+  "examples": [
+   {
+    "en": "Window or aisle?",
+    "zh": "窗戶還是走廊？"
+   },
+   {
+    "en": "I'd like an aisle seat, please.",
+    "zh": "請給我靠走道的位子。"
+   },
+   {
+    "en": "Would you like a window or aisle seat?",
+    "zh": "你想靠窗還是走廊？"
+   }
+  ],
+  "synonyms": [
+   "gangway"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a long narrow passage (as in a cave or woods)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0139",
+  "unit": 4,
+  "headword": "inspect",
+  "ipa": "in'spekt",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 檢查, 檢閱, 檢驗\nvi. 檢查",
+  "forms": {
+   "pp": "inspected",
+   "ing": "inspecting",
+   "past": "inspected",
+   "thirdSg": "inspects"
+  },
+  "examples": [
+   {
+    "en": "The cadres inspected our school.",
+    "zh": "幹部們視察了我們的學校。"
+   },
+   {
+    "en": "\"I need to inspect the wound,\" said the doctor.",
+    "zh": "“我必須檢查下傷口，”醫生說道。"
+   },
+   {
+    "en": "Sir, can we quickly inspect your luggage please?",
+    "zh": "先生，我們可以檢查一下您的行李嗎？"
+   }
+  ],
+  "synonyms": [
+   "visit",
+   "audit",
+   "scrutinize",
+   "scrutinise"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "look over carefully",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0140",
+  "unit": 4,
+  "headword": "mechanic",
+  "ipa": "mi'kænik",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 機械工, 技工\na. 手工的",
+  "forms": {
+   "plural": "mechanics"
+  },
+  "examples": [
+   {
+    "en": "The mechanic assembled the engine.",
+    "zh": "這名技師組裝了這臺引擎。"
+   },
+   {
+    "en": "Sami has just been to the mechanic.",
+    "zh": "薩米剛去找了技工。"
+   }
+  ],
+  "synonyms": [
+   "machinist",
+   "auto-mechanic",
+   "car-mechanic"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a craftsman skilled in operating machine tools",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0141",
+  "unit": 4,
+  "headword": "merger",
+  "ipa": "'mә:dʒә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 合併, 歸併\n[經] 購併",
+  "forms": {
+   "plural": "mergers"
+  },
+  "examples": [
+   {
+    "en": "The news of the merger of the two companies broke yesterday.",
+    "zh": "昨天突然傳出了兩間公司合併的訊息。"
+   },
+   {
+    "en": "The office has been topsy-turvy since the merger upset everything.",
+    "zh": "自從公司合併了以後，一切都變得十分混亂。"
+   }
+  ],
+  "synonyms": [
+   "amalgamation",
+   "uniting",
+   "fusion",
+   "unification"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the combination of two or more commercial companies",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0142",
+  "unit": 4,
+  "headword": "soccer",
+  "ipa": "'sɒkә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 英式足球",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I hate soccer.",
+    "zh": "我討厭走球。"
+   },
+   {
+    "en": "I like soccer.",
+    "zh": "我喜歡足球。"
+   },
+   {
+    "en": "I play soccer.",
+    "zh": "我踢足球。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a football game in which two teams of 11 players try to kick or head a ball into the opponents' goal",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0143",
+  "unit": 4,
+  "headword": "sweater",
+  "ipa": "'swetә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 毛衣, 毛線衫, 運動衫, 出汗者\n[化] 發汗器",
+  "forms": {
+   "plural": "sweaters"
+  },
+  "examples": [
+   {
+    "en": "That sweater is nice.",
+    "zh": "那件毛衣不錯呀！"
+   },
+   {
+    "en": "He wore a dark sweater.",
+    "zh": "他穿了一件深色毛衣。"
+   },
+   {
+    "en": "She gave him a sweater.",
+    "zh": "她給他一件毛衣。"
+   }
+  ],
+  "synonyms": [
+   "jumper",
+   "perspirer"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a crocheted or knitted garment covering the upper part of the body",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0144",
+  "unit": 4,
+  "headword": "ingredient",
+  "ipa": "in'gri:diәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 成分, 因素\n[化] 配合劑; 拼料; 成分; 組分",
+  "forms": {
+   "plural": "ingredients"
+  },
+  "examples": [
+   {
+    "en": "Mix the ingredients well.",
+    "zh": "把配料好好混一下。"
+   },
+   {
+    "en": "He added another ingredient to the pot.",
+    "zh": "他又往鍋裡加了一種食材。"
+   },
+   {
+    "en": "Peas and carrots are common ingredients in soups.",
+    "zh": "豌豆和胡蘿蔔是做湯的常見配料。"
+   }
+  ],
+  "synonyms": [
+   "component",
+   "constituent",
+   "element",
+   "factor",
+   "fixings"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a component of a mixture or compound",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0145",
+  "unit": 4,
+  "headword": "rewrite",
+  "ipa": "ri:'rait",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 重寫, 改寫, 改寫新聞, 書面答覆\nvi. 修改舊作\nn. 改寫的作品\n[計] 重寫",
+  "forms": {
+   "pp": "rewritten",
+   "thirdSg": "rewrites",
+   "ing": "rewriting",
+   "past": "rewrote"
+  },
+  "examples": [
+   {
+    "en": "You should rewrite this sentence.",
+    "zh": "你應該重寫這句話。"
+   }
+  ],
+  "synonyms": [
+   "revision",
+   "rescript"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "something that has been written again",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0146",
+  "unit": 4,
+  "headword": "itinerary",
+  "ipa": "ai'tinәrәri",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 旅程, 旅行指南, 遊記\na. 巡迴的, 旅程的",
+  "forms": {
+   "plural": "itineraries"
+  },
+  "examples": [
+   {
+    "en": "Everyone agrees to stay here for the night and make long-term itinerary decisions tomorrow.",
+    "zh": "大家同意先在這裡住一晚，行程的事情明天再從長計議。"
+   }
+  ],
+  "synonyms": [
+   "path",
+   "route"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an established line of travel or access",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0147",
+  "unit": 4,
+  "headword": "workplace",
+  "ipa": null,
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 工作場所, 工廠, 車間",
+  "forms": {
+   "plural": "workplaces"
+  },
+  "examples": [
+   {
+    "en": "Wienczysława is the most beautiful brunette in the workplace.",
+    "zh": "Wienczysława是這個工作場所裡最美麗的黑髮女人。"
+   },
+   {
+    "en": "It's normal to experience workplace crushes, but remember to stay professional.",
+    "zh": "在職場中對某人產生好感是很正常的，但記得要保持專業形象。"
+   }
+  ],
+  "synonyms": [
+   "work"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a place where work is done",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0148",
+  "unit": 4,
+  "headword": "architect",
+  "ipa": "'ɑ:kitekt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 建築師, 設計者, 締造者",
+  "forms": {
+   "plural": "architects"
+  },
+  "examples": [
+   {
+    "en": "He's an architect.",
+    "zh": "他是一名建築師。"
+   },
+   {
+    "en": "Tom was an architect.",
+    "zh": "湯姆是建築師。"
+   },
+   {
+    "en": "A famous architect built this house.",
+    "zh": "一個有名的建築師造了這個房子。"
+   }
+  ],
+  "synonyms": [
+   "designer"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who creates plans to be used in making something (such as buildings)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0149",
+  "unit": 4,
+  "headword": "convenience",
+  "ipa": "kә'vi:njәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 方便, 便利的事物, 方便的時候",
+  "forms": {
+   "plural": "conveniences"
+  },
+  "examples": [
+   {
+    "en": "The house has all the conveniences.",
+    "zh": "這套房子設施便利齊全。"
+   },
+   {
+    "en": "The convenience store ran out of business.",
+    "zh": "便利店出兌。"
+   },
+   {
+    "en": "Why don't you drop in for tea at your convenience?",
+    "zh": "你有空的時候來喝杯茶吧。"
+   }
+  ],
+  "synonyms": [
+   "restroom"
+  ],
+  "antonyms": [
+   "inconvenience"
+  ],
+  "phrases": null,
+  "defsEn": "the state of being suitable or opportune",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0150",
+  "unit": 4,
+  "headword": "eligible",
+  "ipa": "'elidʒәbl",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 有資格當選的, 合格的\nn. 有資格者, 合格者, 適任者",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He's eligible for the presidency.",
+    "zh": "他有資格當選總統。"
+   },
+   {
+    "en": "If he were a little younger, he would be eligible for the post.",
+    "zh": "如果他年輕一點，他將很適合這個職位。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "ineligible"
+  ],
+  "phrases": null,
+  "defsEn": "qualified for or allowed or worthy of being chosen",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0151",
+  "unit": 4,
+  "headword": "indoor",
+  "ipa": "'indɒ:",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 戶內的, 室內的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Let's go indoors.",
+    "zh": "我們進屋吧。"
+   },
+   {
+    "en": "Nancy enjoys indoor games.",
+    "zh": "南希喜歡室內遊戲。"
+   },
+   {
+    "en": "In severe weather, it's best to stay indoors.",
+    "zh": "天氣惡劣的時候盡量不要外出。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "outdoor"
+  ],
+  "phrases": null,
+  "defsEn": "located, suited for, or taking place within a building",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0152",
+  "unit": 4,
+  "headword": "baggage",
+  "ipa": "'bægidʒ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 行李\n[經] 行李",
+  "forms": {
+   "plural": "baggages"
+  },
+  "examples": [
+   {
+    "en": "Here is my baggage.",
+    "zh": "這是我的行李。"
+   },
+   {
+    "en": "My baggage is missing.",
+    "zh": "我的行李丟了。"
+   },
+   {
+    "en": "I have mislaid my baggage.",
+    "zh": "我的行李丟了。"
+   }
+  ],
+  "synonyms": [
+   "luggage"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "cases used to carry belongings when traveling",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0153",
+  "unit": 4,
+  "headword": "dial",
+  "ipa": "'daiәl",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 刻度盤, 鐘面, 轉盤\nv. 撥",
+  "forms": {
+   "past": "dialled",
+   "plural": "dials",
+   "pp": "dialled",
+   "thirdSg": "dials",
+   "ing": "dialing"
+  },
+  "examples": [
+   {
+    "en": "I dialed Tom's number.",
+    "zh": "我撥打了Tom的號碼。"
+   },
+   {
+    "en": "In case of fire, dial 119.",
+    "zh": "若有火警，撥打119。"
+   },
+   {
+    "en": "In the case of fire, dial 119.",
+    "zh": "遇到火警時，撥打119。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the face of a timepiece; graduated to show the hours",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0154",
+  "unit": 4,
+  "headword": "container",
+  "ipa": "kәn'teinә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 容器, 集裝箱\n[化] 集裝箱; 貯存箱; 容器(任何一種)",
+  "forms": {
+   "plural": "containers"
+  },
+  "examples": [
+   {
+    "en": "These containers are airtight.",
+    "zh": "這些容器是密封的。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0155",
+  "unit": 4,
+  "headword": "drawer",
+  "ipa": "'drɒ:ә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 抽屜, 開票人\n[計] 抽屜",
+  "forms": {
+   "plural": "drawers"
+  },
+  "examples": [
+   {
+    "en": "What's in the drawer?",
+    "zh": "抽屜裡面有什麼？"
+   },
+   {
+    "en": "What is in the drawer?",
+    "zh": "抽屜裡面有什麼？"
+   },
+   {
+    "en": "I put it in the drawer.",
+    "zh": "我把它放在抽屜裡。"
+   }
+  ],
+  "synonyms": [
+   "draftsman"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a boxlike container in a piece of furniture; made so as to slide in and out",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0156",
+  "unit": 4,
+  "headword": "lab",
+  "ipa": "læb",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 實驗室, 研究室\n[醫] 凝乳酶",
+  "forms": {
+   "plural": "labs"
+  },
+  "examples": [
+   {
+    "en": "The air conditioner in the lab is broken.",
+    "zh": "實驗室裡的空調壞了。"
+   }
+  ],
+  "synonyms": [
+   "laboratory"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a workplace for the conduct of scientific research",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0157",
+  "unit": 4,
+  "headword": "submission",
+  "ipa": "sәb'miʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 屈服, 服從, 謙恭, 呈遞, 提交, 意見\n[經] 提交, 提出, 提交公斷",
+  "forms": {
+   "plural": "submissions"
+  },
+  "examples": [
+   {
+    "en": "We have the alternative of death and submission.",
+    "zh": "我們要選擇是死亡還是臣服。"
+   }
+  ],
+  "synonyms": [
+   "entry",
+   "compliance"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "something (manuscripts or architectural plans and models or estimates or works of art of all genres etc.) submitted for the judgment of others (as in a competition)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0158",
+  "unit": 4,
+  "headword": "bulletin",
+  "ipa": "'bulitin",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 公告, 佈告, 公報\n[電] 電子佈告欄",
+  "forms": {
+   "plural": "bulletins",
+   "ing": "bulletining",
+   "past": "bulletined",
+   "thirdSg": "bulletins",
+   "pp": "bulletined"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a brief report (especially an official statement issued for immediate publication or broadcast)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0159",
+  "unit": 4,
+  "headword": "certificate",
+  "ipa": "sә'tifikeit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 證書, 證明書\nvt. 發給證明書, 用證書批准, 用證書證明",
+  "forms": {
+   "plural": "certificates",
+   "pp": "certificated",
+   "past": "certificated",
+   "ing": "certificating",
+   "thirdSg": "certificates"
+  },
+  "examples": [
+   {
+    "en": "Where's my birth certificate?",
+    "zh": "我的出生證明呢？"
+   },
+   {
+    "en": "Please attach a certificate of quality.",
+    "zh": "請附上質量證明書。"
+   }
+  ],
+  "synonyms": [
+   "certification",
+   "credential",
+   "credentials",
+   "security"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a document attesting to the truth of certain stated facts",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0160",
+  "unit": 4,
+  "headword": "gym",
+  "ipa": "dʒim",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. +體育館, 體育訓練, 體育課, 體操",
+  "forms": {
+   "plural": "gyms"
+  },
+  "examples": [
+   {
+    "en": "Are you going to the gym today?",
+    "zh": "你今天去不去健身房？"
+   },
+   {
+    "en": "I'm going to register at a gym.",
+    "zh": "我去註冊一家健身房。"
+   },
+   {
+    "en": "We played basketball in the gym.",
+    "zh": "我們在體育館打籃球。"
+   }
+  ],
+  "synonyms": [
+   "gymnasium"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "athletic facility equipped for sports or physical training",
+  "note": null,
+  "audioUrl": null
+ }
+]

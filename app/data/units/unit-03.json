@@ -1,0 +1,1337 @@
+[
+ {
+  "id": "w0081",
+  "unit": 3,
+  "headword": "precede",
+  "ipa": ".pri:'si:d",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 在...之前, 優於, 較...優先\nvi. 在前面",
+  "forms": {
+   "pp": "preceded",
+   "past": "preceded",
+   "ing": "preceding",
+   "thirdSg": "precedes"
+  },
+  "examples": [
+   {
+    "en": "The third quarter GNP growth was 1% over the preceding quarter.",
+    "zh": "第三季國民生產總值較上一季成長了1％。"
+   }
+  ],
+  "synonyms": [
+   "predate",
+   "forego",
+   "forgo",
+   "antecede",
+   "antedate"
+  ],
+  "antonyms": [
+   "postdate",
+   "succeed"
+  ],
+  "phrases": null,
+  "defsEn": "be earlier in time; go back further",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0082",
+  "unit": 3,
+  "headword": "replacement",
+  "ipa": "ri'pleismәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 歸還, 更換, 代替者\n[醫] 復位, 置換",
+  "forms": {
+   "plural": "replacements"
+  },
+  "examples": [
+   {
+    "en": "History develops through the replacement of the old by the new.",
+    "zh": "新事物取代舊事物推動歷史發展。"
+   }
+  ],
+  "synonyms": [
+   "replacing",
+   "surrogate",
+   "alternate",
+   "substitution",
+   "permutation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of furnishing an equivalent person or thing in the place of another",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0083",
+  "unit": 3,
+  "headword": "dine",
+  "ipa": "dain",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 用正餐, 進餐\nvt. 宴請",
+  "forms": {
+   "past": "dined",
+   "ing": "dining",
+   "pp": "dined",
+   "thirdSg": "dines"
+  },
+  "examples": [
+   {
+    "en": "Where's the dining room?",
+    "zh": "餐廳在哪裡？"
+   },
+   {
+    "en": "How about dining out tonight?",
+    "zh": "我們今晚出去吃怎麼樣？"
+   },
+   {
+    "en": "What do you say to dining out tonight?",
+    "zh": "我們今晚出去吃飯，你說怎麼樣？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "have supper; eat dinner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0084",
+  "unit": 3,
+  "headword": "passport",
+  "ipa": "'pæspɒ:t",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 護照, 手段, 通行證\n[法] 通行證, 護照",
+  "forms": {
+   "plural": "passports"
+  },
+  "examples": [
+   {
+    "en": "Here's my passport.",
+    "zh": "這是我的護照。"
+   },
+   {
+    "en": "This is our passport.",
+    "zh": "這是我們的護照。"
+   },
+   {
+    "en": "That is the passport.",
+    "zh": "那是護照。"
+   }
+  ],
+  "synonyms": [
+   "pass",
+   "recommendation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "any authorization to pass or go somewhere",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0085",
+  "unit": 3,
+  "headword": "coworker",
+  "ipa": null,
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 共同工作的人, 同事, 合作者",
+  "forms": {
+   "plural": "coworkers"
+  },
+  "examples": [
+   {
+    "en": "I really like my coworkers.",
+    "zh": "我確實喜歡我的同事。"
+   },
+   {
+    "en": "She is Anna; Anna and Louis are coworkers.",
+    "zh": "她叫安娜，安娜和路易斯是同事。"
+   },
+   {
+    "en": "He's on good terms with all his coworkers.",
+    "zh": "他和所有同事的關係都不錯。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0086",
+  "unit": 3,
+  "headword": "upcoming",
+  "ipa": "'ʌp.kʌmiŋ",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 即將來臨的, 即將出現的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom has no intention of asking Mary to the upcoming dance.",
+    "zh": "Tom沒有意圖去邀請Mary去即將來臨的舞會。"
+   },
+   {
+    "en": "I'll keep all the ideas we discussed for the upcoming project proposal.",
+    "zh": "對於下一個專案提案，我們討論過的所有想法，我都會記下來。"
+   }
+  ],
+  "synonyms": [
+   "approaching",
+   "coming",
+   "forthcoming"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "of the relatively near future",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0087",
+  "unit": 3,
+  "headword": "cabinet",
+  "ipa": "'kæbinit",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 櫥櫃, 內閣\na. 內閣的, 細木工做的\n[計] 機櫃",
+  "forms": {
+   "plural": "cabinets"
+  },
+  "examples": [
+   {
+    "en": "The book fell from the cabinet.",
+    "zh": "書從櫃子上掉下來。"
+   },
+   {
+    "en": "The tablecloth is in the cabinet.",
+    "zh": "桌布在櫥櫃裡。"
+   }
+  ],
+  "synonyms": [
+   "locker"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0088",
+  "unit": 3,
+  "headword": "appliance",
+  "ipa": "ә'plaiәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 器械, 用具, 應用\n[醫] 矯正器; 器",
+  "forms": {
+   "plural": "appliances"
+  },
+  "examples": [
+   {
+    "en": "This is an appliance for drying clothes.",
+    "zh": "這是一個晾衣服的器具。"
+   }
+  ],
+  "synonyms": [
+   "contraption",
+   "contrivance",
+   "convenience",
+   "gadget",
+   "gizmo"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a device or control that is very useful for a particular job",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0089",
+  "unit": 3,
+  "headword": "explanatory",
+  "ipa": "ik'splænәtәri",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 說明的, 解釋的, 辯明的\n[法] 解釋的, 說明的",
+  "forms": null,
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "serving or intended to explain or make clear",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0090",
+  "unit": 3,
+  "headword": "instructor",
+  "ipa": "in'strʌktә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 教員, 講師\n[法] 指導者, 教員, 講師",
+  "forms": {
+   "plural": "instructors"
+  },
+  "examples": [
+   {
+    "en": "My driving instructor says I should be more patient.",
+    "zh": "我的駕駛導師說我應該耐心一點。"
+   },
+   {
+    "en": "I know an English language instructor who comes from Canada.",
+    "zh": "我認識一個加拿大來的英語教師。"
+   }
+  ],
+  "synonyms": [
+   "teacher"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person whose occupation is teaching",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0091",
+  "unit": 3,
+  "headword": "keyboard",
+  "ipa": "'ki:bɒ:d",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 鍵盤\n[計] 鍵盤",
+  "forms": {
+   "plural": "keyboards",
+   "ing": "keyboarding",
+   "pp": "keyboarded"
+  },
+  "examples": [
+   {
+    "en": "My cat likes my keyboard.",
+    "zh": "我的貓喜歡我的鍵盤。"
+   },
+   {
+    "en": "The Swiss keyboard doesn't have a ß.",
+    "zh": "瑞士的鍵盤沒有「ß」這個符號。"
+   },
+   {
+    "en": "He creates melodies on his keyboard.",
+    "zh": "他用鍵盤作曲。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0092",
+  "unit": 3,
+  "headword": "media",
+  "ipa": "'mi:diә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 媒體\n[計] 媒質",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I had otitis media last year.",
+    "zh": "我去年得了中耳炎。"
+   },
+   {
+    "en": "The media stuck a shiv into his reputation.",
+    "zh": "媒體抹黑了他的名譽。"
+   },
+   {
+    "en": "Concerning this issue, I feel that the trash media only report biased information.",
+    "zh": "關於這個問題，我覺得垃圾媒體只報道了很片面的資訊。"
+   }
+  ],
+  "synonyms": [
+   "medium"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a means or instrumentality for storing or communicating information",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0093",
+  "unit": 3,
+  "headword": "supermarket",
+  "ipa": "'sju:pәmɑ:kit",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 超級市場\n[經] 超級市場, 自助售貨商店",
+  "forms": {
+   "plural": "supermarkets"
+  },
+  "examples": [
+   {
+    "en": "We have a big supermarket.",
+    "zh": "我們有一個大超市。"
+   },
+   {
+    "en": "I went to the supermarket.",
+    "zh": "去了超市。"
+   },
+   {
+    "en": "He went to the supermarket.",
+    "zh": "去了超市。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a large self-service grocery store selling groceries and dairy products and household goods",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0094",
+  "unit": 3,
+  "headword": "valid",
+  "ipa": "'vælid",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 有確實根據的, 有法律效力的, 正當的, 正確的\n[經] 有效的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Valid until March 31, 1997.",
+    "zh": "有效期到1997年3月31日為止。"
+   },
+   {
+    "en": "This ticket is valid for three days.",
+    "zh": "這張票三日有效。"
+   },
+   {
+    "en": "This passport is valid for five years.",
+    "zh": "這本護照的有用期限為五年。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "invalid"
+  ],
+  "phrases": null,
+  "defsEn": "well grounded in logic or truth or having legal force",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0095",
+  "unit": 3,
+  "headword": "admission",
+  "ipa": "әd'miʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 准許進入, 入場費, 錄用, 承認\n[經] 加入, 入股",
+  "forms": {
+   "plural": "admissions"
+  },
+  "examples": [
+   {
+    "en": "How much is the admission?",
+    "zh": "門票多少錢？"
+   },
+   {
+    "en": "Admission to the show is $5.",
+    "zh": "入場費只需五元。"
+   },
+   {
+    "en": "Admission is free for children.",
+    "zh": "兒童免費入場。"
+   }
+  ],
+  "synonyms": [
+   "admittance"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of admitting someone to enter",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0096",
+  "unit": 3,
+  "headword": "laptop",
+  "ipa": null,
+  "pos": null,
+  "defsZh": "[計] 膝上型的",
+  "forms": {
+   "plural": "laptops"
+  },
+  "examples": [
+   {
+    "en": "I have a laptop.",
+    "zh": "我有一臺膝上型電腦。"
+   },
+   {
+    "en": "My laptop crashed.",
+    "zh": "我的膝上型電腦發生故障了。"
+   },
+   {
+    "en": "Hand me that laptop.",
+    "zh": "給我那臺筆電。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a portable computer small enough to use in your lap",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0097",
+  "unit": 3,
+  "headword": "underline",
+  "ipa": "'ʌndәlain",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 在...下面劃線, 作...的襯裡, 強調\nn. 下劃線, 圖下說明文字\n[計] 加下劃線; 下劃線",
+  "forms": {
+   "pp": "underlined",
+   "thirdSg": "underlines",
+   "past": "underlined",
+   "ing": "underlining"
+  },
+  "examples": [
+   {
+    "en": "Correct the underlined words.",
+    "zh": "請改正劃線字詞。"
+   },
+   {
+    "en": "Translate the underlined part.",
+    "zh": "翻譯劃線部分。"
+   }
+  ],
+  "synonyms": [
+   "underscore",
+   "emphasize",
+   "emphasise"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a line drawn underneath (especially under written matter)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0098",
+  "unit": 3,
+  "headword": "electrical",
+  "ipa": "i'lektrikәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 電的, 有關電的\n[醫] 電的",
+  "forms": {
+   "plural": "electricals"
+  },
+  "examples": [
+   {
+    "en": "Tom is an electrical engineer.",
+    "zh": "湯姆是一個電子工程師。"
+   },
+   {
+    "en": "Keep away from the electrical equipment.",
+    "zh": "遠離電器裝置。"
+   },
+   {
+    "en": "Sharks are sensitive to electrical impulses as well as sound.",
+    "zh": "鯊魚對電子訊號和噪音很敏感。"
+   }
+  ],
+  "synonyms": [
+   "electric"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "relating to or concerned with electricity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0099",
+  "unit": 3,
+  "headword": "airplane",
+  "ipa": "'єәplein",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 飛機\n[機] 飛機",
+  "forms": {
+   "plural": "airplanes"
+  },
+  "examples": [
+   {
+    "en": "Look! An airplane!",
+    "zh": "看！飛機！"
+   },
+   {
+    "en": "That airplane is huge!",
+    "zh": "那飛機真大！"
+   },
+   {
+    "en": "We have three airplanes.",
+    "zh": "我們擁有三架飛機。"
+   }
+  ],
+  "synonyms": [
+   "aeroplane",
+   "plane"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an aircraft that has a fixed wing and is powered by propellers or jets",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0100",
+  "unit": 3,
+  "headword": "assignment",
+  "ipa": "ә'sainmәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 分配, 功課, 任務, 轉讓, 歸因, 陳述\n[計] 賦值",
+  "forms": {
+   "plural": "assignments"
+  },
+  "examples": [
+   {
+    "en": "I was abroad on an assignment.",
+    "zh": "我在國外指派了。"
+   },
+   {
+    "en": "The assignment took me longer than I had expected.",
+    "zh": "我用了比我預期更長的時間來完成作業。"
+   },
+   {
+    "en": "It's necessary that we all work together to complete this assignment.",
+    "zh": "我們必須一起完成這個任務。"
+   }
+  ],
+  "synonyms": [
+   "assigning"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a duty that you are assigned to perform (especially in the armed forces)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0101",
+  "unit": 3,
+  "headword": "exit",
+  "ipa": "'eksit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 出口, 退場, 離去, 去世\nvi. 退出, 脫離, 去世\n[計] 退出; DOS內部命令:本命令用於退出當前的命令處理器(COMMAND.COM)\n恢復前一個命令處理器",
+  "forms": {
+   "plural": "exits",
+   "ing": "exiting",
+   "past": "exited",
+   "pp": "exited",
+   "thirdSg": "exits"
+  },
+  "examples": [
+   {
+    "en": "Here is the exit!",
+    "zh": "出口在這裡！"
+   },
+   {
+    "en": "Where is the exit?",
+    "zh": "哪裡出去？"
+   },
+   {
+    "en": "The sign says \"Exit.\"",
+    "zh": "告示牌上寫著「出口」。"
+   }
+  ],
+  "synonyms": [
+   "issue",
+   "outlet",
+   "passing",
+   "loss",
+   "departure"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an opening that permits escape or release",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0102",
+  "unit": 3,
+  "headword": "attendee",
+  "ipa": "æten'di:",
+  "pos": null,
+  "defsZh": "[計] 出席人, 參加者, 被照顧者, 被服務者",
+  "forms": {
+   "plural": "attendees"
+  },
+  "examples": [],
+  "synonyms": [
+   "attendant",
+   "attender",
+   "meeter"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who is present and participates in a meeting",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0103",
+  "unit": 3,
+  "headword": "cruise",
+  "ipa": "kru:z",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 巡航, 巡弋, 漫遊\nv. 巡航, 巡弋, 漫遊",
+  "forms": {
+   "ing": "cruising",
+   "plural": "cruises",
+   "past": "cruised",
+   "pp": "cruised",
+   "thirdSg": "cruises"
+  },
+  "examples": [
+   {
+    "en": "The straits were too narrow for the cruise ship.",
+    "zh": "這個海峽對遊艇來說太窄了。"
+   }
+  ],
+  "synonyms": [
+   "sail"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an ocean trip taken for pleasure",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0104",
+  "unit": 3,
+  "headword": "birthday",
+  "ipa": "'bә:θdei",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 生日",
+  "forms": {
+   "plural": "birthdays"
+  },
+  "examples": [
+   {
+    "en": "Today is my birthday.",
+    "zh": "今天是我的生日。"
+   },
+   {
+    "en": "Whose birthday is it?",
+    "zh": "誰的生日？"
+   },
+   {
+    "en": "When is your birthday?",
+    "zh": "你的生日是幾月幾號？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an anniversary of the day on which a person was born (or the celebration of it)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0105",
+  "unit": 3,
+  "headword": "cafe",
+  "ipa": "kɑ:'fei",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 咖啡館, 酒店",
+  "forms": {
+   "plural": "cafes"
+  },
+  "examples": [
+   {
+    "en": "Is there a cafe?",
+    "zh": "有咖啡廳嗎？"
+   },
+   {
+    "en": "I drink coffee in a cafe.",
+    "zh": "我在咖啡廳裡喝咖啡。"
+   },
+   {
+    "en": "Gunter and Rima met at the cafe.",
+    "zh": "Gunter和Rima在咖啡館見過面。"
+   }
+  ],
+  "synonyms": [
+   "coffeehouse"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a small restaurant where drinks and snacks are sold",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0106",
+  "unit": 3,
+  "headword": "comprehension",
+  "ipa": ".kɒmpri'henʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 理解, 包含",
+  "forms": null,
+  "examples": [
+   {
+    "en": "That was beyond my comprehension.",
+    "zh": "那超出了我的理解。"
+   },
+   {
+    "en": "Good day, lords. In what way can I refine upon my adroitness in aural comprehension?",
+    "zh": "早安，師傅。我應該怎麼樣提高聽力能力？"
+   }
+  ],
+  "synonyms": [
+   "inclusion"
+  ],
+  "antonyms": [
+   "incomprehension"
+  ],
+  "phrases": null,
+  "defsEn": "an ability to understand the meaning or importance of something (or the knowledge acquired as a result)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0107",
+  "unit": 3,
+  "headword": "mall",
+  "ipa": "mɔ:l",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 林蔭路",
+  "forms": {
+   "plural": "malls",
+   "ing": "malling"
+  },
+  "examples": [
+   {
+    "en": "Tom went to the mall.",
+    "zh": "湯姆去了商場。"
+   },
+   {
+    "en": "Is there a mall near here?",
+    "zh": "附近是不是有一間購物商場？"
+   },
+   {
+    "en": "I'd like to go to the mall.",
+    "zh": "我想去商場。"
+   }
+  ],
+  "synonyms": [
+   "promenade",
+   "plaza",
+   "center"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a public area set aside as a pedestrian walk",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0108",
+  "unit": 3,
+  "headword": "medication",
+  "ipa": ".medi'keiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 藥物治療, 藥物處理, 醫藥\n[醫] 藥療法, 投藥法",
+  "forms": {
+   "plural": "medications"
+  },
+  "examples": [
+   {
+    "en": "I need to take medications.",
+    "zh": "我必須吃藥。"
+   },
+   {
+    "en": "Now I take medication regularly.",
+    "zh": "現在我規律服藥。"
+   },
+   {
+    "en": "Don't forget to take your medication.",
+    "zh": "別忘了吃藥。"
+   }
+  ],
+  "synonyms": [
+   "medicine",
+   "medicament"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(medicine) something that treats or prevents or alleviates the symptoms of disease",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0109",
+  "unit": 3,
+  "headword": "recycle",
+  "ipa": ".ri:'saikl",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 使再迴圈, 重新利用, 再製\nn. 再迴圈",
+  "forms": {
+   "ing": "recycling",
+   "pp": "recycled",
+   "thirdSg": "recycles",
+   "past": "recycled"
+  },
+  "examples": [
+   {
+    "en": "I recycled batteries.",
+    "zh": "我將電池回收。"
+   },
+   {
+    "en": "We recycled batteries.",
+    "zh": "我們回收電池。"
+   },
+   {
+    "en": "He recycled batteries.",
+    "zh": "他回收電池。"
+   }
+  ],
+  "synonyms": [
+   "reprocess",
+   "reuse"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "cause to repeat a cycle",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0110",
+  "unit": 3,
+  "headword": "renew",
+  "ipa": "ri'nju:",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使更新, 使恢復, 復興, 修補, 補充, 繼續, 重訂, 重申, 續借\nvi. 更新, 重新開始",
+  "forms": {
+   "past": "renewed",
+   "pp": "renewed",
+   "ing": "renewing",
+   "thirdSg": "renews"
+  },
+  "examples": [
+   {
+    "en": "I must renew my passport.",
+    "zh": "我必須更新我的護照。"
+   },
+   {
+    "en": "This gives me renewed hopes.",
+    "zh": "這給了我新的希望。"
+   },
+   {
+    "en": "I need to renew my passport.",
+    "zh": "我必須更新我的護照。"
+   }
+  ],
+  "synonyms": [
+   "regenerate",
+   "reincarnate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "reestablish on a new, usually improved, basis or make new or like new",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0111",
+  "unit": 3,
+  "headword": "tenant",
+  "ipa": "'tenәnt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 承租人, 房客, 居住者\nvt. 租借\n[計] 佔據者",
+  "forms": {
+   "plural": "tenants",
+   "pp": "tenanted",
+   "past": "tenanted",
+   "ing": "tenanting",
+   "thirdSg": "tenants"
+  },
+  "examples": [
+   {
+    "en": "When the landlord's away, the tenants will play.",
+    "zh": "當房東不在, 房客就會大玩特玩。"
+   }
+  ],
+  "synonyms": [
+   "renter"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who pays rent to use land or a building or a car that is owned by someone else",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0112",
+  "unit": 3,
+  "headword": "sandwich",
+  "ipa": "'sændwitʃ",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 三明治, 夾心麵包, 夾層板\nvt. 插入, 夾入, 把...製成三明治",
+  "forms": {
+   "plural": "sandwiches",
+   "pp": "sandwiched",
+   "ing": "sandwiching",
+   "past": "sandwiched",
+   "thirdSg": "sandwiches"
+  },
+  "examples": [
+   {
+    "en": "Tom made a sandwich.",
+    "zh": "湯姆做了個三明治。"
+   },
+   {
+    "en": "How about a sandwich?",
+    "zh": "三明治怎麼樣？"
+   },
+   {
+    "en": "I ate Tom's sandwich.",
+    "zh": "我吃了湯姆的三明治。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "two (or more) slices of bread with a filling between them",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0113",
+  "unit": 3,
+  "headword": "departure",
+  "ipa": "di'pɑ:tʃә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 離開, 出發, 違背, 偏離\n[經] 啟運",
+  "forms": {
+   "plural": "departures"
+  },
+  "examples": [
+   {
+    "en": "He decided to put off his departure.",
+    "zh": "他決定推遲他出發的日期。"
+   },
+   {
+    "en": "May I know the date of you departure?",
+    "zh": "我可能知道你離開的日期嗎？"
+   },
+   {
+    "en": "He decided he would put off his departure.",
+    "zh": "他決定推遲他出發的日期。"
+   }
+  ],
+  "synonyms": [
+   "going",
+   "leaving",
+   "deviation",
+   "divergence",
+   "difference"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of departing",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0114",
+  "unit": 3,
+  "headword": "mini",
+  "ipa": "'mini",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 同類中的極小者, 微型汽車, 超短裙\na. 微型的",
+  "forms": {
+   "plural": "minis"
+  },
+  "examples": [],
+  "synonyms": [
+   "miniskirt"
+  ],
+  "antonyms": [
+   "midi",
+   "maxi"
+  ],
+  "phrases": null,
+  "defsEn": "a very short skirt",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0115",
+  "unit": 3,
+  "headword": "fitness",
+  "ipa": "'fitnis",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 適合, 合宜, 合理, 恰當, 健康\n[醫] 適合性, 適應性",
+  "forms": {
+   "plural": "fitnesses"
+  },
+  "examples": [],
+  "synonyms": [
+   "fittingness",
+   "seaworthiness"
+  ],
+  "antonyms": [
+   "unfitness"
+  ],
+  "phrases": null,
+  "defsEn": "the quality of being suitable",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0116",
+  "unit": 3,
+  "headword": "inconvenience",
+  "ipa": ".inkәn'vi:njәns",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 不便, 困難\nvt. 使感不便, 使感困難",
+  "forms": {
+   "plural": "inconveniences",
+   "pp": "inconvenienced",
+   "past": "inconvenienced",
+   "ing": "inconveniencing",
+   "thirdSg": "inconveniences"
+  },
+  "examples": [
+   {
+    "en": "This process has a lot of inconveniences.",
+    "zh": "這個程式缺陷滿多。"
+   },
+   {
+    "en": "We apologize for the delay and regret any inconvenience it may have caused.",
+    "zh": "我們對這次的延遲表示抱歉，並對可能造成的不便表示遺憾。"
+   }
+  ],
+  "synonyms": [
+   "incommodiousness",
+   "troublesomeness",
+   "worriment"
+  ],
+  "antonyms": [
+   "convenience"
+  ],
+  "phrases": null,
+  "defsEn": "an inconvenient discomfort",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0117",
+  "unit": 3,
+  "headword": "banquet",
+  "ipa": "'bæŋkwit",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 宴會",
+  "forms": {
+   "plural": "banquets",
+   "ing": "banquetting",
+   "past": "banqueted",
+   "thirdSg": "banquets",
+   "pp": "banqueted"
+  },
+  "examples": [
+   {
+    "en": "Some Shanghainese hold large banquets when they get married.",
+    "zh": "上海人結婚，有的人家辦酒宴場面很大。"
+   }
+  ],
+  "synonyms": [
+   "feast",
+   "spread",
+   "junket"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a ceremonial dinner party for many people",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0118",
+  "unit": 3,
+  "headword": "closet",
+  "ipa": "'klɒzit",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "defsZh": "n. 壁櫥, 小室\na. 秘密的, 空談的\nvt. 把...關入小室",
+  "forms": {
+   "plural": "closets",
+   "pp": "closeted",
+   "past": "closeted",
+   "ing": "closetting",
+   "thirdSg": "closets"
+  },
+  "examples": [
+   {
+    "en": "Hide in the closet.",
+    "zh": "你藏進櫃子裡去。"
+   },
+   {
+    "en": "What's in the closet?",
+    "zh": "櫥櫃裡有什麼？"
+   },
+   {
+    "en": "Tom searched inside the closet.",
+    "zh": "湯姆搜查了衣櫃裡面。"
+   }
+  ],
+  "synonyms": [
+   "cupboard",
+   "W.C.",
+   "loo",
+   "wardrobe",
+   "press"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a small room (or recess) or cabinet used for storage space",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0119",
+  "unit": 3,
+  "headword": "unreal",
+  "ipa": "'ʌn'ri(:)әl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 假的, 虛構的, 不真實的, 幻想的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "My life seems unreal.",
+    "zh": "我的生活似乎不是真實的。"
+   }
+  ],
+  "synonyms": [
+   "artificial"
+  ],
+  "antonyms": [
+   "real",
+   "natural"
+  ],
+  "phrases": null,
+  "defsEn": "lacking in reality or substance or genuineness; not corresponding to acknowledged facts or criteria",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0120",
+  "unit": 3,
+  "headword": "distractor",
+  "ipa": "dis'træktә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 錯誤選擇；誘導答案",
+  "forms": {
+   "plural": "distractors"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ }
+]

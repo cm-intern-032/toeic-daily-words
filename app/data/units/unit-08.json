@@ -1,0 +1,1250 @@
+[
+ {
+  "id": "w0281",
+  "unit": 8,
+  "headword": "spite",
+  "ipa": "spait",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 惡意, 怨恨, 使人煩惱的事物\nvt. 故意刁難, 欺侮",
+  "forms": {
+   "ing": "spiting",
+   "past": "spited",
+   "thirdSg": "spites",
+   "pp": "spited"
+  },
+  "examples": [
+   {
+    "en": "I don't mean to spite you.",
+    "zh": "我不想惹你生氣。"
+   },
+   {
+    "en": "I went out in spite of the rain.",
+    "zh": "儘管下著雨，我還是出了門。"
+   },
+   {
+    "en": "He went out in spite of the rain.",
+    "zh": "儘管下著雨，他還是出去了。"
+   }
+  ],
+  "synonyms": [
+   "malice",
+   "maliciousness",
+   "spitefulness",
+   "venom",
+   "cattiness"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "feeling a need to see others suffer",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0282",
+  "unit": 8,
+  "headword": "bathroom",
+  "ipa": "'bɑ:θru:m",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 浴室, 廁所",
+  "forms": {
+   "plural": "bathrooms"
+  },
+  "examples": [
+   {
+    "en": "Where's the bathroom?",
+    "zh": "廁所在哪裡？"
+   },
+   {
+    "en": "I was in the bathroom.",
+    "zh": "我當時在衛生間。"
+   },
+   {
+    "en": "Where is the bathroom?",
+    "zh": "洗手間在哪裡？"
+   }
+  ],
+  "synonyms": [
+   "bath",
+   "toilet",
+   "lavatory",
+   "lav",
+   "can"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0283",
+  "unit": 8,
+  "headword": "cab",
+  "ipa": "kæb",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 計程車, 出租汽車, 出租馬車\nvi. 乘出租馬車(或汽車)",
+  "forms": {
+   "plural": "cabs",
+   "ing": "cabbing",
+   "past": "cabbed",
+   "thirdSg": "cabs",
+   "pp": "cabbed"
+  },
+  "examples": [
+   {
+    "en": "I need a cab.",
+    "zh": "我需要一輛計程車。"
+   },
+   {
+    "en": "The cab is here.",
+    "zh": "計程車到了。"
+   },
+   {
+    "en": "Let's get a cab.",
+    "zh": "我們坐計程車吧"
+   }
+  ],
+  "synonyms": [
+   "cabriolet",
+   "hack",
+   "taxi",
+   "taxicab"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a compartment at the front of a motor vehicle or locomotive where driver sits",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0284",
+  "unit": 8,
+  "headword": "correspondence",
+  "ipa": ".kɒri'spɒndәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 相符, 通訊, 信件\n[醫] 對應, 相對",
+  "forms": {
+   "plural": "correspondences"
+  },
+  "examples": [],
+  "synonyms": [
+   "agreement",
+   "commensurateness",
+   "proportionateness"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "communication by the exchange of letters",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0285",
+  "unit": 8,
+  "headword": "ladder",
+  "ipa": "'lædә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 梯, 梯狀物, 發跡的途徑\nvi. 襪子抽絲, 成名",
+  "forms": {
+   "plural": "ladders",
+   "pp": "laddered",
+   "past": "laddered",
+   "ing": "laddering",
+   "thirdSg": "ladders"
+  },
+  "examples": [
+   {
+    "en": "She fell down the ladder.",
+    "zh": "她從梯子上摔了下來。"
+   },
+   {
+    "en": "Tom climbed up the ladder.",
+    "zh": "湯姆爬上了梯子。"
+   },
+   {
+    "en": "Stand the ladder against the wall.",
+    "zh": "把梯子靠牆放著。"
+   }
+  ],
+  "synonyms": [
+   "run",
+   "ravel"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "steps consisting of two parallel members connected by rungs; for climbing up or down",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0286",
+  "unit": 8,
+  "headword": "photography",
+  "ipa": "fә'tɒgrәfi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 攝影, 攝影術\n[化] 照相術",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Photography is prohibited.",
+    "zh": "禁止拍照。"
+   },
+   {
+    "en": "I'm interested in photography.",
+    "zh": "我對攝影感興趣。"
+   },
+   {
+    "en": "I have an interest in photography.",
+    "zh": "我對攝影感興趣。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of taking and printing photographs",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0287",
+  "unit": 8,
+  "headword": "sculpture",
+  "ipa": "'skʌlptʃә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 雕刻, 雕塑\nvt. 雕刻, 雕塑\nvi. 當雕刻師",
+  "forms": {
+   "plural": "sculptures",
+   "pp": "sculptured",
+   "ing": "sculpturing",
+   "past": "sculptured",
+   "thirdSg": "sculptures"
+  },
+  "examples": [],
+  "synonyms": [
+   "carving",
+   "sculpt"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a three-dimensional work of plastic art",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0288",
+  "unit": 8,
+  "headword": "anniversary",
+  "ipa": "æni'vә:sәri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 週年紀念",
+  "forms": {
+   "plural": "anniversaries"
+  },
+  "examples": [
+   {
+    "en": "Anniversaries are important.",
+    "zh": "週年紀念很重要。"
+   },
+   {
+    "en": "Tom never forgets to give his wife flowers on their wedding anniversary.",
+    "zh": "湯姆從沒忘記在婚禮週年紀念日送給他妻子花。"
+   },
+   {
+    "en": "Next month is their 50th anniversary, and they're planning on renewing their vows.",
+    "zh": "下個月是他們的五十週年紀念，他們打算重新宣誓。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the date on which an event occurred in some previous year (or the celebration of it)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0289",
+  "unit": 8,
+  "headword": "buffet",
+  "ipa": "'bʌfit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 自助餐, 小賣部, 碗櫥, 毆打, 衝擊\nvt. 連續打, 衝擊, 搏鬥\nvi. 奮鬥",
+  "forms": {
+   "plural": "buffets",
+   "pp": "buffetted",
+   "ing": "buffeting",
+   "past": "buffeted",
+   "thirdSg": "buffets"
+  },
+  "examples": [
+   {
+    "en": "Where is the buffet restaurant?",
+    "zh": "自助餐廳在哪裡？"
+   },
+   {
+    "en": "Two for the lunch buffet, please.",
+    "zh": "兩人份自助午餐，謝謝。"
+   },
+   {
+    "en": "There are a lot of people so today we've gone for buffet style.",
+    "zh": "因為人很多，今天我們會採取自助餐的形式。"
+   }
+  ],
+  "synonyms": [
+   "counter",
+   "sideboard"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a piece of furniture that stands at the side of a dining room; has shelves and drawers",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0290",
+  "unit": 8,
+  "headword": "defective",
+  "ipa": "di'fektiv",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 有缺陷的, 欠缺的\nn. 有缺陷的人, 不完全變化詞",
+  "forms": {
+   "plural": "defectives"
+  },
+  "examples": [
+   {
+    "en": "This phone is defective.",
+    "zh": "這隻手機有缺陷。"
+   },
+   {
+    "en": "Some diseases are caused by a defective gene.",
+    "zh": "一些疾病的產生原因是基因缺陷。"
+   }
+  ],
+  "synonyms": [
+   "faulty",
+   "bad"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "having a defect",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0291",
+  "unit": 8,
+  "headword": "ice cream",
+  "ipa": null,
+  "pos": null,
+  "defsZh": "冰淇淋\n[化] 冰淇淋",
+  "forms": null,
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0292",
+  "unit": 8,
+  "headword": "leak",
+  "ipa": "li:k",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 漏洞, 漏處, 漏出, 洩漏\nvi. 漏, 洩漏\nvt. 使滲漏",
+  "forms": {
+   "pp": "leaked",
+   "plural": "leaks",
+   "ing": "leaking",
+   "past": "leaked",
+   "thirdSg": "leaks"
+  },
+  "examples": [
+   {
+    "en": "The tire leaks air.",
+    "zh": "輪胎漏氣了。"
+   },
+   {
+    "en": "The faucet is leaking.",
+    "zh": "水龍頭在滴水。"
+   },
+   {
+    "en": "Every time it rains, the roof leaks.",
+    "zh": "每次下雨屋頂就漏水。"
+   }
+  ],
+  "synonyms": [
+   "wetting"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an accidental hole that allows something (fluid or light etc.) to enter or escape",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0293",
+  "unit": 8,
+  "headword": "occupancy",
+  "ipa": "'ɒkjupәnsi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 佔有, 居住, 佔用\n[法] 佔據, 據有, 佔用",
+  "forms": {
+   "plural": "occupancies"
+  },
+  "examples": [],
+  "synonyms": [
+   "tenancy",
+   "occupation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an act of being a tenant or occupant",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0294",
+  "unit": 8,
+  "headword": "proficiency",
+  "ipa": "prә'fiʃәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 精通, 熟練, 精練",
+  "forms": {
+   "plural": "proficiencies"
+  },
+  "examples": [],
+  "synonyms": [
+   "technique"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the quality of having great facility and competence",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0295",
+  "unit": 8,
+  "headword": "renewal",
+  "ipa": "ri'nju:әl",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 更新, 革新, 復興, 恢復, 修補, 補充, 繼續, 重訂, 重申, 續借\n[經] 更新, 換新, 重申",
+  "forms": {
+   "plural": "renewals"
+  },
+  "examples": [],
+  "synonyms": [
+   "reclamation",
+   "rehabilitation",
+   "refilling",
+   "replenishment",
+   "replacement"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the conversion of wasteland into land suitable for use of habitation or cultivation",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0296",
+  "unit": 8,
+  "headword": "urgent",
+  "ipa": "'ә:dʒәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 緊急的, 急迫的, 催逼的\n[經] 緊急的, 急迫的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This matter is very urgent.",
+    "zh": "這件事非常緊急。"
+   },
+   {
+    "en": "I have an urgent message from Tom.",
+    "zh": "我收到湯姆的一條緊急訊息。"
+   },
+   {
+    "en": "There is an urgent message for you.",
+    "zh": "你有一個緊急的訊息。"
+   }
+  ],
+  "synonyms": [
+   "pressing"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "compelling immediate action",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0297",
+  "unit": 8,
+  "headword": "annually",
+  "ipa": "'ænjuәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 一年一次, 每年\n[經] 年度的, 每年的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Do you know how many people starve to death in the world annually?",
+    "zh": "你知不知道全世界每年有多少人餓死呀？"
+   },
+   {
+    "en": "The Nobel Prize is awarded annually on December 10, the day of Alfred Nobel's death.",
+    "zh": "諾貝爾獎在每年的十二月十日頒發，是Alfred Nobel去世的那天。"
+   }
+  ],
+  "synonyms": [
+   "yearly",
+   "p.a."
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "without missing a year",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0298",
+  "unit": 8,
+  "headword": "basketball",
+  "ipa": "'bɑ:skitbɒ:l",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 籃球",
+  "forms": {
+   "plural": "basketballs"
+  },
+  "examples": [
+   {
+    "en": "He played basketball.",
+    "zh": "他打籃球。"
+   },
+   {
+    "en": "I don't play basketball.",
+    "zh": "我不打籃球。"
+   },
+   {
+    "en": "I like to play basketball.",
+    "zh": "我喜歡打籃球。"
+   }
+  ],
+  "synonyms": [
+   "hoops"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0299",
+  "unit": 8,
+  "headword": "delete",
+  "ipa": "di'li:t",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 刪除\n[計] 刪除",
+  "forms": {
+   "pp": "deleted",
+   "ing": "deleting",
+   "thirdSg": "deletes",
+   "past": "deleted"
+  },
+  "examples": [
+   {
+    "en": "I deleted the app.",
+    "zh": "我刪除了這個應用。"
+   },
+   {
+    "en": "I've deleted the app.",
+    "zh": "我刪除了這個應用。"
+   },
+   {
+    "en": "You can delete that now.",
+    "zh": "你現在可以刪除它。"
+   }
+  ],
+  "synonyms": [
+   "cancel",
+   "erase",
+   "edit",
+   "blue-pencil"
+  ],
+  "antonyms": [
+   "record"
+  ],
+  "phrases": null,
+  "defsEn": "remove or make invisible",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0300",
+  "unit": 8,
+  "headword": "illogical",
+  "ipa": "i'lɒdʒikl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不合邏輯的, 無緣由的\n[法] 不合邏輯的, 無條理的, 說不通的",
+  "forms": null,
+  "examples": [],
+  "synonyms": [
+   "unlogical",
+   "confused",
+   "disconnected",
+   "disjointed",
+   "disordered"
+  ],
+  "antonyms": [
+   "logical"
+  ],
+  "phrases": null,
+  "defsEn": "lacking in correct logical relation",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0301",
+  "unit": 8,
+  "headword": "pet",
+  "ipa": "pet",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "defsZh": "n. 寵物, 受寵愛的人, 寵壞的孩子, 不悅, 生氣\na. 寵愛的, 表示親暱的, 養著觀賞的, 特別珍愛的, 格外的\nvt. 寵愛, 溺愛, 撫摸\nvi. 擁抱, 愛撫, 生氣, 發脾氣",
+  "forms": {
+   "plural": "pets",
+   "ing": "petting",
+   "past": "petted",
+   "pp": "petted",
+   "thirdSg": "pets"
+  },
+  "examples": [
+   {
+    "en": "My pet is sick.",
+    "zh": "我的寵物生病了。"
+   },
+   {
+    "en": "I don't have pets.",
+    "zh": "我沒有寵物。"
+   },
+   {
+    "en": "I want a pet tiger.",
+    "zh": "我要一隻寵老虎。"
+   }
+  ],
+  "synonyms": [
+   "darling",
+   "favorite",
+   "favourite",
+   "dearie",
+   "deary"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a domesticated animal kept for companionship or amusement",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0302",
+  "unit": 8,
+  "headword": "textbook",
+  "ipa": "'tekstbuk",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 教科書",
+  "forms": {
+   "plural": "textbooks"
+  },
+  "examples": [
+   {
+    "en": "Open your textbooks.",
+    "zh": "翻開課本。"
+   },
+   {
+    "en": "This textbook is good.",
+    "zh": "這本教科書不錯。"
+   },
+   {
+    "en": "This is a good textbook.",
+    "zh": "這本課本很好。"
+   }
+  ],
+  "synonyms": [
+   "text",
+   "schoolbook",
+   "casebook"
+  ],
+  "antonyms": [
+   "trade edition"
+  ],
+  "phrases": null,
+  "defsEn": "a book prepared for use in schools or colleges",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0303",
+  "unit": 8,
+  "headword": "accurately",
+  "ipa": "'ækjurәtli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 正確地, 精確地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "She can assess investments very accurately.",
+    "zh": "她能很準確地評估投資。"
+   },
+   {
+    "en": "I don't remember my grandmother's face accurately.",
+    "zh": "我記不清奶奶的臉。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "inaccurately"
+  ],
+  "phrases": null,
+  "defsEn": "with few mistakes",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0304",
+  "unit": 8,
+  "headword": "cabin",
+  "ipa": "'kæbin",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 小屋, 客艙\nvt. 關在小屋",
+  "forms": {
+   "plural": "cabins",
+   "ing": "cabining",
+   "past": "cabined",
+   "thirdSg": "cabins",
+   "pp": "cabined"
+  },
+  "examples": [
+   {
+    "en": "He built a cabin on the beach.",
+    "zh": "他在沙灘上建了座小屋。"
+   },
+   {
+    "en": "Tom was waiting inside his cabin.",
+    "zh": "湯姆在他的小屋裡等著。"
+   },
+   {
+    "en": "The writer is living in a log cabin.",
+    "zh": "那個作家生活在小木屋中。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "small room on a ship or boat where people sleep",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0305",
+  "unit": 8,
+  "headword": "conductor",
+  "ipa": "kәn'dʌktә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 領導者, 指揮者, 售票員, 嚮導\n[化] 導體",
+  "forms": {
+   "plural": "conductors"
+  },
+  "examples": [],
+  "synonyms": [
+   "director"
+  ],
+  "antonyms": [
+   "insulator"
+  ],
+  "phrases": null,
+  "defsEn": "the person who leads a musical group",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0306",
+  "unit": 8,
+  "headword": "inspector",
+  "ipa": "in'spektә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 檢查員, 巡視員\n[化] 檢查員",
+  "forms": {
+   "plural": "inspectors"
+  },
+  "examples": [
+   {
+    "en": "Tom is a tax inspector.",
+    "zh": "湯姆是稅務督察。"
+   },
+   {
+    "en": "The suspect told a lie to the inspector.",
+    "zh": "那嫌疑犯對偵察官撒了個謊。"
+   }
+  ],
+  "synonyms": [
+   "examiner"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a high ranking police officer",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0307",
+  "unit": 8,
+  "headword": "intern",
+  "ipa": "in'tә:n",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 實習生, 被拘留者\nvi. 作實習醫師(教師、實習生)\nvt. 拘留, 扣留",
+  "forms": {
+   "pp": "interned",
+   "ing": "interning",
+   "past": "interned",
+   "plural": "interns",
+   "thirdSg": "interns"
+  },
+  "examples": [
+   {
+    "en": "Tom is just an intern.",
+    "zh": "湯姆只不過是實習生。"
+   },
+   {
+    "en": "Tomorrow we will welcome the first intern.",
+    "zh": "明天我們將迎來第一個實習生。"
+   }
+  ],
+  "synonyms": [
+   "interne",
+   "houseman"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an advanced student or graduate in medicine gaining supervised practical experience (`houseman' is a British term)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0308",
+  "unit": 8,
+  "headword": "semester",
+  "ipa": "si'mestә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 學期",
+  "forms": {
+   "plural": "semesters"
+  },
+  "examples": [
+   {
+    "en": "Second semester has ended.",
+    "zh": "第二學期結束了。"
+   },
+   {
+    "en": "I'm taking Spanish this semester.",
+    "zh": "我這學期修西班牙文。"
+   },
+   {
+    "en": "The new school semester has started.",
+    "zh": "新的學期開始了。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "one of two divisions of an academic year",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0309",
+  "unit": 8,
+  "headword": "confirmation",
+  "ipa": ".kɒnfә'meiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 證實, 證明, 批准, 確認\n[計] 確認",
+  "forms": {
+   "plural": "confirmations"
+  },
+  "examples": [
+   {
+    "en": "Do not make any modifications before you get confirmations.",
+    "zh": "在得到確認之前不要進行任何修改。"
+   }
+  ],
+  "synonyms": [
+   "verification",
+   "check",
+   "substantiation",
+   "ratification"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "additional proof that something that was believed (some fact or hypothesis or theory) is correct",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0310",
+  "unit": 8,
+  "headword": "congratulation",
+  "ipa": "kәn.grætʃә'leiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 祝賀, 恭喜",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Congratulations on your face.",
+    "zh": "恭喜你的臉。"
+   },
+   {
+    "en": "Congratulations for your birthday, Muriel!",
+    "zh": "衷心祝賀你的生日，穆裡爾！"
+   },
+   {
+    "en": "May I be the first to offer my congratulations.",
+    "zh": "讓我來第一箇祝賀。"
+   }
+  ],
+  "synonyms": [
+   "felicitation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of acknowledging that someone has an occasion for celebration",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0311",
+  "unit": 8,
+  "headword": "expertise",
+  "ipa": ".ekspә:'ti:z",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 專家意見, 專門技術\n[法] 專門知識, 專家意見",
+  "forms": {
+   "plural": "expertises"
+  },
+  "examples": [],
+  "synonyms": [
+   "expertness"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "skillfulness by virtue of possessing special knowledge",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0312",
+  "unit": 8,
+  "headword": "graph",
+  "ipa": "græf",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 曲線圖, 圖表, 圖形\n[計] 圖形",
+  "forms": {
+   "plural": "graphs",
+   "ing": "graphing",
+   "past": "graphed",
+   "thirdSg": "graphs",
+   "pp": "graphed"
+  },
+  "examples": [],
+  "synonyms": [
+   "chart"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a visual representation of the relations between certain quantities plotted with reference to a set of axes",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0313",
+  "unit": 8,
+  "headword": "taker",
+  "ipa": "'teikә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 取者, 捕者, 接受者, 收取者\n[法] 受者, 收票人, 接受打賭的人",
+  "forms": {
+   "plural": "takers"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "one who accepts an offer",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0314",
+  "unit": 8,
+  "headword": "utility",
+  "ipa": "ju:'tiliti",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 功用, 有用之物, 實用, 公用事業, 實用程式\na. 實用的, 有多種用途的\n[計] 實用程式, 工具",
+  "forms": {
+   "plural": "utilities"
+  },
+  "examples": [],
+  "synonyms": [
+   "usefulness"
+  ],
+  "antonyms": [
+   "inutility",
+   "uselessness"
+  ],
+  "phrases": null,
+  "defsEn": "a company that performs a public service; subject to government regulation",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0315",
+  "unit": 8,
+  "headword": "voucher",
+  "ipa": "'vautʃә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 證人, 保證人, 證明者, 憑證, 憑單\nvt. 證實...的可靠性",
+  "forms": {
+   "plural": "vouchers"
+  },
+  "examples": [
+   {
+    "en": "Can we get a voucher?",
+    "zh": "能給我們一張代金券嗎？"
+   },
+   {
+    "en": "Can I have a discount voucher?",
+    "zh": "可以給我優惠券嗎？"
+   }
+  ],
+  "synonyms": [
+   "verifier",
+   "coupon"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who vouches for another or for the correctness of a statement",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0316",
+  "unit": 8,
+  "headword": "banker",
+  "ipa": "'bæŋkә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 銀行家, 莊家\n[經] 銀行業者, 銀行家",
+  "forms": {
+   "plural": "bankers"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a financier who owns or is an executive in a bank",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0317",
+  "unit": 8,
+  "headword": "behalf",
+  "ipa": "bi'hɑ:f",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 利益, 方面",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He is acting on his own behalf.",
+    "zh": "他為自己的利益行事。"
+   },
+   {
+    "en": "I thank you on behalf of my son.",
+    "zh": "我為我的兒子向您致謝。"
+   },
+   {
+    "en": "On behalf of the company, I welcome you.",
+    "zh": "我代表公司歡迎你的來臨。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "as the agent of or on someone's part (usually expressed as  rather than )",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0318",
+  "unit": 8,
+  "headword": "minimize",
+  "ipa": "'minimaiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 將...減到最少\nvt. 最小化\nvi. 最小化\n[計] 最小化",
+  "forms": {
+   "ing": "minimizing",
+   "pp": "minimized",
+   "thirdSg": "minimizes",
+   "past": "minimized"
+  },
+  "examples": [],
+  "synonyms": [
+   "minimise",
+   "understate",
+   "downplay",
+   "belittle",
+   "denigrate"
+  ],
+  "antonyms": [
+   "maximize",
+   "maximise",
+   "overstate"
+  ],
+  "phrases": null,
+  "defsEn": "make small or insignificant",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0319",
+  "unit": 8,
+  "headword": "optional",
+  "ipa": "'ɒpʃәnl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 可選擇的, 隨意的\n[化] 選購的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Being challenged in life is inevitable, being defeated is optional.",
+    "zh": "生命中你無法選擇接踵而至的挑戰，但是你可以選擇不成為一個失敗者。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "obligatory"
+  ],
+  "phrases": null,
+  "defsEn": "possible but not necessary; left to personal choice",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0320",
+  "unit": 8,
+  "headword": "paycheck",
+  "ipa": "'pei'tʃek",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 付薪水的支票, 薪水",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He never brings the paycheck home.",
+    "zh": "他從不把工資帶回家。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a check issued in payment of wages or salary",
+  "note": null,
+  "audioUrl": null
+ }
+]

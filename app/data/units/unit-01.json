@@ -1,0 +1,1357 @@
+[
+ {
+  "id": "w0001",
+  "unit": 1,
+  "headword": "mister",
+  "ipa": "'mistә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 先生",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Why is there a Miss Italy but no Mister Italy?",
+    "zh": "為什麼有義大利小姐卻沒有義大利先生？"
+   }
+  ],
+  "synonyms": [
+   "Mr",
+   "Mr."
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a form of address for a man",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0002",
+  "unit": 1,
+  "headword": "vacation",
+  "ipa": "vei'keiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 假期, 休假\n[法] 假期, 停審期, 休庭期",
+  "forms": {
+   "plural": "vacations",
+   "ing": "vacationing",
+   "past": "vacationed",
+   "thirdSg": "vacations",
+   "pp": "vacationed"
+  },
+  "examples": [
+   {
+    "en": "I'm on vacation.",
+    "zh": "我在度假。"
+   },
+   {
+    "en": "You need a vacation.",
+    "zh": "你需要個假期。"
+   },
+   {
+    "en": "I've been on vacation.",
+    "zh": "我在休假。"
+   }
+  ],
+  "synonyms": [
+   "holiday"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "leisure time away from work devoted to rest or pleasure",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0003",
+  "unit": 1,
+  "headword": "client",
+  "ipa": "'klaiәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 客戶, 顧客, 委託人\n[計] 客戶, 客戶機, 客戶機程式",
+  "forms": {
+   "plural": "clients"
+  },
+  "examples": [
+   {
+    "en": "I'm a client.",
+    "zh": "我是個客戶。"
+   },
+   {
+    "en": "The investor stole the capital of his client.",
+    "zh": "投資者把他客戶的資金竊取了."
+   },
+   {
+    "en": "This shows they have listened to the needs of their clients.",
+    "zh": "這表明它們注意聽了顧客的需要。"
+   }
+  ],
+  "synonyms": [
+   "customer",
+   "node",
+   "guest"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who seeks the advice of a lawyer",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0004",
+  "unit": 1,
+  "headword": "e-book",
+  "ipa": null,
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 電子書",
+  "forms": null,
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0005",
+  "unit": 1,
+  "headword": "airport",
+  "ipa": "'єәpɒ:t",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 飛機場\n[機] 航空站, 機場",
+  "forms": {
+   "plural": "airports"
+  },
+  "examples": [
+   {
+    "en": "Mary's at the airport.",
+    "zh": "瑪麗在機場。"
+   },
+   {
+    "en": "I'm at the airport now.",
+    "zh": "我現在在機場。"
+   },
+   {
+    "en": "The airport is close by.",
+    "zh": "機場很近。"
+   }
+  ],
+  "synonyms": [
+   "airdrome",
+   "aerodrome",
+   "drome"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0006",
+  "unit": 1,
+  "headword": "memo",
+  "ipa": "'memәu",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 備忘錄\n[經] 備忘錄",
+  "forms": {
+   "plural": "memos"
+  },
+  "examples": [],
+  "synonyms": [
+   "memorandum",
+   "memoranda"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a written proposal or reminder",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0007",
+  "unit": 1,
+  "headword": "reservation",
+  "ipa": ".rezә'veiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 保留, 預定, 保留品, 保留地\n[經] 預定, 預約, 權益保留",
+  "forms": {
+   "plural": "reservations"
+  },
+  "examples": [
+   {
+    "en": "Tom has a reservation.",
+    "zh": "湯姆有預約。"
+   },
+   {
+    "en": "Do I need a reservation?",
+    "zh": "我需要預約位子嗎?"
+   },
+   {
+    "en": "I'd like a hotel reservation.",
+    "zh": "我想要訂房。"
+   }
+  ],
+  "synonyms": [
+   "reserve",
+   "qualification"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a district that is reserved for particular purpose",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0008",
+  "unit": 1,
+  "headword": "logical",
+  "ipa": "'lɒdʒikәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 合乎邏輯的, 合理的\n[法] 邏輯的, 符合邏輯的",
+  "forms": {
+   "plural": "logicals"
+  },
+  "examples": [
+   {
+    "en": "This seems logical to me.",
+    "zh": "我覺得很有邏輯。"
+   },
+   {
+    "en": "What you're saying isn't logical.",
+    "zh": "你說的話在邏輯上有問題。"
+   },
+   {
+    "en": "The most logical place to keep your shoes is near the door.",
+    "zh": "最合邏輯的放鞋處是門口附近。"
+   }
+  ],
+  "synonyms": [
+   "legitimate",
+   "coherent",
+   "consistent",
+   "ordered"
+  ],
+  "antonyms": [
+   "illogical",
+   "incoherent"
+  ],
+  "phrases": null,
+  "defsEn": "capable of or reflecting the capability for correct and valid reasoning",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0009",
+  "unit": 1,
+  "headword": "fax",
+  "ipa": "fæks",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 傳真\nvt. 發傳真\n[計] 傳真系統; 傳真",
+  "forms": {
+   "plural": "faxes",
+   "past": "faxed",
+   "ing": "faxing",
+   "pp": "faxed",
+   "thirdSg": "faxes"
+  },
+  "examples": [
+   {
+    "en": "Please send it to me by fax.",
+    "zh": "請把它傳真給我。"
+   },
+   {
+    "en": "I got your fax the other day.",
+    "zh": "我前幾天收到了你的傳真。"
+   },
+   {
+    "en": "I don't know how to send a fax.",
+    "zh": "我不知道如何傳真。"
+   }
+  ],
+  "synonyms": [
+   "facsimile",
+   "telefax"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "duplicator that transmits the copy by wire or radio",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0010",
+  "unit": 1,
+  "headword": "o'clock",
+  "ipa": "ә'klɔk",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. ...點鐘, 鐘頭",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Is 6 o'clock OK?",
+    "zh": "六點您行嗎？"
+   },
+   {
+    "en": "It is 7 o'clock.",
+    "zh": "七點了。"
+   },
+   {
+    "en": "It's five o'clock.",
+    "zh": "現在五點鐘."
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "according to the clock",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0011",
+  "unit": 1,
+  "headword": "sincerely",
+  "ipa": "sin'siәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 真誠地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I am sincerely sorry.",
+    "zh": "我深感抱歉。"
+   },
+   {
+    "en": "I won’t forgive you unless you apologise sincerely.",
+    "zh": "我不會原諒你，除非你真誠地道歉。"
+   }
+  ],
+  "synonyms": [
+   "unfeignedly",
+   "truly"
+  ],
+  "antonyms": [
+   "insincerely"
+  ],
+  "phrases": null,
+  "defsEn": "with sincerity; without pretense",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0012",
+  "unit": 1,
+  "headword": "sometime",
+  "ipa": "'sʌmtaim",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "defsZh": "a. 以前的, 某一時間的\nadv. 改天, 來日",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Call me sometime.",
+    "zh": "有時間打給我吧。"
+   },
+   {
+    "en": "I sometimes watch TV.",
+    "zh": "我有時看電視。"
+   },
+   {
+    "en": "I feel sad sometimes.",
+    "zh": "我有時會感到傷心。"
+   }
+  ],
+  "synonyms": [
+   "erstwhile",
+   "former",
+   "old",
+   "onetime",
+   "one-time"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "belonging to some prior time",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0013",
+  "unit": 1,
+  "headword": "supervisor",
+  "ipa": ".sju:pә'vaizә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 管理者, 監督者, 指導者, 視導員\n[計] 管理程式",
+  "forms": {
+   "plural": "supervisors"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "one who supervises or has charge and direction of",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0014",
+  "unit": 1,
+  "headword": "refund",
+  "ipa": "'ri:fʌnd",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 償還\nvt. 付還, 償還借款\nvi. 歸還, 償還",
+  "forms": {
+   "plural": "refunds",
+   "pp": "refunded",
+   "past": "refunded",
+   "ing": "refunding",
+   "thirdSg": "refunds"
+  },
+  "examples": [
+   {
+    "en": "Can I get a refund for this train ticket?",
+    "zh": "這張火車票能報銷嗎？"
+   }
+  ],
+  "synonyms": [
+   "repayment",
+   "return",
+   "repay"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "money returned to a payer",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0015",
+  "unit": 1,
+  "headword": "goods",
+  "ipa": "guds",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 貨物\n[經] 貨物, 商品, 動產",
+  "forms": {
+   "plural": "goods"
+  },
+  "examples": [
+   {
+    "en": "Don't touch the goods.",
+    "zh": "不要觸碰這些貨物。"
+   },
+   {
+    "en": "They sell sporting goods.",
+    "zh": "他們賣體育用品。"
+   },
+   {
+    "en": "The goods arrived undamaged.",
+    "zh": "貨物毫無損壞地到達了。"
+   }
+  ],
+  "synonyms": [
+   "good",
+   "goodness"
+  ],
+  "antonyms": [
+   "evil",
+   "evilness",
+   "bad",
+   "badness"
+  ],
+  "phrases": null,
+  "defsEn": "benefit",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0016",
+  "unit": 1,
+  "headword": "workshop",
+  "ipa": "'wә:kʃɒp",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 工場, 車間, 研討會\n[計] 討論會; 專題研究組",
+  "forms": {
+   "plural": "workshops"
+  },
+  "examples": [
+   {
+    "en": "I adapted the garage for use as a workshop.",
+    "zh": "我把車庫改造成工作室使用。"
+   },
+   {
+    "en": "An old worker was found repairing machinery in the workshop.",
+    "zh": "有人發現一個老工人在車間修機器。"
+   }
+  ],
+  "synonyms": [
+   "shop"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "small workplace where handcrafts or manufacturing are done",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0017",
+  "unit": 1,
+  "headword": "downtown",
+  "ipa": "'daun'taun",
+  "pos": [
+   "n",
+   "adj",
+   "adv"
+  ],
+  "defsZh": "n. 市中心區\na. 市中心的\nadv. 往鬧市區",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I'm going downtown.",
+    "zh": "我進城去。"
+   },
+   {
+    "en": "We're going downtown.",
+    "zh": "我們正在去市裡。"
+   },
+   {
+    "en": "Give us a ride downtown.",
+    "zh": "載我們到市區。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "uptown"
+  ],
+  "phrases": null,
+  "defsEn": "the central area or commercial center of a town or city",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0018",
+  "unit": 1,
+  "headword": "deadline",
+  "ipa": "'dedlain",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 最後期限, 截止期限\n[經] 截止日期",
+  "forms": {
+   "plural": "deadlines"
+  },
+  "examples": [
+   {
+    "en": "She missed the deadline.",
+    "zh": "她錯過了最後期限。"
+   },
+   {
+    "en": "The deadline is approaching.",
+    "zh": "期限近了。"
+   },
+   {
+    "en": "Tom didn't know the deadline was today.",
+    "zh": "湯姆不知道今天是期限。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the point in time at which something must be completed",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0019",
+  "unit": 1,
+  "headword": "invoice",
+  "ipa": "'invɒis",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 發票, 發貨單\nv. 開發票, 記清單",
+  "forms": {
+   "plural": "invoices",
+   "pp": "invoiced",
+   "past": "invoiced",
+   "ing": "invoicing",
+   "thirdSg": "invoices"
+  },
+  "examples": [],
+  "synonyms": [
+   "bill",
+   "account"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an itemized statement of money owed for goods shipped or services rendered",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0020",
+  "unit": 1,
+  "headword": "brochure",
+  "ipa": "'brәuʃә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 小冊子, 小冊",
+  "forms": {
+   "plural": "brochures"
+  },
+  "examples": [
+   {
+    "en": "Could you send me a brochure?",
+    "zh": "你能寄宣傳冊給我嗎？"
+   }
+  ],
+  "synonyms": [
+   "booklet",
+   "folder",
+   "leaflet",
+   "pamphlet"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a small book usually having a paper cover",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0021",
+  "unit": 1,
+  "headword": "noon",
+  "ipa": "nu:n",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 正午, 中午, 全盛期",
+  "forms": {
+   "plural": "noons"
+  },
+  "examples": [
+   {
+    "en": "It is just noon.",
+    "zh": "現在才中午。"
+   },
+   {
+    "en": "Tom slept until noon.",
+    "zh": "湯姆睡到中午。"
+   },
+   {
+    "en": "We took lunch at noon.",
+    "zh": "我們在中午吃了飯。"
+   }
+  ],
+  "synonyms": [
+   "midday",
+   "noonday",
+   "noontide"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the middle of the day",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0022",
+  "unit": 1,
+  "headword": "accountant",
+  "ipa": "ә'kauntәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 會計人員, 會計師\n[經] 會計師, 會計人員",
+  "forms": {
+   "plural": "accountants"
+  },
+  "examples": [
+   {
+    "en": "I'm an accountant.",
+    "zh": "我是個會計師。"
+   },
+   {
+    "en": "Tom is an accountant.",
+    "zh": "湯姆是個會計師。"
+   },
+   {
+    "en": "Allan was lucky and passed the tax accountant examination.",
+    "zh": "艾倫很幸運地考過了稅務師考試。"
+   }
+  ],
+  "synonyms": [
+   "comptroller",
+   "controller"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who maintains and audits business accounts",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0023",
+  "unit": 1,
+  "headword": "clerk",
+  "ipa": "klә:k",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 辦事員, 職員, 文書\nvi. 當店員",
+  "forms": {
+   "plural": "clerks",
+   "ing": "clerking",
+   "past": "clerked",
+   "thirdSg": "clerks",
+   "pp": "clerked"
+  },
+  "examples": [
+   {
+    "en": "I'm a bank clerk.",
+    "zh": "我是一名銀行職員。"
+   },
+   {
+    "en": "She is a clerk in the supermarket.",
+    "zh": "她在超市做秘書。"
+   },
+   {
+    "en": "Bob worked as a clerk in the grocery store on Saturday.",
+    "zh": "每週六鮑勃在雜貨店做店員。"
+   }
+  ],
+  "synonyms": [
+   "salesclerk"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an employee who performs clerical work (e.g., keeps records or accounts)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0024",
+  "unit": 1,
+  "headword": "lobby",
+  "ipa": "'lɒbi",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 大廳, 休息室, 遊說議員者\nvi. 遊說議員, 遊說\nvt. 遊說",
+  "forms": {
+   "plural": "lobbies",
+   "ing": "lobbying",
+   "pp": "lobbied",
+   "past": "lobbied",
+   "thirdSg": "lobbies"
+  },
+  "examples": [
+   {
+    "en": "I have a friend waiting for me in the lobby.",
+    "zh": "有個朋友正在大堂等我。"
+   },
+   {
+    "en": "Meet me at the lobby of the Imperial Hotel at 6:30 p.m.",
+    "zh": "下午六點半到帝國酒店的大堂找我。"
+   }
+  ],
+  "synonyms": [
+   "anteroom",
+   "antechamber",
+   "hall",
+   "foyer",
+   "vestibule"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a large entrance or reception room or area",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0025",
+  "unit": 1,
+  "headword": "publish",
+  "ipa": "'pʌbliʃ",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 出版, 發行, 公開, 發表, 宣傳, 公佈\nvi. 出版, 發行",
+  "forms": {
+   "pp": "published",
+   "past": "published",
+   "ing": "publishing",
+   "thirdSg": "publishes"
+  },
+  "examples": [
+   {
+    "en": "Where was it published?",
+    "zh": "它發表在哪裡？"
+   },
+   {
+    "en": "He publishes books in Italy.",
+    "zh": "他在義大利出版圖書。"
+   },
+   {
+    "en": "The book was published in 1689.",
+    "zh": "這本書出版於1689年。"
+   }
+  ],
+  "synonyms": [
+   "print",
+   "issue",
+   "release",
+   "write"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "put into print",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0026",
+  "unit": 1,
+  "headword": "resume",
+  "ipa": "ri'zju:m",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 重新開始, 取回, 恢復\nvi. 再開始\nn. 摘要, 個人簡歷\n[計] 繼續執行",
+  "forms": {
+   "past": "resumed",
+   "pp": "resumed",
+   "ing": "resuming",
+   "thirdSg": "resumes",
+   "plural": "resumes"
+  },
+  "examples": [
+   {
+    "en": "I asked the company for his resume.",
+    "zh": "我向他公司詢問了他的經歷。"
+   },
+   {
+    "en": "I don't worry so much about my resume.",
+    "zh": "我對自己的履歷不那麼在意。"
+   }
+  ],
+  "synonyms": [
+   "sketch",
+   "survey",
+   "CV",
+   "restart",
+   "re-start"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "short descriptive summary (of events)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0027",
+  "unit": 1,
+  "headword": "enclose",
+  "ipa": "in'klәuz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 圍繞, 圈起, 放入封套, 附上",
+  "forms": {
+   "pp": "enclosed",
+   "ing": "enclosing",
+   "past": "enclosed",
+   "thirdSg": "encloses"
+  },
+  "examples": [
+   {
+    "en": "She sent me the enclosed check.",
+    "zh": "她把隨附的支票寄給了我。"
+   }
+  ],
+  "synonyms": [
+   "envelop",
+   "enfold",
+   "enwrap",
+   "wrap",
+   "confine"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "enclose or enfold completely with or as if with a covering",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0028",
+  "unit": 1,
+  "headword": "applicant",
+  "ipa": "'æplikәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 申請者\n[經] 申請人, 請求人, 謀事人",
+  "forms": {
+   "plural": "applicants"
+  },
+  "examples": [
+   {
+    "en": "Aren't there any qualified applicants?",
+    "zh": "沒有合格的申請人嗎？"
+   },
+   {
+    "en": "There were 20 failures among 50 applicants.",
+    "zh": "50個申請人中有20個不合格。"
+   },
+   {
+    "en": "Mary got the nod from among some 500 applicants.",
+    "zh": "瑪麗從大約500名申請者中脫穎而出。"
+   }
+  ],
+  "synonyms": [
+   "applier"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who requests or seeks something such as assistance or employment or admission",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0029",
+  "unit": 1,
+  "headword": "seminar",
+  "ipa": "'seminɑ:",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 研究班, 專題討論會\n[經] 討論會, 專家討論會",
+  "forms": {
+   "plural": "seminars"
+  },
+  "examples": [
+   {
+    "en": "How was the seminar?",
+    "zh": "研討會怎麼樣？"
+   },
+   {
+    "en": "Pretty good. Did you go to today's history seminar?",
+    "zh": "非常好。你去了今天的歷史研討會嗎？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "any meeting for an exchange of ideas",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0030",
+  "unit": 1,
+  "headword": "technician",
+  "ipa": "tek'niʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 技師\n[化] 技師",
+  "forms": {
+   "plural": "technicians"
+  },
+  "examples": [
+   {
+    "en": "That technician is highly skilled.",
+    "zh": "那位技師技術很好。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone whose occupation involves training in a specific technical process",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0031",
+  "unit": 1,
+  "headword": "cloth",
+  "ipa": "klɒ:θ. klɒθ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 布料, 織品, 布\n[建] 布",
+  "forms": {
+   "plural": "cloths"
+  },
+  "examples": [
+   {
+    "en": "This cloth irons well.",
+    "zh": "這塊布料被熨得很好。"
+   },
+   {
+    "en": "I sell clothing online.",
+    "zh": "我在網路上賣衣服。"
+   },
+   {
+    "en": "The girl tore the cloth.",
+    "zh": "那個女孩把布撕了。"
+   }
+  ],
+  "synonyms": [
+   "fabric",
+   "material",
+   "textile"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0032",
+  "unit": 1,
+  "headword": "fare",
+  "ipa": "fєә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 費用, 旅客, 食物\nvi. 進展, 進步, 經營, 過活",
+  "forms": {
+   "plural": "fares",
+   "pp": "fared",
+   "past": "fared",
+   "ing": "faring",
+   "thirdSg": "fares"
+  },
+  "examples": [
+   {
+    "en": "He paid double fare.",
+    "zh": "他付了兩倍的費用。"
+   },
+   {
+    "en": "How much is the fare?",
+    "zh": "車費多少錢？"
+   },
+   {
+    "en": "How much is the bus fare?",
+    "zh": "公車票價多少錢？"
+   }
+  ],
+  "synonyms": [
+   "menu",
+   "transportation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an agenda of things to do",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0033",
+  "unit": 1,
+  "headword": "receipt",
+  "ipa": "ri'si:t",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 收據, 收入, 收到\nvt. 開...的收據",
+  "forms": {
+   "plural": "receipts",
+   "ing": "receipting",
+   "past": "receipted",
+   "thirdSg": "receipts",
+   "pp": "receipted"
+  },
+  "examples": [
+   {
+    "en": "Have you a receipt?",
+    "zh": "你有沒有收據？"
+   },
+   {
+    "en": "I'd like a receipt, please.",
+    "zh": "麻煩我要一張收據。"
+   },
+   {
+    "en": "I lost my receipt and had to call customer service at both IKEA and the bank.",
+    "zh": "我遺失了收據，不得不給 IKEA 和銀行的客服部門打電話。"
+   }
+  ],
+  "synonyms": [
+   "reception",
+   "acknowledge"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of receiving",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0034",
+  "unit": 1,
+  "headword": "traveler",
+  "ipa": "'trævlә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 旅行者, 遊客, 旅客, 旅行推銷員, 活動起重架, 行車, 臨時記帳單",
+  "forms": {
+   "plural": "travelers"
+  },
+  "examples": [
+   {
+    "en": "Can I pay with a travelers check?",
+    "zh": "我能用旅行支票付嗎？"
+   },
+   {
+    "en": "The traveler was delighted at the sight of a light in the distance.",
+    "zh": "發現了遠處的燈光的旅行者歡喜不已。"
+   }
+  ],
+  "synonyms": [
+   "traveller"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who changes location",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0035",
+  "unit": 1,
+  "headword": "caller",
+  "ipa": "'kɒ:lә",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 訪客, 召集員, 傳喚員\na. 新鮮的\n[計] 呼叫方標識",
+  "forms": {
+   "plural": "callers"
+  },
+  "examples": [
+   {
+    "en": "The telephone operator asked the caller to hold on until a connection was made.",
+    "zh": "電話運營商提示來電人等候接通。"
+   }
+  ],
+  "synonyms": [
+   "company"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a social or business visitor",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0036",
+  "unit": 1,
+  "headword": "subway",
+  "ipa": "'sʌbwei",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 地鐵, 地道\nvi. 乘地鐵",
+  "forms": {
+   "plural": "subways"
+  },
+  "examples": [
+   {
+    "en": "They went by subway.",
+    "zh": "他們搭地鐵去的。"
+   },
+   {
+    "en": "Let's take the subway.",
+    "zh": "我們坐地鐵去吧。"
+   },
+   {
+    "en": "I go to school by subway.",
+    "zh": "我搭地鐵上學。"
+   }
+  ],
+  "synonyms": [
+   "metro",
+   "tube",
+   "underground",
+   "underpass"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an electric railway operating below the surface of the ground (usually in a city)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0037",
+  "unit": 1,
+  "headword": "luggage",
+  "ipa": "'lʌgidʒ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 行李, 皮箱",
+  "forms": {
+   "past": "luggaged"
+  },
+  "examples": [
+   {
+    "en": "I lost my luggage.",
+    "zh": "我的行李丟了。"
+   },
+   {
+    "en": "Here's my luggage.",
+    "zh": "這是我的行李。"
+   },
+   {
+    "en": "Which is your luggage?",
+    "zh": "哪個是你的行李？"
+   }
+  ],
+  "synonyms": [
+   "baggage"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "cases used to carry belongings when traveling",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0038",
+  "unit": 1,
+  "headword": "shipment",
+  "ipa": "'ʃipmәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 裝船, 出貨\n[經] 運送, 運送(寄出)貨物, 裝載",
+  "forms": {
+   "plural": "shipments"
+  },
+  "examples": [
+   {
+    "en": "In case the shipment is delayed, we have special delay insurance.",
+    "zh": "萬一船運遲了，我們有特別的遲到保險。"
+   }
+  ],
+  "synonyms": [
+   "cargo",
+   "lading",
+   "freight",
+   "load",
+   "loading"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "goods carried by a large vehicle",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0039",
+  "unit": 1,
+  "headword": "infer",
+  "ipa": "in'fә:",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 推論出, 推斷\nvi. 作推論",
+  "forms": {
+   "pp": "inferred",
+   "ing": "inferring",
+   "thirdSg": "infers",
+   "past": "inferred"
+  },
+  "examples": [],
+  "synonyms": [
+   "deduce",
+   "deduct",
+   "derive",
+   "generalize",
+   "generalise"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "reason by deduction; establish by deduction",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0040",
+  "unit": 1,
+  "headword": "waiter",
+  "ipa": "'weitә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 侍者",
+  "forms": {
+   "plural": "waiters"
+  },
+  "examples": [
+   {
+    "en": "I'm a waiter.",
+    "zh": "我是跑堂。"
+   },
+   {
+    "en": "Waiter, check please.",
+    "zh": "服務員，買單。"
+   },
+   {
+    "en": "I'm calling the waiter.",
+    "zh": "我叫服務員。"
+   }
+  ],
+  "synonyms": [
+   "server"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person whose occupation is to serve at table (as in a restaurant)",
+  "note": null,
+  "audioUrl": null
+ }
+]

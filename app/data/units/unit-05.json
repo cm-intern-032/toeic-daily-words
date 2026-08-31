@@ -1,0 +1,1316 @@
+[
+ {
+  "id": "w0161",
+  "unit": 5,
+  "headword": "highway",
+  "ipa": "'haiwei",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 公路, 大道, 捷徑\n[法] 公路, 大路",
+  "forms": {
+   "plural": "highways"
+  },
+  "examples": [
+   {
+    "en": "I took Highway 58.",
+    "zh": "我走58號高速公路。"
+   },
+   {
+    "en": "Do you want to take the highway?",
+    "zh": "要不要上高架走？"
+   },
+   {
+    "en": "Which way to the elevated highway?",
+    "zh": "那麼上高架走。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a major road for any form of motor transport",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0162",
+  "unit": 5,
+  "headword": "respondent",
+  "ipa": "ri'spɒndәnt",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 回答的, 應答的, 反射的\nn. 應答者, 被告",
+  "forms": {
+   "plural": "respondents"
+  },
+  "examples": [],
+  "synonyms": [
+   "responder",
+   "answerer",
+   "answering"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the codefendant (especially in a divorce proceeding) who is accused of adultery with the corespondent",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0163",
+  "unit": 5,
+  "headword": "jewelry",
+  "ipa": "'dʒu:әlri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 珠寶, 珠寶類",
+  "forms": null,
+  "examples": [
+   {
+    "en": "She wears a lot of jewelry.",
+    "zh": "她戴很多珠寶。"
+   },
+   {
+    "en": "They broke into the jewelry shop.",
+    "zh": "他們闖進了珠寶店。"
+   },
+   {
+    "en": "Mary doesn't usually wear jewelry.",
+    "zh": "瑪麗通常不戴首飾。"
+   }
+  ],
+  "synonyms": [
+   "jewellery"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an adornment (as a bracelet or ring or necklace) made of precious metals and set with gems (or imitation gems)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0164",
+  "unit": 5,
+  "headword": "overtime",
+  "ipa": "'әuvәtaim",
+  "pos": [
+   "n",
+   "adj",
+   "adv",
+   "v"
+  ],
+  "defsZh": "n. 超時, 加班, 延長時間\na. 超時的, 加班的\nadv. 加班地\nvt. 使超過時間",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I won't work overtime today.",
+    "zh": "今天我不加班。"
+   },
+   {
+    "en": "My boss made me work overtime.",
+    "zh": "我的老闆要我加班。"
+   },
+   {
+    "en": "He was forced to work overtime.",
+    "zh": "他被迫加班。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "regulation time"
+  ],
+  "phrases": null,
+  "defsEn": "work done in addition to regular working hours",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0165",
+  "unit": 5,
+  "headword": "battery",
+  "ipa": "'bætәri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 電池, 毆打\n[化] 蓄電池",
+  "forms": {
+   "plural": "batteries"
+  },
+  "examples": [
+   {
+    "en": "The battery died.",
+    "zh": "電池沒電了。"
+   },
+   {
+    "en": "The battery is low.",
+    "zh": "電池快沒電了。"
+   },
+   {
+    "en": "My battery is dead.",
+    "zh": "我的電池沒電了。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "group of guns or missile launchers operated together at one place",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0166",
+  "unit": 5,
+  "headword": "donate",
+  "ipa": "'dәuneit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 捐贈",
+  "forms": {
+   "pp": "donated",
+   "past": "donated",
+   "ing": "donating",
+   "thirdSg": "donates"
+  },
+  "examples": [
+   {
+    "en": "Have you ever donated blood?",
+    "zh": "你捐過血嗎？"
+   },
+   {
+    "en": "I donate blood every three months.",
+    "zh": "我每三個月獻一次血。"
+   },
+   {
+    "en": "Tom regularly donates money to charity.",
+    "zh": "湯姆時常捐錢。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "give to a charity or good cause",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0167",
+  "unit": 5,
+  "headword": "outstanding",
+  "ipa": ".aut'stændiŋ",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 傑出的, 突出的, 未償付的, 未決定的\n[經] 未解決的, 未償付",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He's a man of outstanding character.",
+    "zh": "他的人品出眾。"
+   },
+   {
+    "en": "He came across an outstanding young person.",
+    "zh": "他遇到了一個優秀的年輕人。"
+   },
+   {
+    "en": "My name is Lin Hsiao-jie. Jie as in \"outstanding.\"",
+    "zh": "我叫林小傑，傑出的傑。"
+   }
+  ],
+  "synonyms": [
+   "prominent",
+   "salient",
+   "spectacular",
+   "striking",
+   "owing"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "distinguished from others in excellence",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0168",
+  "unit": 5,
+  "headword": "skim",
+  "ipa": "skim",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "defsZh": "vt. 撇取浮沫, 略讀, 掠過\nvi. 擦過, 瀏覽\nn. 脫脂乳, 擦過, 表層物\na. 撇去浮沫的",
+  "forms": {
+   "ing": "skimming",
+   "past": "skimmed",
+   "pp": "skimmed",
+   "thirdSg": "skims",
+   "plural": "skims"
+  },
+  "examples": [],
+  "synonyms": [
+   "skimming",
+   "plane"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a thin layer covering the surface of a liquid",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0169",
+  "unit": 5,
+  "headword": "briefcase",
+  "ipa": "'bri:fkeis",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 公事包",
+  "forms": {
+   "plural": "briefcases"
+  },
+  "examples": [
+   {
+    "en": "I left my briefcase in the bus.",
+    "zh": "我把我的公事包留在公車上了。"
+   },
+   {
+    "en": "My briefcase is full of papers.",
+    "zh": "我的公事包裡裝滿了檔案。"
+   },
+   {
+    "en": "I left my briefcase on the bus.",
+    "zh": "我把我的公事包留在公車上了。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a case with a handle; for carrying papers or files or books",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0170",
+  "unit": 5,
+  "headword": "dessert",
+  "ipa": "di'zә:t",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 餐後甜點",
+  "forms": {
+   "plural": "desserts"
+  },
+  "examples": [
+   {
+    "en": "What is dessert?",
+    "zh": "甜點是什麼？"
+   },
+   {
+    "en": "What's the dessert?",
+    "zh": "有什麼甜點？"
+   },
+   {
+    "en": "I want some dessert.",
+    "zh": "我想要來點甜點。"
+   }
+  ],
+  "synonyms": [
+   "sweet",
+   "afters"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a dish served as the last course of a meal",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0171",
+  "unit": 5,
+  "headword": "impact",
+  "ipa": "'impækt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 衝擊, 衝突, 影響, 效果\nvt. 擠入, 撞擊, 壓緊, 對...發生影響",
+  "forms": {
+   "plural": "impacts",
+   "past": "impacted",
+   "pp": "impacted",
+   "ing": "impacting",
+   "thirdSg": "impacts"
+  },
+  "examples": [
+   {
+    "en": "What about the environmental impact?",
+    "zh": "那環境影響呢？"
+   },
+   {
+    "en": "They have no impact on the environment.",
+    "zh": "它們對環境一點都沒有影響。"
+   },
+   {
+    "en": "The blizzard has already had a severe impact on the economy.",
+    "zh": "這場暴風雪已經對經濟造成了很嚴重的影響。"
+   }
+  ],
+  "synonyms": [
+   "wallop",
+   "impingement",
+   "encroachment"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the striking of one body against another",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0172",
+  "unit": 5,
+  "headword": "innovative",
+  "ipa": "'inәjveitiv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 革新的, 創新的, 富有革新精神的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This is an innovative solution.",
+    "zh": "這是個創新的解法。"
+   }
+  ],
+  "synonyms": [
+   "advanced",
+   "forward-looking",
+   "modern",
+   "innovational",
+   "groundbreaking"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "ahead of the times",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0173",
+  "unit": 5,
+  "headword": "inquire",
+  "ipa": "in'kwaiә",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 詢問, 問明, 查究",
+  "forms": {
+   "past": "inquired",
+   "ing": "inquiring",
+   "pp": "inquired",
+   "thirdSg": "inquires"
+  },
+  "examples": [
+   {
+    "en": "They are inquiring into the matter.",
+    "zh": "他們正在調查這件事。"
+   },
+   {
+    "en": "The committee inquired into the cause of the accident.",
+    "zh": "委員會調查了事故的原因。"
+   },
+   {
+    "en": "When I met my former teacher, he inquired after my parents.",
+    "zh": "我遇見了以前的班主任時，他問候了我的父母。"
+   }
+  ],
+  "synonyms": [
+   "ask",
+   "enquire",
+   "wonder",
+   "investigate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "inquire about",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0174",
+  "unit": 5,
+  "headword": "overnight",
+  "ipa": "'әuvәnait",
+  "pos": [
+   "n",
+   "adj",
+   "adv"
+  ],
+  "defsZh": "n. 前一天晚上, 一夜的逗留\na. 通宵的, 晚上的, 前夜的\nadv. 在前一夜, 整夜, 昨晚一晚上",
+  "forms": {
+   "plural": "overnights"
+  },
+  "examples": [
+   {
+    "en": "We stayed overnight in Hakone.",
+    "zh": "我們在箱根過了夜。"
+   },
+   {
+    "en": "Is this maxi pad for overnight use?",
+    "zh": "這是夜用的衛生巾嗎？"
+   },
+   {
+    "en": "English cannot be mastered overnight.",
+    "zh": "英語不是一朝一夕就能學會的。"
+   }
+  ],
+  "synonyms": [
+   "nightlong",
+   "all-night"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "lasting, open, or operating through the whole night",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0175",
+  "unit": 5,
+  "headword": "venue",
+  "ipa": "'venju:",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 犯罪地點, 審判地, 發生地點",
+  "forms": {
+   "plural": "venues"
+  },
+  "examples": [
+   {
+    "en": "Our venue wasn't renovated too long ago.",
+    "zh": "我們的場地不久前翻新了。"
+   },
+   {
+    "en": "Inside the venue, sounds of clapping, whistling, yelling, laughing blended together.",
+    "zh": "會場內，掌聲、哨聲、喊聲、笑聲亂成了一鍋粥。"
+   }
+  ],
+  "synonyms": [
+   "locale",
+   "locus"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the scene of any event or action (especially the place of a meeting)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0176",
+  "unit": 5,
+  "headword": "commuter",
+  "ipa": "kә'mju:tә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 乘公共車輛上下班者, 月季票乘客\n[經] 非(當地)居民",
+  "forms": {
+   "plural": "commuters"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a passenger train that is ridden primarily by passengers who travel regularly from one place to another",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0177",
+  "unit": 5,
+  "headword": "logo",
+  "ipa": "'lәugәu",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 連合活字, 商標, 徽標\n[計] 徽標",
+  "forms": {
+   "plural": "logos"
+  },
+  "examples": [
+   {
+    "en": "You can withdraw money from ATMs that have the \"UnionPay\" logo.",
+    "zh": "你可以到有“銀聯”標誌的ATM機裡去取錢。"
+   },
+   {
+    "en": "The sidebar is displayed on the edge of the page below the site logo.",
+    "zh": "側邊欄顯示在網站標誌下方的頁面邊緣。"
+   }
+  ],
+  "synonyms": [
+   "logotype"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a company emblem or device",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0178",
+  "unit": 5,
+  "headword": "newsletter",
+  "ipa": "'nju:z.letә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 時事通訊, 業務通訊, 時事傳報\n[法] 時事通訊, 時事信札",
+  "forms": {
+   "plural": "newsletters"
+  },
+  "examples": [],
+  "synonyms": [
+   "newssheet"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "report or open letter giving informal or confidential news of interest to a special group",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0179",
+  "unit": 5,
+  "headword": "advisor",
+  "ipa": "әd'vaizә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 顧問, 勸告者, 指導教師",
+  "forms": {
+   "plural": "advisors"
+  },
+  "examples": [],
+  "synonyms": [
+   "adviser",
+   "consultant"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an expert who gives advice",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0180",
+  "unit": 5,
+  "headword": "cartridge",
+  "ipa": "'kɑ:tridʒ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 彈藥筒, 彈藥, 一卷軟片, 墨粉鼓\n[計] 盒式磁帶機",
+  "forms": {
+   "plural": "cartridges"
+  },
+  "examples": [
+   {
+    "en": "Please replace the empty ink cartridge in the printer.",
+    "zh": "請把印表機裡面的空的墨粉鼓換掉。"
+   }
+  ],
+  "synonyms": [
+   "magazine"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "ammunition consisting of a cylindrical casing containing an explosive charge and a bullet; fired from a rifle or handgun",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0181",
+  "unit": 5,
+  "headword": "cloudy",
+  "ipa": "'klaudi",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 多雲的, 有愁容的, 雲的, 渾濁的\n[建] (混)濁的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "It'll be cloudy.",
+    "zh": "天要變多雲了。"
+   },
+   {
+    "en": "It's cloudy today.",
+    "zh": "今天多雲。"
+   },
+   {
+    "en": "It's getting cloudy.",
+    "zh": "開始多雲了。"
+   }
+  ],
+  "synonyms": [
+   "nebulose",
+   "nebulous",
+   "muddy",
+   "mirky",
+   "murky"
+  ],
+  "antonyms": [
+   "clear"
+  ],
+  "phrases": null,
+  "defsEn": "lacking definite form or limits; - H.T.Moore",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0182",
+  "unit": 5,
+  "headword": "photographer",
+  "ipa": "fә'tɔ^rәfә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 攝影師, 攝影者",
+  "forms": {
+   "plural": "photographers"
+  },
+  "examples": [
+   {
+    "en": "I'm a professional photographer.",
+    "zh": "我是專業攝影師。"
+   },
+   {
+    "en": "You're a brilliant photographer.",
+    "zh": "你是一名傑出的攝影師。"
+   },
+   {
+    "en": "Who's your favorite photographer?",
+    "zh": "誰是你最喜歡的攝影師？"
+   }
+  ],
+  "synonyms": [
+   "lensman"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who takes photographs professionally",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0183",
+  "unit": 5,
+  "headword": "shopper",
+  "ipa": "'ʃɒpә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 購物者\n[經] 顧客, 購物的人",
+  "forms": {
+   "plural": "shoppers"
+  },
+  "examples": [
+   {
+    "en": "Shoppers crowded the streets.",
+    "zh": "街道擠滿了購物的人。"
+   },
+   {
+    "en": "Black Friday sales attract shoppers.",
+    "zh": "黑色星期五促銷活動吸引了許多購物者。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who visits stores in search of articles to buy",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0184",
+  "unit": 5,
+  "headword": "tag",
+  "ipa": "tæg",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 標籤, 附屬物, 碎片, 結束語, 口頭禪, 附加語, 渾名, 標記, 標記符\nvt. 附以籤條, 尾隨, 添飾, 起渾名, 連線\nvi. 緊緊跟隨\n[計] 標記",
+  "forms": {
+   "plural": "tags",
+   "pp": "tagged",
+   "ing": "tagging",
+   "past": "tagged",
+   "thirdSg": "tags"
+  },
+  "examples": [
+   {
+    "en": "May I see your claim tags?",
+    "zh": "我可以看看你的行李條嗎？"
+   },
+   {
+    "en": "I'm going to run a couple of errands. Wanna tag along?",
+    "zh": "我要去購物。你要跟著來嗎？"
+   },
+   {
+    "en": "I lost my earbuds. Good thing I still have Apple Air Tags.",
+    "zh": "我把我的耳機弄丟了。好在我還有蘋果的Air Tag"
+   }
+  ],
+  "synonyms": [
+   "ticket",
+   "rag",
+   "shred",
+   "tatter"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a label written or printed on paper, cardboard, or plastic that is attached to something to indicate its owner, nature, price, etc.",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0185",
+  "unit": 5,
+  "headword": "announcer",
+  "ipa": "ә'naunsә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 節目報告員, 宣告者",
+  "forms": {
+   "plural": "announcers"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who proclaims a message publicly",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0186",
+  "unit": 5,
+  "headword": "aspect",
+  "ipa": "'æspekt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 外觀, 方面, 面貌, 方向\n[醫] 方面, 局面; 外觀",
+  "forms": {
+   "plural": "aspects"
+  },
+  "examples": [
+   {
+    "en": "Only some students understand that aspect.",
+    "zh": "只有幾個學生懂那個方面。"
+   },
+   {
+    "en": "Imagination affects every aspect of our lives.",
+    "zh": "想像力影響著我們生活的各個方面。"
+   },
+   {
+    "en": "He stressed the convenient aspects of city life.",
+    "zh": "他強調都市生活的便利方面。"
+   }
+  ],
+  "synonyms": [
+   "facet",
+   "view",
+   "prospect",
+   "scene",
+   "vista"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a distinct feature or element in a problem",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0187",
+  "unit": 5,
+  "headword": "audit",
+  "ipa": "'ɒ:dit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 審計, 查帳\nvt. 查(帳), 旁聽\nvi. 查賬\n[計] 查帳; 審查; 檢查",
+  "forms": {
+   "plural": "audits",
+   "ing": "auditing",
+   "pp": "audited",
+   "past": "audited",
+   "thirdSg": "audits"
+  },
+  "examples": [],
+  "synonyms": [
+   "scrutinize",
+   "scrutinise",
+   "inspect"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an inspection of the accounting procedures and records by a trained accountant or CPA",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0188",
+  "unit": 5,
+  "headword": "contractor",
+  "ipa": "'kɒntræktә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 立契約的人, 承包商\n[化] 承包者; 承包工廠",
+  "forms": {
+   "plural": "contractors"
+  },
+  "examples": [
+   {
+    "en": "I can't calculate the final cost without first discussing it with our contractors.",
+    "zh": "不先與我們的承包商討論的話我無法計算出最後的費用。"
+   }
+  ],
+  "synonyms": [
+   "declarer"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone (a person or firm) who contracts to build things",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0189",
+  "unit": 5,
+  "headword": "download",
+  "ipa": null,
+  "pos": null,
+  "defsZh": "[計] 解除安裝, 下栽",
+  "forms": {
+   "pp": "downloaded",
+   "ing": "downloading",
+   "past": "downloaded",
+   "plural": "downloads",
+   "thirdSg": "downloads"
+  },
+  "examples": [
+   {
+    "en": "Go download QQ.",
+    "zh": "下個QQ。"
+   },
+   {
+    "en": "Gonna download QQ.",
+    "zh": "下個QQ。"
+   },
+   {
+    "en": "Let me download QQ.",
+    "zh": "下個QQ。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "upload"
+  ],
+  "phrases": null,
+  "defsEn": "transfer a file or program from a central computer to a smaller computer or to a computer at a remote location",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0190",
+  "unit": 5,
+  "headword": "password",
+  "ipa": "'pæswә:d",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 密碼, 口令, 通行手段\n[計] 口令",
+  "forms": {
+   "plural": "passwords"
+  },
+  "examples": [
+   {
+    "en": "Do you know the password?",
+    "zh": "你知道密碼嗎？"
+   },
+   {
+    "en": "The password is \"Muiriel\".",
+    "zh": "密碼是\"Muiriel\"。"
+   },
+   {
+    "en": "What's the Wi-Fi password?",
+    "zh": "Wifi的密碼是什麼？"
+   }
+  ],
+  "synonyms": [
+   "watchword",
+   "word",
+   "parole",
+   "countersign"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a secret word or phrase known only to a restricted group",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0191",
+  "unit": 5,
+  "headword": "prohibit",
+  "ipa": "prә'hibit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 禁止, 阻止\n[經] 禁止",
+  "forms": {
+   "pp": "prohibited",
+   "ing": "prohibiting",
+   "thirdSg": "prohibits",
+   "past": "prohibited"
+  },
+  "examples": [
+   {
+    "en": "Smoking is prohibited.",
+    "zh": "禁止吸菸。"
+   },
+   {
+    "en": "Spitting is prohibited.",
+    "zh": "禁止吐痰。"
+   },
+   {
+    "en": "Photography is prohibited.",
+    "zh": "禁止拍照。"
+   }
+  ],
+  "synonyms": [
+   "forbid",
+   "interdict",
+   "proscribe",
+   "veto",
+   "disallow"
+  ],
+  "antonyms": [
+   "permit",
+   "allow"
+  ],
+  "phrases": null,
+  "defsEn": "command against",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0192",
+  "unit": 5,
+  "headword": "stadium",
+  "ipa": "'steidiәm",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 露天大型運動場\n[醫] 期, 病期",
+  "forms": {
+   "plural": "stadia"
+  },
+  "examples": [
+   {
+    "en": "He's been to the stadium.",
+    "zh": "他去過體育館。"
+   },
+   {
+    "en": "She is going to Chiba Stadium.",
+    "zh": "她將去千葉球場。"
+   },
+   {
+    "en": "Last night I went to the stadium.",
+    "zh": "昨晚我去了體育場。"
+   }
+  ],
+  "synonyms": [
+   "bowl",
+   "arena"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a large structure for open-air sports or entertainments",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0193",
+  "unit": 5,
+  "headword": "terminal",
+  "ipa": "'tә:minәl",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 終端機, 終點, 末端, 極限, 終點站\na. 終點的, 定期的, 致死的, 結尾的, 末端的, 晚期的\n[計] 終端; 終端裝置",
+  "forms": {
+   "plural": "terminals"
+  },
+  "examples": [
+   {
+    "en": "Life is a sexually transmitted terminal disease.",
+    "zh": "生命是一種致命的性傳染病。"
+   }
+  ],
+  "synonyms": [
+   "terminus",
+   "depot",
+   "pole",
+   "end"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "station where transport vehicles load or unload passengers or goods",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0194",
+  "unit": 5,
+  "headword": "weekday",
+  "ipa": "'wi:kdei",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 週日, 平日\n[計] 工作日",
+  "forms": {
+   "plural": "weekdays"
+  },
+  "examples": [
+   {
+    "en": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
+    "zh": "工作日是：週一，週二，週三，週四，和週五。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "any day except Sunday (and sometimes except Saturday)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0195",
+  "unit": 5,
+  "headword": "bonus",
+  "ipa": "'bәunәs",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 獎金, 紅利\n[經] 獎金, 紅利, 額外補貼",
+  "forms": {
+   "plural": "bonuses"
+  },
+  "examples": [],
+  "synonyms": [
+   "fillip",
+   "incentive"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "anything that tends to arouse",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0196",
+  "unit": 5,
+  "headword": "cart",
+  "ipa": "kɑ:t",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 二輪運貨馬車\nvi. 駕運貨馬車\nvt. 用車裝載",
+  "forms": {
+   "plural": "carts",
+   "pp": "carted",
+   "past": "carted",
+   "ing": "carting",
+   "thirdSg": "carts"
+  },
+  "examples": [
+   {
+    "en": "I saw a horse pulling a cart.",
+    "zh": "我看見一匹馬拉著一架馬車。"
+   },
+   {
+    "en": "Don't put the cart before the horse.",
+    "zh": "不要把馬車放在馬的前面。"
+   },
+   {
+    "en": "Jessie strolled along beside the cart.",
+    "zh": "傑西推著手推車散步。"
+   }
+  ],
+  "synonyms": [
+   "handcart",
+   "pushcart",
+   "go-cart",
+   "haul",
+   "hale"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a heavy open wagon usually having two wheels and drawn by an animal",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0197",
+  "unit": 5,
+  "headword": "delicious",
+  "ipa": "di'liʃәs",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 美味的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "It is delicious.",
+    "zh": "很美味。"
+   },
+   {
+    "en": "This is delicious.",
+    "zh": "很美味。"
+   },
+   {
+    "en": "It's all delicious!",
+    "zh": "全都好吃！"
+   }
+  ],
+  "synonyms": [
+   "delightful",
+   "delectable",
+   "luscious",
+   "pleasant-tasting",
+   "scrumptious"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "variety of sweet eating apples",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0198",
+  "unit": 5,
+  "headword": "ink",
+  "ipa": "iŋk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 墨水, 墨汁\nvt. 塗墨水於, 簽署, 加墨水",
+  "forms": {
+   "plural": "inks",
+   "pp": "inked",
+   "ing": "inking",
+   "past": "inked",
+   "thirdSg": "inks"
+  },
+  "examples": [
+   {
+    "en": "This ink is colorful.",
+    "zh": "這種墨水顏色鮮豔。"
+   },
+   {
+    "en": "May I use your ink pad?",
+    "zh": "可以借你的印臺一用嗎？"
+   },
+   {
+    "en": "Don't write in red ink.",
+    "zh": "別用紅墨水寫。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a liquid used for printing or writing or drawing",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0199",
+  "unit": 5,
+  "headword": "supervise",
+  "ipa": "'sju:pәvaiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 監督, 管理, 指導",
+  "forms": {
+   "pp": "supervised",
+   "ing": "supervising",
+   "past": "supervised",
+   "thirdSg": "supervises"
+  },
+  "examples": [],
+  "synonyms": [
+   "oversee",
+   "superintend",
+   "manage",
+   "monitor"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "watch and direct",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0200",
+  "unit": 5,
+  "headword": "waitress",
+  "ipa": "'weitris",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 女侍者, 女服務員",
+  "forms": {
+   "plural": "waitresses",
+   "ing": "waitressing",
+   "pp": "waitressed",
+   "thirdSg": "waitresses",
+   "past": "waitressed"
+  },
+  "examples": [
+   {
+    "en": "Waitress, I'd like to order.",
+    "zh": "服務生，我要點菜。"
+   },
+   {
+    "en": "This pub has very beautiful waitresses.",
+    "zh": "這個酒吧的女服務員很漂亮。"
+   }
+  ],
+  "synonyms": [
+   "wait"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a woman waiter",
+  "note": null,
+  "audioUrl": null
+ }
+]

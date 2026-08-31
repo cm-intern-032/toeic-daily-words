@@ -1,0 +1,17 @@
+M0 coverage report — TOEIC 單字學習 App 第一版
+字表：TSL 1.2 前 400 字（依 TOEIC 語料頻率），單元 = 每 40 字
+
+欄位                                覆蓋   門檻   判定
+中文釋義                400/400 = 100.0%   100%   PASS
+IPA 音標               393/400 = 98.2%   >=90%  PASS
+詞性                   394/400 = 98.5%   (參考)  —
+變形(名/動)              320/339 = 94.4%   >=80%  PASS
+英英釋義                 396/400 = 99.0%   >=95%  PASS
+同/反義詞                318/400 = 79.5%   >=60%  PASS
+例句含中譯                311/400 = 77.8%   >=50%  PASS
+
+缺 IPA：e-book, coworker, laptop, workplace, download, affordable, ice cream
+缺英英釋義：e-book, coworker, distractor, ice cream
+缺例句：e-book, memo, supervisor, invoice, infer, preview, inventory, inference, merchandise, receptionist, reschedule, renovation, explanatory, attendee, mini, fitness, distractor, photocopy, copier, provider, bulletin, respondent, skim, commuter, newsletter, advisor, announcer, audit, bonus, supervise, coordinate, complimentary, productivity, relocate, trainee, transaction, courier, incomplete, questionnaire, presenter, exclusive, memorandum, photocopier, thorough, dental, duration, lounge, patron, salesperson, correspondence, sculpture, ice cream, occupancy, proficiency, renewal, illogical, conductor, expertise, graph, taker, utility, banker, minimize, protective, seller, transit, casual, retailer, vacancy, cumulative, knowledgeable, organizer, overdue, subscriber, plumber, specification, auto, deduction, flyer, franchise, showroom, administrator, cancellation, confidential, finalize, incur, luncheon, overview, accomplishment
+
+TSL 前段被跳過的字（原因）：
