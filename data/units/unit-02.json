@@ -1,0 +1,1363 @@
+[
+ {
+  "id": "w0041",
+  "unit": 2,
+  "headword": "rental",
+  "ipa": "'rentl",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 租費, 租金收入\na. 租賃的, 收取租金的",
+  "forms": {
+   "plural": "rentals"
+  },
+  "examples": [
+   {
+    "en": "How many rental cars do you want?",
+    "zh": "你們要幾輛計程車？"
+   },
+   {
+    "en": "The rental should be somewhat close to where I work.",
+    "zh": "租的房屋要離我工作地方近一點。"
+   },
+   {
+    "en": "The car rental agency provided excellent customer service.",
+    "zh": "這家汽車租賃公司提供了優質的客服業務。"
+   }
+  ],
+  "synonyms": [
+   "lease",
+   "letting",
+   "renting"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "property that is leased or rented out or let",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0042",
+  "unit": 2,
+  "headword": "warranty",
+  "ipa": "'wɒ:rәnti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 正當理由, 授權, 擔保, 保證, 根據\n[經] 保單, 擔保書, 保證書",
+  "forms": {
+   "plural": "warranties"
+  },
+  "examples": [
+   {
+    "en": "A good warranty would make me feel better.",
+    "zh": "優質的保固能讓我安心。"
+   }
+  ],
+  "synonyms": [
+   "guarantee",
+   "warrant",
+   "warrantee"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a written assurance that some product or service will be provided or will meet certain specifications",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0043",
+  "unit": 2,
+  "headword": "cafeteria",
+  "ipa": ".kæfi'tiәriә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 自助餐廳\n[經] 自助餐廳",
+  "forms": {
+   "plural": "cafeterias"
+  },
+  "examples": [
+   {
+    "en": "He eats lunch at a cafeteria.",
+    "zh": "他在自助餐廳吃午餐。"
+   },
+   {
+    "en": "He was going to the cafeteria.",
+    "zh": "他要去自助餐廳。"
+   },
+   {
+    "en": "I'd like to work at the cafeteria.",
+    "zh": "我想在餐廳工作。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a restaurant where you serve yourself and pay a cashier",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0044",
+  "unit": 2,
+  "headword": "chef",
+  "ipa": "ʃef",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 廚師",
+  "forms": {
+   "plural": "chefs"
+  },
+  "examples": [
+   {
+    "en": "Tom is a famous chef.",
+    "zh": "湯姆是有名的廚師。"
+   },
+   {
+    "en": "We have a very good chef.",
+    "zh": "我們有一位非常好的廚師。"
+   },
+   {
+    "en": "Our chef is very busy today.",
+    "zh": "我們的廚師今天很忙。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a professional cook",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0045",
+  "unit": 2,
+  "headword": "elevator",
+  "ipa": "'eliveitә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 電梯, 升降機\n[化] 提升機",
+  "forms": {
+   "plural": "elevators"
+  },
+  "examples": [
+   {
+    "en": "Where is the elevator?",
+    "zh": "電梯在哪裡？"
+   },
+   {
+    "en": "Where are the elevators?",
+    "zh": "電梯在哪裡？"
+   },
+   {
+    "en": "Do you have an elevator?",
+    "zh": "你們有電梯嗎？"
+   }
+  ],
+  "synonyms": [
+   "lift"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0046",
+  "unit": 2,
+  "headword": "reception",
+  "ipa": "ri'sepʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 接待, 接受, 招待會\n[醫] 接受, 感受",
+  "forms": {
+   "plural": "receptions"
+  },
+  "examples": [
+   {
+    "en": "Reception in the cellar is very poor.",
+    "zh": "地下室裡的訊號很差。"
+   },
+   {
+    "en": "My mobile doesn't have any reception.",
+    "zh": "我手機沒訊號。"
+   },
+   {
+    "en": "My cell phone doesn't have any reception.",
+    "zh": "我手機沒訊號。"
+   }
+  ],
+  "synonyms": [
+   "response"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the manner in which something is greeted",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0047",
+  "unit": 2,
+  "headword": "correctly",
+  "ipa": "kә'rektli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 對, 正確, 恰當, 符合一般性準則, 符合行為準則, 端正, 符合",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tomiko guessed my weight correctly.",
+    "zh": "富子猜中了我的體重。"
+   },
+   {
+    "en": "You are not answering the question correctly.",
+    "zh": "你所答非所問。"
+   },
+   {
+    "en": "Do you know how to correctly hold chopsticks?",
+    "zh": "你知道要怎麼拿筷子才是正確的嗎？"
+   }
+  ],
+  "synonyms": [
+   "right",
+   "aright"
+  ],
+  "antonyms": [
+   "incorrectly",
+   "wrongly"
+  ],
+  "phrases": null,
+  "defsEn": "in an accurate manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0048",
+  "unit": 2,
+  "headword": "lease",
+  "ipa": "li:s",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 租約, 租期, 租\nvt. 出租, 租出, 租得",
+  "forms": {
+   "plural": "leases",
+   "pp": "leased",
+   "ing": "leasing",
+   "past": "leased",
+   "thirdSg": "leases"
+  },
+  "examples": [
+   {
+    "en": "I signed the lease today.",
+    "zh": "我今天簽了租約。"
+   }
+  ],
+  "synonyms": [
+   "rental",
+   "letting"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "property that is leased or rented out or let",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0049",
+  "unit": 2,
+  "headword": "bicycle",
+  "ipa": "'baisikl",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 腳踏車",
+  "forms": {
+   "plural": "bicycles",
+   "past": "bicycled",
+   "ing": "bicycling",
+   "pp": "bicycled",
+   "thirdSg": "bicycles"
+  },
+  "examples": [
+   {
+    "en": "It's my bicycle.",
+    "zh": "這是我的腳踏車。"
+   },
+   {
+    "en": "He has a bicycle.",
+    "zh": "他有一架單車。"
+   },
+   {
+    "en": "I have a bicycle.",
+    "zh": "我有一輛腳踏車。"
+   }
+  ],
+  "synonyms": [
+   "bike",
+   "wheel",
+   "cycle",
+   "pedal"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a wheeled vehicle that has two wheels and is moved by foot pedals",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0050",
+  "unit": 2,
+  "headword": "notify",
+  "ipa": "'nәutifai",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 通知, 通告, 報告\n[計] 通知",
+  "forms": {
+   "pp": "notified",
+   "ing": "notifying",
+   "past": "notified",
+   "thirdSg": "notifies"
+  },
+  "examples": [
+   {
+    "en": "I will notify you of the arrival of the goods.",
+    "zh": "貨物運到，我會通知你們的。"
+   },
+   {
+    "en": "He notified the police of the traffic accident.",
+    "zh": "他把交通事故通知了警察。"
+   },
+   {
+    "en": "Please fill out this form and wait for us to notify you.",
+    "zh": "請你把這張表填一下，等我們的通知。"
+   }
+  ],
+  "synonyms": [
+   "advise",
+   "apprise",
+   "apprize"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "inform (somebody) of something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0051",
+  "unit": 2,
+  "headword": "preview",
+  "ipa": "'pri:vju:",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 事先檢視, 預覽\nvt. 事先檢視, 預演\n[計] 預覽",
+  "forms": {
+   "plural": "previews",
+   "pp": "previewed",
+   "ing": "previewing",
+   "past": "previewed",
+   "thirdSg": "previews"
+  },
+  "examples": [],
+  "synonyms": [
+   "prevue",
+   "trailer"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0052",
+  "unit": 2,
+  "headword": "attendant",
+  "ipa": "ә'tendәnt",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 隨從, 侍者, 出席者\na. 侍候的, 伴隨的, 出席的, 在場的",
+  "forms": {
+   "plural": "attendants"
+  },
+  "examples": [
+   {
+    "en": "Tom is a flight attendant.",
+    "zh": "湯姆是空服員。"
+   }
+  ],
+  "synonyms": [
+   "attender",
+   "tender",
+   "attendee",
+   "meeter",
+   "accompaniment"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who waits on or tends to or attends to the needs of another",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0053",
+  "unit": 2,
+  "headword": "subscription",
+  "ipa": "sәb'skripʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 捐獻, 訂金, 訂閱, 簽署, 同意\n[化] 訂購",
+  "forms": {
+   "plural": "subscriptions"
+  },
+  "examples": [
+   {
+    "en": "All subscriptions must be paid before the end of this year.",
+    "zh": "所有訂購必須在今年年底前支付款項。"
+   },
+   {
+    "en": "The subscription service is available for a fixed monthly fee with a one-month free trial.",
+    "zh": "此訂閱服務的月費為固定金額，並提供免費試用一個月。"
+   },
+   {
+    "en": "The monthly fee for this subscription service is fixed, and it offers a one-month free trial.",
+    "zh": "此訂閱服務的月費為固定金額，並提供免費試用一個月。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a payment for consecutive issues of a newspaper or magazine for a given period of time",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0054",
+  "unit": 2,
+  "headword": "convenient",
+  "ipa": "kәn'vi:njәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 方便的, 合宜的\n[法] 適當的, 合理而可行的, 方便的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "It's much more convenient.",
+    "zh": "這方便得多了。"
+   },
+   {
+    "en": "When is it convenient for you?",
+    "zh": "你什麼時候方便？"
+   },
+   {
+    "en": "Would 8:30 be convenient for you?",
+    "zh": "八時半方便你嗎？"
+   }
+  ],
+  "synonyms": [
+   "commodious"
+  ],
+  "antonyms": [
+   "inconvenient",
+   "incommodious"
+  ],
+  "phrases": null,
+  "defsEn": "suited to your comfort or purpose or needs",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0055",
+  "unit": 2,
+  "headword": "manual",
+  "ipa": "'mænjuәl",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 手冊, 指南\na. 手的, 手動的, 手工的, 體力的\n[計] 人工的, 手動的",
+  "forms": {
+   "plural": "manuals"
+  },
+  "examples": [
+   {
+    "en": "I'm unable to do manual labour.",
+    "zh": "我不能做體力勞動。"
+   },
+   {
+    "en": "She was reading a gardening manual.",
+    "zh": "她正在讀一本園藝手冊。"
+   },
+   {
+    "en": "Can you drive a manual transmission?",
+    "zh": "你會開手排車嗎?"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a small handbook",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0056",
+  "unit": 2,
+  "headword": "clue",
+  "ipa": "klu:",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 線索, 暗示\nvt. 暗示, 提供線索",
+  "forms": {
+   "plural": "clues",
+   "pp": "clued",
+   "past": "clued",
+   "ing": "cluing",
+   "thirdSg": "clues"
+  },
+  "examples": [
+   {
+    "en": "I have no clue.",
+    "zh": "我一無所知。"
+   },
+   {
+    "en": "The police didn't find any clues.",
+    "zh": "警方沒有發現任何線索。"
+   },
+   {
+    "en": "I haven't got a clue as to why he quit so suddenly.",
+    "zh": "我完全不明白他為甚麼會突然辭職。"
+   }
+  ],
+  "synonyms": [
+   "hint",
+   "clew",
+   "cue"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a slight indication",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0057",
+  "unit": 2,
+  "headword": "garage",
+  "ipa": "gә'rɑ:ʒ. 'gærɑ:ʒ",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 車庫, 汽車修理廠, 機庫\nvt. 把車送入修車場",
+  "forms": {
+   "plural": "garages",
+   "ing": "garaging",
+   "pp": "garaged",
+   "past": "garaged",
+   "thirdSg": "garages"
+  },
+  "examples": [
+   {
+    "en": "Do you have a garage?",
+    "zh": "你有車庫嗎？"
+   },
+   {
+    "en": "The car is in the garage.",
+    "zh": "車在車庫裡。"
+   },
+   {
+    "en": "I forgot it in the garage.",
+    "zh": "我把它忘在車庫裡了。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an outbuilding (or part of a building) for housing automobiles",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0058",
+  "unit": 2,
+  "headword": "obtain",
+  "ipa": "әb'tein",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 獲得, 達到\nvi. 流行, 得到公認",
+  "forms": {
+   "pp": "obtained",
+   "ing": "obtaining",
+   "past": "obtained",
+   "thirdSg": "obtains"
+  },
+  "examples": [
+   {
+    "en": "You obtained more than me.",
+    "zh": "你獲得的比我多。"
+   },
+   {
+    "en": "Knowledge can only be obtained by study.",
+    "zh": "只有學習才能獲得知識。"
+   },
+   {
+    "en": "I am able to obtain a registration form for free.",
+    "zh": "我可以免費獲取一份登錄檔格。"
+   }
+  ],
+  "synonyms": [
+   "receive",
+   "get",
+   "find",
+   "incur",
+   "prevail"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "come into possession of",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0059",
+  "unit": 2,
+  "headword": "oval",
+  "ipa": "'әuvәl",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 橢圓形\na. 卵形的, 橢圓形的",
+  "forms": {
+   "plural": "ovals"
+  },
+  "examples": [
+   {
+    "en": "She has an oval face.",
+    "zh": "她有一張橢圓形的臉。"
+   }
+  ],
+  "synonyms": [
+   "ellipse",
+   "egg-shaped",
+   "elliptic",
+   "elliptical",
+   "oval-shaped"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0060",
+  "unit": 2,
+  "headword": "inventory",
+  "ipa": "'invәntәri",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 詳細目錄, 存貨清單\nvt. 列入詳細目錄, 清點存貨\n[計] 存貨清單",
+  "forms": {
+   "plural": "inventories",
+   "past": "inventoried",
+   "pp": "inventoried",
+   "ing": "inventorying",
+   "thirdSg": "inventories"
+  },
+  "examples": [],
+  "synonyms": [
+   "stock"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a detailed list of all the items in stock",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0061",
+  "unit": 2,
+  "headword": "outdoor",
+  "ipa": "'autdɒ:",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 戶外的, 屋外的, 露天的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom is playing outdoors.",
+    "zh": "湯姆在外頭玩兒呢。"
+   },
+   {
+    "en": "She doesn't get outdoors much.",
+    "zh": "她沒有常到戶外。"
+   },
+   {
+    "en": "Children like outdoor activities.",
+    "zh": "孩子們喜歡戶外活動。"
+   }
+  ],
+  "synonyms": [
+   "out-of-door",
+   "outside"
+  ],
+  "antonyms": [
+   "indoor"
+  ],
+  "phrases": null,
+  "defsEn": "located, suited for, or taking place in the open air",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0062",
+  "unit": 2,
+  "headword": "suitcase",
+  "ipa": "'sju:tkeis",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 手提箱",
+  "forms": {
+   "plural": "suitcases"
+  },
+  "examples": [
+   {
+    "en": "I can't find my suitcase.",
+    "zh": "我找不到我的手提箱。"
+   },
+   {
+    "en": "How heavy is your suitcase?",
+    "zh": "您的行李箱有多重?"
+   },
+   {
+    "en": "Let me carry your suitcase.",
+    "zh": "讓我來拿你的行李。"
+   }
+  ],
+  "synonyms": [
+   "bag",
+   "grip"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a portable rectangular container for carrying clothes",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0063",
+  "unit": 2,
+  "headword": "destination",
+  "ipa": ".desti'neiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 目的地, 目標, 目的\n[計] 目的檔案, 目的單元",
+  "forms": {
+   "plural": "destinations"
+  },
+  "examples": [
+   {
+    "en": "At last, we reached our destination.",
+    "zh": "我們終於達到了我們的目標。"
+   },
+   {
+    "en": "They made straight for their destination.",
+    "zh": "他們直奔目的地。"
+   },
+   {
+    "en": "Round-trip fares to each destination are as follows.",
+    "zh": "往返各地的收費如下。"
+   }
+  ],
+  "synonyms": [
+   "finish",
+   "goal",
+   "terminus",
+   "address"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the place designated as the end (as of a race or journey)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0064",
+  "unit": 2,
+  "headword": "occupation",
+  "ipa": ".ɒkju'peiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 職業, 佔有, 佔有期, 佔領, 佔領軍\n[經] 佔有, 佔用, 職業",
+  "forms": {
+   "plural": "occupations"
+  },
+  "examples": [
+   {
+    "en": "What's your occupation?",
+    "zh": "您的職業是什麼？"
+   },
+   {
+    "en": "What is your occupation?",
+    "zh": "你做什麼工作？"
+   },
+   {
+    "en": "The \"family manager\" is a profession, occupation, vocation.",
+    "zh": "“一家之主”是一份專業工作、事業和使命。"
+   }
+  ],
+  "synonyms": [
+   "business",
+   "job",
+   "line"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the principal activity in your life that you do to earn money",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0065",
+  "unit": 2,
+  "headword": "postpone",
+  "ipa": "pәust'pәun",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 延遲, 使延期, 緩辦, 擱延\nvi. 延緩, 延緩發作",
+  "forms": {
+   "pp": "postponed",
+   "past": "postponed",
+   "thirdSg": "postpones",
+   "ing": "postponing"
+  },
+  "examples": [
+   {
+    "en": "We postponed the event.",
+    "zh": "我們把活動延期了。"
+   },
+   {
+    "en": "We postponed the meeting.",
+    "zh": "我們推遲了會議。"
+   },
+   {
+    "en": "Their trip was postponed because of the rain.",
+    "zh": "他們的旅行因為下雨延期了。"
+   }
+  ],
+  "synonyms": [
+   "prorogue",
+   "table",
+   "shelve",
+   "defer",
+   "remit"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "hold back to a later time",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0066",
+  "unit": 2,
+  "headword": "contradict",
+  "ipa": ".kɒntrә'dikt",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 反駁, 與...牴觸, 與...矛盾\nvi. 反駁",
+  "forms": {
+   "thirdSg": "contradicts",
+   "pp": "contradicted",
+   "past": "contradicted",
+   "ing": "contradicting"
+  },
+  "examples": [
+   {
+    "en": "You're contradicting yourself.",
+    "zh": "你在自相矛盾。"
+   },
+   {
+    "en": "I cannot forbid a person to marry several wives, for it does not contradict Scripture.",
+    "zh": "我不能禁止一個人娶好幾個妻子，因為這與聖經不矛盾。"
+   }
+  ],
+  "synonyms": [
+   "belie",
+   "negate",
+   "contravene",
+   "oppose",
+   "controvert"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "be in contradiction with",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0067",
+  "unit": 2,
+  "headword": "umbrella",
+  "ipa": "ʌm'brelә",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "defsZh": "n. 傘, 雨傘, 保護傘\na. 傘的, 包羅永珍的\nvt. 用傘遮掩",
+  "forms": {
+   "plural": "umbrellas"
+  },
+  "examples": [
+   {
+    "en": "I lost my umbrella.",
+    "zh": "我丟了我的傘。"
+   },
+   {
+    "en": "Umbrellas sell well.",
+    "zh": "雨傘賣得好。"
+   },
+   {
+    "en": "This is my umbrella.",
+    "zh": "這是我的傘。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a lightweight handheld collapsible canopy",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0068",
+  "unit": 2,
+  "headword": "inference",
+  "ipa": "'infәrәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 推論\n[法] 推論, 推理, 推斷",
+  "forms": {
+   "plural": "inferences",
+   "ing": "inferencing"
+  },
+  "examples": [],
+  "synonyms": [
+   "illation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0069",
+  "unit": 2,
+  "headword": "cellphone",
+  "ipa": "'selfәun",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 蜂窩式便攜無線電話；大哥大",
+  "forms": {
+   "plural": "cellphones"
+  },
+  "examples": [
+   {
+    "en": "Tom's cellphone rang.",
+    "zh": "Tom的手機響了。"
+   },
+   {
+    "en": "Sami's cellphone rang.",
+    "zh": "薩米的手機響了。"
+   },
+   {
+    "en": "I forgot my cellphone.",
+    "zh": "我忘記帶手機。"
+   }
+  ],
+  "synonyms": [
+   "cell"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0070",
+  "unit": 2,
+  "headword": "compact",
+  "ipa": "kәm'pækt",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "defsZh": "a. 緊湊的, 緊密的, 簡潔的\nvt. 使緊密結合, 壓縮\nvi. 變堅實",
+  "forms": {
+   "plural": "compacts",
+   "pp": "compacted",
+   "thirdSg": "compacts",
+   "ing": "compacting",
+   "past": "compacted"
+  },
+  "examples": [
+   {
+    "en": "She gave me this compact disc.",
+    "zh": "她給了我這個光碟。"
+   },
+   {
+    "en": "I want a compact car with an air conditioner.",
+    "zh": "我想要一輛有空調的小型車。"
+   },
+   {
+    "en": "Compact discs have entirely taken the place of phonograph records.",
+    "zh": "CD已經完全取代了膠木唱片。"
+   }
+  ],
+  "synonyms": [
+   "covenant",
+   "concordat"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a small cosmetics case with a mirror; to be carried in a woman's purse",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0071",
+  "unit": 2,
+  "headword": "merchandise",
+  "ipa": "'mә:tʃәndaiz",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 商品, 貨物\nv. 交易, 買賣",
+  "forms": {
+   "ing": "merchandising",
+   "past": "merchandised"
+  },
+  "examples": [],
+  "synonyms": [
+   "ware",
+   "product",
+   "trade"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "commodities offered for sale",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0072",
+  "unit": 2,
+  "headword": "receptionist",
+  "ipa": "ri'sepʃәnist",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 接待員",
+  "forms": {
+   "plural": "receptionists"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a secretary whose main duty is to answer the telephone and receive visitors",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0073",
+  "unit": 2,
+  "headword": "dentist",
+  "ipa": "'dentist",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 牙科醫生\n[醫] 牙醫師",
+  "forms": {
+   "plural": "dentists"
+  },
+  "examples": [
+   {
+    "en": "He is a dentist.",
+    "zh": "他是牙科醫生。"
+   },
+   {
+    "en": "Tom is my dentist.",
+    "zh": "湯姆是我的牙醫。"
+   },
+   {
+    "en": "I am at the dentist.",
+    "zh": "我在牙醫那兒。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person qualified to practice dentistry",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0074",
+  "unit": 2,
+  "headword": "identification",
+  "ipa": "ai.dentifi'keiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 識別, 身份證明, 認同\n[化] 鑑定; 鑑別; 鑑別法; 認證",
+  "forms": {
+   "plural": "identifications"
+  },
+  "examples": [
+   {
+    "en": "Do you have your student identification card?",
+    "zh": "你有學生證嗎？"
+   }
+  ],
+  "synonyms": [
+   "designation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of designating or identifying something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0075",
+  "unit": 2,
+  "headword": "coupon",
+  "ipa": "'ku:pɒn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 息票, 贈券\n[經] 息票, 利息單, 聯票",
+  "forms": {
+   "plural": "coupons"
+  },
+  "examples": [
+   {
+    "en": "May I have coupon tickets?",
+    "zh": "可以給我優惠券嗎？"
+   }
+  ],
+  "synonyms": [
+   "voucher"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a negotiable certificate that can be detached and redeemed as needed",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0076",
+  "unit": 2,
+  "headword": "depart",
+  "ipa": "di'pɑ:t",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 離開, 出發, 背離, 違反, 去世",
+  "forms": {
+   "ing": "departing",
+   "pp": "departed",
+   "past": "departed",
+   "thirdSg": "departs"
+  },
+  "examples": [
+   {
+    "en": "When does your plane depart?",
+    "zh": "你的飛機什麼時候起飛呢？"
+   },
+   {
+    "en": "How often do the buses depart?",
+    "zh": "公共汽車多久發車一次？"
+   },
+   {
+    "en": "His train is departing from platform 10.",
+    "zh": "他的火車從十號站臺發車。"
+   }
+  ],
+  "synonyms": [
+   "go",
+   "deviate",
+   "vary",
+   "diverge",
+   "part"
+  ],
+  "antonyms": [
+   "come",
+   "conform"
+  ],
+  "phrases": null,
+  "defsEn": "move away from a place into another direction",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0077",
+  "unit": 2,
+  "headword": "reschedule",
+  "ipa": "ri:ʃedju:l",
+  "pos": null,
+  "defsZh": "[計] 重安排, 重排程\n[化] 修訂計劃",
+  "forms": {
+   "ing": "rescheduling",
+   "pp": "rescheduled",
+   "past": "rescheduled",
+   "thirdSg": "reschedules"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "assign a new time and place for an event",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0078",
+  "unit": 2,
+  "headword": "tactic",
+  "ipa": "'tæktik",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 一項戰術, 一條策略\na. 戰術的, 順序的, 排列的",
+  "forms": {
+   "plural": "tactics"
+  },
+  "examples": [
+   {
+    "en": "She changed her tactics.",
+    "zh": "她換了策略。"
+   },
+   {
+    "en": "Elon Musk embodies the conservative propaganda tactic of calling everyone who crosses you a pedophile.",
+    "zh": "伊隆馬斯克將「凡是與你作對的人都是戀童癖」這一保守派慣用的抹黑手法發揮得淋漓盡致。"
+   }
+  ],
+  "synonyms": [
+   "tactics",
+   "maneuver",
+   "manoeuvre"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a plan for attaining a particular goal",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0079",
+  "unit": 2,
+  "headword": "renovation",
+  "ipa": ".renәu'veiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 革新, 重新整理, 修理\n[化] 改建",
+  "forms": {
+   "plural": "renovations"
+  },
+  "examples": [],
+  "synonyms": [
+   "redevelopment",
+   "overhaul",
+   "restoration",
+   "refurbishment"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of improving by renewing and restoring",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0080",
+  "unit": 2,
+  "headword": "upgrade",
+  "ipa": "'ʌpgreid",
+  "pos": [
+   "n",
+   "adv",
+   "v"
+  ],
+  "defsZh": "n. 上坡, 升級, 上升\nadv. 往上\nvt. 使升級, 提升, 改良品種\nvi. 升級\n[計] 升級",
+  "forms": {
+   "pp": "upgraded",
+   "ing": "upgrading",
+   "plural": "upgrades",
+   "past": "upgraded",
+   "thirdSg": "upgrades"
+  },
+  "examples": [
+   {
+    "en": "You can upgrade your computer with more random access memory to make the PC faster.",
+    "zh": "您可以使用更多任何存取記憶體來升級您的電腦，以提高 PC 的執行速度。"
+   },
+   {
+    "en": "With this upgrade, one obvious impact is that users will be obliged to reset their passwords.",
+    "zh": "這次升級的一個明顯影響是使用者會被強制重置密碼。"
+   }
+  ],
+  "synonyms": [
+   "ascent",
+   "acclivity",
+   "rise",
+   "raise",
+   "climb"
+  ],
+  "antonyms": [
+   "descent"
+  ],
+  "phrases": null,
+  "defsEn": "an upward slope or grade (as in a road)",
+  "note": null,
+  "audioUrl": null
+ }
+]

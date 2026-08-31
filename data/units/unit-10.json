@@ -1,0 +1,1240 @@
+[
+ {
+  "id": "w0361",
+  "unit": 10,
+  "headword": "auto",
+  "ipa": "'ɒ:tәu",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 汽車\npref. 表示\"自己\"、\"本身\", 表示\"自己的\", 表示\"自動的\"",
+  "forms": {
+   "plural": "autos"
+  },
+  "examples": [],
+  "synonyms": [
+   "car",
+   "automobile",
+   "machine",
+   "motorcar"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0362",
+  "unit": 10,
+  "headword": "decorate",
+  "ipa": "'dekәreit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 裝飾",
+  "forms": {
+   "pp": "decorated",
+   "past": "decorated",
+   "ing": "decorating",
+   "thirdSg": "decorates"
+  },
+  "examples": [
+   {
+    "en": "They decorated the room.",
+    "zh": "他們把房子裝飾了一下。"
+   },
+   {
+    "en": "The decorating isn't bad.",
+    "zh": "裝修還不錯。"
+   },
+   {
+    "en": "She decorated her room with roses.",
+    "zh": "她用玫瑰花裝飾了她的房間。"
+   }
+  ],
+  "synonyms": [
+   "adorn",
+   "grace",
+   "ornament",
+   "embellish",
+   "beautify"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make more attractive by adding ornament, colour, etc.",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0363",
+  "unit": 10,
+  "headword": "deduction",
+  "ipa": "di'dʌkʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 減除, 扣除, 減除額, 推論\n[醫] 演繹, 推論",
+  "forms": {
+   "plural": "deductions"
+  },
+  "examples": [],
+  "synonyms": [
+   "discount",
+   "entailment",
+   "implication"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a reduction in the gross amount on which a tax is calculated; reduces taxes by the percentage fixed for the taxpayer's income bracket",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0364",
+  "unit": 10,
+  "headword": "definite",
+  "ipa": "'definit",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 明確的, 一定的\n[法] 明確的, 確切的, 一定的",
+  "forms": {
+   "plural": "definites"
+  },
+  "examples": [
+   {
+    "en": "I cannot give you a definite answer today.",
+    "zh": "我今天無法給您一個最終的答覆。"
+   },
+   {
+    "en": "It is definite that he will go to America.",
+    "zh": "他肯定要去美國。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "indefinite"
+  ],
+  "phrases": null,
+  "defsEn": "precise; explicit and clearly defined",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0365",
+  "unit": 10,
+  "headword": "economical",
+  "ipa": ".i:kә'nɒmikәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 節儉的, 經濟的, 合算的\n[經] 經濟的, 節約的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This car is very economical on gas.",
+    "zh": "這輛車很省油。"
+   },
+   {
+    "en": "A small car is more economical than a large one.",
+    "zh": "小車比大車經濟。"
+   },
+   {
+    "en": "London was very important for economical and cultural reasons.",
+    "zh": "倫敦過去因為經濟和文化的緣故，十分重要。"
+   }
+  ],
+  "synonyms": [
+   "economic",
+   "frugal",
+   "scotch",
+   "sparing",
+   "stinting"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "using the minimum of time or resources necessary for effectiveness",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0366",
+  "unit": 10,
+  "headword": "efficiently",
+  "ipa": "i'fiʃәntli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 生效, 能勝任, 有能力, 效率高, 有效",
+  "forms": null,
+  "examples": [
+   {
+    "en": "If you make a study plan, you can make progress efficiently.",
+    "zh": "只要制定學習計劃，就能有效地取得進步。"
+   }
+  ],
+  "synonyms": [
+   "expeditiously"
+  ],
+  "antonyms": [
+   "inefficiently"
+  ],
+  "phrases": null,
+  "defsEn": "with efficiency; in an efficient manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0367",
+  "unit": 10,
+  "headword": "flyer",
+  "ipa": "'flaiә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 飛鳥, 飛行物, 飛行員, 快車, 傳單, 飛跳\n[經] 投機買賣, 孤注一擲, (廣告)傳單",
+  "forms": {
+   "plural": "flyers"
+  },
+  "examples": [],
+  "synonyms": [
+   "circular",
+   "handbill",
+   "bill",
+   "broadside",
+   "broadsheet"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an advertisement (usually printed on a page or in a leaflet) intended for wide distribution",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0368",
+  "unit": 10,
+  "headword": "franchise",
+  "ipa": "'fræntʃaiz",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 公民權, 特權, 特許經營權, 免賠額\nvt. 給以特權, 給以...公民權",
+  "forms": {
+   "plural": "franchises",
+   "ing": "franchising",
+   "pp": "franchised",
+   "past": "franchised",
+   "thirdSg": "franchises"
+  },
+  "examples": [],
+  "synonyms": [
+   "dealership",
+   "enfranchisement"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an authorization to sell a company's goods or services in a particular place",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0369",
+  "unit": 10,
+  "headword": "generous",
+  "ipa": "'dʒenәrәs",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 慷慨的, 有雅量的, 大量的, 豐富的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "You're too generous.",
+    "zh": "你太大方了。"
+   },
+   {
+    "en": "Mother Nature is generous.",
+    "zh": "大自然很慷慨。"
+   },
+   {
+    "en": "Tom is a very generous man.",
+    "zh": "湯姆是個大方的人。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "stingy",
+   "ungenerous"
+  ],
+  "phrases": null,
+  "defsEn": "willing to give and share unstintingly",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0370",
+  "unit": 10,
+  "headword": "interrupt",
+  "ipa": ".intә'rʌpt",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 中斷, 妨礙, 插嘴\nvi. 打斷\nn. 中斷\n[計] 中斷",
+  "forms": {
+   "past": "interrupted",
+   "pp": "interrupted",
+   "ing": "interrupting",
+   "thirdSg": "interrupts",
+   "plural": "interrupts"
+  },
+  "examples": [
+   {
+    "en": "She interrupted me.",
+    "zh": "她打斷了我。"
+   },
+   {
+    "en": "Please don't interrupt me.",
+    "zh": "請不要打斷我。"
+   },
+   {
+    "en": "I didn't mean to interrupt.",
+    "zh": "我無意打擾。"
+   }
+  ],
+  "synonyms": [
+   "disrupt",
+   "disturb"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a signal that temporarily stops the execution of a program so that another procedure can be carried out",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0371",
+  "unit": 10,
+  "headword": "oven",
+  "ipa": "'ʌvәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 烤箱, 灶, 子宮\n[化] 烘箱",
+  "forms": {
+   "plural": "ovens"
+  },
+  "examples": [
+   {
+    "en": "Is the oven really closed?",
+    "zh": "烤箱真的關了嗎？"
+   },
+   {
+    "en": "Bread is baked in an oven.",
+    "zh": "麵包是在烤箱裡烤的。"
+   },
+   {
+    "en": "Tom doesn't have a microwave oven.",
+    "zh": "湯姆沒有微波爐。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "kitchen appliance used for baking or roasting",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0372",
+  "unit": 10,
+  "headword": "pant",
+  "ipa": "pænt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 喘息, 悸動\nvi. 喘息, 渴望\nvt. 氣喘吁吁地說",
+  "forms": {
+   "ing": "panting",
+   "past": "panted",
+   "pp": "panted",
+   "thirdSg": "pants"
+  },
+  "examples": [
+   {
+    "en": "I ripped my pants.",
+    "zh": "我扯掉了自己的褲子。"
+   },
+   {
+    "en": "Those are my pants.",
+    "zh": "那些是我的褲子。"
+   },
+   {
+    "en": "Sami wore blue pants.",
+    "zh": "薩米穿著藍褲子。"
+   }
+  ],
+  "synonyms": [
+   "trouser",
+   "gasp"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the noise made by a short puff of steam (as from an engine)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0373",
+  "unit": 10,
+  "headword": "profitable",
+  "ipa": "'prɒfitәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 有利潤的, 有利益的, 賺錢的\n[經] 有利(可圖)的, 合算的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "We'll be profitable this year.",
+    "zh": "今年我們會盈利的。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "unprofitable"
+  ],
+  "phrases": null,
+  "defsEn": "yielding material gain or profit",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0374",
+  "unit": 10,
+  "headword": "refrigerator",
+  "ipa": "ri'fridʒәreitә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 電冰箱, 冷藏庫\n[計] 冷凍機; 致冷器",
+  "forms": {
+   "plural": "refrigerators"
+  },
+  "examples": [
+   {
+    "en": "They sold a refrigerator.",
+    "zh": "他們賣了冰箱。"
+   },
+   {
+    "en": "The refrigerator is open.",
+    "zh": "冰箱開著。"
+   },
+   {
+    "en": "The refrigerator is dirty.",
+    "zh": "冰箱髒了。"
+   }
+  ],
+  "synonyms": [
+   "icebox"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "white goods in which food can be stored at low temperatures",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0375",
+  "unit": 10,
+  "headword": "reimburse",
+  "ipa": ".ri:im'bә:s",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 付還, 償還, 賠償\n[經] 償付, 賠還, 付還; 償還",
+  "forms": {
+   "pp": "reimbursed",
+   "thirdSg": "reimburses",
+   "past": "reimbursed",
+   "ing": "reimbursing",
+   "plural": "reimburses"
+  },
+  "examples": [
+   {
+    "en": "Your school is so kind to reimburse you for the return airfare.",
+    "zh": "你們學校真好，還幫你們報銷來回的機票。"
+   }
+  ],
+  "synonyms": [
+   "recoup"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "pay back for some expense incurred",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0376",
+  "unit": 10,
+  "headword": "showroom",
+  "ipa": "'ʃәuru:m",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 陳列室\n[經] 樣品間, 陳列室",
+  "forms": {
+   "plural": "showrooms"
+  },
+  "examples": [],
+  "synonyms": [
+   "salesroom",
+   "saleroom"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an area where merchandise (such as cars) can be displayed",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0377",
+  "unit": 10,
+  "headword": "vegetarian",
+  "ipa": ".vedʒi'tєәriәn",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 素食者, 食草動物\na. 素食的",
+  "forms": {
+   "plural": "vegetarians"
+  },
+  "examples": [
+   {
+    "en": "I am vegetarian.",
+    "zh": "我是素食主義者。"
+   },
+   {
+    "en": "I'm a vegetarian.",
+    "zh": "我是素食主義者。"
+   },
+   {
+    "en": "I am a vegetarian.",
+    "zh": "我是吃素的。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "eater of fruits and grains and nuts; someone who eats no meat or fish or (often) any animal products",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0378",
+  "unit": 10,
+  "headword": "administrator",
+  "ipa": "әd'ministreitә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 管理人, 行政官\n[經] 遺產管理人員",
+  "forms": {
+   "plural": "administrators"
+  },
+  "examples": [],
+  "synonyms": [
+   "executive"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who administers a business",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0379",
+  "unit": 10,
+  "headword": "broker",
+  "ipa": "'brәukә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 掮客, 經紀人\n[經] 經紀人, 掮客",
+  "forms": {
+   "plural": "brokers",
+   "past": "brokered",
+   "pp": "brokered",
+   "ing": "brokering",
+   "thirdSg": "brokers"
+  },
+  "examples": [
+   {
+    "en": "I hear you've already contacted the broker.",
+    "zh": "聽說您已經跟中介公司聯絡過了。"
+   }
+  ],
+  "synonyms": [
+   "agent",
+   "factor",
+   "broke",
+   "bust",
+   "skint"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a businessman who buys or sells for another in exchange for a commission",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0380",
+  "unit": 10,
+  "headword": "cancellation",
+  "ipa": "kænsә'leiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 取消, 作廢, 登出戳\n[經] 登出, 取消, 保險單的登出",
+  "forms": {
+   "plural": "cancellations"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of cancelling; calling off some arrangement",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0381",
+  "unit": 10,
+  "headword": "confidential",
+  "ipa": ".kɒnfi'denʃәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 機密的, 獲他人信賴的, 易於信任他人的\n[經] 秘密件",
+  "forms": null,
+  "examples": [],
+  "synonyms": [
+   "secret"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "entrusted with private information and the confidence of another",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0382",
+  "unit": 10,
+  "headword": "jet",
+  "ipa": "dʒet",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "defsZh": "n. 噴射流, 噴嘴, 煤玉\nv. 射出, 迸出, 噴射\na. 黑而發亮的, 墨黑的",
+  "forms": {
+   "plural": "jets",
+   "ing": "jetting",
+   "past": "jetted",
+   "pp": "jetted",
+   "thirdSg": "jets"
+  },
+  "examples": [
+   {
+    "en": "He has a private jet.",
+    "zh": "他有私人飛機。"
+   },
+   {
+    "en": "The jet landed at Tokyo.",
+    "zh": "這架客機降落在東京了。"
+   },
+   {
+    "en": "I feel exhausted because of jet lag.",
+    "zh": "我因為時差而感到疲憊。"
+   }
+  ],
+  "synonyms": [
+   "squirt",
+   "spurt",
+   "spirt"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an airplane powered by one or more jet engines",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0383",
+  "unit": 10,
+  "headword": "realistic",
+  "ipa": "riә'listik",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 現實的, 逼真的, 現實主義的, 實在論的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Let's be realistic.",
+    "zh": "現實點吧。"
+   }
+  ],
+  "synonyms": [
+   "naturalistic"
+  ],
+  "antonyms": [
+   "unrealistic"
+  ],
+  "phrases": null,
+  "defsEn": "aware or expressing awareness of things as they really are",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0384",
+  "unit": 10,
+  "headword": "thoroughly",
+  "ipa": "'θʌrәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 徹底地, 絕對地, 透徹地, 詳盡地, 周到地, 完全地, 完善地, 全面地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "They got thoroughly wet in the rain.",
+    "zh": "他們在雨中被淋得全身都濕了。"
+   },
+   {
+    "en": "We have to thoroughly investigate it.",
+    "zh": "我們必須把它徹底檢查一下。"
+   },
+   {
+    "en": "We're thoroughly prepared for the Y2K bug.",
+    "zh": "我們已經準備好應付千年蟲。"
+   }
+  ],
+  "synonyms": [
+   "exhaustively",
+   "soundly",
+   "good"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "in an exhaustive manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0385",
+  "unit": 10,
+  "headword": "trash",
+  "ipa": "træʃ",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 垃圾, 廢物\nvt. 丟棄",
+  "forms": {
+   "past": "trashed",
+   "ing": "trashing",
+   "pp": "trashed",
+   "thirdSg": "trashes"
+  },
+  "examples": [
+   {
+    "en": "Toss it in the trash.",
+    "zh": "給丟到垃圾桶裡去。"
+   },
+   {
+    "en": "Don't throw trash here.",
+    "zh": "別在這兒扔垃圾。"
+   },
+   {
+    "en": "Toss it into the trash.",
+    "zh": "給丟到垃圾桶裡去。"
+   }
+  ],
+  "synonyms": [
+   "rubbish",
+   "scrap",
+   "scum",
+   "folderol",
+   "tripe"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "worthless material that is to be disposed of",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0386",
+  "unit": 10,
+  "headword": "usage",
+  "ipa": "'ju:sidʒ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 用法, 使用, 習慣, 慣用法, 習慣法\n[經] 使用情況, 使用用途, 慣例",
+  "forms": {
+   "plural": "usages"
+  },
+  "examples": [
+   {
+    "en": "The proliferation of Internet usage has given birth to a new generation of young people.",
+    "zh": "網際網路的廣泛應用使新一代的年輕人誕生了。"
+   }
+  ],
+  "synonyms": [
+   "use",
+   "utilization",
+   "utilisation",
+   "employment",
+   "exercise"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of using",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0387",
+  "unit": 10,
+  "headword": "windy",
+  "ipa": "'windi",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 多風的, 風強的, 腹脹的, 吹牛的",
+  "forms": {
+   "plural": "windies"
+  },
+  "examples": [
+   {
+    "en": "It's now windy.",
+    "zh": "現在風很大。"
+   },
+   {
+    "en": "It's windy today.",
+    "zh": "今天有風。"
+   },
+   {
+    "en": "It sure is windy.",
+    "zh": "風真大。"
+   }
+  ],
+  "synonyms": [
+   "blowy",
+   "breezy",
+   "airy",
+   "impractical",
+   "visionary"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "abounding in or exposed to the wind or breezes",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0388",
+  "unit": 10,
+  "headword": "automate",
+  "ipa": "'ɔ:tәmeit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt.vi. (使)自動化\n[計] 自動化",
+  "forms": {
+   "ing": "automating",
+   "pp": "automated",
+   "thirdSg": "automates",
+   "past": "automated",
+   "plural": "automates"
+  },
+  "examples": [
+   {
+    "en": "Each day our life becomes more comfortable and more automated.",
+    "zh": "我們的生活日益變得更舒適更自動化。"
+   },
+   {
+    "en": "This is an automated payphone; you use it by inserting a coin.",
+    "zh": "這是自動投幣電話，用一元硬幣來打的。"
+   }
+  ],
+  "synonyms": [
+   "automatize",
+   "automatise"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make automatic or control or operate automatically",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0389",
+  "unit": 10,
+  "headword": "ferry",
+  "ipa": "'feri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 渡船, 渡口\n[法] 擺渡營業權, 輪渡",
+  "forms": {
+   "plural": "ferries",
+   "pp": "ferried",
+   "ing": "ferrying",
+   "past": "ferried",
+   "thirdSg": "ferries"
+  },
+  "examples": [
+   {
+    "en": "Your ferry is not big.",
+    "zh": "你的船不大。"
+   },
+   {
+    "en": "There were not more than one hundred passengers on board the ferry.",
+    "zh": "渡輪上的乘客不多於一百人。"
+   }
+  ],
+  "synonyms": [
+   "ferryboat",
+   "ferrying"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a boat that transports people or vehicles across a body of water and operates on a regular schedule",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0390",
+  "unit": 10,
+  "headword": "finalize",
+  "ipa": "'fainәlaiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使結束, 定稿\nvi. 定局",
+  "forms": {
+   "pp": "finalized",
+   "past": "finalized",
+   "ing": "finalizing",
+   "thirdSg": "finalizes"
+  },
+  "examples": [],
+  "synonyms": [
+   "finalise",
+   "settle"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make final; put the last touches on; put into final form",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0391",
+  "unit": 10,
+  "headword": "incur",
+  "ipa": "in'kә:",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 招致, 蒙受, 遭遇\n[經] 招致, 蒙受, 擔負",
+  "forms": {
+   "pp": "incurred",
+   "ing": "incurring",
+   "past": "incurred",
+   "thirdSg": "incurs"
+  },
+  "examples": [],
+  "synonyms": [
+   "receive",
+   "get",
+   "find",
+   "obtain"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make oneself subject to; bring upon oneself; become liable to",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0392",
+  "unit": 10,
+  "headword": "instruct",
+  "ipa": "in'strʌkt",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 教, 教育, 命令, 通知\n[法] 託辦, 指導, 指示",
+  "forms": {
+   "pp": "instructed",
+   "past": "instructed",
+   "ing": "instructing",
+   "thirdSg": "instructs"
+  },
+  "examples": [
+   {
+    "en": "Please do as they have instructed you.",
+    "zh": "請按他們教你的做。"
+   }
+  ],
+  "synonyms": [
+   "teach",
+   "learn",
+   "apprise",
+   "apprize"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "impart skills or knowledge to",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0393",
+  "unit": 10,
+  "headword": "loyal",
+  "ipa": "'lɒiәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 忠誠的, 忠實的, 忠貞的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "To whom are you loyal: me or the king?",
+    "zh": "你忠於我還是國王？"
+   }
+  ],
+  "synonyms": [
+   "patriotic",
+   "firm",
+   "truehearted",
+   "fast"
+  ],
+  "antonyms": [
+   "disloyal",
+   "unpatriotic"
+  ],
+  "phrases": null,
+  "defsEn": "steadfast in allegiance or duty",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0394",
+  "unit": 10,
+  "headword": "luncheon",
+  "ipa": "'lʌntʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 午宴, 午餐會",
+  "forms": {
+   "plural": "luncheons"
+  },
+  "examples": [],
+  "synonyms": [
+   "lunch",
+   "tiffin",
+   "dejeuner"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a midday meal",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0395",
+  "unit": 10,
+  "headword": "microphone",
+  "ipa": "'maikrәfәun",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 擴音器, 麥克風\n[醫] 擴音器, 傳聲器",
+  "forms": {
+   "plural": "microphones"
+  },
+  "examples": [
+   {
+    "en": "Tom put his hand over the microphone.",
+    "zh": "湯姆把手放在麥克風上。"
+   },
+   {
+    "en": "The probe is equipped with a microphone.",
+    "zh": "探頭配有麥克風。"
+   },
+   {
+    "en": "For some reason the microphone didn't work earlier.",
+    "zh": "剛才我的麥克風沒起作用，不知道為什麼。"
+   }
+  ],
+  "synonyms": [
+   "mike"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "device for converting sound waves into electrical energy",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0396",
+  "unit": 10,
+  "headword": "overview",
+  "ipa": "'әuvәvju:",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 概述, 概觀, 總的看法\n[計] 概述",
+  "forms": {
+   "plural": "overviews",
+   "ing": "overviewing",
+   "past": "overviewed"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a general summary of a subject",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0397",
+  "unit": 10,
+  "headword": "projector",
+  "ipa": "prә'dʒektә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 計劃人, 發起人, 規劃人, 放映機, 映畫器, 幻燈機, 幻燈, 探照燈, 發射器\n[計] 投影儀",
+  "forms": {
+   "plural": "projectors"
+  },
+  "examples": [
+   {
+    "en": "What's wrong with this projector? It won't display anything.",
+    "zh": "這個投影儀怎麼了？什麼都放不出來。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an optical device for projecting a beam of light",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0398",
+  "unit": 10,
+  "headword": "shortage",
+  "ipa": "'ʃɒ:tidʒ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 不足, 缺乏\n[化] 缺額",
+  "forms": {
+   "plural": "shortages"
+  },
+  "examples": [
+   {
+    "en": "There was a shortage of fuel.",
+    "zh": "燃料短缺。"
+   },
+   {
+    "en": "There is a shortage of good building wood.",
+    "zh": "現在正缺良好的建築木材。"
+   },
+   {
+    "en": "The recent coffee shortage brought about many problems.",
+    "zh": "最近的咖啡短缺帶來了許多問題。"
+   }
+  ],
+  "synonyms": [
+   "deficit",
+   "shortfall",
+   "dearth",
+   "famine"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the property of being an amount by which something is less than expected or required",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0399",
+  "unit": 10,
+  "headword": "spacious",
+  "ipa": "'speiʃәs",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 廣大的, 寬廣的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The living room in my new house is very spacious.",
+    "zh": "我新家的客廳很寬敞。"
+   }
+  ],
+  "synonyms": [
+   "broad",
+   "wide",
+   "roomy"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "very large in expanse or scope",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0400",
+  "unit": 10,
+  "headword": "accomplishment",
+  "ipa": "ә'kʌmpliʃmәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 成就, 完成",
+  "forms": {
+   "plural": "accomplishments"
+  },
+  "examples": [],
+  "synonyms": [
+   "achievement",
+   "skill",
+   "acquirement",
+   "acquisition",
+   "attainment"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the action of accomplishing something",
+  "note": null,
+  "audioUrl": null
+ }
+]

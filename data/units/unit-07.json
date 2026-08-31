@@ -1,0 +1,1262 @@
+[
+ {
+  "id": "w0241",
+  "unit": 7,
+  "headword": "automobile",
+  "ipa": "'ɒ:tәmәbi:l",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 汽車\n[機] 汽車",
+  "forms": {
+   "plural": "automobiles"
+  },
+  "examples": [
+   {
+    "en": "Automobiles are made in factories.",
+    "zh": "汽車在汽車工廠裡生產。"
+   },
+   {
+    "en": "He got killed in an automobile accident.",
+    "zh": "他因交通事故死亡。"
+   },
+   {
+    "en": "She was killed in an automobile accident.",
+    "zh": "她死於一場汽車車禍。"
+   }
+  ],
+  "synonyms": [
+   "car",
+   "auto",
+   "machine",
+   "motorcar"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0242",
+  "unit": 7,
+  "headword": "courier",
+  "ipa": "'kuriә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 送快信的人, 伴遊服務員\n[法] 信使, 送急件者",
+  "forms": {
+   "plural": "couriers",
+   "pp": "couriered",
+   "past": "couriered"
+  },
+  "examples": [],
+  "synonyms": [
+   "messenger"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who carries a message",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0243",
+  "unit": 7,
+  "headword": "incomplete",
+  "ipa": ".inkәm'pli:t",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不完全的, 未完成的, 不完善的\n[機] 不完全的",
+  "forms": null,
+  "examples": [],
+  "synonyms": [
+   "uncomplete",
+   "uncompleted"
+  ],
+  "antonyms": [
+   "complete"
+  ],
+  "phrases": null,
+  "defsEn": "not complete or total; not completed",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0244",
+  "unit": 7,
+  "headword": "questionnaire",
+  "ipa": "kwestʃә'nєә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 調查表, 問卷\n[經] 調查表",
+  "forms": {
+   "plural": "questionnaires"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a form containing a set of questions; submitted to people to gain statistical information",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0245",
+  "unit": 7,
+  "headword": "baseball",
+  "ipa": "'beisbɒ:l",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 棒球\n[計] 棒球系統",
+  "forms": null,
+  "examples": [
+   {
+    "en": "You like baseball?",
+    "zh": "你喜歡棒球嗎？"
+   },
+   {
+    "en": "Let's play baseball!",
+    "zh": "讓我們來打棒球吧！"
+   },
+   {
+    "en": "Let's play baseball.",
+    "zh": "我們去打棒球吧。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a ball game played with a bat and ball between two teams of nine players; teams take turns at bat trying to score runs",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0246",
+  "unit": 7,
+  "headword": "dock",
+  "ipa": "dɒk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 碼頭, 船塢, 被告席, 尾巴的骨肉部分\nvt. 使靠碼頭, 使(船)進港, 剪短\nvi. 進港",
+  "forms": {
+   "plural": "docks",
+   "pp": "docked",
+   "past": "docked",
+   "ing": "docking",
+   "thirdSg": "docks"
+  },
+  "examples": [
+   {
+    "en": "The huge tanker has just left the dock.",
+    "zh": "一艘巨大的液貨船剛剛啟航。"
+   },
+   {
+    "en": "A huge tanker just pulled out from the dock.",
+    "zh": "一艘巨大的液貨船剛剛啟航。"
+   }
+  ],
+  "synonyms": [
+   "sorrel",
+   "pier",
+   "wharf",
+   "wharfage"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an enclosure in a court of law where the defendant sits during the trial",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0247",
+  "unit": 7,
+  "headword": "lamp",
+  "ipa": "læmp",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 燈\nvt. 照亮\n[計] 邏輯模擬分析系統",
+  "forms": {
+   "plural": "lamps"
+  },
+  "examples": [
+   {
+    "en": "I bought an old lamp.",
+    "zh": "我買了一盞很舊的燈。"
+   },
+   {
+    "en": "I bought an ancient lamp.",
+    "zh": "我買了一盞古老的燈。"
+   },
+   {
+    "en": "Are you selling these lamps?",
+    "zh": "你在賣這些燈嗎？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an artificial source of visible illumination",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0248",
+  "unit": 7,
+  "headword": "lately",
+  "ipa": "'leitli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 近來, 最近",
+  "forms": null,
+  "examples": [
+   {
+    "en": "How's it going lately?",
+    "zh": "最近過的如何？"
+   },
+   {
+    "en": "How've ya' been lately?",
+    "zh": "最近咋樣？"
+   },
+   {
+    "en": "Seen any movies lately?",
+    "zh": "最近看了什麼電影沒有？"
+   }
+  ],
+  "synonyms": [
+   "recently",
+   "late",
+   "latterly"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "in the recent past",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0249",
+  "unit": 7,
+  "headword": "machinery",
+  "ipa": "mә'ʃi:nәri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 機器, 機械裝置, 機構\n[化] 機械",
+  "forms": {
+   "plural": "machineries"
+  },
+  "examples": [
+   {
+    "en": "Something must be wrong with the machinery.",
+    "zh": "這個機器一定有什麼地方不對勁。"
+   },
+   {
+    "en": "An old worker was found repairing machinery in the workshop.",
+    "zh": "有人發現一個老工人在車間修機器。"
+   },
+   {
+    "en": "Then arose the question of where we were to get the necessary machinery.",
+    "zh": "於是出現了一個問題，哪裡能找我們需要的機器。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "machines or machine systems collectively",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0250",
+  "unit": 7,
+  "headword": "presenter",
+  "ipa": "pri'zentә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 節目主持人, 奉獻者, 提出者\n[法] 告發者, 提出者, 推薦者",
+  "forms": {
+   "plural": "presenters"
+  },
+  "examples": [],
+  "synonyms": [
+   "sponsor",
+   "donor",
+   "giver",
+   "bestower",
+   "conferrer"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who presents a message of some sort (as a petition or an address or a check or a memorial etc.)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0251",
+  "unit": 7,
+  "headword": "seldom",
+  "ipa": "'seldәm",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "defsZh": "a. 不常的, 稀少的\nadv. 很少, 不常",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I seldom do that.",
+    "zh": "我偶爾做。"
+   },
+   {
+    "en": "Seldom do I see him.",
+    "zh": "我很少見到他。"
+   },
+   {
+    "en": "She seldom goes out.",
+    "zh": "她很少出去。"
+   }
+  ],
+  "synonyms": [
+   "rarely"
+  ],
+  "antonyms": [
+   "often"
+  ],
+  "phrases": null,
+  "defsEn": "not often",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0252",
+  "unit": 7,
+  "headword": "signature",
+  "ipa": "'signәtʃә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 簽字, 識別標誌, 調號\n[計] 簽名附件",
+  "forms": {
+   "plural": "signatures"
+  },
+  "examples": [
+   {
+    "en": "This letter has no signature.",
+    "zh": "這封信沒署名。"
+   },
+   {
+    "en": "This letter bears no signature.",
+    "zh": "該信件未署名。"
+   },
+   {
+    "en": "The signature had been a forgery.",
+    "zh": "簽名是偽造的。"
+   }
+  ],
+  "synonyms": [
+   "touch"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "your name written in your own handwriting",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0253",
+  "unit": 7,
+  "headword": "worldwide",
+  "ipa": "'wә:ldwaid",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 全世界的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Korean entertainment culture is popular worldwide.",
+    "zh": "韓國的娛樂文化在全球都很受歡迎。"
+   },
+   {
+    "en": "Despite adversity, the architect achieved worldwide fame.",
+    "zh": "儘管有逆境，建築師還是獲得了享譽全球的榮譽。"
+   }
+  ],
+  "synonyms": [
+   "world-wide",
+   "global",
+   "planetary",
+   "world",
+   "cosmopolitan"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "spanning or extending throughout the entire world",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0254",
+  "unit": 7,
+  "headword": "carrier",
+  "ipa": "'kæriә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 運送者, 郵遞員, 帶菌者\n[計] 載波",
+  "forms": {
+   "plural": "carriers"
+  },
+  "examples": [
+   {
+    "en": "Has the letter carrier been by yet?",
+    "zh": "郵差來過了嗎?"
+   },
+   {
+    "en": "China has the means to destroy your aircraft carriers.",
+    "zh": "中國有能力摧毀你們的航空母艦。"
+   }
+  ],
+  "synonyms": [
+   "bearer",
+   "toter",
+   "flattop"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone whose employment involves carrying something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0255",
+  "unit": 7,
+  "headword": "designate",
+  "ipa": "'dezigneit",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "defsZh": "vt. 指定, 指明, 稱呼\na. 已選出而未上任的",
+  "forms": {
+   "pp": "designated",
+   "past": "designated",
+   "ing": "designating",
+   "thirdSg": "designates"
+  },
+  "examples": [
+   {
+    "en": "The USS Monitor was designated the first National Marine Sanctuary on January 30, 1975.",
+    "zh": "莫尼特號戰艦於 1975 年 1 月 30 日被指定為美國第一個國家海洋保護區。"
+   }
+  ],
+  "synonyms": [
+   "denominate",
+   "delegate",
+   "depute",
+   "assign",
+   "indicate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "assign a name or title to",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0256",
+  "unit": 7,
+  "headword": "exclusive",
+  "ipa": "ik'sklu:siv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 排外的, 獨佔的, 唯一的\n[計] 獨佔的",
+  "forms": {
+   "plural": "exclusives"
+  },
+  "examples": [],
+  "synonyms": [
+   "scoop",
+   "sole"
+  ],
+  "antonyms": [
+   "inclusive"
+  ],
+  "phrases": null,
+  "defsEn": "a news report that is reported first by one news organization",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0257",
+  "unit": 7,
+  "headword": "grocery",
+  "ipa": "'grәusәri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 食品雜貨店, 食品雜貨業",
+  "forms": {
+   "plural": "groceries"
+  },
+  "examples": [
+   {
+    "en": "Please tell us where there is a grocery store.",
+    "zh": "請告訴我們哪兒有食品雜貨店。"
+   },
+   {
+    "en": "Please buy some blood oranges at the grocery store.",
+    "zh": "請在雜貨店買一些血橙。"
+   },
+   {
+    "en": "Bob worked as a clerk in the grocery store on Saturday.",
+    "zh": "每週六鮑勃在雜貨店做店員。"
+   }
+  ],
+  "synonyms": [
+   "market",
+   "foodstuff"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a marketplace where groceries are sold",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0258",
+  "unit": 7,
+  "headword": "homework",
+  "ipa": "'hәumwә:k",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 家庭作業, 家裡做的工作\n[經] 家庭作業",
+  "forms": {
+   "plural": "homeworks",
+   "ing": "homeworking"
+  },
+  "examples": [
+   {
+    "en": "Do your homework.",
+    "zh": "做你的作業。"
+   },
+   {
+    "en": "We did our homework.",
+    "zh": "我們做了作業。"
+   },
+   {
+    "en": "I'm doing my homework.",
+    "zh": "我正在做我的作業。"
+   }
+  ],
+  "synonyms": [
+   "prep",
+   "preparation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "preparatory school work done outside school (especially at home)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0259",
+  "unit": 7,
+  "headword": "memorandum",
+  "ipa": ".memә'rændәm",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 備忘錄, 外交備忘錄, 交易備忘錄\n[經] 備忘錄, 便箋, 便函",
+  "forms": {
+   "plural": "memoranda"
+  },
+  "examples": [],
+  "synonyms": [
+   "memo",
+   "memoranda"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a written proposal or reminder",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0260",
+  "unit": 7,
+  "headword": "photocopier",
+  "ipa": "'fәutәu.kɒpiә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 影印機, 攝影複製機",
+  "forms": {
+   "plural": "photocopiers"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a copier that uses photographic methods of making copies",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0261",
+  "unit": 7,
+  "headword": "suite",
+  "ipa": "swi:t",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 隨員, 套房, (一)組, (一)套, 組曲, 繼之而來的事\n[電] 程式組",
+  "forms": {
+   "plural": "suites"
+  },
+  "examples": [
+   {
+    "en": "The red dress suited her.",
+    "zh": "這件紅色的洋裝適合她。"
+   },
+   {
+    "en": "That red dress suited her.",
+    "zh": "那件紅色的洋裝適合她。"
+   },
+   {
+    "en": "This work is not suited to young girls.",
+    "zh": "這個工作不適合年輕女孩。"
+   }
+  ],
+  "synonyms": [
+   "rooms",
+   "cortege",
+   "retinue",
+   "entourage"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a musical composition of several movements only loosely connected",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0262",
+  "unit": 7,
+  "headword": "thorough",
+  "ipa": "'θʌrә",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 十分的, 徹底的",
+  "forms": null,
+  "examples": [],
+  "synonyms": [
+   "exhaustive",
+   "thoroughgoing"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "painstakingly careful and accurate",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0263",
+  "unit": 7,
+  "headword": "bookstore",
+  "ipa": "'bukstɒ:",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 書店",
+  "forms": {
+   "plural": "bookstores"
+  },
+  "examples": [
+   {
+    "en": "She works at the bookstore.",
+    "zh": "她在書店工作。"
+   },
+   {
+    "en": "You can get it at a bookstore.",
+    "zh": "你可以在書店買到它。"
+   },
+   {
+    "en": "He dropped in at the bookstore.",
+    "zh": "他順道去了這家書店。"
+   }
+  ],
+  "synonyms": [
+   "bookshop",
+   "bookstall"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a shop where books are sold",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0264",
+  "unit": 7,
+  "headword": "cater",
+  "ipa": "'keitә",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 提供飲食及服務, 投合, 迎合",
+  "forms": {
+   "ing": "catering",
+   "pp": "catered",
+   "thirdSg": "caters",
+   "past": "catered"
+  },
+  "examples": [
+   {
+    "en": "This is a store that caters specially to students.",
+    "zh": "這是一家專門為學生提供服務的商店。"
+   }
+  ],
+  "synonyms": [
+   "provide",
+   "supply",
+   "ply"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "give what is desired or needed, especially support, food or sustenance",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0265",
+  "unit": 7,
+  "headword": "dental",
+  "ipa": "'dentl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 牙齒的\n[醫] 牙的, 齒的, 齒音, 齒音字母",
+  "forms": {
+   "plural": "dentals"
+  },
+  "examples": [],
+  "synonyms": [
+   "alveolar"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a consonant articulated with the tip of the tongue near the gum ridge",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0266",
+  "unit": 7,
+  "headword": "duration",
+  "ipa": "dju'reiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 持續時間, 持續\n[計] 持續時間",
+  "forms": {
+   "plural": "durations"
+  },
+  "examples": [],
+  "synonyms": [
+   "continuance",
+   "length"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the period of time during which something continues",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0267",
+  "unit": 7,
+  "headword": "lounge",
+  "ipa": "laundʒ",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 閒逛, 休閒室, 長沙發\nvi. 閒混, (懶洋洋地)躺\nvt. 閒混",
+  "forms": {
+   "plural": "lounges",
+   "ing": "lounging",
+   "past": "lounged",
+   "pp": "lounged",
+   "thirdSg": "lounges"
+  },
+  "examples": [],
+  "synonyms": [
+   "sofa",
+   "couch"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an upholstered seat for more than one person",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0268",
+  "unit": 7,
+  "headword": "painter",
+  "ipa": "'peintә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 畫家, 油漆匠\n[機] 油漆匠, 噴漆匠",
+  "forms": {
+   "plural": "painters"
+  },
+  "examples": [
+   {
+    "en": "A painter illustrates.",
+    "zh": "畫家畫畫。"
+   },
+   {
+    "en": "He is a famous painter.",
+    "zh": "他是個著名的畫家。"
+   },
+   {
+    "en": "The painter illustrates.",
+    "zh": "畫家畫畫。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an artist who paints",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0269",
+  "unit": 7,
+  "headword": "patron",
+  "ipa": "'peitrәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 贊助人, 顧客, 保護人\n[法] 保護人, 庇護人, 贊助人",
+  "forms": {
+   "plural": "patrons"
+  },
+  "examples": [],
+  "synonyms": [
+   "frequenter",
+   "sponsor",
+   "supporter"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a regular customer",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0270",
+  "unit": 7,
+  "headword": "prescription",
+  "ipa": "pri'skripʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 處方, 命令, 指定\n[醫] 處方, 藥方",
+  "forms": {
+   "plural": "prescriptions"
+  },
+  "examples": [
+   {
+    "en": "I'll give you a prescription.",
+    "zh": "我會給你開個藥方。"
+   },
+   {
+    "en": "Please read the prescription.",
+    "zh": "請閱讀處方。"
+   },
+   {
+    "en": "You can't buy this medicine without a prescription.",
+    "zh": "那個藥的話沒有處方是買不到的。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "over-the-counter drug",
+   "over-the-counter medicine"
+  ],
+  "phrases": null,
+  "defsEn": "directions prescribed beforehand; the action of prescribing authoritative rules or directions",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0271",
+  "unit": 7,
+  "headword": "productive",
+  "ipa": "prә'dʌktiv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 能生產的, 有生產價值的, 多產的\n[醫] 產出性的, 產生性的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "You are really very productive today.",
+    "zh": "你今天真的很有生產力。"
+   },
+   {
+    "en": "This factory's productive capacity is 250 cars a week.",
+    "zh": "這家工廠每週能夠生產250臺車。"
+   }
+  ],
+  "synonyms": [
+   "generative"
+  ],
+  "antonyms": [
+   "unproductive",
+   "consumptive"
+  ],
+  "phrases": null,
+  "defsEn": "producing or capable of producing (especially abundantly)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0272",
+  "unit": 7,
+  "headword": "salad",
+  "ipa": "'sælәd",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 色拉",
+  "forms": {
+   "plural": "salads"
+  },
+  "examples": [
+   {
+    "en": "I don't like salad.",
+    "zh": "我不喜歡吃沙拉。"
+   },
+   {
+    "en": "She ate a kale salad.",
+    "zh": "她吃了一份羽衣甘藍沙拉。"
+   },
+   {
+    "en": "Would you like some salad?",
+    "zh": "你要來點兒沙拉嗎?"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0273",
+  "unit": 7,
+  "headword": "stack",
+  "ipa": "stæk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 堆疊, 堆, 大量, 書庫, 槍架, 煙囪, 堆積, 存貯棧\nvt. 堆積, 堆滿, 暗中對...做手腳\nvi. 堆起\n[計] 堆積, 堆疊",
+  "forms": {
+   "plural": "stacks",
+   "pp": "stacked",
+   "ing": "stacking",
+   "past": "stacked",
+   "thirdSg": "stacks"
+  },
+  "examples": [
+   {
+    "en": "Tom put a stack of letters on Mary's desk.",
+    "zh": "湯姆把一疊信放在瑪麗桌上。"
+   },
+   {
+    "en": "Hey, could you send over a stack of manuscripts straight away?",
+    "zh": "喂，請問現在能給我馬上送一疊稿子嗎？"
+   },
+   {
+    "en": "She's a professor whose works you could stack up to head height.",
+    "zh": "那位是一個著作等身的教授。"
+   }
+  ],
+  "synonyms": [
+   "batch",
+   "deal",
+   "flock",
+   "hatful",
+   "heap"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an orderly pile",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0274",
+  "unit": 7,
+  "headword": "delegate",
+  "ipa": "'deligeit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 代表\nvt. 委派...為代表",
+  "forms": {
+   "plural": "delegates",
+   "pp": "delegated",
+   "ing": "delegating",
+   "thirdSg": "delegates",
+   "past": "delegated"
+  },
+  "examples": [
+   {
+    "en": "Several delegates disagreed.",
+    "zh": "幾位代表不同意。"
+   },
+   {
+    "en": "Delegates from many countries participated in the conference.",
+    "zh": "許多國家的代表出席了會議。"
+   }
+  ],
+  "synonyms": [
+   "depute",
+   "designate",
+   "assign"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person appointed or elected to represent others",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0275",
+  "unit": 7,
+  "headword": "salesperson",
+  "ipa": "'seilzpә:sәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 售貨員",
+  "forms": {
+   "plural": "salespersons"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0276",
+  "unit": 7,
+  "headword": "calculator",
+  "ipa": "'kælkjuleitә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 計算者, 計算器\n[計] 計算器",
+  "forms": {
+   "plural": "calculators"
+  },
+  "examples": [
+   {
+    "en": "The calculator on the table is mine.",
+    "zh": "桌上的計算器是我的。"
+   },
+   {
+    "en": "The batteries in my calculator are dead.",
+    "zh": "我計算機的電池沒電了。"
+   }
+  ],
+  "synonyms": [
+   "reckoner",
+   "figurer",
+   "estimator",
+   "computer"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an expert at calculation (or at operating calculating machines)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0277",
+  "unit": 7,
+  "headword": "completion",
+  "ipa": "kәm'pli:ʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 完成\n[經] 完井, 結束, 完工",
+  "forms": {
+   "plural": "completions"
+  },
+  "examples": [
+   {
+    "en": "This building is near completion.",
+    "zh": "這座建築物快完工了。"
+   }
+  ],
+  "synonyms": [
+   "culmination",
+   "closing",
+   "windup"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(American football) a successful forward pass in football",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0278",
+  "unit": 7,
+  "headword": "defect",
+  "ipa": "di'fekt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 缺點\n[醫] 缺損, 缺陷",
+  "forms": {
+   "plural": "defects",
+   "past": "defected",
+   "pp": "defected",
+   "ing": "defecting",
+   "thirdSg": "defects"
+  },
+  "examples": [
+   {
+    "en": "This system has obvious defects.",
+    "zh": "這個系統有些明顯的缺陷。"
+   },
+   {
+    "en": "To be perfect she lacked just one defect.",
+    "zh": "要變得完美，她就是少了一個缺點。"
+   },
+   {
+    "en": "This system is bristling with defects and drawbacks.",
+    "zh": "這個系統存在著許多缺陷和不盡完善的地方。"
+   }
+  ],
+  "synonyms": [
+   "shortcoming",
+   "fault",
+   "flaw"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an imperfection in a bodily system",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0279",
+  "unit": 7,
+  "headword": "garbage",
+  "ipa": "'gɑ:bidʒ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 垃圾, 廢物\n[計] 無用資訊",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The garbage-can gave off a bad smell.",
+    "zh": "垃圾箱臭氣熏天。"
+   },
+   {
+    "en": "Don't forget to take out the garbage.",
+    "zh": "別忘了把垃圾拿出去。"
+   },
+   {
+    "en": "In her home, kitchen garbage was fed to the pigs.",
+    "zh": "在她家，泔水被餵給豬吃。"
+   }
+  ],
+  "synonyms": [
+   "refuse",
+   "scraps",
+   "drivel"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "food that is discarded (as from a kitchen)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0280",
+  "unit": 7,
+  "headword": "omit",
+  "ipa": "әu'mit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 省略, 刪除, 疏忽, 遺漏\n[化] 省略",
+  "forms": {
+   "pp": "omitted",
+   "ing": "omitting",
+   "past": "omitted",
+   "thirdSg": "omits"
+  },
+  "examples": [
+   {
+    "en": "What did I omit?",
+    "zh": "我省略了什麼？"
+   },
+   {
+    "en": "Omit needless words!",
+    "zh": "省略掉無用的詞！"
+   },
+   {
+    "en": "In French, the subject is rarely omitted.",
+    "zh": "用法語，很少會遺漏主語。"
+   }
+  ],
+  "synonyms": [
+   "exclude",
+   "except",
+   "neglect",
+   "pretermit",
+   "drop"
+  ],
+  "antonyms": [
+   "include",
+   "attend to"
+  ],
+  "phrases": null,
+  "defsEn": "prevent from being included or considered or accepted",
+  "note": null,
+  "audioUrl": null
+ }
+]
