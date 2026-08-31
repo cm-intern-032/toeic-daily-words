@@ -276,7 +276,16 @@
   ],
   "defsZh": "a. 說明的, 解釋的, 辯明的\n[法] 解釋的, 說明的",
   "forms": null,
-  "examples": [],
+  "examples": [
+   {
+    "en": "Is the drawing quite explanatory?",
+    "zh": null
+   },
+   {
+    "en": "Our astrological superiority is fairly self-explanatory.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -712,7 +721,20 @@
   "forms": {
    "plural": "attendees"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "The meeting had 12 attendees.",
+    "zh": null
+   },
+   {
+    "en": "Greet attendees with a charming smile.",
+    "zh": null
+   },
+   {
+    "en": "Her petulant humor upset the attendees.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "attendant",
    "attender",
@@ -1130,7 +1152,20 @@
   "forms": {
    "plural": "minis"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom has a mini pig.",
+    "zh": null
+   },
+   {
+    "en": "He wants an iPad mini.",
+    "zh": null
+   },
+   {
+    "en": "Do you sell mini disks?",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "miniskirt"
   ],
@@ -1155,7 +1190,20 @@
   "forms": {
    "plural": "fitnesses"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is a fitness guru.",
+    "zh": null
+   },
+   {
+    "en": "He is a fitness expert.",
+    "zh": null
+   },
+   {
+    "en": "Tom is a fitness freak.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "fittingness",
    "seaworthiness"

@@ -168,7 +168,20 @@
   "forms": {
    "plural": "memos"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "I wrote a memo.",
+    "zh": null
+   },
+   {
+    "en": "This is a memo.",
+    "zh": null
+   },
+   {
+    "en": "Look at the memo.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "memorandum",
    "memoranda"
@@ -410,7 +423,20 @@
   "forms": {
    "plural": "supervisors"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is a supervisor.",
+    "zh": null
+   },
+   {
+    "en": "Sami is my supervisor.",
+    "zh": null
+   },
+   {
+    "en": "Who was Tom's supervisor?",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -609,7 +635,20 @@
    "ing": "invoicing",
    "thirdSg": "invoices"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "I have the invoice.",
+    "zh": null
+   },
+   {
+    "en": "Is this all the invoices.",
+    "zh": null
+   },
+   {
+    "en": "Someone stained my invoice.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "bill",
    "account"
@@ -1305,7 +1344,20 @@
    "thirdSg": "infers",
    "past": "inferred"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "What are you inferring?",
+    "zh": null
+   },
+   {
+    "en": "What can you infer from Tom's conduct?",
+    "zh": null
+   },
+   {
+    "en": "What can you infer from these observations?",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "deduce",
    "deduct",

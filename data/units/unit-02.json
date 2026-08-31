@@ -371,7 +371,20 @@
    "past": "previewed",
    "thirdSg": "previews"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "This is only a preview.",
+    "zh": null
+   },
+   {
+    "en": "Let me give you a preview.",
+    "zh": null
+   },
+   {
+    "en": "Can you give us a preview?",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "prevue",
    "trailer"
@@ -688,7 +701,20 @@
    "ing": "inventorying",
    "thirdSg": "inventories"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "The inventory is full.",
+    "zh": null
+   },
+   {
+    "en": "Your inventory is full.",
+    "zh": null
+   },
+   {
+    "en": "We have too much inventory.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "stock"
   ],
@@ -973,7 +999,20 @@
    "plural": "inferences",
    "ing": "inferencing"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Is this an observation or an inference?",
+    "zh": null
+   },
+   {
+    "en": "You must draw inferences but not speculate.",
+    "zh": null
+   },
+   {
+    "en": "In certain situations, inferences are needed.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "illation"
   ],
@@ -1073,7 +1112,20 @@
    "ing": "merchandising",
    "past": "merchandised"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "You loaded the merchandise.",
+    "zh": null
+   },
+   {
+    "en": "This merchandise sells well.",
+    "zh": null
+   },
+   {
+    "en": "Don't handle the merchandise.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "ware",
    "product",
@@ -1097,7 +1149,20 @@
   "forms": {
    "plural": "receptionists"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Sami is a receptionist.",
+    "zh": null
+   },
+   {
+    "en": "Mary is a receptionist.",
+    "zh": null
+   },
+   {
+    "en": "My sister is a receptionist.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -1250,7 +1315,20 @@
    "past": "rescheduled",
    "thirdSg": "reschedules"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "We have to reschedule.",
+    "zh": null
+   },
+   {
+    "en": "We'll have to reschedule.",
+    "zh": null
+   },
+   {
+    "en": "We'll just have to reschedule.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -1304,7 +1382,20 @@
   "forms": {
    "plural": "renovations"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Will there be renovations?",
+    "zh": null
+   },
+   {
+    "en": "We are closed for renovations.",
+    "zh": null
+   },
+   {
+    "en": "The subway is under renovation.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "redevelopment",
    "overhaul",
