@@ -3,6 +3,11 @@
 純前端靜態 PWA：iPhone Safari 加到主畫面即可離線使用，無後端、無帳號。
 400 個 TOEIC 核心單字（TSL 1.2 前 400，依多益語料詞頻排序），10 單元 × 40 字。
 
+**線上版：https://cm-intern-032.github.io/toeic-daily-words/**
+
+部署更新流程：改 `app/` → 調整 `sw.js` 的 `VERSION` → commit →
+`git subtree split --prefix app -b gh-pages && git push -f origin gh-pages`
+
 ## 結構
 
 ```
