@@ -210,6 +210,40 @@ for i, (rank, w, row, defs) in enumerate(selected):
         "audioUrl": None,
     })
 
+# ── 5b. 缺例句的字：改用純英文例句補位（zh: null，UI 條件渲染） ──
+missing = [x for x in words if not x["examples"]]
+if missing:
+    print(f"supplementing english-only examples for {len(missing)} words …")
+    miss_variants = collections.defaultdict(list)   # token -> [word dict]
+    for x in missing:
+        for v in word_variants(x["headword"], x["forms"]):
+            miss_variants[v].append(x)
+    cand = collections.defaultdict(list)            # headword -> [en]
+    with bz2.open(RAW / "eng_sentences.tsv.bz2", "rt", encoding="utf-8") as f:
+        for line in f:
+            parts = line.rstrip("\n").split("\t")
+            if len(parts) < 3:
+                continue
+            en = parts[2]
+            n = en.count(" ") + 1
+            if n < 4 or n > 14:
+                continue
+            toks = set(TOKEN.findall(en.lower()))
+            for tok in toks:
+                for x in miss_variants.get(tok, ()):
+                    if len(cand[x["headword"]]) < 40:
+                        cand[x["headword"]].append(en)
+    for x in missing:
+        picks, seen = [], set()
+        for en in sorted(cand.get(x["headword"], []), key=len):
+            if en.lower() in seen:
+                continue
+            seen.add(en.lower())
+            picks.append({"en": en, "zh": None})
+            if len(picks) >= MAX_EXAMPLES:
+                break
+        x["examples"] = picks
+
 for u in range(1, TOTAL_WORDS // UNIT_SIZE + 1):
     chunk = [x for x in words if x["unit"] == u]
     path = OUT_UNITS / f"unit-{u:02d}.json"
@@ -228,6 +262,7 @@ n_vn = sum(1 for x in words if "v" in (x["pos"] or []) or "n" in (x["pos"] or []
 n_en = have("defsEn")
 n_syn = sum(1 for x in words if x["synonyms"] or x["antonyms"])
 n_ex = sum(1 for x in words if x["examples"])
+n_ex_zh = sum(1 for x in words if any(e.get("zh") for e in x["examples"]))
 n_pos = have("pos")
 
 lines = [
@@ -241,7 +276,8 @@ lines = [
     f"{'變形(名/動)':<14}{f'{n_verbforms}/{n_vn} = {n_verbforms/max(n_vn,1)*100:.1f}%':>22}   >=80%  {'PASS' if n_verbforms/max(n_vn,1)>=.8 else 'FAIL'}",
     f"{'英英釋義':<14}{pct(n_en):>22}   >=95%  {'PASS' if n_en/len(words)>=.95 else 'FAIL'}",
     f"{'同/反義詞':<14}{pct(n_syn):>22}   >=60%  {'PASS' if n_syn/len(words)>=.6 else 'FAIL'}",
-    f"{'例句含中譯':<14}{pct(n_ex):>22}   >=50%  {'PASS' if n_ex/len(words)>=.5 else ('改純英例句' if n_ex/len(words)<.3 else 'FAIL(30-50%)')}",
+    f"{'例句含中譯':<14}{pct(n_ex_zh):>22}   >=50%  {'PASS' if n_ex_zh/len(words)>=.5 else ('改純英例句' if n_ex_zh/len(words)<.3 else 'FAIL(30-50%)')}",
+    f"{'例句(含純英補位)':<14}{pct(n_ex):>20}   (參考)  —",
     "",
     "缺 IPA：" + (", ".join(x["headword"] for x in words if not x["ipa"]) or "無"),
     "缺英英釋義：" + (", ".join(x["headword"] for x in words if not x["defsEn"]) or "無"),

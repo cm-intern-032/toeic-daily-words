@@ -1,6 +1,6 @@
 /* Service worker：預快取整個 app（殼 + 10 份單元 JSON），離線完全可用。
    更新流程：改版時把 VERSION +1，舊快取在 activate 時清掉。 */
-const VERSION = "v1.0.0";
+const VERSION = "v1.1.0";
 const CACHE = "toeic-vocab-" + VERSION;
 
 const PRECACHE = [
@@ -43,6 +43,11 @@ self.addEventListener("fetch", e => {
         }
         return res;
       })
+    ).catch(() =>
+      // 離線且快取未命中：導航退回殼頁，其餘回 504 而非拋未處理拒絕
+      e.request.mode === "navigate"
+        ? caches.match("./index.html")
+        : new Response("", { status: 504, statusText: "offline" })
     )
   );
 });

@@ -3,7 +3,10 @@ const CONFIG = {
   UNITS: 10,
   UNIT_SIZE: 40,
 
-  /* 單元級記憶曲線：stage n 完成後，下次複習間隔天數 INTERVALS[stage-1]（§5） */
+  /* 單元級記憶曲線：stage n 完成後，下次複習間隔天數 INTERVALS[stage-1]（§5）。
+     注意：企劃 §5 規定 stage 達 6 即畢業，因此最後一格 30 天實際上不會用到
+     （畢業前最後間隔是 15 天）；保留原表以符規格，v2 若要多一次 30 天複習，
+     把 GRADUATE_STAGE 改 7 即可。 */
   INTERVALS: [1, 2, 4, 7, 15, 30],
   GRADUATE_STAGE: 6,          // stage 達 6 = 畢業，不再排入每日任務
 

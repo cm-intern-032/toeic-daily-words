@@ -698,7 +698,20 @@
    "past": "coordinated",
    "thirdSg": "coordinates"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Give me the coordinates.",
+    "zh": null
+   },
+   {
+    "en": "We can always coordinate.",
+    "zh": null
+   },
+   {
+    "en": "Tom isn't very coordinated.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "co-ordinate",
    "organize",
@@ -1046,7 +1059,20 @@
   "forms": {
    "plural": "complimentaries"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "The drinks are complimentary.",
+    "zh": null
+   },
+   {
+    "en": "It's complimentary, isn't it?",
+    "zh": null
+   },
+   {
+    "en": "Are these drinks complimentary?",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "costless",
    "free",
@@ -1151,7 +1177,20 @@
   "forms": {
    "plural": "productivities"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "We need more productivity.",
+    "zh": null
+   },
+   {
+    "en": "Algeria has productivity issues.",
+    "zh": null
+   },
+   {
+    "en": "Algeria needs productivity growth.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "productiveness"
   ],
@@ -1211,7 +1250,20 @@
    "past": "relocated",
    "thirdSg": "relocates"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "We have to relocate.",
+    "zh": null
+   },
+   {
+    "en": "Tom wishes to relocate.",
+    "zh": null
+   },
+   {
+    "en": "Tom relocated to Boston.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -1231,7 +1283,20 @@
   "forms": {
    "plural": "trainees"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is a trainee.",
+    "zh": null
+   },
+   {
+    "en": "Are you a trainee?",
+    "zh": null
+   },
+   {
+    "en": "What's the new trainee called?",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -1251,7 +1316,20 @@
   "forms": {
    "plural": "transactions"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Sami is doing a transaction.",
+    "zh": null
+   },
+   {
+    "en": "The transaction was complete.",
+    "zh": null
+   },
+   {
+    "en": "It's a complicated transaction.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "dealing",
    "dealings"

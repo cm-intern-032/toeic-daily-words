@@ -23,7 +23,9 @@ const Content = (() => {
   }
 
   async function getWord(id) {
+    if (!/^w\d{4}$/.test(String(id))) return null;
     const unit = Math.floor((parseInt(id.slice(1), 10) - 1) / CONFIG.UNIT_SIZE) + 1;
+    if (unit < 1 || unit > CONFIG.UNITS) return null;
     const words = await loadUnit(unit);
     return words.find(w => w.id === id) || null;
   }
@@ -49,28 +51,43 @@ const Store = (() => {
   function write(key) {
     if (!persistOk) return;
     try { localStorage.setItem(KEYS[key], JSON.stringify(mem[key])); }
-    catch (e) { persistOk = false; document.dispatchEvent(new Event("store:persist-failed")); }
+    catch (e) { persistOk = false; }
   }
 
   /* ── 單字進度 ── */
   function progress() { return read("progress", {}); }
 
-  function wordP(id) {
+  const freshP = () => ({ correct: 0, incorrect: 0, box: 0, starred: false, deleted: null });
+
+  /* 唯讀：沒有紀錄就回傳預設值，但「不」寫進 progress——
+     否則瀏覽一次列表就會把 400 筆零紀錄持久化，之後每次寫入都變大包。 */
+  function wordP(id) { return progress()[id] || freshP(); }
+
+  /* 只有真正要寫入時才建立紀錄 */
+  function ensureP(id) {
     const p = progress();
-    if (!p[id]) p[id] = { correct: 0, incorrect: 0, box: 0, starred: false, deleted: null };
-    return p[id];
+    return p[id] || (p[id] = freshP());
   }
 
   function updateWord(id, patch) {
-    Object.assign(wordP(id), patch);
+    Object.assign(ensureP(id), patch);
     write("progress");
   }
 
   function markAnswer(id, ok) {
-    const w = wordP(id);
+    const w = ensureP(id);
     if (ok) { w.correct++; w.box = Math.min(w.box + 1, CONFIG.LEITNER_MAX_BOX); }
     else { w.incorrect++; w.box = 0; }
     write("progress");
+  }
+
+  /* 批次恢復 deleted==="unit" 的字：一次寫入，回傳恢復筆數 */
+  function restoreUnitDeleted() {
+    const p = progress();
+    let n = 0;
+    for (const k in p) if (p[k].deleted === "unit") { p[k].deleted = null; n++; }
+    if (n) write("progress");
+    return n;
   }
 
   /* ── 單元進度 ── */
@@ -116,23 +133,24 @@ const Store = (() => {
     write("progress"); write("units"); write("meta");
   }
 
-  return { progress, wordP, updateWord, markAnswer, units, unitP, updateUnit,
+  return { progress, wordP, updateWord, markAnswer, restoreUnitDeleted,
+           units, unitP, updateUnit,
            meta, updateMeta, acc, attempted, isWeak, isMastered, isWrongOften,
            exportJson, importJson, get persistOk() { return persistOk; } };
 })();
 
 /* ── 日期工具（本地時區，改系統日期即可驗證排程） ── */
-const Dates = {
-  today() {
-    const d = new Date();
-    return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
-  },
-  plus(dateStr, days) {
-    const [y, m, dd] = dateStr.split("-").map(Number);
-    const d = new Date(y, m - 1, dd + days);
-    return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
-  },
-};
+const Dates = (() => {
+  /* 排程全靠這個格式做字典序比較，兩個出口必須共用同一個格式化 */
+  const fmt = d => d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+  return {
+    today() { return fmt(new Date()); },
+    plus(dateStr, days) {
+      const [y, m, dd] = dateStr.split("-").map(Number);
+      return fmt(new Date(y, m - 1, dd + days));
+    },
+  };
+})();
 
 /* ── 每日任務（企劃 §5 虛擬碼的直譯） ── */
 const Scheduler = (() => {
@@ -150,20 +168,28 @@ const Scheduler = (() => {
     }
     due.sort((a, b) => (a.u.nextDue < b.u.nextDue ? -1 : a.u.nextDue > b.u.nextDue ? 1 : a.n - b.n));
 
+    await Promise.all(due.map(d => Content.loadUnit(d.n))); // 平行抓，冷載入不串行等待
     const reviewUnits = [];
     for (const { n } of due) {
       const words = await Content.loadUnit(n);
       const weak = words.filter(w => {
         const p = Store.wordP(w.id);
-        return !p.deleted && Store.isWeak(p);
+        // wrongList 只影響常錯清單（§6 查詢條件差異），不能讓字從每日複習消失
+        return p.deleted !== "unit" && Store.isWeak(p);
       });
       reviewUnits.push({ unit: n, weak });
     }
 
-    // 防雪崩：弱字總量 > 上限，就把「最新到期」的單元延到明天（stage 不變）
+    // 防雪崩：弱字總量 > 上限，把「最新到期且有弱字」的單元延到明天（stage 不變）。
+    // 零弱字單元延了也不減量，跳過；最舊到期（index 0）永遠保留。
     const deferred = [];
-    while (reviewUnits.reduce((s, r) => s + r.weak.length, 0) > CONFIG.DAILY_WEAK_CAP && reviewUnits.length > 1) {
-      const drop = reviewUnits.pop();
+    while (reviewUnits.reduce((s, r) => s + r.weak.length, 0) > CONFIG.DAILY_WEAK_CAP) {
+      let idx = -1;
+      for (let i = reviewUnits.length - 1; i > 0; i--) {
+        if (reviewUnits[i].weak.length > 0) { idx = i; break; }
+      }
+      if (idx < 1) break;
+      const drop = reviewUnits.splice(idx, 1)[0];
       Store.updateUnit(drop.unit, { nextDue: Dates.plus(today, 1) });
       deferred.push(drop.unit);
     }

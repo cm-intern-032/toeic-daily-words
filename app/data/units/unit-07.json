@@ -51,7 +51,20 @@
    "pp": "couriered",
    "past": "couriered"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "The courier is late.",
+    "zh": null
+   },
+   {
+    "en": "He's a Wolt courier.",
+    "zh": null
+   },
+   {
+    "en": "The courier got lost.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "messenger"
   ],
@@ -71,7 +84,20 @@
   ],
   "defsZh": "a. 不完全的, 未完成的, 不完善的\n[機] 不完全的",
   "forms": null,
-  "examples": [],
+  "examples": [
+   {
+    "en": "The file is incomplete.",
+    "zh": null
+   },
+   {
+    "en": "This list is incomplete.",
+    "zh": null
+   },
+   {
+    "en": "Tom's plan is incomplete.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "uncomplete",
    "uncompleted"
@@ -96,7 +122,20 @@
   "forms": {
    "plural": "questionnaires"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Fill in the questionnaire.",
+    "zh": null
+   },
+   {
+    "en": "Fill out the questionnaire.",
+    "zh": null
+   },
+   {
+    "en": "I filled in a questionnaire.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -288,7 +327,20 @@
   "forms": {
    "plural": "presenters"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "You're a good presenter.",
+    "zh": null
+   },
+   {
+    "en": "Tom is a great presenter.",
+    "zh": null
+   },
+   {
+    "en": "Tom is one of the presenters.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "sponsor",
    "donor",
@@ -486,7 +538,20 @@
   "forms": {
    "plural": "exclusives"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "I'm exclusive with him.",
+    "zh": null
+   },
+   {
+    "en": "Is it inclusive or exclusive?",
+    "zh": null
+   },
+   {
+    "en": "That's an exclusive golf club.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "scoop",
    "sole"
@@ -584,7 +649,20 @@
   "forms": {
    "plural": "memoranda"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "This is a memorandum.",
+    "zh": null
+   },
+   {
+    "en": "I haven't yet read the new memorandum on internal security.",
+    "zh": null
+   },
+   {
+    "en": "This memorandum shall be published in the Federal Register.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "memo",
    "memoranda"
@@ -607,7 +685,20 @@
   "forms": {
    "plural": "photocopiers"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Nothing is as useful as a photocopier.",
+    "zh": null
+   },
+   {
+    "en": "I was using the photocopier when it broke.",
+    "zh": null
+   },
+   {
+    "en": "We've run out of paper for the photocopier.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -663,7 +754,20 @@
   ],
   "defsZh": "a. 十分的, 徹底的",
   "forms": null,
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is very thorough.",
+    "zh": null
+   },
+   {
+    "en": "I like to be thorough.",
+    "zh": null
+   },
+   {
+    "en": "Tom was very thorough.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "exhaustive",
    "thoroughgoing"
@@ -754,7 +858,20 @@
   "forms": {
    "plural": "dentals"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is a dental student.",
+    "zh": null
+   },
+   {
+    "en": "Dental care is expensive.",
+    "zh": null
+   },
+   {
+    "en": "Do you have dental floss?",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "alveolar"
   ],
@@ -776,7 +893,20 @@
   "forms": {
    "plural": "durations"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "The trip duration is two hours.",
+    "zh": null
+   },
+   {
+    "en": "Can you sit through the duration?",
+    "zh": null
+   },
+   {
+    "en": "The duration of a football match is 90 minutes.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "continuance",
    "length"
@@ -804,7 +934,20 @@
    "pp": "lounged",
    "thirdSg": "lounges"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "It is a lounge.",
+    "zh": null
+   },
+   {
+    "en": "Who is in the lounge?",
+    "zh": null
+   },
+   {
+    "en": "She lounged by the pool.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "sofa",
    "couch"
@@ -860,7 +1003,20 @@
   "forms": {
    "plural": "patrons"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "She was a patron of the arts.",
+    "zh": null
+   },
+   {
+    "en": "Tom Jackson was a founding patron.",
+    "zh": null
+   },
+   {
+    "en": "Janos saw Martha flirt with patrons.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "frequenter",
    "sponsor",
@@ -1067,7 +1223,20 @@
   "forms": {
    "plural": "salespersons"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "I work as a salesperson.",
+    "zh": null
+   },
+   {
+    "en": "He's a dishonest salesperson.",
+    "zh": null
+   },
+   {
+    "en": "A salesperson doesn't earn much.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,

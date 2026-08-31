@@ -99,7 +99,20 @@
    "past": "photocopied",
    "thirdSg": "photocopies"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Could you photocopy that?",
+    "zh": null
+   },
+   {
+    "en": "I have to make photocopies.",
+    "zh": null
+   },
+   {
+    "en": "Photocopying kills the book.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "xerox"
   ],
@@ -405,7 +418,20 @@
   "forms": {
    "plural": "copiers"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Are you here to fix the copier?",
+    "zh": null
+   },
+   {
+    "en": "Do you know what's wrong with the copier?",
+    "zh": null
+   },
+   {
+    "en": "I'm off to the library to use the copier.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "duplicator"
   ],
@@ -427,7 +453,20 @@
   "forms": {
    "plural": "providers"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "God is the best of providers.",
+    "zh": null
+   },
+   {
+    "en": "Sami called his Internet provider.",
+    "zh": null
+   },
+   {
+    "en": "Sami is the sole provider for the family.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "supplier"
   ],
@@ -1246,7 +1285,20 @@
    "thirdSg": "bulletins",
    "pp": "bulletined"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom put the list on the bulletin board.",
+    "zh": null
+   },
+   {
+    "en": "We can get a weather bulletin every day.",
+    "zh": null
+   },
+   {
+    "en": "Was there a need to air that news bulletin?",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,

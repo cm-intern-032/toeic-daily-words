@@ -49,7 +49,20 @@
   ],
   "defsZh": "a. 給予保護的, 保護的\n[醫] 保護的, 防護的, 保護劑, 保護物, 油綢",
   "forms": null,
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is very protective.",
+    "zh": null
+   },
+   {
+    "en": "He's very protective of him.",
+    "zh": null
+   },
+   {
+    "en": "He's very protective of her.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": [
    "unprotective"
@@ -71,7 +84,20 @@
   "forms": {
    "plural": "sellers"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "He's a fish seller.",
+    "zh": null
+   },
+   {
+    "en": "Where is the seller?",
+    "zh": null
+   },
+   {
+    "en": "Lajos was a top seller.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "marketer",
    "vender",
@@ -202,7 +228,20 @@
    "past": "transited",
    "thirdSg": "transits"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "I am here in transit.",
+    "zh": null
+   },
+   {
+    "en": "He can take public transit.",
+    "zh": null
+   },
+   {
+    "en": "My baggage was lost in transit.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "theodolite",
    "transportation",
@@ -303,7 +342,20 @@
   "forms": {
    "plural": "casuals"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "We like to be casual.",
+    "zh": null
+   },
+   {
+    "en": "I tried to be casual.",
+    "zh": null
+   },
+   {
+    "en": "Casual speech is fine.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "insouciant",
    "nonchalant",
@@ -565,7 +617,20 @@
   "forms": {
    "plural": "retailers"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Some retailers charge less.",
+    "zh": null
+   },
+   {
+    "en": "Christmas is a busy time for retailers.",
+    "zh": null
+   },
+   {
+    "en": "They ordered books from an online retailer.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -585,7 +650,20 @@
   "forms": {
    "plural": "vacancies"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "There is one vacancy.",
+    "zh": null
+   },
+   {
+    "en": "Do you have a vacancy?",
+    "zh": null
+   },
+   {
+    "en": "Are there any vacancies?",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "void",
    "emptiness",
@@ -647,7 +725,16 @@
   ],
   "defsZh": "a. 累積的\n[醫] 蓄積的, 累積的",
   "forms": null,
-  "examples": [],
+  "examples": [
+   {
+    "en": "Lost sleep has a cumulative effect, I've been told.",
+    "zh": null
+   },
+   {
+    "en": "The graph shows the cumulative interest as a function of time.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "accumulative"
   ],
@@ -778,7 +865,20 @@
   ],
   "defsZh": "a. 聰明的, 有知識的",
   "forms": null,
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is very knowledgeable.",
+    "zh": null
+   },
+   {
+    "en": "Tom certainly is knowledgeable.",
+    "zh": null
+   },
+   {
+    "en": "He's very knowledgeable in Islam.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "knowing",
    "learned",
@@ -804,7 +904,20 @@
   "forms": {
    "plural": "organizers"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is an organizer.",
+    "zh": null
+   },
+   {
+    "en": "Are you the meeting organizer?",
+    "zh": null
+   },
+   {
+    "en": "He's an Algerian union organizer.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "organiser",
    "arranger",
@@ -828,7 +941,20 @@
   "forms": {
    "plural": "overdues"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "This is way overdue.",
+    "zh": null
+   },
+   {
+    "en": "It was long overdue.",
+    "zh": null
+   },
+   {
+    "en": "This book is overdue.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "delinquent"
   ],
@@ -889,7 +1015,20 @@
   "forms": {
    "plural": "subscribers"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Sami is a subscriber.",
+    "zh": null
+   },
+   {
+    "en": "You've earned yourself a subscriber!",
+    "zh": null
+   },
+   {
+    "en": "My channel has a million subscribers.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "endorser",
    "indorser",
@@ -1190,7 +1329,20 @@
   "forms": {
    "plural": "plumbers"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is a plumber.",
+    "zh": null
+   },
+   {
+    "en": "I need a plumber.",
+    "zh": null
+   },
+   {
+    "en": "Tom was a plumber.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -1210,7 +1362,20 @@
   "forms": {
    "plural": "specifications"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Can you give me some specifications?",
+    "zh": null
+   },
+   {
+    "en": "Specifications and price are subject to change.",
+    "zh": null
+   },
+   {
+    "en": "It is a new model with improved specifications.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "spec"
   ],

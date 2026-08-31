@@ -6,11 +6,25 @@ const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": 
 
 /* defsZh 第一行、去掉詞性前綴與領域標籤，給測驗選項/卡片用 */
 function shortDef(w) {
-  let line = (w.defsZh || "").split("\n")[0];
-  line = line.replace(/^\s*(\[[^\]]+\]\s*)?([a-z]+\.\s*)+/i, "").trim();
-  return line || (w.defsZh || "").split("\n")[0];
+  const first = (w.defsZh || "").split("\n")[0];
+  const stripped = first.replace(/^\s*(\[[^\]]+\]\s*)?([a-z]+\.\s*)+/i, "").trim();
+  return stripped || first; // 整行都是前綴時退回原句
 }
 function posLabel(pos) { return pos && pos.length ? pos.join(" · ") : ""; }
+
+/* 共用片段：例句、釋義行、發音按鈕（改這裡，各畫面同步生效） */
+function exHtml(e) {
+  return `<div class="ex"><p class="en">${esc(e.en)}</p>${e.zh ? `<p class="zh">${esc(e.zh)}</p>` : ""}</div>`;
+}
+function defsHtml(w, maxLines) {
+  let lines = esc(w.defsZh).split("\n");
+  if (maxLines) lines = lines.slice(0, maxLines);
+  return `<div class="defs">${lines.map(l => `<p>${l}</p>`).join("")}</div>`;
+}
+function speakBtn(headword, big) {
+  return `<button class="iconbtn${big ? " big" : ""}" data-word="${esc(headword)}"
+    onclick="Speech.unlock();Speech.speak(this.dataset.word)" aria-label="發音">🔊</button>`;
+}
 
 /* ── 路由 ─────────────────────────────── */
 const routes = {
@@ -21,11 +35,14 @@ const routes = {
 
 function nav(hash) { location.hash = hash; }
 
+/* 每個路由屬於哪個底部分頁（新路由記得補一行） */
+const TAB_OF = { home: "home", units: "units", unit: "units", word: "units", flash: "home", quiz: "quiz", "quiz-run": "quiz", restore: "settings", settings: "settings" };
+
 async function route() {
   const parts = location.hash.replace(/^#\/?/, "").split("/");
   const view = routes[parts[0]] || renderHome;
+  const tab = TAB_OF[parts[0] || "home"];
   document.querySelectorAll(".tabbar button").forEach(b => {
-    const tab = { home: "home", units: "units", unit: "units", word: "units", flash: "home", quiz: "quiz", "quiz-run": "quiz", restore: "settings", settings: "settings" }[parts[0] || "home"];
     b.classList.toggle("active", b.dataset.tab === tab);
   });
   try { await view(parts.slice(1)); }
@@ -48,7 +65,7 @@ async function renderHome() {
   const all = await Content.loadAll();
   const p = Store.progress();
   const learned = all.filter(w => p[w.id] && Store.attempted(p[w.id])).length;
-  const mastered = all.filter(w => p[w.id] && !p[w.id].deleted && Store.isMastered(p[w.id])).length;
+  const mastered = all.filter(w => p[w.id] && p[w.id].deleted !== "unit" && Store.isMastered(p[w.id])).length;
   const graduated = Object.values(Store.units()).filter(u => u.stage >= CONFIG.GRADUATE_STAGE).length;
 
   const weekday = "日一二三四五六"[new Date().getDay()];
@@ -110,6 +127,7 @@ async function renderHome() {
 
 /* ── 單元列表 ─────────────────────────── */
 async function renderUnits() {
+  await Content.loadAll(); // 平行抓 10 個單元，之後的 loadUnit 都命中快取
   let rows = "";
   for (let n = 1; n <= CONFIG.UNITS; n++) {
     const words = await Content.loadUnit(n);
@@ -163,8 +181,7 @@ async function renderWord([id]) {
   const formsRow = w.forms ? Object.entries({ plural: "複數", past: "過去式", pp: "過去分詞", ing: "現在分詞", thirdSg: "三單" })
     .filter(([k]) => w.forms[k]).map(([k, lbl]) => `<span class="chip">${lbl} ${esc(w.forms[k])}</span>`).join("") : "";
 
-  const examples = (w.examples || []).map(e =>
-    `<div class="ex"><p class="en">${esc(e.en)}</p><p class="zh">${esc(e.zh)}</p></div>`).join("");
+  const examples = (w.examples || []).map(exHtml).join("");
 
   $main().innerHTML = `
     ${topbar("單字詳情", "#/unit/" + w.unit)}
@@ -172,11 +189,11 @@ async function renderWord([id]) {
       <div class="card wordcard">
         <div class="w-head">
           <h2 class="headword">${esc(w.headword)}</h2>
-          <button class="iconbtn" data-word="${esc(w.headword)}" onclick="Speech.unlock();Speech.speak(this.dataset.word)" aria-label="發音">🔊</button>
+          ${speakBtn(w.headword)}
         </div>
         ${w.ipa ? `<p class="ipa">/${esc(w.ipa)}/</p>` : ""}
         ${w.pos ? `<p class="pos">${esc(posLabel(w.pos))}</p>` : ""}
-        <div class="defs">${esc(w.defsZh).split("\n").map(l => `<p>${l}</p>`).join("")}</div>
+        ${defsHtml(w)}
         ${formsRow ? `<div class="chips">${formsRow}</div>` : ""}
         ${examples ? `<h3>例句</h3>${examples}` : ""}
         ${w.synonyms ? `<h3>同義</h3><div class="chips">${w.synonyms.map(s => `<span class="chip">${esc(s)}</span>`).join("")}</div>` : ""}
@@ -229,8 +246,8 @@ function drawFlash() {
        ${w.ipa ? `<p class="ipa">/${esc(w.ipa)}/</p>` : ""}
        ${w.pos ? `<p class="pos">${esc(posLabel(w.pos))}</p>` : ""}
        <p class="fliphint">點卡片看釋義</p>`
-    : `<div class="defs">${esc(w.defsZh).split("\n").slice(0, 4).map(l => `<p>${l}</p>`).join("")}</div>
-       ${(w.examples || [])[0] ? `<div class="ex"><p class="en">${esc(w.examples[0].en)}</p><p class="zh">${esc(w.examples[0].zh)}</p></div>` : ""}`;
+    : `${defsHtml(w, 4)}
+       ${(w.examples || [])[0] ? exHtml(w.examples[0]) : ""}`;
 
   $main().innerHTML = `
     ${topbar("快速記憶 · Unit " + unit, "#/unit/" + unit)}
@@ -238,7 +255,7 @@ function drawFlash() {
       <p class="flash-i">${i + 1} / ${words.length}</p>
       <div class="card flashcard" onclick="flash.back=!flash.back;drawFlash()">${face}</div>
       <div class="rowbtns center">
-        <button class="iconbtn big" data-word="${esc(w.headword)}" onclick="Speech.unlock();Speech.speak(this.dataset.word)" aria-label="發音">🔊</button>
+        ${speakBtn(w.headword, true)}
         <button class="iconbtn big" onclick="flashDelete()" aria-label="刪除">🗑</button>
       </div>
       <div class="rowbtns">
@@ -331,7 +348,8 @@ async function startQuiz(opt) {
     title = `Unit ${opt.unit} 單字卷`;
   } else if (opt.kind === "review") {
     const words = await Content.loadUnit(opt.unit);
-    list = words.filter(w => { const p = Store.wordP(w.id); return !p.deleted && Store.isWeak(p); });
+    // 與 Scheduler 的弱字條件一致：wrongList 不影響每日複習
+    list = words.filter(w => { const p = Store.wordP(w.id); return p.deleted !== "unit" && Store.isWeak(p); });
     title = `Unit ${opt.unit} 複習`;
   } else if (opt.kind === "multi") {
     for (const n of opt.units) list.push(...(await Content.loadUnit(n)).filter(aliveInUnit));
@@ -350,8 +368,9 @@ async function startQuiz(opt) {
     task: opt.task ? { kind: opt.task, unit: opt.unit } : (opt.kind === "review" ? { kind: "review", unit: opt.unit } : null),
     answered: false,
   };
-  nav("#/quiz-run");
+  // hash 沒變時 hashchange 不會觸發才需要手動 route()；變了就交給事件，避免連續渲染兩次
   if (location.hash === "#/quiz-run") route();
+  else nav("#/quiz-run");
 }
 
 async function renderQuizRun() {
@@ -361,11 +380,19 @@ async function renderQuizRun() {
   if (i >= list.length) { renderQuizDone(); return; }
   const w = list[i];
 
-  // 干擾項：同單元優先，不足再從全池補（企劃 §6）
-  const sameUnit = quiz.pool.filter(x => x.unit === w.unit && x.id !== w.id);
+  // 干擾項：同單元優先，不足再從全池補（企劃 §6）；
+  // 以顯示文字去重，避免同義字撞出兩顆一模一樣的選項（只有一顆算對）
+  const usedText = new Set([shortDef(w)]);
+  const distractors = [];
+  const sameUnit = shuffle(quiz.pool.filter(x => x.unit === w.unit && x.id !== w.id));
   const others = shuffle(quiz.pool.filter(x => x.unit !== w.unit && x.id !== w.id));
-  const distractors = shuffle([...sameUnit]).slice(0, CONFIG.QUIZ_OPTIONS - 1);
-  while (distractors.length < CONFIG.QUIZ_OPTIONS - 1 && others.length) distractors.push(others.pop());
+  for (const cand of [...sameUnit, ...others]) {
+    if (distractors.length >= CONFIG.QUIZ_OPTIONS - 1) break;
+    const t = shortDef(cand);
+    if (usedText.has(t)) continue;
+    usedText.add(t);
+    distractors.push(cand);
+  }
   const opts = shuffle([w, ...distractors]);
 
   $main().innerHTML = `
@@ -375,7 +402,7 @@ async function renderQuizRun() {
       <div class="card quizcard">
         <div class="w-head">
           <h2 class="headword">${esc(w.headword)}</h2>
-          <button class="iconbtn" data-word="${esc(w.headword)}" onclick="Speech.speak(this.dataset.word)" aria-label="發音">🔊</button>
+          ${speakBtn(w.headword)}
         </div>
         ${w.ipa ? `<p class="ipa">/${esc(w.ipa)}/</p>` : ""}
       </div>
@@ -446,9 +473,8 @@ async function renderRestore() {
         : `<div class="notice">沒有被刪除的單字。</div>`}
     </div>`;
 }
-async function restoreAll() {
-  const all = await Content.loadAll();
-  for (const w of all) if (Store.wordP(w.id).deleted === "unit") Store.updateWord(w.id, { deleted: null });
+function restoreAll() {
+  Store.restoreUnitDeleted(); // 批次一次寫入，避免逐字全量序列化
   route();
 }
 
@@ -515,7 +541,6 @@ function doImport() {
 }
 
 /* ── 啟動 ─────────────────────────────── */
-document.addEventListener("store:persist-failed", () => { /* 首頁會顯示警告 */ });
 Store.updateMeta({ lastOpenDate: Dates.today() });
 route();
 if ("serviceWorker" in navigator) {

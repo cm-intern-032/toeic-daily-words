@@ -136,7 +136,20 @@
   "forms": {
    "plural": "correspondences"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Correspondence conducted in Volapük.",
+    "zh": null
+   },
+   {
+    "en": "Bring that correspondence up to date.",
+    "zh": null
+   },
+   {
+    "en": "A correspondence sprang up between us.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "agreement",
    "commensurateness",
@@ -237,7 +250,20 @@
    "past": "sculptured",
    "thirdSg": "sculptures"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "I am a sculpture.",
+    "zh": null
+   },
+   {
+    "en": "I want a sculpture.",
+    "zh": null
+   },
+   {
+    "en": "He made a sand sculpture.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "carving",
    "sculpt"
@@ -423,7 +449,20 @@
   "forms": {
    "plural": "occupancies"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Rooms are single occupancy.",
+    "zh": null
+   },
+   {
+    "en": "Hotel guests may be charged a \"room occupancy tax\".",
+    "zh": null
+   },
+   {
+    "en": "The occupancy rate in hotels is almost fifty percent.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "tenancy",
    "occupation"
@@ -446,7 +485,20 @@
   "forms": {
    "plural": "proficiencies"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Language proficiency is a long journey.",
+    "zh": null
+   },
+   {
+    "en": "He needs to improve his Berber proficiency.",
+    "zh": null
+   },
+   {
+    "en": "Her proficiency in English rapidly improved.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "technique"
   ],
@@ -468,7 +520,20 @@
   "forms": {
    "plural": "renewals"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "How can I turn off automatic renewal?",
+    "zh": null
+   },
+   {
+    "en": "The urban-renewal project is now well under way.",
+    "zh": null
+   },
+   {
+    "en": "The formation of youth is the renewal of the world.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "reclamation",
    "rehabilitation",
@@ -633,7 +698,20 @@
   ],
   "defsZh": "a. 不合邏輯的, 無緣由的\n[法] 不合邏輯的, 無條理的, 說不通的",
   "forms": null,
-  "examples": [],
+  "examples": [
+   {
+    "en": "It would be illogical.",
+    "zh": null
+   },
+   {
+    "en": "I find that illogical.",
+    "zh": null
+   },
+   {
+    "en": "His argument is illogical.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "unlogical",
    "confused",
@@ -812,7 +890,20 @@
   "forms": {
    "plural": "conductors"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is a conductor.",
+    "zh": null
+   },
+   {
+    "en": "Ziri is a conductor.",
+    "zh": null
+   },
+   {
+    "en": "Who is this conductor?",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "director"
   ],
@@ -1000,7 +1091,20 @@
   "forms": {
    "plural": "expertises"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "I need your expertise.",
+    "zh": null
+   },
+   {
+    "en": "I needed your expertise.",
+    "zh": null
+   },
+   {
+    "en": "It's outside my expertise.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "expertness"
   ],
@@ -1026,7 +1130,20 @@
    "thirdSg": "graphs",
    "pp": "graphed"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Are you into graphs?",
+    "zh": null
+   },
+   {
+    "en": "The graph is misleading.",
+    "zh": null
+   },
+   {
+    "en": "This graph is misleading.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "chart"
   ],
@@ -1048,7 +1165,20 @@
   "forms": {
    "plural": "takers"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is a risk taker.",
+    "zh": null
+   },
+   {
+    "en": "Are you a risk taker?",
+    "zh": null
+   },
+   {
+    "en": "Are you a risk-taker?",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -1069,7 +1199,20 @@
   "forms": {
    "plural": "utilities"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "You have to pay for utilities.",
+    "zh": null
+   },
+   {
+    "en": "He works for a public utility.",
+    "zh": null
+   },
+   {
+    "en": "He entered the utility corridor.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "usefulness"
   ],
@@ -1127,7 +1270,20 @@
   "forms": {
    "plural": "bankers"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "I am a banker.",
+    "zh": null
+   },
+   {
+    "en": "Tom is a banker.",
+    "zh": null
+   },
+   {
+    "en": "Sami was a banker.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -1181,7 +1337,20 @@
    "thirdSg": "minimizes",
    "past": "minimized"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "I minimized the window.",
+    "zh": null
+   },
+   {
+    "en": "Sami minimized his crimes.",
+    "zh": null
+   },
+   {
+    "en": "Yanni kept minimizing things.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "minimise",
    "understate",

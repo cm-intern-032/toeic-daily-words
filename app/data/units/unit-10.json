@@ -11,7 +11,20 @@
   "forms": {
    "plural": "autos"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "What is an auto-da-fé?",
+    "zh": null
+   },
+   {
+    "en": "Tom is an auto mechanic.",
+    "zh": null
+   },
+   {
+    "en": "Tom was an auto mechanic.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "car",
    "automobile",
@@ -78,7 +91,20 @@
   "forms": {
    "plural": "deductions"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "The tax agent allowed the deduction.",
+    "zh": null
+   },
+   {
+    "en": "Luxury spending is ineligible for tax deductions.",
+    "zh": null
+   },
+   {
+    "en": "An income tax is levied on any income that exceeds deductions.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "discount",
    "entailment",
@@ -197,7 +223,20 @@
   "forms": {
    "plural": "flyers"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Sami saw the flyer.",
+    "zh": null
+   },
+   {
+    "en": "Mennad read the flyer.",
+    "zh": null
+   },
+   {
+    "en": "Ziri left Rima a flyer.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "circular",
    "handbill",
@@ -228,7 +267,20 @@
    "past": "franchised",
    "thirdSg": "franchises"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Franchising is our next step.",
+    "zh": null
+   },
+   {
+    "en": "I have to fly between franchises.",
+    "zh": null
+   },
+   {
+    "en": "We have franchises in every major city.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "dealership",
    "enfranchisement"
@@ -490,7 +542,20 @@
   "forms": {
    "plural": "showrooms"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Welcome to our showroom.",
+    "zh": null
+   },
+   {
+    "en": "This is the fastest car in our showroom.",
+    "zh": null
+   },
+   {
+    "en": "Our showroom made a hit with young ladies.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "salesroom",
    "saleroom"
@@ -547,7 +612,20 @@
   "forms": {
    "plural": "administrators"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is the administrator.",
+    "zh": null
+   },
+   {
+    "en": "Tom is a good administrator.",
+    "zh": null
+   },
+   {
+    "en": "I'm a company administrator.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "executive"
   ],
@@ -604,7 +682,20 @@
   "forms": {
    "plural": "cancellations"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "It was a late cancellation.",
+    "zh": null
+   },
+   {
+    "en": "I had a couple of cancellations.",
+    "zh": null
+   },
+   {
+    "en": "Cancellation fees are rising fast.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -622,7 +713,20 @@
   ],
   "defsZh": "a. 機密的, 獲他人信賴的, 易於信任他人的\n[經] 秘密件",
   "forms": null,
-  "examples": [],
+  "examples": [
+   {
+    "en": "All tips are confidential.",
+    "zh": null
+   },
+   {
+    "en": "It's a confidential matter.",
+    "zh": null
+   },
+   {
+    "en": "The details are confidential.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "secret"
   ],
@@ -937,7 +1041,20 @@
    "ing": "finalizing",
    "thirdSg": "finalizes"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "I've finalized my work.",
+    "zh": null
+   },
+   {
+    "en": "They finalized the terms.",
+    "zh": null
+   },
+   {
+    "en": "Nothing has been finalized.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "finalise",
    "settle"
@@ -963,7 +1080,20 @@
    "past": "incurred",
    "thirdSg": "incurs"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "My act incurred a blame.",
+    "zh": null
+   },
+   {
+    "en": "Additional charges may incur.",
+    "zh": null
+   },
+   {
+    "en": "My mistake incurred his anger.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "receive",
    "get",
@@ -1052,7 +1182,20 @@
   "forms": {
    "plural": "luncheons"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "We had a late luncheon.",
+    "zh": null
+   },
+   {
+    "en": "How did the luncheon go?",
+    "zh": null
+   },
+   {
+    "en": "We asked ten people to the luncheon.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "lunch",
    "tiffin",
@@ -1113,7 +1256,20 @@
    "ing": "overviewing",
    "past": "overviewed"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Thank you for the overview.",
+    "zh": null
+   },
+   {
+    "en": "Can you give me a brief overview?",
+    "zh": null
+   },
+   {
+    "en": "I like to have an overview of things.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -1223,7 +1379,20 @@
   "forms": {
    "plural": "accomplishments"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "What a great accomplishment!",
+    "zh": null
+   },
+   {
+    "en": "It's a great accomplishment.",
+    "zh": null
+   },
+   {
+    "en": "That's a huge accomplishment.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "achievement",
    "skill",

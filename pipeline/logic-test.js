@@ -46,12 +46,15 @@ function check(name, cond) {
   for (let i = 0; i < 9; i++) Store.markAnswer("w0002", true);
   check("box 封頂 5", Store.wordP("w0002").box === 5);
 
-  /* 2. 常錯定義 */
-  const p = Store.wordP("w0003");
+  /* 2. 常錯定義（wordP 是唯讀快照，每次斷言重新取） */
   Store.markAnswer("w0003", false); Store.markAnswer("w0003", false); Store.markAnswer("w0003", true);
-  check("常錯：錯2對1 → 是", Store.isWrongOften(p));
+  check("常錯：錯2對1 → 是", Store.isWrongOften(Store.wordP("w0003")));
   for (let i = 0; i < 6; i++) Store.markAnswer("w0003", true);
-  check("常錯：多次答對後 → 否", !Store.isWrongOften(p));
+  check("常錯：多次答對後 → 否", !Store.isWrongOften(Store.wordP("w0003")));
+
+  /* 2b. 唯讀渲染不得污染 progress（膨脹 bug 回歸測試） */
+  Store.wordP("w0399"); Store.wordP("w0400");
+  check("wordP 讀取不寫入 progress", !("w0399" in Store.progress()) && !("w0400" in Store.progress()));
 
   /* 3. 首次學習與間隔 */
   Scheduler.completeUnit(1);
@@ -99,13 +102,21 @@ function check(name, cond) {
   check("被延後單元 nextDue=明天", t.deferred.every(n => Store.unitP(n).nextDue === "2026-10-01"));
   check("最舊到期的 Unit 3 沒被延", !t.deferred.includes(3));
 
-  /* 9. 刪除語意 */
+  /* 9. 刪除語意：unit 全域排除；wrongList 只影響常錯清單 */
   Store.updateWord("w0081", { deleted: "unit" });      // unit 3 的字
-  const w3 = await Content.loadUnit(3);
-  const weak3 = w3.filter(w => { const q = Store.wordP(w.id); return !q.deleted && Store.isWeak(q); });
-  check("deleted=unit 不進弱字", !weak3.some(w => w.id === "w0081"));
   Store.updateWord("w0082", { deleted: "wrongList" });
-  check("deleted=wrongList 也不進每日弱字（!deleted 條件）", !w3.filter(w => { const q = Store.wordP(w.id); return !q.deleted && Store.isWeak(q); }).some(w => w.id === "w0082"));
+  const w3 = await Content.loadUnit(3);
+  const weak3 = w3.filter(w => { const q = Store.wordP(w.id); return q.deleted !== "unit" && Store.isWeak(q); });
+  check("deleted=unit 不進每日弱字", !weak3.some(w => w.id === "w0081"));
+  check("deleted=wrongList 仍進每日弱字", weak3.some(w => w.id === "w0082"));
+  Store.markAnswer("w0082", false); Store.markAnswer("w0082", false);
+  const inWrongList = !Store.wordP("w0082").deleted && Store.isWrongOften(Store.wordP("w0082"));
+  check("deleted=wrongList 不進常錯清單", !inWrongList);
+
+  /* 9b. 批次恢復 */
+  const restored = Store.restoreUnitDeleted();
+  check("restoreUnitDeleted 恢復 1 筆", restored === 1 && Store.wordP("w0081").deleted === null);
+  check("wrongList 不被恢復頁動作影響", Store.wordP("w0082").deleted === "wrongList");
 
   /* 10. 匯出/匯入 roundtrip */
   const dump = Store.exportJson();

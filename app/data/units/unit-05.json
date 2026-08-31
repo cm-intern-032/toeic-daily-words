@@ -45,7 +45,16 @@
   "forms": {
    "plural": "respondents"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "The first respondent failed to fill out the entire questionnaire.",
+    "zh": null
+   },
+   {
+    "en": "Some respondents reported they'd experienced orgasm while exercising.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "responder",
    "answerer",
@@ -250,7 +259,20 @@
    "thirdSg": "skims",
    "plural": "skims"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Skim off the fat.",
+    "zh": null
+   },
+   {
+    "en": "This is skim milk.",
+    "zh": null
+   },
+   {
+    "en": "I skimmed the list.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "skimming",
    "plane"
@@ -524,7 +546,20 @@
   "forms": {
    "plural": "commuters"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Several commuters were stranded.",
+    "zh": null
+   },
+   {
+    "en": "Where can I find a commuter bus?",
+    "zh": null
+   },
+   {
+    "en": "The trains were jammed with commuters.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -575,7 +610,20 @@
   "forms": {
    "plural": "newsletters"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "I'll cancel the newsletter.",
+    "zh": null
+   },
+   {
+    "en": "Subscribe to our daily newsletter.",
+    "zh": null
+   },
+   {
+    "en": "Sign up for our monthly newsletter.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "newssheet"
   ],
@@ -597,7 +645,20 @@
   "forms": {
    "plural": "advisors"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Tom is an advisor.",
+    "zh": null
+   },
+   {
+    "en": "Ziri is an advisor.",
+    "zh": null
+   },
+   {
+    "en": "Anger is a bad advisor.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "adviser",
    "consultant"
@@ -793,7 +854,20 @@
   "forms": {
    "plural": "announcers"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "What do announcers do?",
+    "zh": null
+   },
+   {
+    "en": "The announcer spoke English.",
+    "zh": null
+   },
+   {
+    "en": "Tom works as a TV announcer.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -857,7 +931,20 @@
    "past": "audited",
    "thirdSg": "audits"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "The IRS is auditing me.",
+    "zh": null
+   },
+   {
+    "en": "I'm auditing the course.",
+    "zh": null
+   },
+   {
+    "en": "I've never been audited.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "scrutinize",
    "scrutinise",
@@ -1120,7 +1207,20 @@
   "forms": {
    "plural": "bonuses"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "I got a bonus.",
+    "zh": null
+   },
+   {
+    "en": "He got a bonus.",
+    "zh": null
+   },
+   {
+    "en": "Tom got a bonus.",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "fillip",
    "incentive"
@@ -1265,7 +1365,20 @@
    "past": "supervised",
    "thirdSg": "supervises"
   },
-  "examples": [],
+  "examples": [
+   {
+    "en": "Who will supervise Tom?",
+    "zh": null
+   },
+   {
+    "en": "I'm not supervising you.",
+    "zh": null
+   },
+   {
+    "en": "Who supervises the work?",
+    "zh": null
+   }
+  ],
   "synonyms": [
    "oversee",
    "superintend",
