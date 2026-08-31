@@ -1,0 +1,1454 @@
+[
+ {
+  "id": "w1081",
+  "unit": 28,
+  "headword": "sharply",
+  "ipa": "'ʃɑ:pli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 銳利地, 嚴厲地, 厲害地\n[經] 劇烈地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Industrial production rose sharply in July.",
+    "zh": "7月份工業生產大幅增長。"
+   },
+   {
+    "en": "Corporate earnings in the first quarter improved sharply.",
+    "zh": "企業第一季度收益大幅增長。"
+   },
+   {
+    "en": "Housing prices in Hsinchu City have risen sharply due to the concentration of the tech industry.",
+    "zh": "新竹市區的房價因為科技產業聚集而水漲船高。"
+   }
+  ],
+  "synonyms": [
+   "aggressively",
+   "crisply",
+   "sharp",
+   "acutely"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "in an aggressive manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1082",
+  "unit": 28,
+  "headword": "similarity",
+  "ipa": ".simi'læriti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 類似, 類似處\n[法] 類似, 相似, 類似事例",
+  "forms": {
+   "plural": "similarities"
+  },
+  "examples": [
+   {
+    "en": "I see the similarities.",
+    "zh": null
+   },
+   {
+    "en": "What are the similarities?",
+    "zh": null
+   },
+   {
+    "en": "The similarities are many.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "dissimilarity"
+  ],
+  "phrases": null,
+  "defsEn": "the quality of being similar",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1083",
+  "unit": 28,
+  "headword": "someday",
+  "ipa": "'sʌmdei",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 有一天",
+  "forms": {
+   "plural": "somedays"
+  },
+  "examples": [
+   {
+    "en": "You'll understand someday.",
+    "zh": "你有一天會明白。"
+   },
+   {
+    "en": "I will be a doctor someday.",
+    "zh": "我有朝一日會成為一名醫生。"
+   },
+   {
+    "en": "I want to go abroad someday.",
+    "zh": "將來我要去國外旅遊。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "some unspecified time in the future",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1084",
+  "unit": 28,
+  "headword": "spectator",
+  "ipa": "spek'teitә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 觀眾, 目擊者, 旁觀者",
+  "forms": {
+   "plural": "spectators"
+  },
+  "examples": [
+   {
+    "en": "There weren't many spectators at the game because of the rain.",
+    "zh": "因為下雨了，球場上沒有很多觀眾。"
+   },
+   {
+    "en": "He's just a spectator.",
+    "zh": null
+   },
+   {
+    "en": "There are few spectators.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "witness",
+   "viewer",
+   "watcher",
+   "looker"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a close observer; someone who looks at something (such as an exhibition of some kind)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1085",
+  "unit": 28,
+  "headword": "stereo",
+  "ipa": "'stiәriәu",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 鉛版, 立體照片\na. 立體的, 立體感覺的",
+  "forms": {
+   "plural": "stereos"
+  },
+  "examples": [
+   {
+    "en": "Put a record on the stereo.",
+    "zh": "往立體聲音響上放一枚唱片。"
+   },
+   {
+    "en": "Turn down the stereo.",
+    "zh": null
+   },
+   {
+    "en": "Can I play the stereo?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "stereophony",
+   "stereophonic",
+   "two-channel"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1086",
+  "unit": 28,
+  "headword": "storeroom",
+  "ipa": "'stɒ:rum",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 儲藏室, 庫房\n[經] 倉庫貨棧, 儲藏室",
+  "forms": {
+   "plural": "storerooms"
+  },
+  "examples": [
+   {
+    "en": "I forgot to lock the storeroom.",
+    "zh": "我忘了鎖儲藏室的門。"
+   },
+   {
+    "en": "The box is in the storeroom.",
+    "zh": null
+   },
+   {
+    "en": "He broke into the storeroom.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "stowage"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a room in which things are stored",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1087",
+  "unit": 28,
+  "headword": "subsidize",
+  "ipa": "'sʌbsidaiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 補助, 資助, 賄賂\n[經] 資助, 津貼, 給...補助金",
+  "forms": {
+   "pp": "subsidized",
+   "past": "subsidized",
+   "ing": "subsidizing",
+   "thirdSg": "subsidizes"
+  },
+  "examples": [
+   {
+    "en": "The city should subsidize small businesses in industries with large overhead costs.",
+    "zh": "市府應補貼經常性開支龐大的產業中的小型企業。"
+   },
+   {
+    "en": "Algeria subsidizes gas prices.",
+    "zh": null
+   },
+   {
+    "en": "Algeria subsidizes fuel prices.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "subsidise"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "support through subsidies",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1088",
+  "unit": 28,
+  "headword": "suspicious",
+  "ipa": "sә'spiʃәs",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 可疑的, 多疑的, 懷疑的\n[法] 懷疑的, 令人懷疑的, 可疑的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He looks suspicious.",
+    "zh": "他看起來很可疑。"
+   },
+   {
+    "en": "It looks suspicious.",
+    "zh": "看上去很可疑。"
+   },
+   {
+    "en": "I am suspicious of him.",
+    "zh": "我覺得他有點可疑。"
+   }
+  ],
+  "synonyms": [
+   "leery",
+   "mistrustful",
+   "untrusting",
+   "wary",
+   "fishy"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "openly distrustful and unwilling to confide",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1089",
+  "unit": 28,
+  "headword": "tasty",
+  "ipa": "'teisti",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 好吃的, 可口的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Is it tasty?",
+    "zh": "好吃嗎？"
+   },
+   {
+    "en": "This is so tasty.",
+    "zh": "真好吃。"
+   },
+   {
+    "en": "This dish is tasty.",
+    "zh": "這個菜很對胃口。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "tasteless"
+  ],
+  "phrases": null,
+  "defsEn": "pleasing to the sense of taste",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1090",
+  "unit": 28,
+  "headword": "terrific",
+  "ipa": "tә'rifik",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 非常好的, 極端的, 可怕的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "A car went by at terrific speed.",
+    "zh": "車子極速飆過。"
+   },
+   {
+    "en": "It was so terrific.",
+    "zh": null
+   },
+   {
+    "en": "What a terrific idea!",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "fantastic",
+   "grand",
+   "howling",
+   "marvelous",
+   "marvellous"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "very great or intense",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1091",
+  "unit": 28,
+  "headword": "underground",
+  "ipa": "'ʌndәgraund",
+  "pos": [
+   "n",
+   "adj",
+   "adv"
+  ],
+  "defsZh": "n. 地下, 地鐵, 地道, 秘密活動\na. 地下的, 秘密的\nadv. 在地下, 秘密地",
+  "forms": {
+   "ing": "undergrounding"
+  },
+  "examples": [
+   {
+    "en": "Let's go by underground.",
+    "zh": "我們坐地鐵去吧。"
+   },
+   {
+    "en": "Let's take the underground.",
+    "zh": "我們坐地鐵去吧。"
+   },
+   {
+    "en": "The subway runs underground.",
+    "zh": "地鐵在地下通行。"
+   }
+  ],
+  "synonyms": [
+   "resistance",
+   "metro",
+   "tube",
+   "subway",
+   "belowground"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a secret group organized to overthrow a government or occupation force",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1092",
+  "unit": 28,
+  "headword": "unpaid",
+  "ipa": ".ʌn'peid",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 未付款的, 不支薪水的\n[經] 未付的, 未繳納的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "A promise made is a debt unpaid.",
+    "zh": null
+   },
+   {
+    "en": "Tom and Mary are unpaid volunteers.",
+    "zh": null
+   },
+   {
+    "en": "Sami's unpaid bills were piling up.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "volunteer",
+   "amateur",
+   "recreational"
+  ],
+  "antonyms": [
+   "paid"
+  ],
+  "phrases": null,
+  "defsEn": "not paid",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1093",
+  "unit": 28,
+  "headword": "volleyball",
+  "ipa": "'vɒlibɒ:l",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 排球",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I play volleyball a lot.",
+    "zh": "我常打排球。"
+   },
+   {
+    "en": "Volleyball is a lot of fun.",
+    "zh": "排球很有意思。"
+   },
+   {
+    "en": "I'm playing volleyball now.",
+    "zh": "我現在在打排球。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a game in which two teams hit an inflated ball over a high net using their hands",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1094",
+  "unit": 28,
+  "headword": "wheelchair",
+  "ipa": "'hwi:l.tʃєә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 輪椅",
+  "forms": {
+   "plural": "wheelchairs"
+  },
+  "examples": [
+   {
+    "en": "The hallway needs to be wide enough for a wheelchair.",
+    "zh": "走廊要夠輪椅寬。"
+   },
+   {
+    "en": "The building isn't yet up to code because it still needs a wheelchair ramp.",
+    "zh": "這棟建築尚未符合法規，因為還缺少輪椅坡道。"
+   },
+   {
+    "en": "Tom uses a wheelchair.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a movable chair mounted on large wheels; for invalids or those who cannot walk; frequently propelled by the occupant",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1095",
+  "unit": 28,
+  "headword": "whoever",
+  "ipa": "hu'evә",
+  "pos": [
+   "pron"
+  ],
+  "defsZh": "pron. 任何人, 無論誰",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Whoever said so, it is false.",
+    "zh": "誰這麼說說得不對。"
+   },
+   {
+    "en": "He helps whoever asks him to help.",
+    "zh": "無論是甚麼人請他幫忙，他也會幫忙。"
+   },
+   {
+    "en": "Whoever comes, don't open the door.",
+    "zh": "誰來了也不要開門。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1096",
+  "unit": 28,
+  "headword": "wool",
+  "ipa": "wul",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 羊毛, 毛織物, 毛線, 絨線\n[醫] 羊毛, 絨毛, 棉[花]",
+  "forms": {
+   "plural": "wools"
+  },
+  "examples": [
+   {
+    "en": "We wear wool in winter.",
+    "zh": "冬天穿羊毛衣。"
+   },
+   {
+    "en": "She was dressed in wool.",
+    "zh": "她穿著羊毛衣。"
+   },
+   {
+    "en": "Sheep provide us with wool.",
+    "zh": "綿羊提供我們羊毛。"
+   }
+  ],
+  "synonyms": [
+   "woolen",
+   "woollen",
+   "fleece"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a fabric made from the hair of sheep",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1097",
+  "unit": 28,
+  "headword": "wrinkle",
+  "ipa": "'riŋkl",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 皺紋, 妙計, 方法, 技巧\nvi. 起皺\nvt. 使起皺紋",
+  "forms": {
+   "plural": "wrinkles",
+   "past": "wrinkled",
+   "ing": "wrinkling",
+   "pp": "wrinkled",
+   "thirdSg": "wrinkles"
+  },
+  "examples": [
+   {
+    "en": "She wrinkled her brows.",
+    "zh": "她眉頭緊鎖。"
+   },
+   {
+    "en": "After washing, de-wrinkle it.",
+    "zh": "洗後弄平。"
+   },
+   {
+    "en": "She squeamishly wrinkled her nose.",
+    "zh": "她大驚小怪地皺了皺鼻子。"
+   }
+  ],
+  "synonyms": [
+   "furrow",
+   "crease",
+   "crinkle",
+   "seam",
+   "line"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a slight depression in the smoothness of a surface",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1098",
+  "unit": 28,
+  "headword": "accuracy",
+  "ipa": "'ækjurәsi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 精確, 正確\n[計] 準確度",
+  "forms": {
+   "plural": "accuracies"
+  },
+  "examples": [
+   {
+    "en": "Accuracy is important in arithmetic.",
+    "zh": "準確性在計算中很重要。"
+   },
+   {
+    "en": "Let's not mistake precision for accuracy.",
+    "zh": "不要把精確和準確搞錯。"
+   },
+   {
+    "en": "I began to doubt the accuracy of his statement.",
+    "zh": "我開始懷疑他陳述的準確性。"
+   }
+  ],
+  "synonyms": [
+   "truth"
+  ],
+  "antonyms": [
+   "inaccuracy"
+  ],
+  "phrases": null,
+  "defsEn": "the quality of being near to the true value",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1099",
+  "unit": 28,
+  "headword": "anyhow",
+  "ipa": "'enihau",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 無論如何, 至少",
+  "forms": null,
+  "examples": [
+   {
+    "en": "It's too late, anyhow.",
+    "zh": "反正已經太晚了。"
+   },
+   {
+    "en": "How is Tom anyhow?",
+    "zh": null
+   },
+   {
+    "en": "Anyhow I will see him.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "anyway",
+   "anyways"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "used to indicate that a statement explains or supports a previous statement",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1100",
+  "unit": 28,
+  "headword": "appetizer",
+  "ipa": "'æpitaizә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 開胃食品, 吊胃口的東西\n[醫] 開胃劑",
+  "forms": {
+   "plural": "appetizers"
+  },
+  "examples": [
+   {
+    "en": "This is an appetizer.",
+    "zh": null
+   },
+   {
+    "en": "Is there any appetizer?",
+    "zh": null
+   },
+   {
+    "en": "Yes, it's an appetizer.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "appetiser",
+   "starter"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "food or drink to stimulate the appetite (usually served before a meal or as the first course)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1101",
+  "unit": 28,
+  "headword": "arc",
+  "ipa": "ɑ:k",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 弧, 弧形, 弓形, 弧光\n[化] 弧",
+  "forms": {
+   "plural": "arcs",
+   "ing": "arcking",
+   "past": "arcked",
+   "thirdSg": "arcs",
+   "pp": "arcked"
+  },
+  "examples": [
+   {
+    "en": "I love his character arc.",
+    "zh": null
+   },
+   {
+    "en": "This arc is central to the plot.",
+    "zh": null
+   },
+   {
+    "en": "Tom's character arc is confusing.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "discharge",
+   "spark",
+   "bow"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "electrical conduction through a gas in an applied electric field",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1102",
+  "unit": 28,
+  "headword": "audition",
+  "ipa": "ɒ:'diʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 聽, 聽力, 試聽\n[計] 審計命令",
+  "forms": {
+   "plural": "auditions",
+   "ing": "auditioning",
+   "past": "auditioned",
+   "pp": "auditioned",
+   "thirdSg": "auditions"
+  },
+  "examples": [
+   {
+    "en": "I have an audition today.",
+    "zh": "我今天有個面試。"
+   },
+   {
+    "en": "Tom has an audition.",
+    "zh": null
+   },
+   {
+    "en": "How was the audition?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "hearing",
+   "tryout"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the ability to hear; the auditory faculty",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1103",
+  "unit": 28,
+  "headword": "backpack",
+  "ipa": "'bækpæk",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 遠足用的揹包；雙肩揹包, 揹包",
+  "forms": {
+   "ing": "backpacking",
+   "plural": "backpacks"
+  },
+  "examples": [
+   {
+    "en": "Inside my backpack there are many colored pens, red ones, blue ones, green ones, etc.",
+    "zh": "我的書包裡有很多彩色筆，紅的，藍的，綠的，等等。"
+   },
+   {
+    "en": "It's in my backpack.",
+    "zh": null
+   },
+   {
+    "en": "Give me the backpack.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "knapsack",
+   "packsack",
+   "rucksack",
+   "haversack",
+   "pack"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a bag carried by a strap on your back or shoulder",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1104",
+  "unit": 28,
+  "headword": "ballroom",
+  "ipa": "'bɒ:lrum",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 舞廳, 跳舞場",
+  "forms": {
+   "plural": "ballrooms"
+  },
+  "examples": [
+   {
+    "en": "Which way is the ballroom?",
+    "zh": null
+   },
+   {
+    "en": "They danced around the ballroom.",
+    "zh": null
+   },
+   {
+    "en": "Tom led Mary out of the ballroom.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "large room used mainly for dancing",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1105",
+  "unit": 28,
+  "headword": "beneficial",
+  "ipa": ".beni'fiʃәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 有益的, 受益的\n[經] 有使用權的, 可享利益的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Walking is beneficial.",
+    "zh": "走路是有益的。"
+   },
+   {
+    "en": "Not all animals are beneficial.",
+    "zh": "不是所有的動物都是有益的。"
+   },
+   {
+    "en": "Others say it may even be beneficial.",
+    "zh": "其他人說它甚至可能是有益的。"
+   }
+  ],
+  "synonyms": [
+   "good"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "promoting or enhancing well-being",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1106",
+  "unit": 28,
+  "headword": "biography",
+  "ipa": "bai'ɒgrәfi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 傳記",
+  "forms": {
+   "plural": "biographies"
+  },
+  "examples": [
+   {
+    "en": "I'm reading a biography.",
+    "zh": null
+   },
+   {
+    "en": "I only read biographies.",
+    "zh": null
+   },
+   {
+    "en": "Ziri wrote Rima's biography.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "life"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an account of the series of events making up a person's life",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1107",
+  "unit": 28,
+  "headword": "bound",
+  "ipa": "baund",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "defsZh": "n. 躍, 回跳, 範圍, 邊界\na. 受約束的, 裝有封面的, 有義務的, 關聯的, 被束縛的, 準備去...的, 便秘的\nvi. 跳躍, 彈起\nvt. 使跳, 限制, 形成...的疆界\nbind過去式和過去分詞\n[計] 裝訂的",
+  "forms": {
+   "plural": "bounds",
+   "pp": "bounded",
+   "ing": "bounding",
+   "past": "bound",
+   "thirdSg": "bounds"
+  },
+  "examples": [
+   {
+    "en": "Man is bound to die.",
+    "zh": "人必定要死的。"
+   },
+   {
+    "en": "He's bound to forget.",
+    "zh": "他準會忘。"
+   },
+   {
+    "en": "You're bound to fail.",
+    "zh": "你註定失敗。"
+   }
+  ],
+  "synonyms": [
+   "boundary",
+   "edge",
+   "bounds",
+   "limit"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a line determining the limits of an area",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1108",
+  "unit": 28,
+  "headword": "broom",
+  "ipa": "bru:m",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 掃帚, 金雀花\nvt. 掃除",
+  "forms": {
+   "plural": "brooms"
+  },
+  "examples": [
+   {
+    "en": "She brought a broom.",
+    "zh": "她拿來了一個掃把。"
+   },
+   {
+    "en": "I can't find the broom.",
+    "zh": "我找不到掃把了。"
+   },
+   {
+    "en": "A new broom sweeps clean.",
+    "zh": "新官上任三把火。"
+   }
+  ],
+  "synonyms": [
+   "heather",
+   "ling"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1109",
+  "unit": 28,
+  "headword": "cheeseburger",
+  "ipa": "'tʃi:zbә:gә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 乾酪漢堡包",
+  "forms": {
+   "plural": "cheeseburgers"
+  },
+  "examples": [
+   {
+    "en": "I ate a cheeseburger.",
+    "zh": null
+   },
+   {
+    "en": "Tom ate a cheeseburger.",
+    "zh": null
+   },
+   {
+    "en": "Order me a cheeseburger.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a hamburger with melted cheese on it",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1110",
+  "unit": 28,
+  "headword": "chilly",
+  "ipa": "'tʃili",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 寒冷的, 冷淡的, 不友好的\n[建] 番椒, 冷",
+  "forms": {
+   "plural": "chillies"
+  },
+  "examples": [
+   {
+    "en": "It's a chilly morning.",
+    "zh": "這是一個寒冷的早晨。"
+   },
+   {
+    "en": "It's a little chilly in here.",
+    "zh": "這裡有點寒冷。"
+   },
+   {
+    "en": "It's a bit chilly.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "chili",
+   "chilli",
+   "chile",
+   "parky"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "very hot and finely tapering pepper of special pungency",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1111",
+  "unit": 28,
+  "headword": "circus",
+  "ipa": "'sә:kәs",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 馬戲團, 馬戲, 競技場",
+  "forms": {
+   "plural": "circuses"
+  },
+  "examples": [
+   {
+    "en": "That is a circus!",
+    "zh": "那是個馬戲團！"
+   },
+   {
+    "en": "Tom works as an elephant trainer in a circus.",
+    "zh": "湯姆在一個馬戲團當訓象師。"
+   },
+   {
+    "en": "At the age of six, I was taken to a circus for the first time.",
+    "zh": "在我六歲的時候，我第一次被帶去看馬戲。"
+   }
+  ],
+  "synonyms": [
+   "carnival"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a travelling company of entertainers; including trained animals",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1112",
+  "unit": 28,
+  "headword": "compliment",
+  "ipa": "'kɒmplimәnt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 稱讚, 恭維, 敬意\nvt. 稱讚, 褒揚, 恭維",
+  "forms": {
+   "plural": "compliments",
+   "past": "complimented",
+   "pp": "complimented",
+   "ing": "complimenting",
+   "thirdSg": "compliments"
+  },
+  "examples": [
+   {
+    "en": "He paid me a compliment.",
+    "zh": "他稱讚了我。"
+   },
+   {
+    "en": "I'll take that as a compliment.",
+    "zh": "我就當你誇我了。"
+   },
+   {
+    "en": "I will take that as a compliment.",
+    "zh": "我就當你誇我了。"
+   }
+  ],
+  "synonyms": [
+   "congratulate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a remark (or act) expressing praise and admiration",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1113",
+  "unit": 28,
+  "headword": "consignment",
+  "ipa": "kәn'sainmәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 委託\n[經] 委託, 寄銷, 寄銷品",
+  "forms": {
+   "plural": "consignments"
+  },
+  "examples": [
+   {
+    "en": "I bought this at the consignment shop.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "cargo",
+   "lading",
+   "freight",
+   "load",
+   "loading"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "goods carried by a large vehicle",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1114",
+  "unit": 28,
+  "headword": "continental",
+  "ipa": ".kɒnti'nentl",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 大陸的, 洲的\nn. 歐洲大陸人",
+  "forms": {
+   "plural": "continentals"
+  },
+  "examples": [
+   {
+    "en": "I'm the continental champion.",
+    "zh": null
+   },
+   {
+    "en": "Algeria has lots of continental oil.",
+    "zh": null
+   },
+   {
+    "en": "Tom hiked the Continental Divide Trail.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "of or pertaining to or typical of Europe",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1115",
+  "unit": 28,
+  "headword": "copyright",
+  "ipa": "'kɒpirait",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 版權, 著作權\n[法] 著作權",
+  "forms": {
+   "plural": "copyrights",
+   "ing": "copyrighting",
+   "past": "copyrighted",
+   "thirdSg": "copyrights",
+   "pp": "copyrighted"
+  },
+  "examples": [
+   {
+    "en": "This book is still copyrighted.",
+    "zh": "那本書仍受版權保護。"
+   },
+   {
+    "en": "Tom always violates copyright laws.",
+    "zh": "湯姆一向違反智慧財產權。"
+   },
+   {
+    "en": "I wish copyrights didn't last so long.",
+    "zh": "我希望版權不用持續這麼久。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a document granting exclusive right to publish and sell literary or musical or artistic work",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1116",
+  "unit": 28,
+  "headword": "countryside",
+  "ipa": "'kʌntrisaid",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 鄉下地方, 鄉下居民",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The countryside has many trees.",
+    "zh": "鄉間有很多樹。"
+   },
+   {
+    "en": "A lot of trees grow in the countryside.",
+    "zh": "鄉間有很多樹。"
+   },
+   {
+    "en": "There are lots of trees in the countryside.",
+    "zh": "鄉間有很多樹。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "rural regions",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1117",
+  "unit": 28,
+  "headword": "demolish",
+  "ipa": "di'mɒliʃ",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 毀壞, 破壞, 粉碎",
+  "forms": {
+   "pp": "demolished",
+   "ing": "demolishing",
+   "past": "demolished",
+   "thirdSg": "demolishes"
+  },
+  "examples": [
+   {
+    "en": "I demolished the school.",
+    "zh": null
+   },
+   {
+    "en": "Tom demolished the wall.",
+    "zh": null
+   },
+   {
+    "en": "I will demolish the wall.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "pulverize",
+   "pulverise",
+   "crush",
+   "smash",
+   "destroy"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "destroy completely",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1118",
+  "unit": 28,
+  "headword": "departmental",
+  "ipa": ".di:pɑ:t'mentәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 部門的, 各部的, 分科的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The city government held a large conference aimed at promoting cross-departmental cooperation.",
+    "zh": "市政府舉行了一次大型公會，旨在促進跨部門合作。"
+   },
+   {
+    "en": "I missed the departmental meeting because I was sick.",
+    "zh": null
+   },
+   {
+    "en": "This study grant was given to me by the departmental council.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "of or relating to a department",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1119",
+  "unit": 28,
+  "headword": "desperate",
+  "ipa": "'despәrәt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不顧一切的, 危急的, 令人絕望的, 極渴望的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I'm in a desperate situation.",
+    "zh": "我處在絕境。"
+   },
+   {
+    "en": "These housewives are desperate.",
+    "zh": "這些家庭主婦過得很絕望。"
+   },
+   {
+    "en": "Desperate times call for desperate measures.",
+    "zh": "非常時期需要非常措施。"
+   }
+  ],
+  "synonyms": [
+   "despairing",
+   "do-or-die"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who is frightened and in need of help",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1120",
+  "unit": 28,
+  "headword": "devastate",
+  "ipa": "'devәsteit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 毀壞\n[法] 使荒廢, 毀滅, 掠奪",
+  "forms": {
+   "pp": "devastated",
+   "past": "devastated",
+   "ing": "devastating",
+   "thirdSg": "devastates",
+   "plural": "devastates"
+  },
+  "examples": [
+   {
+    "en": "The country had been devastated by long war.",
+    "zh": "這個國家被長期的戰爭毀壞了。"
+   },
+   {
+    "en": "A devastating earthquake hit the state capital.",
+    "zh": "一場毀滅性的地震襲擊了這個州的首府。"
+   },
+   {
+    "en": "I am so devastated.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "waste",
+   "desolate",
+   "ravage",
+   "scourge"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "cause extensive destruction or ruin utterly",
+  "note": null,
+  "audioUrl": null
+ }
+]

@@ -136,6 +136,10 @@
    {
     "en": "It is definite that he will go to America.",
     "zh": "他肯定要去美國。"
+   },
+   {
+    "en": "Is that a definite?",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -198,6 +202,14 @@
    {
     "en": "If you make a study plan, you can make progress efficiently.",
     "zh": "只要制定學習計劃，就能有效地取得進步。"
+   },
+   {
+    "en": "You did it very efficiently.",
+    "zh": null
+   },
+   {
+    "en": "Tom did it very efficiently.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -453,6 +465,14 @@
    {
     "en": "We'll be profitable this year.",
     "zh": "今年我們會盈利的。"
+   },
+   {
+    "en": "It might be profitable.",
+    "zh": null
+   },
+   {
+    "en": "War is very profitable.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -519,6 +539,14 @@
    {
     "en": "Your school is so kind to reimburse you for the return airfare.",
     "zh": "你們學校真好，還幫你們報銷來回的機票。"
+   },
+   {
+    "en": "Will I be reimbursed?",
+    "zh": null
+   },
+   {
+    "en": "How do I get reimbursed?",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -655,6 +683,14 @@
    {
     "en": "I hear you've already contacted the broker.",
     "zh": "聽說您已經跟中介公司聯絡過了。"
+   },
+   {
+    "en": "Tom is a stock broker.",
+    "zh": null
+   },
+   {
+    "en": "Tom brokered the deal.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -793,6 +829,14 @@
    {
     "en": "Let's be realistic.",
     "zh": "現實點吧。"
+   },
+   {
+    "en": "I'm a realistic person.",
+    "zh": null
+   },
+   {
+    "en": "Tom is being realistic.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -900,6 +944,14 @@
    {
     "en": "The proliferation of Internet usage has given birth to a new generation of young people.",
     "zh": "網際網路的廣泛應用使新一代的年輕人誕生了。"
+   },
+   {
+    "en": "This is an obsolete usage.",
+    "zh": null
+   },
+   {
+    "en": "There are differences in usage.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -978,6 +1030,10 @@
    {
     "en": "This is an automated payphone; you use it by inserting a coin.",
     "zh": "這是自動投幣電話，用一元硬幣來打的。"
+   },
+   {
+    "en": "Jobs should be automated.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1014,6 +1070,10 @@
    {
     "en": "There were not more than one hundred passengers on board the ferry.",
     "zh": "渡輪上的乘客不多於一百人。"
+   },
+   {
+    "en": "I'll come by ferry.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1125,6 +1185,14 @@
    {
     "en": "Please do as they have instructed you.",
     "zh": "請按他們教你的做。"
+   },
+   {
+    "en": "Tom did as instructed.",
+    "zh": null
+   },
+   {
+    "en": "Layla did as instructed.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1153,6 +1221,14 @@
    {
     "en": "To whom are you loyal: me or the king?",
     "zh": "你忠於我還是國王？"
+   },
+   {
+    "en": "I think Tom is loyal.",
+    "zh": null
+   },
+   {
+    "en": "Dogs are loyal animals.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1293,6 +1369,14 @@
    {
     "en": "What's wrong with this projector? It won't display anything.",
     "zh": "這個投影儀怎麼了？什麼都放不出來。"
+   },
+   {
+    "en": "The projector turned off.",
+    "zh": null
+   },
+   {
+    "en": "The projector doesn't work.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -1354,6 +1438,14 @@
    {
     "en": "The living room in my new house is very spacious.",
     "zh": "我新家的客廳很寬敞。"
+   },
+   {
+    "en": "Tom's flat is spacious.",
+    "zh": null
+   },
+   {
+    "en": "Tom has a spacious flat.",
+    "zh": null
    }
   ],
   "synonyms": [

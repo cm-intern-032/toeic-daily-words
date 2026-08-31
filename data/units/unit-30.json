@@ -1,0 +1,1443 @@
+[
+ {
+  "id": "w1161",
+  "unit": 30,
+  "headword": "permanently",
+  "ipa": "'p\\\\\\\\:mәntli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 永久, 不變, 持久\n[計] 永久性的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "You're still young, but not permanently.",
+    "zh": "你還年輕，可是沒有永久。"
+   },
+   {
+    "en": "Alert, in Nunavut, Canada, is the northernmost permanently inhabited place in the world.",
+    "zh": "加拿大努納武特地區的阿勒特是世界上最北端的永久居住地。"
+   },
+   {
+    "en": "Sami got hired permanently.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "temporarily"
+  ],
+  "phrases": null,
+  "defsEn": "for a long time without essential change",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1162",
+  "unit": 30,
+  "headword": "plow",
+  "ipa": "plau",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 犁\nv. 犁, 耕",
+  "forms": {
+   "pp": "plowed",
+   "ing": "plowing",
+   "thirdSg": "plows",
+   "plural": "plows",
+   "past": "plowed"
+  },
+  "examples": [
+   {
+    "en": "I am plowing my land.",
+    "zh": "我在耕地。"
+   },
+   {
+    "en": "I plowed the field.",
+    "zh": null
+   },
+   {
+    "en": "He plowed the field.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "plough",
+   "turn",
+   "cover",
+   "treat",
+   "handle"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1163",
+  "unit": 30,
+  "headword": "query",
+  "ipa": "'kwiәri",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 疑問, 疑問號, 質問, 查詢\nv. 詢問, 質問\n[計] 查詢",
+  "forms": {
+   "plural": "queries",
+   "past": "queried",
+   "pp": "queried",
+   "ing": "querying",
+   "thirdSg": "queries"
+  },
+  "examples": [
+   {
+    "en": "Any further queries should be made via the customer service number below.",
+    "zh": "如有任何其他疑問，請撥打下方的客服電話。"
+   },
+   {
+    "en": "I do have a parting query.",
+    "zh": null
+   },
+   {
+    "en": "The search query is inefficient.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "question",
+   "inquiry",
+   "enquiry",
+   "interrogation"
+  ],
+  "antonyms": [
+   "answer"
+  ],
+  "phrases": null,
+  "defsEn": "an instance of questioning",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1164",
+  "unit": 30,
+  "headword": "railway",
+  "ipa": "'reilwei",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 鐵路, 軌道\n[經] 鐵路",
+  "forms": {
+   "plural": "railways"
+  },
+  "examples": [
+   {
+    "en": "Where is the railway station?",
+    "zh": "火車站在哪裡?"
+   },
+   {
+    "en": "My dad works on the railways.",
+    "zh": "我爸爸在鐵路工作。"
+   },
+   {
+    "en": "Don't go over the railway tracks!",
+    "zh": "不要翻越鐵軌！"
+   }
+  ],
+  "synonyms": [
+   "railroad"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1165",
+  "unit": 30,
+  "headword": "raincoat",
+  "ipa": "'reinkәut",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 雨衣",
+  "forms": {
+   "plural": "raincoats",
+   "past": "raincoated"
+  },
+  "examples": [
+   {
+    "en": "You'd better put on a raincoat.",
+    "zh": "您最好穿一件雨衣。"
+   },
+   {
+    "en": "You had better put on a raincoat.",
+    "zh": "您最好穿一件雨衣。"
+   },
+   {
+    "en": "Who's the girl in a yellow raincoat?",
+    "zh": "穿黃色雨衣的女孩是誰？"
+   }
+  ],
+  "synonyms": [
+   "waterproof"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a water-resistant coat",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1166",
+  "unit": 30,
+  "headword": "reconsider",
+  "ipa": ".ri:kәn'sidә",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 再考慮, 重新考慮",
+  "forms": {
+   "pp": "reconsidered",
+   "ing": "reconsidering",
+   "past": "reconsidered",
+   "thirdSg": "reconsiders"
+  },
+  "examples": [
+   {
+    "en": "I'll reconsider the matter.",
+    "zh": "我會重新考慮此事。"
+   },
+   {
+    "en": "The stage charisma of drag performers compels audiences to reconsider their own stereotypes.",
+    "zh": "反串秀者的舞臺魅力使觀眾不禁重新審視自己的刻板印象。"
+   },
+   {
+    "en": "I beg you to reconsider.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "consider again; give new consideration to; usually with a view to changing",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1167",
+  "unit": 30,
+  "headword": "redesign",
+  "ipa": ",ri:di'zain",
+  "pos": null,
+  "defsZh": "[化] 重新設計",
+  "forms": {
+   "pp": "redesigned",
+   "ing": "redesigning",
+   "past": "redesigned",
+   "thirdSg": "redesigns",
+   "plural": "redesigns"
+  },
+  "examples": [
+   {
+    "en": "It's a complete redesign.",
+    "zh": null
+   },
+   {
+    "en": "I don't like the redesign.",
+    "zh": null
+   },
+   {
+    "en": "Elias redesigned that dress.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "design anew, make a new design for",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1168",
+  "unit": 30,
+  "headword": "rehearsal",
+  "ipa": "ri'hә:sl",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 預演, 排演, 練習, 敘述, 複述\n[法] 詳述, 列舉事實, 複述",
+  "forms": {
+   "plural": "rehearsals"
+  },
+  "examples": [
+   {
+    "en": "Tomorrow there will be no normal lessons, in view of the athletic meet rehearsal.",
+    "zh": "明天是運動會的排練，沒有往常的課程。"
+   },
+   {
+    "en": "Lately there have been constant dance rehearsals; Performances will be on Friday and Saturday.",
+    "zh": "最近一直在舞蹈排練，週五週六要演出啊。"
+   },
+   {
+    "en": "Rehearsal is no fun.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a practice session in preparation for a public performance (as of a play or speech or concert)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1169",
+  "unit": 30,
+  "headword": "relaxation",
+  "ipa": ".ri:læk'seiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 鬆弛, 放鬆, 減輕, 緩和, 休息, 休養\n[化] 鬆弛; 馳豫",
+  "forms": {
+   "plural": "relaxations"
+  },
+  "examples": [
+   {
+    "en": "Ziri enjoyed the relaxation.",
+    "zh": null
+   },
+   {
+    "en": "Ziri put Rima in relaxation.",
+    "zh": null
+   },
+   {
+    "en": "What do you do for relaxation?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "easiness"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(physiology) the gradual lengthening of inactive muscle or muscle fibers",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1170",
+  "unit": 30,
+  "headword": "repetition",
+  "ipa": ".repi'tiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 重複, 背誦, 迴圈, 複製品, 副本\n[機] 重複, 反覆",
+  "forms": {
+   "plural": "repetitions"
+  },
+  "examples": [
+   {
+    "en": "Repetition is the mother of memory.",
+    "zh": "重複是記憶之母。"
+   },
+   {
+    "en": "Repetition leads to perfection.",
+    "zh": null
+   },
+   {
+    "en": "A single repetition is not enough.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "repeat",
+   "repeating"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an event that repeats",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1171",
+  "unit": 30,
+  "headword": "retreat",
+  "ipa": "ri'tri:t",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 休息寓所, 撤退, 隱居, 退避\nvi. 撤退, 隱退, 向後傾\nvt. 退(棋)",
+  "forms": {
+   "past": "retreated",
+   "pp": "retreated",
+   "ing": "retreating",
+   "plural": "retreats",
+   "thirdSg": "retreats"
+  },
+  "examples": [
+   {
+    "en": "The snail retreated into its shell.",
+    "zh": "蝸牛縮排殼裡去了。"
+   },
+   {
+    "en": "They had no alternative but to retreat.",
+    "zh": "他們不得不後撤。"
+   },
+   {
+    "en": "The soldiers retreated from their positions.",
+    "zh": "士兵們撤離了他們的陣地。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(military) withdrawal of troops to a more favorable position to escape the enemy's superior forces or after a defeat",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1172",
+  "unit": 30,
+  "headword": "salon",
+  "ipa": "'sælɔ:ŋ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 大會客室, 大廳, 客廳, 交誼室, 沙龍, 美術展覽館, 畫廊, 美容院, 髮廊",
+  "forms": {
+   "plural": "salons"
+  },
+  "examples": [
+   {
+    "en": "Mary has a hair salon.",
+    "zh": null
+   },
+   {
+    "en": "Layla called the salon.",
+    "zh": null
+   },
+   {
+    "en": "Mary works at a nail salon.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "gallery where works of art can be displayed",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1173",
+  "unit": 30,
+  "headword": "satellite",
+  "ipa": "'sætlait",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 人造衛星\n[醫] 伴行靜脈, 陪靜脈, 陪病部, 隨體, 衛星",
+  "forms": {
+   "plural": "satellites"
+  },
+  "examples": [
+   {
+    "en": "Where are the satellites?",
+    "zh": "那些衛星在哪裡？"
+   },
+   {
+    "en": "Mars has two natural satellites.",
+    "zh": "火星有兩個天然衛星。"
+   },
+   {
+    "en": "The satellite came flying over Hanoi.",
+    "zh": "人造衛星從河內上空飛過。"
+   }
+  ],
+  "synonyms": [
+   "orbiter",
+   "planet"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "man-made equipment that orbits around the earth or the moon",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1174",
+  "unit": 30,
+  "headword": "scenery",
+  "ipa": "'si:nәri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 風景, 景色, 舞臺佈景",
+  "forms": {
+   "plural": "sceneries"
+  },
+  "examples": [
+   {
+    "en": "I need a change of scenery.",
+    "zh": "我需要換個環境。"
+   },
+   {
+    "en": "Dmitri enjoyed the scenery.",
+    "zh": "德米特里很欣賞風景。"
+   },
+   {
+    "en": "Jersey has beautiful scenery.",
+    "zh": "澤西島的景色很美。"
+   }
+  ],
+  "synonyms": [
+   "scene"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the painted structures of a stage set that are intended to suggest a particular locale",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1175",
+  "unit": 30,
+  "headword": "serial",
+  "ipa": "'siәriәl",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 分期連載作品, 連載小說\na. 連續的, 一連串的, 連載的, 分期償還的\n[計] 連續的; 序列的",
+  "forms": {
+   "plural": "serials",
+   "past": "serialled"
+  },
+  "examples": [
+   {
+    "en": "Betty is a serial killer.",
+    "zh": "貝蒂是連環殺手。"
+   },
+   {
+    "en": "Tom had no idea Mary was a serial killer.",
+    "zh": "湯姆不知道瑪麗是個連環殺手。"
+   },
+   {
+    "en": "They have watched TV serials this evening.",
+    "zh": "他們今晚看了電視連續劇。"
+   }
+  ],
+  "synonyms": [
+   "series",
+   "consecutive",
+   "sequent",
+   "sequential",
+   "successive"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a serialized set of programs",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1176",
+  "unit": 30,
+  "headword": "sew",
+  "ipa": "sәu",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 縫紉, 縫合, 縫\nvi. 縫紉",
+  "forms": {
+   "pp": "sewn",
+   "ing": "sewing",
+   "past": "sewed",
+   "thirdSg": "sews"
+  },
+  "examples": [
+   {
+    "en": "Did you sew this by hand?",
+    "zh": "是用手縫的嗎？"
+   },
+   {
+    "en": "Do you have a sewing needle?",
+    "zh": "你有沒有縫衣針？"
+   },
+   {
+    "en": "I bought a new sewing machine.",
+    "zh": "我買了一臺新的縫紉機。"
+   }
+  ],
+  "synonyms": [
+   "stitch",
+   "tailor",
+   "tailor-make"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "fasten by sewing; do needlework",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1177",
+  "unit": 30,
+  "headword": "sketch",
+  "ipa": "sketʃ",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 素描, 草圖, 小品\nv. 描繪略圖, 畫素描或速寫",
+  "forms": {
+   "plural": "sketches",
+   "past": "sketched",
+   "pp": "sketched",
+   "ing": "sketching",
+   "thirdSg": "sketches"
+  },
+  "examples": [
+   {
+    "en": "He sketched an apple.",
+    "zh": "他畫了一張蘋果素描。"
+   },
+   {
+    "en": "Jiro made a sketch of Mt. Fuji.",
+    "zh": "次郎畫了一幅富士山的素描。"
+   },
+   {
+    "en": "Tom ripped a page out of his sketch book.",
+    "zh": "湯姆從他的繪畫本上撕下了一頁。"
+   }
+  ],
+  "synonyms": [
+   "study",
+   "vignette",
+   "survey",
+   "resume"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "preliminary drawing for later elaboration",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1178",
+  "unit": 30,
+  "headword": "smartphone",
+  "ipa": null,
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 智慧手機",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Do you have a smartphone?",
+    "zh": "您有手機嗎？"
+   },
+   {
+    "en": "My smartphone charger fell.",
+    "zh": "我的手機充電器掉了。"
+   },
+   {
+    "en": "I still don't have a smartphone.",
+    "zh": "我還是沒有手機。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1179",
+  "unit": 30,
+  "headword": "soar",
+  "ipa": "sɒ:",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 高揚, 翱翔\nvi. 往上飛舞, 高聳, 翱翔",
+  "forms": {
+   "past": "soared",
+   "ing": "soaring",
+   "pp": "soared",
+   "thirdSg": "soars"
+  },
+  "examples": [
+   {
+    "en": "The birds soar in the air.",
+    "zh": "鳥兒在空中飛翔。"
+   },
+   {
+    "en": "The value of the yen has soared.",
+    "zh": "日元的價值大幅上升。"
+   },
+   {
+    "en": "Travel agencies' profits soared.",
+    "zh": "旅行社的利潤猛漲。"
+   }
+  ],
+  "synonyms": [
+   "zoom",
+   "surge"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of rising upward into the air",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1180",
+  "unit": 30,
+  "headword": "stimulus",
+  "ipa": "'stimjulәs",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 刺激, 激勵, 刺激品\n[醫] 刺激特, 刺激",
+  "forms": {
+   "plural": "stimuli"
+  },
+  "examples": [
+   {
+    "en": "Where's my stimulus money?",
+    "zh": null
+   },
+   {
+    "en": "Where is my stimulus money?",
+    "zh": null
+   },
+   {
+    "en": "Rocks can't react to stimuli.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "stimulation",
+   "stimulant",
+   "input"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "any stimulating information or event; acts to arouse action",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1181",
+  "unit": 30,
+  "headword": "stockbroker",
+  "ipa": "'stɒk.brәukә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 股票經紀人",
+  "forms": {
+   "plural": "stockbrokers"
+  },
+  "examples": [
+   {
+    "en": "Tom is a stockbroker.",
+    "zh": null
+   },
+   {
+    "en": "Ziri is a stockbroker.",
+    "zh": null
+   },
+   {
+    "en": "Ziri became a stockbroker.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an agent in the buying and selling of stocks and bonds",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1182",
+  "unit": 30,
+  "headword": "tablecloth",
+  "ipa": "'teiblklɒθ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 檯布",
+  "forms": {
+   "plural": "tablecloths"
+  },
+  "examples": [
+   {
+    "en": "The tablecloth is in the cabinet.",
+    "zh": "桌布在櫥櫃裡。"
+   },
+   {
+    "en": "This is a tablecloth.",
+    "zh": null
+   },
+   {
+    "en": "Who cut the tablecloth?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a covering spread over a dining table",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1183",
+  "unit": 30,
+  "headword": "thirsty",
+  "ipa": "'θә:sti",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 口渴的, 渴望的, 乾燥的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I am thirsty.",
+    "zh": "我渴了。"
+   },
+   {
+    "en": "Are you thirsty?",
+    "zh": "你渴嗎？"
+   },
+   {
+    "en": "I'm very thirsty.",
+    "zh": "我很渴。"
+   }
+  ],
+  "synonyms": [
+   "athirst",
+   "hungry"
+  ],
+  "antonyms": [
+   "hungry"
+  ],
+  "phrases": null,
+  "defsEn": "needing moisture",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1184",
+  "unit": 30,
+  "headword": "thrill",
+  "ipa": "θril",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 震顫, 激動, 刺激性, 一陣激動\nvi. 震顫, 顫抖, 激動\nvt. 使激動, 使顫動",
+  "forms": {
+   "plural": "thrills",
+   "thirdSg": "thrills",
+   "ing": "thrilling",
+   "past": "thrilled",
+   "pp": "thrilled"
+  },
+  "examples": [
+   {
+    "en": "Tom is thrilled.",
+    "zh": "湯姆興奮不已。"
+   },
+   {
+    "en": "Tom isn't thrilled.",
+    "zh": "湯姆不高興。"
+   },
+   {
+    "en": "I'd be thrilled to do that.",
+    "zh": "我很樂意這麼做。"
+   }
+  ],
+  "synonyms": [
+   "bang",
+   "boot",
+   "charge",
+   "rush",
+   "flush"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the swift release of a store of affective force",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1185",
+  "unit": 30,
+  "headword": "tile",
+  "ipa": "tail",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 磚瓦, 瓷磚, 瓦片\nvt. 鋪以瓦, 鋪以瓷磚\n[計] 平鋪",
+  "forms": {
+   "plural": "tiles",
+   "pp": "tiled",
+   "ing": "tiling",
+   "past": "tiled",
+   "thirdSg": "tiles"
+  },
+  "examples": [
+   {
+    "en": "How many tiles do you need?",
+    "zh": "你需要多少塊兒磁磚？"
+   },
+   {
+    "en": "The tile is white.",
+    "zh": null
+   },
+   {
+    "en": "Do you know how to tile?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1186",
+  "unit": 30,
+  "headword": "toiletry",
+  "ipa": "'tɔilitri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 化妝用品, 梳妝用具, 化妝用具\n[化] 化妝用品",
+  "forms": {
+   "plural": "toiletries"
+  },
+  "examples": [
+   {
+    "en": "Most hotels these days provide free toiletries for showering.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "artifacts used in making your toilet (washing and taking care of your body)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1187",
+  "unit": 30,
+  "headword": "trademark",
+  "ipa": "'treidmɑ:k",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 商標\n[法] 商標",
+  "forms": {
+   "plural": "trademarks",
+   "ing": "trademarking"
+  },
+  "examples": [
+   {
+    "en": "Sami trademarked his logo.",
+    "zh": null
+   },
+   {
+    "en": "I think that is his trademark.",
+    "zh": null
+   },
+   {
+    "en": "He donned his trademark glasses.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "hallmark",
+   "earmark",
+   "stylemark",
+   "brand",
+   "brandmark"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a distinctive characteristic or attribute",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1188",
+  "unit": 30,
+  "headword": "tropical",
+  "ipa": "'trɒpikl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 熱帶的, 熱情的\n[醫] 熱帶的",
+  "forms": {
+   "plural": "tropicals"
+  },
+  "examples": [
+   {
+    "en": "This kind of plant grows only in the tropical regions.",
+    "zh": "這類植物只生長在熱帶地區。"
+   },
+   {
+    "en": "Tom keeps tropical fish.",
+    "zh": null
+   },
+   {
+    "en": "Toucans are tropical birds.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "tropic"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "relating to or situated in or characteristic of the tropics (the region on either side of the equator)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1189",
+  "unit": 30,
+  "headword": "tuna",
+  "ipa": "'tju:nә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 金槍魚, 金槍魚肉",
+  "forms": {
+   "plural": "tunas"
+  },
+  "examples": [
+   {
+    "en": "Japanese people like to eat tuna.",
+    "zh": "日本人喜歡吃金槍魚。"
+   },
+   {
+    "en": "Tom got mercury poisoning from eating canned tuna every day.",
+    "zh": "Tom汞中毒，因為他每天吃罐裝鮪魚。"
+   },
+   {
+    "en": "The skin of a shark is much rougher than that of a tuna fish.",
+    "zh": "鯊魚的皮比鮪魚的皮粗糙多了。"
+   }
+  ],
+  "synonyms": [
+   "tunny"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "tropical American prickly pear of Jamaica",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1190",
+  "unit": 30,
+  "headword": "unemployed",
+  "ipa": ".ʌnim'plɒid",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 失業的, 未被利用的\n[經] 沒有被僱用的, 失業的, 沒有被利用的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I hear that the number of the unemployed has been increasing recently.",
+    "zh": "聽說最近失業者人數正在增加"
+   },
+   {
+    "en": "I am also unemployed.",
+    "zh": null
+   },
+   {
+    "en": "Tom may be unemployed.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "employed"
+  ],
+  "phrases": null,
+  "defsEn": "people who are involuntarily out of work (considered as a group)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1191",
+  "unit": 30,
+  "headword": "validate",
+  "ipa": "'vælideit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使有效, 使生效, 確認, 證實, 驗證\n[計] 驗證",
+  "forms": {
+   "pp": "validated",
+   "past": "validated",
+   "ing": "validating",
+   "thirdSg": "validates",
+   "plural": "validates"
+  },
+  "examples": [
+   {
+    "en": "How do I validate my card?",
+    "zh": null
+   },
+   {
+    "en": "Start to validate yourself.",
+    "zh": null
+   },
+   {
+    "en": "Did you validate your card?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "formalize",
+   "formalise",
+   "corroborate"
+  ],
+  "antonyms": [
+   "invalidate"
+  ],
+  "phrases": null,
+  "defsEn": "declare or make legally valid",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1192",
+  "unit": 30,
+  "headword": "vanilla",
+  "ipa": "vә'nilә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 香草, 香子蘭",
+  "forms": null,
+  "examples": [
+   {
+    "en": "She made a vanilla chocolate cake for four people.",
+    "zh": "她做了一個四人份的巧克力香草蛋糕。"
+   },
+   {
+    "en": "If and only if the ice-cream is vanilla flavour will Xiao Wang eat it.",
+    "zh": "當且僅當冰淇淋是香草口味，小王會吃這個冰淇淋。"
+   },
+   {
+    "en": "Add the vanilla extract.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "any of numerous climbing plants of the genus Vanilla having fleshy leaves and clusters of large waxy highly fragrant white or green or topaz flowers",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1193",
+  "unit": 30,
+  "headword": "willingness",
+  "ipa": "ˈwɪlɪŋnəs",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 樂意, 心甘情願, 願意",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I thank you for your willingness.",
+    "zh": null
+   },
+   {
+    "en": "Dick showed a willingness to help us.",
+    "zh": null
+   },
+   {
+    "en": "Tom has expressed a willingness to help.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "unwillingness"
+  ],
+  "phrases": null,
+  "defsEn": "cheerful compliance",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1194",
+  "unit": 30,
+  "headword": "wristwatch",
+  "ipa": "'ristwɒtʃ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 手錶",
+  "forms": {
+   "plural": "wristwatches"
+  },
+  "examples": [
+   {
+    "en": "I like this wristwatch.",
+    "zh": "我喜歡這塊手錶。"
+   },
+   {
+    "en": "He bought me a wristwatch.",
+    "zh": null
+   },
+   {
+    "en": "She bought me a wristwatch.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a watch that is worn strapped to the wrist",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1195",
+  "unit": 30,
+  "headword": "abide",
+  "ipa": "ә'baid",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 停留, 遵守, 居留, 繼續下去\nvt. 忍受, 經受, 屈從於",
+  "forms": {
+   "ing": "abiding",
+   "thirdSg": "abides",
+   "past": "abided",
+   "pp": "abided"
+  },
+  "examples": [
+   {
+    "en": "How you can abide him?",
+    "zh": "你怎麼能容忍他呢？"
+   },
+   {
+    "en": "We have to abide by the rules.",
+    "zh": "我們必須遵守規則。"
+   },
+   {
+    "en": "You have to abide by the laws.",
+    "zh": "你必須遵守法律。"
+   }
+  ],
+  "synonyms": [
+   "bide",
+   "stay",
+   "digest",
+   "endure",
+   "stomach"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "dwell",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1196",
+  "unit": 30,
+  "headword": "actively",
+  "ipa": "'æktivli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 活躍地, 積極地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I'm actively learning Berber.",
+    "zh": null
+   },
+   {
+    "en": "I am actively learning Berber.",
+    "zh": null
+   },
+   {
+    "en": "I was actively learning Berber.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "passively"
+  ],
+  "phrases": null,
+  "defsEn": "in an active manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1197",
+  "unit": 30,
+  "headword": "allergy",
+  "ipa": "'ælәdʒi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 變應性, 反感, 厭惡\n[化] 變態反應; 變應性",
+  "forms": {
+   "plural": "allergies"
+  },
+  "examples": [
+   {
+    "en": "Have you any allergies?",
+    "zh": "你對什麼有過敏嗎？"
+   },
+   {
+    "en": "Do you have any allergies?",
+    "zh": "你對什麼有過敏嗎？"
+   },
+   {
+    "en": "I have an allergy to milk.",
+    "zh": "我對牛奶過敏。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "hypersensitivity reaction to a particular allergen; symptoms can vary greatly in intensity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1198",
+  "unit": 30,
+  "headword": "apprehensive",
+  "ipa": ".æpri'hensiv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 惴惴不安的, 敏悟的, 知曉的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I'm a little apprehensive.",
+    "zh": null
+   },
+   {
+    "en": "We're a little apprehensive.",
+    "zh": null
+   },
+   {
+    "en": "I feel kind of apprehensive.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "discerning",
+   "worried"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "quick to understand; - Nathaniel Hawthorne",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1199",
+  "unit": 30,
+  "headword": "automotive",
+  "ipa": ".ɒ:tәu'mәutiv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 汽車的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Let's talk about the automotive industry in Algeria.",
+    "zh": null
+   },
+   {
+    "en": "Fiat is a historic brand in the Italian automotive industry.",
+    "zh": null
+   },
+   {
+    "en": "The Chinese automotive import market shows signs of slight growth.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "self-propelled",
+   "self-propelling"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "of or relating to motor vehicles",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1200",
+  "unit": 30,
+  "headword": "bacteria",
+  "ipa": "bæk'tiәriә",
+  "pos": null,
+  "defsZh": "pl. 細菌\n[醫] 細菌, [無芽胞]桿菌",
+  "forms": null,
+  "examples": [
+   {
+    "en": "A cell phone is as contaminated with bacteria as a toilet is.",
+    "zh": "手機如同馬桶一樣被細菌汙染。"
+   },
+   {
+    "en": "Bacteria are so small that they cannot be seen with the naked eye.",
+    "zh": "細菌微小到無法用肉眼看到。"
+   },
+   {
+    "en": "What can't bacteria do?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "bacterium"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants",
+  "note": null,
+  "audioUrl": null
+ }
+]

@@ -1,0 +1,1465 @@
+[
+ {
+  "id": "w0441",
+  "unit": 12,
+  "headword": "consultation",
+  "ipa": ".kɒnsәl'teiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 請教, 諮詢, 磋商會\n[醫] 會診",
+  "forms": {
+   "plural": "consultations"
+  },
+  "examples": [
+   {
+    "en": "The consultation is free.",
+    "zh": null
+   },
+   {
+    "en": "Layla booked a consultation.",
+    "zh": null
+   },
+   {
+    "en": "They offer a free consultation.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "audience",
+   "interview",
+   "reference"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a conference (usually with someone important)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0442",
+  "unit": 12,
+  "headword": "durable",
+  "ipa": "'djurәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 持久的, 耐用的",
+  "forms": {
+   "plural": "durables",
+   "thirdSg": "durables"
+  },
+  "examples": [
+   {
+    "en": "It's not very durable.",
+    "zh": null
+   },
+   {
+    "en": "It isn't very durable.",
+    "zh": null
+   },
+   {
+    "en": "It seems durable enough.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "lasting",
+   "long-lasting",
+   "long-lived",
+   "long-wearing",
+   "indestructible"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "existing for a long time",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0443",
+  "unit": 12,
+  "headword": "glove",
+  "ipa": "glʌv",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 手套\nvt. 給...戴手套",
+  "forms": {
+   "plural": "gloves",
+   "ing": "gloving"
+  },
+  "examples": [
+   {
+    "en": "He is wearing gloves.",
+    "zh": "他戴著手套。"
+   },
+   {
+    "en": "She bought new gloves.",
+    "zh": "她買了新手套。"
+   },
+   {
+    "en": "Tom is wearing gloves.",
+    "zh": "湯姆戴著手套。"
+   }
+  ],
+  "synonyms": [
+   "mitt"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the handwear used by fielders in playing baseball",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0444",
+  "unit": 12,
+  "headword": "hardware",
+  "ipa": "'hɑ:dwєә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 硬體, 五金器具, 零件\n[計] 硬體",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The transition from hardware to software happened gradually.",
+    "zh": "由硬體到軟體的轉變是緩慢的。"
+   },
+   {
+    "en": "He deals in hardware.",
+    "zh": null
+   },
+   {
+    "en": "Tom deals in hardware.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "ironware"
+  ],
+  "antonyms": [
+   "software"
+  ],
+  "phrases": null,
+  "defsEn": "major items of military weaponry (as tanks or missile)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0445",
+  "unit": 12,
+  "headword": "malfunction",
+  "ipa": ".mæl'fʌŋʃәn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 故障, 失靈, 疾病\nvi. 發生故障, 不起作用\n[計] 故障",
+  "forms": {
+   "plural": "malfunctions",
+   "past": "malfunctioned",
+   "ing": "malfunctioning",
+   "pp": "malfunctioned",
+   "thirdSg": "malfunctions"
+  },
+  "examples": [
+   {
+    "en": "This clock seems to be malfunctioning.",
+    "zh": "這個時鐘似乎壞了。"
+   },
+   {
+    "en": "The repair for the system malfunction lasted for an entire night.",
+    "zh": "系統故障的修復工作持續了一整個晚上。"
+   },
+   {
+    "en": "Was there a malfunction?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "misfunction"
+  ],
+  "antonyms": [
+   "function"
+  ],
+  "phrases": null,
+  "defsEn": "a failure to function normally",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0446",
+  "unit": 12,
+  "headword": "outdated",
+  "ipa": ".aut'deitid",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 舊式的, 落伍的, 過時的",
+  "forms": {
+   "pp": "outdated"
+  },
+  "examples": [
+   {
+    "en": "This data is outdated.",
+    "zh": null
+   },
+   {
+    "en": "That book is outdated.",
+    "zh": null
+   },
+   {
+    "en": "This idea is outdated.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "out-of-date",
+   "superannuated"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "old; no longer valid or fashionable",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0447",
+  "unit": 12,
+  "headword": "patience",
+  "ipa": "'peiʃәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 耐性, 忍耐",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I have no patience.",
+    "zh": "我沒耐性。"
+   },
+   {
+    "en": "Don't try my patience.",
+    "zh": "別挑戰我的耐心。"
+   },
+   {
+    "en": "Patience has its limits.",
+    "zh": "忍耐是有限度的。"
+   }
+  ],
+  "synonyms": [
+   "forbearance",
+   "longanimity",
+   "solitaire"
+  ],
+  "antonyms": [
+   "impatience"
+  ],
+  "phrases": null,
+  "defsEn": "good-natured tolerance of delay or incompetence",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0448",
+  "unit": 12,
+  "headword": "postcard",
+  "ipa": "'pәustkɑ:d",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 明信片",
+  "forms": {
+   "plural": "postcards"
+  },
+  "examples": [
+   {
+    "en": "He gave me a postcard.",
+    "zh": "他給我一張明信片。"
+   },
+   {
+    "en": "Tom wrote us postcards.",
+    "zh": "Tom寫明信片給我們。"
+   },
+   {
+    "en": "Tom wrote postcards to us.",
+    "zh": "Tom寫明信片給我們。"
+   }
+  ],
+  "synonyms": [
+   "mailing-card"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a card for sending messages by post without an envelope",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0449",
+  "unit": 12,
+  "headword": "prospective",
+  "ipa": "prәs'pektiv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 預期的, 將來的\n[經] 預期的, 未來的",
+  "forms": {
+   "plural": "prospectives"
+  },
+  "examples": [
+   {
+    "en": "The company invited their prospective customers to the party.",
+    "zh": null
+   },
+   {
+    "en": "We have several prospective new members. I hope they will join us.",
+    "zh": null
+   },
+   {
+    "en": "Prospective buyers couldn't make heads or tails out of the contract.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "retrospective"
+  ],
+  "phrases": null,
+  "defsEn": "of or concerned with or related to the future",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0450",
+  "unit": 12,
+  "headword": "revision",
+  "ipa": "ri'viʒәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 校訂, 修正, 修訂本, 修訂版\n[計] 修訂版",
+  "forms": {
+   "plural": "revisions"
+  },
+  "examples": [
+   {
+    "en": "Date of last revision of this page: 2010-11-03",
+    "zh": "最後修訂此頁日期：2010年11月3日"
+   },
+   {
+    "en": "Branching and merging are two basic operations of revision control.",
+    "zh": "分支和合併是版本控制的兩種基本操作。"
+   },
+   {
+    "en": "Today is revision day.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "alteration",
+   "revisal",
+   "revise",
+   "rescript",
+   "rewrite"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of revising or altering (involving reconsideration and modification)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0451",
+  "unit": 12,
+  "headword": "strictly",
+  "ipa": "'striktli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 嚴格地, 確實地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Smoking is strictly prohibited.",
+    "zh": "嚴禁吸菸。"
+   },
+   {
+    "en": "Strictly speaking, you're wrong.",
+    "zh": "嚴格地說你錯了。"
+   },
+   {
+    "en": "Strictly speaking, you are wrong.",
+    "zh": "嚴格地說你錯了。"
+   }
+  ],
+  "synonyms": [
+   "purely",
+   "stringently",
+   "rigorously"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "restricted to something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0452",
+  "unit": 12,
+  "headword": "tomato",
+  "ipa": "tә'mɑ:tәu",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 番茄, 西紅柿",
+  "forms": {
+   "plural": "tomatoes"
+  },
+  "examples": [
+   {
+    "en": "Does Tom like tomatoes?",
+    "zh": "Tom喜不喜歡吃西紅柿？"
+   },
+   {
+    "en": "Eggplant, carrot, tomato.",
+    "zh": "茄子，胡蘿蔔，西紅柿。"
+   },
+   {
+    "en": "Meg bought a can of tomatoes.",
+    "zh": "梅格買一罐番茄。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "mildly acid red or yellow pulpy fruit eaten as a vegetable",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0453",
+  "unit": 12,
+  "headword": "tray",
+  "ipa": "trei",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 托盤, 公文盤, 滿盤, 發射箱\n[化] 淋盤",
+  "forms": {
+   "plural": "trays"
+  },
+  "examples": [
+   {
+    "en": "Mr Yamaha filled the big tray in his living room with walnuts.",
+    "zh": "雅馬哈先生在客廳裡的大託盤裡裝滿了核桃。"
+   },
+   {
+    "en": "I dropped the tray.",
+    "zh": null
+   },
+   {
+    "en": "He picked up the ash-tray.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an open receptacle for holding or displaying or serving articles or food",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0454",
+  "unit": 12,
+  "headword": "vendor",
+  "ipa": "'vendә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 小販, 賣主, 自動售貨機\n[計] 計算機銷售商",
+  "forms": {
+   "plural": "vendors"
+  },
+  "examples": [
+   {
+    "en": "Ali's grandfather is a tea vendor.",
+    "zh": "阿里的祖父是賣茶的。"
+   },
+   {
+    "en": "Where is the vendor?",
+    "zh": null
+   },
+   {
+    "en": "Sami was a food vendor.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "seller",
+   "marketer",
+   "vender",
+   "trafficker"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who promotes or exchanges goods or services for money",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0455",
+  "unit": 12,
+  "headword": "withdrawal",
+  "ipa": "wið'drɒ:l",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 提款, 撤退, 退回, 撤消, 退隱, 戒毒過程\n[醫] 戒除, 脫癮",
+  "forms": {
+   "plural": "withdrawals"
+  },
+  "examples": [
+   {
+    "en": "The Soviet troops have started the withdrawal from Afghanistan.",
+    "zh": "蘇聯軍隊開始從阿富汗撤軍了。"
+   },
+   {
+    "en": "If these drugs are stopped abruptly, then some withdrawal symptoms may occur.",
+    "zh": "如果這些藥突然被停了，那可能會出現一些戒斷症狀。"
+   },
+   {
+    "en": "Tom is in withdrawal.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "backdown",
+   "climb-down"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a retraction of a previously held position",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0456",
+  "unit": 12,
+  "headword": "anytime",
+  "ipa": "'enitaim",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 任何時候；無例外地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I can start anytime.",
+    "zh": "我隨時可以開始。"
+   },
+   {
+    "en": "I'll gladly pay you anytime.",
+    "zh": "我隨時樂意付錢給你。"
+   },
+   {
+    "en": "You can borrow my car anytime.",
+    "zh": "你隨時可以借用我的車。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0457",
+  "unit": 12,
+  "headword": "badge",
+  "ipa": "bædʒ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 徽章, 標記\n[計] 標記",
+  "forms": {
+   "plural": "badges",
+   "ing": "badging",
+   "past": "badged",
+   "pp": "badged"
+  },
+  "examples": [
+   {
+    "en": "He pinned the badge on his vest.",
+    "zh": "他把徽章別在馬甲上。"
+   },
+   {
+    "en": "Stefan had to show his student ID badge.",
+    "zh": "斯特凡必須出示學生證。"
+   },
+   {
+    "en": "Some spaghetti fell on the badge of the uniform, dirtying it.",
+    "zh": "有一些意麵掉到了制服上的徽章那兒，把那邊弄髒了。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an emblem (a small piece of plastic or cloth or metal) that signifies your status (rank or membership or affiliation etc.)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0458",
+  "unit": 12,
+  "headword": "brake",
+  "ipa": "breik",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 剎車, 阻礙, 叢林\nv. 剎車",
+  "forms": {
+   "plural": "brakes",
+   "past": "braked",
+   "ing": "braking",
+   "pp": "braked",
+   "thirdSg": "brakes"
+  },
+  "examples": [
+   {
+    "en": "The brake stopped working.",
+    "zh": "剎車失靈了。"
+   },
+   {
+    "en": "I hate getting brake-checked.",
+    "zh": "我討厭遇到有人故意急煞車。"
+   },
+   {
+    "en": "Something is wrong with the brakes.",
+    "zh": "剎車出了問題。"
+   }
+  ],
+  "synonyms": [
+   "bracken"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a restraint used to slow or stop a vehicle",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0459",
+  "unit": 12,
+  "headword": "calculation",
+  "ipa": ".kælkju'leiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 計算, 考慮, 計算的結果\n[經] 計算",
+  "forms": {
+   "plural": "calculations"
+  },
+  "examples": [
+   {
+    "en": "According to my calculation, she should be in India by now.",
+    "zh": "根據我的估計，她現在應該在印度了。"
+   },
+   {
+    "en": "The more precise the calculations, the stronger the friendship.",
+    "zh": "算帳愈是精確, 友誼愈是堅定。"
+   },
+   {
+    "en": "The calculation of the budget for next year is based on the costs this year.",
+    "zh": "明年預算的計算是基於今年的成本的。"
+   }
+  ],
+  "synonyms": [
+   "computation",
+   "computing",
+   "figuring",
+   "reckoning",
+   "deliberation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the procedure of calculating; determining something by mathematical or logical methods",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0460",
+  "unit": 12,
+  "headword": "coordinator",
+  "ipa": "kәu'ɒ:dineitә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 協調者, 同等的人或物\n[化] 協調器",
+  "forms": {
+   "plural": "coordinators"
+  },
+  "examples": [
+   {
+    "en": "The coordinator is Tom.",
+    "zh": null
+   },
+   {
+    "en": "Tom is the coordinator.",
+    "zh": null
+   },
+   {
+    "en": "Tom was the coordinator.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone whose task is to see that work goes harmoniously",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0461",
+  "unit": 12,
+  "headword": "costly",
+  "ipa": "'kɒstli",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 昂貴的, 奢華的, 費用大的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Why did you get such a costly dictionary?",
+    "zh": "為什麼你買了一本那麼貴的詞典？"
+   },
+   {
+    "en": "It can be costly.",
+    "zh": null
+   },
+   {
+    "en": "BDSM is a costly hobby.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "dearly-won",
+   "dear",
+   "high-priced",
+   "pricey",
+   "pricy"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "entailing great loss or sacrifice",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0462",
+  "unit": 12,
+  "headword": "equip",
+  "ipa": "i'kwip",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 裝備, 配備\n[機] 裝置, 裝置",
+  "forms": {
+   "pp": "equipped",
+   "ing": "equipping",
+   "past": "equipped",
+   "thirdSg": "equips"
+  },
+  "examples": [
+   {
+    "en": "The ship is not equipped with radar.",
+    "zh": "這艘船沒有雷達裝備。"
+   },
+   {
+    "en": "The probe is equipped with a microphone.",
+    "zh": "探頭配有麥克風。"
+   },
+   {
+    "en": "Our car is equipped with air conditioning.",
+    "zh": "我們的車配備了空調。"
+   }
+  ],
+  "synonyms": [
+   "fit",
+   "outfit"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "provide with (something) usually for a specific purpose",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0463",
+  "unit": 12,
+  "headword": "excursion",
+  "ipa": "ik'skә:ʒәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 遠足, 遊覽圓, 短程旅行\n[醫] 移動, 離軌, 逸出",
+  "forms": {
+   "plural": "excursions"
+  },
+  "examples": [
+   {
+    "en": "A travel agent will arrange an excursion to Andalusia for you.",
+    "zh": "旅行社會為你安排去安達盧西亞的旅行。"
+   },
+   {
+    "en": "The excursion was canceled.",
+    "zh": null
+   },
+   {
+    "en": "It is time to go for an excursion.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "jaunt",
+   "outing",
+   "junket",
+   "expedition",
+   "sashay"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a journey taken for pleasure",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0464",
+  "unit": 12,
+  "headword": "graphic",
+  "ipa": "'græfik",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 生動的, 輪廓分明的, 繪畫似的, 圖解的\n[計] 圖形的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "There were some graphic novels mixed into the pile of specialty books on the desk.",
+    "zh": "書桌上一疊專業書裡有幾本卡通書混在裡面。"
+   },
+   {
+    "en": "She's a graphic designer.",
+    "zh": null
+   },
+   {
+    "en": "Ziri is a graphic artist.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "graphical"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an image that is generated by a computer",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0465",
+  "unit": 12,
+  "headword": "inexperience",
+  "ipa": ".inik'spiәriәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 無經驗, 不熟練",
+  "forms": {
+   "pp": "inexperienced"
+  },
+  "examples": [
+   {
+    "en": "She's young, naive and inexperienced.",
+    "zh": "她年輕，天真而又缺乏閱歷。"
+   },
+   {
+    "en": "The boy is inexperienced.",
+    "zh": null
+   },
+   {
+    "en": "Tom is still inexperienced.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "rawness"
+  ],
+  "antonyms": [
+   "experience"
+  ],
+  "phrases": null,
+  "defsEn": "lack of experience and the knowledge and understanding derived from experience",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0466",
+  "unit": 12,
+  "headword": "lengthy",
+  "ipa": "'leŋθi",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 冗長的, 漫長的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Sami filmed a lengthy video.",
+    "zh": null
+   },
+   {
+    "en": "Tom awoke from a lengthy coma.",
+    "zh": null
+   },
+   {
+    "en": "The lengthy lecture palled on me.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "drawn-out",
+   "extended",
+   "prolonged",
+   "protracted"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "relatively long in duration; tediously protracted",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0467",
+  "unit": 12,
+  "headword": "librarian",
+  "ipa": "lai'brєәriәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 圖書館員, 圖書管理員\n[計] 程式庫管理程式; 程式庫生成程式",
+  "forms": {
+   "plural": "librarians"
+  },
+  "examples": [
+   {
+    "en": "Tom is a librarian.",
+    "zh": null
+   },
+   {
+    "en": "Mary is a librarian.",
+    "zh": null
+   },
+   {
+    "en": "Ziri is a librarian.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "bibliothec"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a professional person trained in library science and engaged in library services",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0468",
+  "unit": 12,
+  "headword": "meantime",
+  "ipa": "'mi:ntaim",
+  "pos": [
+   "n",
+   "adv"
+  ],
+  "defsZh": "n. 間隔時間, 其時\nadv. 其間",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Call a taxi in the meantime.",
+    "zh": null
+   },
+   {
+    "en": "What do I do in the meantime?",
+    "zh": null
+   },
+   {
+    "en": "What can I do in the meantime?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "interim",
+   "meanwhile",
+   "lag"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the time between one event, process, or period and another",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0469",
+  "unit": 12,
+  "headword": "merge",
+  "ipa": "mә:dʒ",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使合併, 使消失, 吞沒\nvi. 合併, 漸漸消失\n[計] 合併",
+  "forms": {
+   "pp": "merged",
+   "past": "merged",
+   "ing": "merging",
+   "thirdSg": "merges"
+  },
+  "examples": [
+   {
+    "en": "The Mitsubishi Bank merged with the Bank of Tokyo.",
+    "zh": "三菱銀行和東京銀行合併了。"
+   },
+   {
+    "en": "Branching and merging are two basic operations of revision control.",
+    "zh": "分支和合併是版本控制的兩種基本操作。"
+   },
+   {
+    "en": "Get into the left lane to make room for the guy who's trying to merge.",
+    "zh": "移到左線，為想併入的那輛車騰出空間。"
+   }
+  ],
+  "synonyms": [
+   "unify",
+   "unite",
+   "blend",
+   "flux",
+   "mix"
+  ],
+  "antonyms": [
+   "disunify"
+  ],
+  "phrases": null,
+  "defsEn": "become one",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0470",
+  "unit": 12,
+  "headword": "performer",
+  "ipa": "pә'fɒ:mә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 表演者, 執行者, 完成者\n[法] 執行者, 履行者, 實行者",
+  "forms": {
+   "plural": "performers"
+  },
+  "examples": [
+   {
+    "en": "Tom is a street performer.",
+    "zh": "湯姆是街頭藝人。"
+   },
+   {
+    "en": "We gave the performer a round of applause.",
+    "zh": "我們為表演者鼓掌。"
+   },
+   {
+    "en": "With both song and dance, the performers put on an excellent show.",
+    "zh": "演員們一邊唱，一邊跳，表演得好極了。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an entertainer who performs a dramatic or musical work for an audience",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0471",
+  "unit": 12,
+  "headword": "pharmacist",
+  "ipa": "'fɑ:mәsist",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 藥師, 藥品商, 藥商, 藥劑師\n[醫] 藥師, 調劑員, 藥商",
+  "forms": {
+   "plural": "pharmacists"
+  },
+  "examples": [
+   {
+    "en": "You should consult with a pharmacist before buying that medicine.",
+    "zh": "你在買這藥之前應該問一下藥劑師的建議。"
+   },
+   {
+    "en": "He is a pharmacist.",
+    "zh": null
+   },
+   {
+    "en": "Tom is a pharmacist.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "druggist",
+   "chemist",
+   "apothecary"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a health professional trained in the art of preparing and dispensing drugs",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0472",
+  "unit": 12,
+  "headword": "pizza",
+  "ipa": "'pi:tsә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 比薩餅",
+  "forms": {
+   "plural": "pizzas"
+  },
+  "examples": [
+   {
+    "en": "Whose pizza is this?",
+    "zh": "披薩是誰的？"
+   },
+   {
+    "en": "Whose pizza is that?",
+    "zh": "披薩是誰的？"
+   },
+   {
+    "en": "I pigged out on pizza.",
+    "zh": "我大吃了一頓比薩。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0473",
+  "unit": 12,
+  "headword": "resignation",
+  "ipa": ".rezig'neiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 辭職, 辭呈, 聽從\n[經] 辭職",
+  "forms": {
+   "plural": "resignations"
+  },
+  "examples": [
+   {
+    "en": "Resignation is the first lesson of life.",
+    "zh": "辭職是人生的第一課。"
+   },
+   {
+    "en": "What shocked us greatly was his sudden resignation.",
+    "zh": "讓我們非常驚訝的是，他突然辭職了。"
+   },
+   {
+    "en": "\"Exchanging courtesies every day is all we've done,\" Tom answered with resignation.",
+    "zh": "“天天寒暄就是我們做的所有事了。”湯姆無奈地回答。"
+   }
+  ],
+  "synonyms": [
+   "surrender"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "acceptance of despair",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0474",
+  "unit": 12,
+  "headword": "reviewer",
+  "ipa": "ri'vju:ә(r)",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 評論者, 書評作者, 評論家, 劇評家, 報刊評論家",
+  "forms": {
+   "plural": "reviewers"
+  },
+  "examples": [
+   {
+    "en": "His fame as a reviewer continued to grow.",
+    "zh": null
+   },
+   {
+    "en": "The reviewer is sharply critical of the novel.",
+    "zh": null
+   },
+   {
+    "en": "The gentleman with his pipe in his mouth is a famous reviewer.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "referee",
+   "reader",
+   "commentator"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who reads manuscripts and judges their suitability for publication",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0475",
+  "unit": 12,
+  "headword": "terminate",
+  "ipa": "'tә:mineit",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "defsZh": "a. 有結尾的, (可)結束的\nvi. 結束, 終止, 滿期\nvt. 使停止, 使結束, 使終止\n[計] 終止",
+  "forms": {
+   "pp": "terminated",
+   "ing": "terminating",
+   "thirdSg": "terminates",
+   "past": "terminated"
+  },
+  "examples": [
+   {
+    "en": "We're not terminating you.",
+    "zh": "我們並沒有趕盡殺絕。"
+   },
+   {
+    "en": "The mission is terminated.",
+    "zh": null
+   },
+   {
+    "en": "Pensions can be terminated.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "end",
+   "stop",
+   "finish",
+   "cease"
+  ],
+  "antonyms": [
+   "begin"
+  ],
+  "phrases": null,
+  "defsEn": "bring to an end or halt",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0476",
+  "unit": 12,
+  "headword": "translation",
+  "ipa": "træns'leiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 翻譯, 譯文, 轉化, 調任, 平移, 轉譯\n[計] 轉換",
+  "forms": {
+   "plural": "translations"
+  },
+  "examples": [
+   {
+    "en": "Let's start the translation!",
+    "zh": "讓我們開始翻譯吧！"
+   },
+   {
+    "en": "Don't use computer translation.",
+    "zh": "別用機翻。"
+   },
+   {
+    "en": "Thank you for your translation.",
+    "zh": "謝謝你的翻譯。"
+   }
+  ],
+  "synonyms": [
+   "rendering",
+   "version",
+   "transformation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a written communication in a second language having the same meaning as the written communication in a first language",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0477",
+  "unit": 12,
+  "headword": "unfamiliar",
+  "ipa": ".ʌnfә'miljә",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不熟悉的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The word is unfamiliar to me.",
+    "zh": "我對這個單詞不熟。"
+   },
+   {
+    "en": "The landscape is unfamiliar to me.",
+    "zh": "風景對我來說很陌生。"
+   },
+   {
+    "en": "The cat was scared by an unfamiliar noise.",
+    "zh": "貓被沒聽過的噪音驚嚇到了。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "familiar"
+  ],
+  "phrases": null,
+  "defsEn": "not known or well known",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0478",
+  "unit": 12,
+  "headword": "actress",
+  "ipa": "'æktris",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 女演員",
+  "forms": {
+   "plural": "actresses"
+  },
+  "examples": [
+   {
+    "en": "He married an actress.",
+    "zh": "他和一個女演員結婚了。"
+   },
+   {
+    "en": "I'm an actress, not a model.",
+    "zh": "我是演員，不是模特。"
+   },
+   {
+    "en": "She dressed like an actress.",
+    "zh": "她穿得像個演員。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a female actor",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0479",
+  "unit": 12,
+  "headword": "adjacent",
+  "ipa": "ә'dʒeisәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 毗連的, 鄰近的, 連線的\n[機] 相鄰的, 鄰位的, 交界的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The stadium is adjacent to the school.",
+    "zh": "體育場毗鄰學校。"
+   },
+   {
+    "en": "The post office is adjacent to the library.",
+    "zh": "郵局在圖書館旁邊。"
+   },
+   {
+    "en": "The living room is adjacent to the dining room.",
+    "zh": "客廳緊鄰著餐廳。"
+   }
+  ],
+  "synonyms": [
+   "next",
+   "conterminous",
+   "contiguous",
+   "neighboring"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "nearest in space or position; immediately adjoining without intervening space",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0480",
+  "unit": 12,
+  "headword": "alternate",
+  "ipa": "'ɒ:ltәnәt",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "defsZh": "a. 交替的, 輪流的, 間隔的\nv. 輪流, (使)交替",
+  "forms": {
+   "ing": "alternating",
+   "past": "alternated",
+   "thirdSg": "alternates",
+   "pp": "alternated",
+   "plural": "alternates"
+  },
+  "examples": [
+   {
+    "en": "Please list alternate dates.",
+    "zh": "請列出備選日期。"
+   },
+   {
+    "en": "Write on alternate lines.",
+    "zh": null
+   },
+   {
+    "en": "Day alternates with night.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "surrogate",
+   "replacement",
+   "jump"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who takes the place of another person",
+  "note": null,
+  "audioUrl": null
+ }
+]

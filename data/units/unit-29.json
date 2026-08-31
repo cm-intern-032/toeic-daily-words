@@ -1,0 +1,1476 @@
+[
+ {
+  "id": "w1121",
+  "unit": 29,
+  "headword": "diagnostic",
+  "ipa": "daiәg'nɒstik",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 診斷的, 有助於診斷的, 特徵的\nn. 診斷, 病的徵候, 診斷法\n[計] 診斷的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I'll just run some diagnostics.",
+    "zh": null
+   },
+   {
+    "en": "We use the latest diagnostic and treatment methods.",
+    "zh": null
+   },
+   {
+    "en": "The sphygmomanometer is an important diagnostic instrument.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "symptomatic"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "concerned with diagnosis; used for furthering diagnosis",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1122",
+  "unit": 29,
+  "headword": "diagram",
+  "ipa": "'daiәɡræm",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 圖表；圖解",
+  "forms": {
+   "plural": "diagrams",
+   "pp": "diagrammed",
+   "ing": "diagramming",
+   "past": "diagrammed",
+   "thirdSg": "diagrams"
+  },
+  "examples": [
+   {
+    "en": "Let me explain it with a diagram.",
+    "zh": "讓我用一張圖來說明。"
+   },
+   {
+    "en": "Tom studied the diagram.",
+    "zh": null
+   },
+   {
+    "en": "At work, I draw diagrams.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "plot"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a drawing intended to explain how something works; a drawing showing the relation between the parts",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1123",
+  "unit": 29,
+  "headword": "diamond",
+  "ipa": "'daiәmәnd",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 鑽石, 菱形\n[計] 菱形",
+  "forms": {
+   "plural": "diamonds"
+  },
+  "examples": [
+   {
+    "en": "This diamond isn't real.",
+    "zh": "這顆鑽石不是真的。"
+   },
+   {
+    "en": "Are those real diamonds?",
+    "zh": "那些是真鑽石嗎？"
+   },
+   {
+    "en": "This diamond is not real.",
+    "zh": "這顆鑽石不是真的。"
+   }
+  ],
+  "synonyms": [
+   "adamant",
+   "rhombus",
+   "rhomb"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a transparent piece of diamond that has been cut and polished and is valued as a precious gem",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1124",
+  "unit": 29,
+  "headword": "disable",
+  "ipa": "dis'eibl",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使失去能力, 使殘廢, (律)使無資格\n[計] 使無效, 禁止, 關閉",
+  "forms": {
+   "pp": "disabled",
+   "past": "disabled",
+   "ing": "disabling",
+   "thirdSg": "disables"
+  },
+  "examples": [
+   {
+    "en": "A sprained ankle disabled him from walking for a month.",
+    "zh": "他把足踝扭傷了，整整一個月不能走路。"
+   },
+   {
+    "en": "I wish I could figure out how to disable comments on my blog.",
+    "zh": "但願我能找到在我的部落格上遮蔽評論的辦法。"
+   },
+   {
+    "en": "He's a disabled man.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "disenable",
+   "incapacitate",
+   "invalid",
+   "handicap"
+  ],
+  "antonyms": [
+   "enable"
+  ],
+  "phrases": null,
+  "defsEn": "make unable to perform a certain action",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1125",
+  "unit": 29,
+  "headword": "disgust",
+  "ipa": "dis'gʌst",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 厭惡, 嫌惡\nvi. 令人厭惡\nvt. 使作嘔",
+  "forms": {
+   "pp": "disgusted",
+   "past": "disgusted",
+   "thirdSg": "disgusts",
+   "ing": "disgusting"
+  },
+  "examples": [
+   {
+    "en": "Don't be so disgusting.",
+    "zh": "不要這麼噁心。"
+   },
+   {
+    "en": "I am disgusted with him.",
+    "zh": "我厭惡他。"
+   },
+   {
+    "en": "My roommate is so disgusting.",
+    "zh": "我的室友真噁心。"
+   }
+  ],
+  "synonyms": [
+   "revolt",
+   "repel",
+   "nauseate",
+   "sicken"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "strong feelings of dislike",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1126",
+  "unit": 29,
+  "headword": "donut",
+  "ipa": "'dәu,nʌt",
+  "pos": null,
+  "defsZh": "[醫] 電子迴旋加速器環狀真空室, 同步加速器環狀真空室",
+  "forms": {
+   "plural": "donuts"
+  },
+  "examples": [
+   {
+    "en": "I've got some donuts.",
+    "zh": "我有幾個甜甜圈。"
+   },
+   {
+    "en": "Tom bought a dozen donuts.",
+    "zh": "湯姆買了一打甜甜圈。"
+   },
+   {
+    "en": "I want to buy a dozen donuts.",
+    "zh": "我想買十二個甜甜圈。"
+   }
+  ],
+  "synonyms": [
+   "doughnut",
+   "sinker"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a small ring-shaped friedcake",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1127",
+  "unit": 29,
+  "headword": "doorman",
+  "ipa": "'dɒ:mæn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 看門人",
+  "forms": {
+   "plural": "doormen"
+  },
+  "examples": [
+   {
+    "en": "Tom is a doorman.",
+    "zh": null
+   },
+   {
+    "en": "I like my doorman.",
+    "zh": null
+   },
+   {
+    "en": "Ziri is a doorman.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "doorkeeper",
+   "porter",
+   "gatekeeper",
+   "ostiary"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who guards an entrance",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1128",
+  "unit": 29,
+  "headword": "electronically",
+  "ipa": "ˌɪˌlɛkˈtrɑnɪkəˌli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 電子地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Can Algerians vote electronically?",
+    "zh": null
+   },
+   {
+    "en": "This manual is only available electronically. There is no printed version.",
+    "zh": null
+   },
+   {
+    "en": "Please send all submissions electronically as we do not accept snail mail.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "by electronic means",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1129",
+  "unit": 29,
+  "headword": "elevate",
+  "ipa": "'eliveit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 舉起, 提拔, 鼓舞",
+  "forms": {
+   "pp": "elevated",
+   "past": "elevated",
+   "thirdSg": "elevates",
+   "ing": "elevating"
+  },
+  "examples": [
+   {
+    "en": "Which way to the elevated highway?",
+    "zh": "那麼上高架走。"
+   },
+   {
+    "en": "An elevated seaside bike path collapsed in Rio.",
+    "zh": "里約熱內盧的一條海邊的高架腳踏車道倒塌了。"
+   },
+   {
+    "en": "Two persons were killed when an elevated bike path collapsed in Rio.",
+    "zh": "當里約熱內盧的一條高架腳踏車道倒塌時，有2人被砸死了。"
+   }
+  ],
+  "synonyms": [
+   "promote",
+   "upgrade",
+   "advance",
+   "raise",
+   "lift"
+  ],
+  "antonyms": [
+   "demote",
+   "lower"
+  ],
+  "phrases": null,
+  "defsEn": "give a promotion to or assign to a higher position",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1130",
+  "unit": 29,
+  "headword": "engagement",
+  "ipa": "in'geidʒdmәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 諾言, 約會, 婚約, 交戰\n[醫] 銜接",
+  "forms": {
+   "plural": "engagements"
+  },
+  "examples": [
+   {
+    "en": "They called off their engagement.",
+    "zh": "他們解除了婚約。"
+   },
+   {
+    "en": "They've announced their engagement.",
+    "zh": "他們已經宣佈訂婚了。"
+   },
+   {
+    "en": "He announced his engagement to her.",
+    "zh": "他宣佈與她訂婚。"
+   }
+  ],
+  "synonyms": [
+   "battle",
+   "conflict",
+   "fight",
+   "date",
+   "appointment"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a hostile meeting of opposing military forces in the course of a war",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1131",
+  "unit": 29,
+  "headword": "enrollment",
+  "ipa": "in'rәulmәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 登記, 註冊, 入伍\n[經] 登記, 註冊",
+  "forms": null,
+  "examples": [
+   {
+    "en": "It is my enrollment this week.",
+    "zh": "這週我就要入學了。"
+   },
+   {
+    "en": "Enrollment will be free.",
+    "zh": null
+   },
+   {
+    "en": "College enrollment is down 2%.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "registration",
+   "enrolment"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of enrolling",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1132",
+  "unit": 29,
+  "headword": "euro",
+  "ipa": "'juәrәu",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 歐元（歐盟的統一貨幣單位）",
+  "forms": {
+   "plural": "euros"
+  },
+  "examples": [
+   {
+    "en": "I earn 100 Euros a day.",
+    "zh": "我一天賺一百歐元。"
+   },
+   {
+    "en": "I make 100 euros a day.",
+    "zh": "我一天賺一百歐元。"
+   },
+   {
+    "en": "I make 100 euros per day.",
+    "zh": "我一天賺一百歐元。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the basic monetary unit of most members of the European Union (introduced in 1999); in 2002 twelve European nations (Germany, France, Belgium, Luxembourg, the Netherlands, Italy, Spain, Portugal, Ireland, Greece, Austria, Finland) adopted the euro as their basic unit of money and abandoned their traditional currencies",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1133",
+  "unit": 29,
+  "headword": "forbid",
+  "ipa": "fә'bid",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 禁止, 不準, 妨礙\n[法] 不許, 禁止, 阻止",
+  "forms": {
+   "pp": "forbidden",
+   "past": "forbade",
+   "thirdSg": "forbids",
+   "ing": "forbidding"
+  },
+  "examples": [
+   {
+    "en": "Forbidden fruit tastes best.",
+    "zh": "禁果味道最好。"
+   },
+   {
+    "en": "Barbecuing is forbidden here.",
+    "zh": "此處禁止烤肉。"
+   },
+   {
+    "en": "Who would forbid such a thing?",
+    "zh": "誰會禁止這樣的事情呢？"
+   }
+  ],
+  "synonyms": [
+   "prohibit",
+   "interdict",
+   "proscribe",
+   "veto",
+   "disallow"
+  ],
+  "antonyms": [
+   "permit",
+   "allow"
+  ],
+  "phrases": null,
+  "defsEn": "command against",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1134",
+  "unit": 29,
+  "headword": "fork",
+  "ipa": "fɒ:k",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 叉子, 叉狀物, 分岔\nvi. 分支, 分歧\nvt. 做成叉形, 叉起\n[計] 派生指令",
+  "forms": {
+   "plural": "forks",
+   "past": "forked",
+   "ing": "forking",
+   "pp": "forked",
+   "thirdSg": "forks"
+  },
+  "examples": [
+   {
+    "en": "I'd like a fork.",
+    "zh": "我想要一把叉子。"
+   },
+   {
+    "en": "The fork is dirty.",
+    "zh": "叉子是髒的。"
+   },
+   {
+    "en": "This fork is dirty.",
+    "zh": "這把叉子是髒的。"
+   }
+  ],
+  "synonyms": [
+   "branching",
+   "ramification",
+   "forking",
+   "crotch"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "cutlery used for serving and eating food",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1135",
+  "unit": 29,
+  "headword": "foster",
+  "ipa": "'fɒstә",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "defsZh": "a. 收養的, 養育的\nvt. 養育, 撫育, 培養, 鼓勵, 抱(希望)",
+  "forms": {
+   "pp": "fostered",
+   "ing": "fostering",
+   "past": "fostered",
+   "thirdSg": "fosters"
+  },
+  "examples": [
+   {
+    "en": "This song was written by Foster.",
+    "zh": "這首歌曲是由福斯特所寫的。"
+   },
+   {
+    "en": "Cruelty in young people is fostered by violent movies and PC games.",
+    "zh": "暴力電影和電腦遊戲助長了年輕人的殘暴行為。"
+   },
+   {
+    "en": "Tom is our foster son.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "further"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "United States songwriter whose songs embody the sentiment of the South before the American Civil War (1826-1864)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1136",
+  "unit": 29,
+  "headword": "getaway",
+  "ipa": "'^etә,wei",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 逃走, 起步",
+  "forms": {
+   "plural": "getaways"
+  },
+  "examples": [
+   {
+    "en": "Tom made a clean getaway.",
+    "zh": null
+   },
+   {
+    "en": "Tom drove the getaway car.",
+    "zh": null
+   },
+   {
+    "en": "There were three getaway cars.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "pickup",
+   "lam"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the attribute of being capable of rapid acceleration",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1137",
+  "unit": 29,
+  "headword": "gossip",
+  "ipa": "'gɒsip",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 閒聊, 隨筆, 流言, 愛講閒話的人\nvi. 說閒話, 閒聊",
+  "forms": {
+   "ing": "gossiping",
+   "plural": "gossips",
+   "thirdSg": "gossips",
+   "past": "gossipped",
+   "pp": "gossipped"
+  },
+  "examples": [
+   {
+    "en": "The only time people dislike gossip is when you gossip about them.",
+    "zh": "人們不喜歡流言蜚語的唯一時間是當你閒聊他們的事。"
+   },
+   {
+    "en": "John is a gossip.",
+    "zh": null
+   },
+   {
+    "en": "He loves to gossip.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "chitchat",
+   "chit-chat",
+   "gab",
+   "gabfest",
+   "tittle-tattle"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "light informal conversation for social occasions",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1138",
+  "unit": 29,
+  "headword": "hacker",
+  "ipa": "'hækә",
+  "pos": null,
+  "defsZh": "[計] 計算機竊賊, 計算機新技術挑戰者, 駭客",
+  "forms": {
+   "plural": "hackers"
+  },
+  "examples": [
+   {
+    "en": "Many people cannot understand the way hackers behave.",
+    "zh": "很多人無法理解駭客們的行為。"
+   },
+   {
+    "en": "Many people are unable to comprehend the actions of hackers.",
+    "zh": "很多人無法理解駭客們的行為。"
+   },
+   {
+    "en": "Hackers are adept at getting around computer security measures.",
+    "zh": "駭客很會利用電腦安全措拖的漏洞。"
+   }
+  ],
+  "synonyms": [
+   "cyber-terrorist",
+   "cyberpunk"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who plays golf poorly",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1139",
+  "unit": 29,
+  "headword": "hardworking",
+  "ipa": "'hɑ:d.wә:kiŋ",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 苦幹的, 不辭辛勞的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "No one is more hardworking than you all.",
+    "zh": "沒有誰比你們辛苦。"
+   },
+   {
+    "en": "He's even more hardworking than you are.",
+    "zh": "他比您更刻苦。"
+   },
+   {
+    "en": "She's even more hardworking than you are.",
+    "zh": "她比您更刻苦。"
+   }
+  ],
+  "synonyms": [
+   "industrious",
+   "tireless",
+   "untiring"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "characterized by hard work and perseverance",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1140",
+  "unit": 29,
+  "headword": "impatient",
+  "ipa": "im'peiʃәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不耐煩的, 著急的, 急切的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Dad's in an impatient mood today.",
+    "zh": "爸爸今天不耐煩。"
+   },
+   {
+    "en": "Mother is never impatient with us.",
+    "zh": "母親從來沒有因為我們而不耐煩。"
+   },
+   {
+    "en": "I think Tom is a bit too impatient.",
+    "zh": "我覺得湯姆有些過於性急了。"
+   }
+  ],
+  "synonyms": [
+   "raring"
+  ],
+  "antonyms": [
+   "patient"
+  ],
+  "phrases": null,
+  "defsEn": "restless or short-tempered under delay or opposition",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1141",
+  "unit": 29,
+  "headword": "indirect",
+  "ipa": ".indi'rekt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 間接的, 非直截了當的, 不坦率的\n[醫] 間接的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "A smile is an indirect hug.",
+    "zh": null
+   },
+   {
+    "en": "Ivy needs bright indirect light.",
+    "zh": null
+   },
+   {
+    "en": "Indirect communication is feminine.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "collateral"
+  ],
+  "antonyms": [
+   "direct",
+   "lineal"
+  ],
+  "phrases": null,
+  "defsEn": "having intervening factors or persons or influences",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1142",
+  "unit": 29,
+  "headword": "interpreter",
+  "ipa": "in'tә:pritә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 直譯程式, 解釋者, 口譯者, 註釋器\n[計] 註釋器",
+  "forms": {
+   "plural": "interpreters"
+  },
+  "examples": [
+   {
+    "en": "She spoke through an interpreter.",
+    "zh": "她透過傳譯員發言。"
+   },
+   {
+    "en": "My uncle made me serve as interpreter.",
+    "zh": "我叔叔讓我擔任翻譯。"
+   },
+   {
+    "en": "He's an interpreter in an international bank.",
+    "zh": "他是個國際銀行的翻譯。"
+   }
+  ],
+  "synonyms": [
+   "translator",
+   "spokesperson",
+   "representative",
+   "voice"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who mediates between speakers of different languages",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1143",
+  "unit": 29,
+  "headword": "intersection",
+  "ipa": ".intә'sekʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 交集, 十字路口, 交叉點\n[計] 邏輯乘; 與",
+  "forms": {
+   "plural": "intersections",
+   "ing": "intersectioning"
+  },
+  "examples": [
+   {
+    "en": "Turn right at the intersection.",
+    "zh": "在十字路口右轉。"
+   },
+   {
+    "en": "This intersection is dangerous.",
+    "zh": "這個十字路口很危險。"
+   },
+   {
+    "en": "Turn right at the next intersection.",
+    "zh": "請在下一個十字路口右轉。"
+   }
+  ],
+  "synonyms": [
+   "crossroad",
+   "crossway",
+   "crossing",
+   "carrefour"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a point where lines intersect",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1144",
+  "unit": 29,
+  "headword": "irrelevant",
+  "ipa": "i'relәvәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不恰當的, 無關係的, 不相干的\n[法] 無關的, 不相干的, 離題的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Sometimes I find that I basically have no time to pay attention to irrelevant trivia.",
+    "zh": "有時候發現自己基本上沒有時間顧及一些無關緊要的瑣事。"
+   },
+   {
+    "en": "Is it that irrelevant?",
+    "zh": null
+   },
+   {
+    "en": "They are so irrelevant.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "relevant"
+  ],
+  "phrases": null,
+  "defsEn": "having no bearing on or connection with the subject at issue",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1145",
+  "unit": 29,
+  "headword": "jeans",
+  "ipa": "dʒi:nz",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 工裝褲, 牛仔褲",
+  "forms": {
+   "plural": "jeans"
+  },
+  "examples": [
+   {
+    "en": "He had jeans on.",
+    "zh": "他穿了一條牛仔褲。"
+   },
+   {
+    "en": "My jeans are torn.",
+    "zh": "我的牛仔褲破了。"
+   },
+   {
+    "en": "Tom was wearing jeans.",
+    "zh": "湯姆穿著牛仔褲。"
+   }
+  ],
+  "synonyms": [
+   "jean",
+   "denim",
+   "dungaree"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(usually plural) close-fitting trousers of heavy denim for manual work or casual wear",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1146",
+  "unit": 29,
+  "headword": "journalism",
+  "ipa": "'dʒә:nәlizm",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 新聞業, 報章雜誌\n[法] 報刊, 新聞業, 新聞出版",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom studies journalism in Boston.",
+    "zh": "湯姆在波士頓學新聞學。"
+   },
+   {
+    "en": "In a democracy, it is important for journalism to be independent.",
+    "zh": "在民主國家，報刊的獨立是很重要的。"
+   },
+   {
+    "en": "Real journalism is dead.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "newspapers and magazines collectively",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1147",
+  "unit": 29,
+  "headword": "letterhead",
+  "ipa": "'letәhed",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 信箋上方的印刷文字, 印有抬頭的信箋",
+  "forms": {
+   "plural": "letterheads",
+   "ing": "letterheading"
+  },
+  "examples": [
+   {
+    "en": "I need to send a congratulatory telegram on decorated letterhead.",
+    "zh": null
+   },
+   {
+    "en": "Tom needs to send a congratulatory telegram on decorated letterhead.",
+    "zh": null
+   },
+   {
+    "en": "I need some paper with letterhead to send the quote to the new client.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a sheet of stationery with name and address of the organization printed at the top",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1148",
+  "unit": 29,
+  "headword": "lifeguard",
+  "ipa": "'laifgɑ:d",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 衛兵, 禁衛軍, 救生員",
+  "forms": {
+   "plural": "lifeguards",
+   "ing": "lifeguarding"
+  },
+  "examples": [
+   {
+    "en": "I applied for a job as a lifeguard at the community pool.",
+    "zh": "我去了公共游泳池應徵當救生員。"
+   },
+   {
+    "en": "I went to the public swimming pool to apply for a lifeguard position.",
+    "zh": "我去了公共游泳池應徵當救生員。"
+   },
+   {
+    "en": "Tom is a lifeguard.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "lifesaver"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an attendant employed at a beach or pool to protect swimmers from accidents",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1149",
+  "unit": 29,
+  "headword": "modem",
+  "ipa": "'mәudem",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 調變解調器\n[計] 調變解調器",
+  "forms": {
+   "plural": "modems"
+  },
+  "examples": [
+   {
+    "en": "Turn on the modem.",
+    "zh": null
+   },
+   {
+    "en": "Is your modem new?",
+    "zh": null
+   },
+   {
+    "en": "Tom bought a new modem.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers by a telephone line",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1150",
+  "unit": 29,
+  "headword": "monument",
+  "ipa": "'mɒnjumәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 紀念碑, 紀念物, 石碑",
+  "forms": {
+   "plural": "monuments"
+  },
+  "examples": [
+   {
+    "en": "Which way to the monument?",
+    "zh": null
+   },
+   {
+    "en": "Your deeds are your monuments.",
+    "zh": null
+   },
+   {
+    "en": "It is in front of the monument.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "memorial",
+   "repository"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a structure erected to commemorate persons or events",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1151",
+  "unit": 29,
+  "headword": "mosquito",
+  "ipa": "mә'ski:tәu",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 蚊子\n[醫] 蚊",
+  "forms": {
+   "plural": "mosquitos"
+  },
+  "examples": [
+   {
+    "en": "I was bitten by a mosquito.",
+    "zh": "我被蚊子叮了。"
+   },
+   {
+    "en": "I got a lot of mosquito bites.",
+    "zh": "我被很多的蚊子叮了。"
+   },
+   {
+    "en": "I just got bitten by a mosquito.",
+    "zh": "我剛剛被蚊子咬了。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "two-winged insect whose female has a long proboscis to pierce the skin and suck the blood of humans and animals",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1152",
+  "unit": 29,
+  "headword": "obligate",
+  "ipa": "'ɒbligeit",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "defsZh": "vt. 使負義務, 強使, 使感激, 施恩惠於\na. 有責任的, 必須的",
+  "forms": {
+   "pp": "obligated",
+   "past": "obligated",
+   "ing": "obligating",
+   "thirdSg": "obligates"
+  },
+  "examples": [
+   {
+    "en": "I felt obligated.",
+    "zh": "我覺得有義務。"
+   },
+   {
+    "en": "I do not feel obligated.",
+    "zh": null
+   },
+   {
+    "en": "I felt obligated to help.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "compel",
+   "oblige",
+   "bind",
+   "hold"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "force somebody to do something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1153",
+  "unit": 29,
+  "headword": "oblige",
+  "ipa": "ә'blaidʒ",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 強制, 施恩惠於, 使感激\nvi. 施恩惠, 幫忙",
+  "forms": {
+   "pp": "obliged",
+   "past": "obliged",
+   "thirdSg": "obliges",
+   "ing": "obliging"
+  },
+  "examples": [
+   {
+    "en": "She was obliged to give up the plan.",
+    "zh": "她不得不放棄這個計劃。"
+   },
+   {
+    "en": "She was obliged to marry the old man.",
+    "zh": "她不得不和這個老男人結婚。"
+   },
+   {
+    "en": "We're not obliged to do that for Tom.",
+    "zh": "我們沒有義務為湯姆做那件事。"
+   }
+  ],
+  "synonyms": [
+   "compel",
+   "obligate",
+   "bind",
+   "hold",
+   "accommodate"
+  ],
+  "antonyms": [
+   "disoblige"
+  ],
+  "phrases": null,
+  "defsEn": "force somebody to do something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1154",
+  "unit": 29,
+  "headword": "occurrence",
+  "ipa": "ә'kʌrәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 發生, 事件, 出現\n[醫] 發生",
+  "forms": {
+   "plural": "occurrences"
+  },
+  "examples": [
+   {
+    "en": "This is a daily occurrence.",
+    "zh": "這種事每天也會發生。"
+   },
+   {
+    "en": "Both victory and defeat are but an everyday occurrence to a soldier.",
+    "zh": "勝敗是兵家常事。"
+   },
+   {
+    "en": "Having their classroom time extended is a very common occurrence for students.",
+    "zh": "拖堂情況對於學生們而言十分常見。"
+   }
+  ],
+  "synonyms": [
+   "happening",
+   "occurrent"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an event that happens",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1155",
+  "unit": 29,
+  "headword": "operational",
+  "ipa": ".ɒpә'reiʃәnl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 操作的, 運作的\n[法] 操作上的, 業務上的, 可起作用的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "All systems are operational.",
+    "zh": null
+   },
+   {
+    "en": "The plane is now operational.",
+    "zh": null
+   },
+   {
+    "en": "The account remains operational.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "functional",
+   "usable",
+   "useable",
+   "operable"
+  ],
+  "antonyms": [
+   "nonoperational"
+  ],
+  "phrases": null,
+  "defsEn": "pertaining to a process or series of actions for achieving a result",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1156",
+  "unit": 29,
+  "headword": "outage",
+  "ipa": "'autidʒ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. (水、電、煤)斷供, 儲運損耗\n[化] (蓄水池為了水膨脹)預留的容量; 排出量",
+  "forms": {
+   "plural": "outages"
+  },
+  "examples": [
+   {
+    "en": "We have a water outage.",
+    "zh": null
+   },
+   {
+    "en": "There is a power outage.",
+    "zh": null
+   },
+   {
+    "en": "What caused the power outage?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the amount of something (as whiskey or oil) lost in storage or transportation",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1157",
+  "unit": 29,
+  "headword": "overcrowd",
+  "ipa": ".әuvә'kraud",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 容納過多的人, 使過度擁擠",
+  "forms": {
+   "ing": "overcrowding",
+   "past": "overcrowded",
+   "thirdSg": "overcrowds",
+   "pp": "overcrowded"
+  },
+  "examples": [
+   {
+    "en": "The jail is overcrowded.",
+    "zh": null
+   },
+   {
+    "en": "The prison is overcrowded.",
+    "zh": null
+   },
+   {
+    "en": "The prison was overcrowded.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "cause to crowd together too much",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1158",
+  "unit": 29,
+  "headword": "paralegal",
+  "ipa": ",pærә'li:^әl,'pærәl-",
+  "pos": null,
+  "defsZh": "[法] 律師的專職助手",
+  "forms": {
+   "plural": "paralegals"
+  },
+  "examples": [
+   {
+    "en": "My wife is a paralegal.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person with specialized training who assists lawyers",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1159",
+  "unit": 29,
+  "headword": "partially",
+  "ipa": "'pɑ:ʃәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 部分地, 一部分地, 不公平地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "You're partially correct.",
+    "zh": "你對了一部分。"
+   },
+   {
+    "en": "Tom is partially right.",
+    "zh": null
+   },
+   {
+    "en": "Tom is partially wrong.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "partly",
+   "part"
+  ],
+  "antonyms": [
+   "wholly"
+  ],
+  "phrases": null,
+  "defsEn": "in part; in some degree; not wholly",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1160",
+  "unit": 29,
+  "headword": "pepper",
+  "ipa": "'pepә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 胡椒粉, 胡椒, 辣椒\n[化] 胡椒; 辣椒; 花椒",
+  "forms": {
+   "plural": "peppers",
+   "pp": "peppered",
+   "past": "peppered",
+   "ing": "peppering",
+   "thirdSg": "peppers"
+  },
+  "examples": [
+   {
+    "en": "Do you like pepper?",
+    "zh": "你喜歡胡椒嗎？"
+   },
+   {
+    "en": "I like green peppers.",
+    "zh": "我很喜歡青椒。"
+   },
+   {
+    "en": "She hates green peppers.",
+    "zh": "她討厭青椒。"
+   }
+  ],
+  "synonyms": [
+   "capsicum",
+   "peppercorn"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "climber having dark red berries (peppercorns) when fully ripe; southern India and Sri Lanka; naturalized in northern Burma and Assam",
+  "note": null,
+  "audioUrl": null
+ }
+]

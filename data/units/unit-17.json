@@ -1,0 +1,1476 @@
+[
+ {
+  "id": "w0641",
+  "unit": 17,
+  "headword": "ongoing",
+  "ipa": "'ɒngәuiŋ",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 前進的, 進行的, 不間斷的\nn. 前進, 發展",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The project is ongoing.",
+    "zh": "該專案正在進行中。"
+   },
+   {
+    "en": "It's an ongoing investigation.",
+    "zh": "調查進行中。"
+   },
+   {
+    "en": "The process is ongoing.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "on-going"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "currently happening",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0642",
+  "unit": 17,
+  "headword": "periodically",
+  "ipa": ",piәri'ɔdikəli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 定期, 迴圈, 間歇, 週期, 定期刊行, 期刊",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Many birds return to this site periodically.",
+    "zh": null
+   },
+   {
+    "en": "All machines need to be checked periodically.",
+    "zh": null
+   },
+   {
+    "en": "Like a snake, you periodically shed your skin.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "sporadically"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "in a sporadic manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0643",
+  "unit": 17,
+  "headword": "pie",
+  "ipa": "pai",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 餡餅, 財富, 總額, 貪汙受賄, 雜亂, 喜鵲\n[計] 餅圖",
+  "forms": {
+   "plural": "pies"
+  },
+  "examples": [
+   {
+    "en": "Who made this pie?",
+    "zh": "誰做的這個餡餅？"
+   },
+   {
+    "en": "Who wants apple pie?",
+    "zh": "誰想要蘋果派？"
+   },
+   {
+    "en": "I want to make a pie.",
+    "zh": "我想做個派。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "dish baked in pastry-lined pan often with a pastry top",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0644",
+  "unit": 17,
+  "headword": "plug",
+  "ipa": "plʌg",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 塞子, 栓, 插頭\nvt. 插入, 塞住, 接插頭\nvi. 被塞住",
+  "forms": {
+   "pp": "plugged",
+   "plural": "plugs",
+   "ing": "plugging",
+   "thirdSg": "plugs",
+   "past": "plugged"
+  },
+  "examples": [
+   {
+    "en": "Plug your nose.",
+    "zh": "堵住妳的鼻子。"
+   },
+   {
+    "en": "Did you pull the plug out?",
+    "zh": "插頭是你拔的嗎？"
+   },
+   {
+    "en": "Have you pulled the plug out?",
+    "zh": "你拔插頭了嗎？"
+   }
+  ],
+  "synonyms": [
+   "stopper",
+   "stopple",
+   "chew",
+   "chaw",
+   "cud"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "blockage consisting of an object designed to fill a hole tightly",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0645",
+  "unit": 17,
+  "headword": "recruitment",
+  "ipa": "ri'kru:tmәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 新兵徵召\n[醫] 募集[反應], 募集[現象](生理), 復聰(耳科)",
+  "forms": {
+   "plural": "recruitments"
+  },
+  "examples": [
+   {
+    "en": "Recruitment starts this month.",
+    "zh": null
+   },
+   {
+    "en": "Recruitment starts in October.",
+    "zh": null
+   },
+   {
+    "en": "The recruitment team looked for promising employees.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "enlisting"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of getting recruits; enlisting people for the army (or for a job or a cause etc.)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0646",
+  "unit": 17,
+  "headword": "referee",
+  "ipa": ".refә'ri:",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 仲裁人, 調解人, 裁判員\nv. 仲裁, 裁判",
+  "forms": {
+   "plural": "referees",
+   "pp": "refereed",
+   "ing": "refereeing",
+   "past": "refereed",
+   "thirdSg": "referees"
+  },
+  "examples": [
+   {
+    "en": "They seemed to offend the referee.",
+    "zh": "他們似乎得罪了裁判。"
+   },
+   {
+    "en": "The referee blew the whistle and called a hand ball on him.",
+    "zh": "裁判吹響了口哨，判定他手球。"
+   },
+   {
+    "en": "The referee blew his whistle twice to tell everyone it was full-time.",
+    "zh": "裁判吹哨兩次，向大家宣佈已經終場。"
+   }
+  ],
+  "synonyms": [
+   "ref",
+   "reviewer",
+   "reader"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(sports) the chief official (as in boxing or American football) who is expected to ensure fair play",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0647",
+  "unit": 17,
+  "headword": "referral",
+  "ipa": "ri'fә:rәl",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 參照, 介紹, 被介紹人, 轉診病人",
+  "forms": {
+   "plural": "referrals"
+  },
+  "examples": [
+   {
+    "en": "Thank you for your referral.",
+    "zh": null
+   },
+   {
+    "en": "Could I get a referral to your food pantry?",
+    "zh": null
+   },
+   {
+    "en": "Do I need a GP referral for private treatment?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person whose case has been referred to a specialist or professional group",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0648",
+  "unit": 17,
+  "headword": "renown",
+  "ipa": "ri'naun",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 名聲, 聲望\nvt. 使有聲望",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom is a renowned chef.",
+    "zh": null
+   },
+   {
+    "en": "Tom is a renowned cyclist.",
+    "zh": null
+   },
+   {
+    "en": "Jonas is a renowned architect.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "fame",
+   "celebrity"
+  ],
+  "antonyms": [
+   "infamy"
+  ],
+  "phrases": null,
+  "defsEn": "the state or quality of being widely honored and acclaimed",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0649",
+  "unit": 17,
+  "headword": "runner",
+  "ipa": "'rʌnә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 跑步者, 賽跑者, 送信人, 走私船, 操作者, 滑槽\n[化] 碾碎機; 壓碎機",
+  "forms": {
+   "plural": "runners"
+  },
+  "examples": [
+   {
+    "en": "They're fast runners.",
+    "zh": "他們跑得很快。"
+   },
+   {
+    "en": "I am the fastest runner.",
+    "zh": "我是跑得最快的人。"
+   },
+   {
+    "en": "I wonder which of the runners will come first.",
+    "zh": "我在想哪個跑步運動員會跑第一。"
+   }
+  ],
+  "synonyms": [
+   "smuggler",
+   "contrabandist",
+   "moon-curser"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who imports or exports without paying duties",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0650",
+  "unit": 17,
+  "headword": "sock",
+  "ipa": "sɒk",
+  "pos": [
+   "n",
+   "v",
+   "adv",
+   "adj"
+  ],
+  "defsZh": "n. 短襪, 鞋墊, 一擊\nvt. 重擊, 猛投, 給...穿襪\nvi. 打擊\nadv. 正著地, 不偏不倚地\na. 非常成功的",
+  "forms": {
+   "plural": "socks",
+   "pp": "socked",
+   "ing": "socking",
+   "past": "socked",
+   "thirdSg": "socks"
+  },
+  "examples": [
+   {
+    "en": "Wear silk socks!",
+    "zh": "穿絲襪！"
+   },
+   {
+    "en": "She put on socks.",
+    "zh": "她穿上襪子。"
+   },
+   {
+    "en": "Tom bought socks.",
+    "zh": "湯姆買了襪子。"
+   }
+  ],
+  "synonyms": [
+   "windsock",
+   "air-sleeve",
+   "drogue",
+   "bop",
+   "whop"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0651",
+  "unit": 17,
+  "headword": "spam",
+  "ipa": "spæm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 罐頭豬肉, 垃圾郵件\nv. 傳送垃圾郵件",
+  "forms": {
+   "pp": "spammed",
+   "ing": "spamming",
+   "past": "spammed",
+   "thirdSg": "spams",
+   "plural": "spams"
+  },
+  "examples": [
+   {
+    "en": "It's a spam email.",
+    "zh": null
+   },
+   {
+    "en": "It's a spam e-mail.",
+    "zh": null
+   },
+   {
+    "en": "Is \"SPAM\" an acronym?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a canned meat made largely from pork",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0652",
+  "unit": 17,
+  "headword": "surf",
+  "ipa": "sә:f",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 海浪, 拍岸浪\nvi. 作衝浪運動",
+  "forms": {
+   "ing": "surfing",
+   "past": "surfed",
+   "pp": "surfed",
+   "plural": "surfs",
+   "thirdSg": "surfs"
+  },
+  "examples": [
+   {
+    "en": "She spends way too much time surfing the web.",
+    "zh": "她花實在太多的時間在網上衝浪。"
+   },
+   {
+    "en": "Can I go surfing?",
+    "zh": null
+   },
+   {
+    "en": "Do you like surfing?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "breaker",
+   "breakers",
+   "surfboard",
+   "browse"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "waves breaking on the shore",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0653",
+  "unit": 17,
+  "headword": "timetable",
+  "ipa": "'taimteibl",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 時間表",
+  "forms": {
+   "plural": "timetables",
+   "ing": "timetabling",
+   "pp": "timetabled",
+   "past": "timetabled"
+  },
+  "examples": [
+   {
+    "en": "Is there a timetable?",
+    "zh": "有時間表嗎？"
+   },
+   {
+    "en": "There is no timetable.",
+    "zh": null
+   },
+   {
+    "en": "May I have a timetable?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a schedule listing events and the times at which they will take place",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0654",
+  "unit": 17,
+  "headword": "vase",
+  "ipa": "veis",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 花瓶, 瓶",
+  "forms": {
+   "plural": "vases"
+  },
+  "examples": [
+   {
+    "en": "The vase was shattered.",
+    "zh": "花瓶被打碎了。"
+   },
+   {
+    "en": "I carelessly dropped a vase.",
+    "zh": "我不小心打落了一個花瓶。"
+   },
+   {
+    "en": "Hold the vase in both hands.",
+    "zh": "用雙手握著花瓶。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an open jar of glass or porcelain used as an ornament or to hold flowers",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0655",
+  "unit": 17,
+  "headword": "aboard",
+  "ipa": "ә'bɒ:d",
+  "pos": [
+   "adv",
+   "prep"
+  ],
+  "defsZh": "adv. 在船上, 在火車上, 在飛機上\nprep. 在...之上",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I went aboard the bus.",
+    "zh": "我上了大巴。"
+   },
+   {
+    "en": "How many people were aboard that ship?",
+    "zh": "那艘船上有多少人？"
+   },
+   {
+    "en": "The passengers all went aboard the ship.",
+    "zh": "乘客全都登上了船。"
+   }
+  ],
+  "synonyms": [
+   "alongside"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "on a ship, train, plane or other vehicle",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0656",
+  "unit": 17,
+  "headword": "advancement",
+  "ipa": "әd'vɑ:nsmәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 前進, 進步, 提升\n[醫] 徙前術",
+  "forms": {
+   "plural": "advancements"
+  },
+  "examples": [
+   {
+    "en": "Stop the enemy's advancement.",
+    "zh": null
+   },
+   {
+    "en": "I'm aware of my daily advancements.",
+    "zh": null
+   },
+   {
+    "en": "I'm afraid of technological advancements.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "promotion",
+   "furtherance",
+   "progress",
+   "progression",
+   "procession"
+  ],
+  "antonyms": [
+   "retreat"
+  ],
+  "phrases": null,
+  "defsEn": "encouragement of the progress or growth or acceptance of something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0657",
+  "unit": 17,
+  "headword": "advertiser",
+  "ipa": "'ædvәtaizә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 做廣告者, 廣告客戶\n[經] 廣告商, 廣告者",
+  "forms": {
+   "plural": "advertisers"
+  },
+  "examples": [
+   {
+    "en": "The advertiser didn't run our ad.",
+    "zh": null
+   },
+   {
+    "en": "The annoying advertiser called my house.",
+    "zh": null
+   },
+   {
+    "en": "She works as an advertiser at a New Jersey firm.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "advertizer",
+   "adman"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone whose business is advertising",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0658",
+  "unit": 17,
+  "headword": "alternatively",
+  "ipa": "ɒ:l'tә:nәtivli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 非此即彼",
+  "forms": null,
+  "examples": [
+   {
+    "en": "You can walk, or alternatively, I'll drive you there in my car.",
+    "zh": null
+   },
+   {
+    "en": "Or, alternatively, use one of your other authentication methods.",
+    "zh": null
+   },
+   {
+    "en": "Tom for Mary and Mary for Tom were alternatively the subject and the object.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "instead"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "in place of, or as an alternative to",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0659",
+  "unit": 17,
+  "headword": "amuse",
+  "ipa": "ә'mju:z",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 消遣, 娛樂, 使發笑",
+  "forms": {
+   "past": "amused",
+   "pp": "amused",
+   "ing": "amusing",
+   "thirdSg": "amuses",
+   "plural": "amuses"
+  },
+  "examples": [
+   {
+    "en": "The story was amusing.",
+    "zh": "故事很有趣。"
+   },
+   {
+    "en": "His story amused everyone.",
+    "zh": "他的故事把大家給逗樂了。"
+   },
+   {
+    "en": "Foreign people are amusing.",
+    "zh": "外國人很好玩。"
+   }
+  ],
+  "synonyms": [
+   "divert",
+   "disport"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "occupy in an agreeable, entertaining or pleasant fashion",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0660",
+  "unit": 17,
+  "headword": "attorney",
+  "ipa": "ә'tә:ni",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 代理人, 律師\n[經] 律師, 代理人",
+  "forms": {
+   "plural": "attorneys"
+  },
+  "examples": [
+   {
+    "en": "Does Tom have an attorney?",
+    "zh": "湯姆有請律師嗎？"
+   },
+   {
+    "en": "It's totally without precedent for the suspect's attorney to be the true culprit.",
+    "zh": "這前所未聞, 犯罪嫌疑人的律師竟然是真正的罪魁禍首。"
+   },
+   {
+    "en": "I want an attorney.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "lawyer"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a professional person authorized to practice law; conducts lawsuits or gives legal advice",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0661",
+  "unit": 17,
+  "headword": "authorization",
+  "ipa": ".ɒ:θәrai'zeiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 授權, 許可\n[經] 授權, 許可, 批准",
+  "forms": {
+   "plural": "authorizations"
+  },
+  "examples": [
+   {
+    "en": "Did you obtain authorization?",
+    "zh": null
+   },
+   {
+    "en": "Do we have authorization to proceed?",
+    "zh": null
+   },
+   {
+    "en": "Did you obtain authorization to do this?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "mandate",
+   "authorisation",
+   "authority",
+   "potency",
+   "dominance"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a document giving an official instruction or command",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0662",
+  "unit": 17,
+  "headword": "campus",
+  "ipa": "'kæmpәs",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 校園, 大學生活",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I met her on campus yesterday.",
+    "zh": "我昨天在校園裡遇到了她。"
+   },
+   {
+    "en": "She showed me around the campus.",
+    "zh": "她帶我參觀了校園。"
+   },
+   {
+    "en": "We met in a coffee shop near the campus.",
+    "zh": "我們在校園附近的咖啡廳碰面。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a field on which the buildings of a university are situated",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0663",
+  "unit": 17,
+  "headword": "candy",
+  "ipa": "'kændi",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 糖果, 冰糖\nvt. 用糖煮, 使結晶為砂糖\nvi. 結晶為砂糖",
+  "forms": {
+   "past": "candied",
+   "plural": "candies",
+   "pp": "candied",
+   "ing": "candying",
+   "thirdSg": "candies"
+  },
+  "examples": [
+   {
+    "en": "I like candy.",
+    "zh": "我喜歡甜食。"
+   },
+   {
+    "en": "We want candy.",
+    "zh": "我們想要糖。"
+   },
+   {
+    "en": "They sell candy.",
+    "zh": "他們賣糖果。"
+   }
+  ],
+  "synonyms": [
+   "confect",
+   "sugarcoat",
+   "glaze"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a rich sweet made of flavored sugar and often combined with fruit or nuts",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0664",
+  "unit": 17,
+  "headword": "certify",
+  "ipa": "'sә:tifai",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 證明, 保證",
+  "forms": {
+   "pp": "certified",
+   "ing": "certifying",
+   "thirdSg": "certifies",
+   "past": "certified"
+  },
+  "examples": [
+   {
+    "en": "Tom is certified.",
+    "zh": "湯姆有認證。"
+   },
+   {
+    "en": "Are you certified?",
+    "zh": "你有認證嗎？"
+   },
+   {
+    "en": "Mennad isn't certified.",
+    "zh": "梅納德沒有認證。"
+   }
+  ],
+  "synonyms": [
+   "attest",
+   "manifest",
+   "demonstrate",
+   "evidence",
+   "license"
+  ],
+  "antonyms": [
+   "decertify"
+  ],
+  "phrases": null,
+  "defsEn": "provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0665",
+  "unit": 17,
+  "headword": "checkout",
+  "ipa": "'tʃekaut",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 結帳臺\n[計] 檢驗",
+  "forms": {
+   "plural": "checkouts"
+  },
+  "examples": [
+   {
+    "en": "Where's the checkout counter?",
+    "zh": "結帳櫃臺在哪裡?"
+   },
+   {
+    "en": "When is checkout time?",
+    "zh": null
+   },
+   {
+    "en": "What time is checkout?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "check"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of inspecting or verifying",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0666",
+  "unit": 17,
+  "headword": "chemistry",
+  "ipa": "'kemistri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 化學, 化學過程\n[化] 化學",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I hate chemistry.",
+    "zh": "我討厭化學。"
+   },
+   {
+    "en": "He is poor at chemistry.",
+    "zh": "他的化學很差。"
+   },
+   {
+    "en": "Chemistry gave us plastics.",
+    "zh": "化學給了我們塑膠。"
+   }
+  ],
+  "synonyms": [
+   "alchemy"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0667",
+  "unit": 17,
+  "headword": "circulation",
+  "ipa": ".sә:kju'leiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 流通, 迴圈, 發行量\n[化] 環流",
+  "forms": {
+   "plural": "circulations"
+  },
+  "examples": [
+   {
+    "en": "He works for a newspaper with a large circulation.",
+    "zh": "他為一份印刷量很大的報紙工作。"
+   },
+   {
+    "en": "Tom has bad circulation.",
+    "zh": null
+   },
+   {
+    "en": "Your circulation is much better.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the dissemination of copies of periodicals (as newspapers or magazines)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0668",
+  "unit": 17,
+  "headword": "concierge",
+  "ipa": ",kɔ:nsi'eәʒ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 看門人, 門房",
+  "forms": {
+   "plural": "concierges"
+  },
+  "examples": [
+   {
+    "en": "Ziri is a concierge.",
+    "zh": null
+   },
+   {
+    "en": "Tom works as a concierge.",
+    "zh": null
+   },
+   {
+    "en": "Tom works at John's hotel as a concierge.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a French caretaker of apartments or a hotel; lives on the premises and oversees people entering and leaving and handles mail and acts as janitor or porter",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0669",
+  "unit": 17,
+  "headword": "consent",
+  "ipa": "kәn'sent",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 同意, 許可\nvi. 同意, 贊同",
+  "forms": {
+   "pp": "consented",
+   "plural": "consents",
+   "past": "consented",
+   "ing": "consenting",
+   "thirdSg": "consents"
+  },
+  "examples": [
+   {
+    "en": "Silence gives consent.",
+    "zh": "沉默就意味著同意。"
+   },
+   {
+    "en": "He consented to help the old lady.",
+    "zh": "他同意幫助這位老太太。"
+   },
+   {
+    "en": "We will only consent on that condition.",
+    "zh": "我們只會在那樣的條件下同意。"
+   }
+  ],
+  "synonyms": [
+   "accept"
+  ],
+  "antonyms": [
+   "refuse"
+  ],
+  "phrases": null,
+  "defsEn": "permission to do something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0670",
+  "unit": 17,
+  "headword": "consistently",
+  "ipa": "kənˈsɪstəntli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 堅固, 堅實, 一致, 始終如一, 連貫\n[計] 相容地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "However, apart from Buddhists, hardly anyone can consistently follow this principle.",
+    "zh": "不過，除了佛教者以外，沒有任何人可以一直遵循這個原則。"
+   },
+   {
+    "en": "Did you train consistently?",
+    "zh": null
+   },
+   {
+    "en": "Do you play chess consistently?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "systematically"
+  ],
+  "antonyms": [
+   "unsystematically",
+   "inconsistently"
+  ],
+  "phrases": null,
+  "defsEn": "in a systematic or consistent manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0671",
+  "unit": 17,
+  "headword": "cookie",
+  "ipa": "'kuki",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 餅乾, 小甜點\n[建] 糕點",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I baked cookies.",
+    "zh": "我烤了曲奇。"
+   },
+   {
+    "en": "He is making cookies.",
+    "zh": "他在做曲奇。"
+   },
+   {
+    "en": "The cookies are vegan.",
+    "zh": "餅乾都是純素的。"
+   }
+  ],
+  "synonyms": [
+   "cooky",
+   "biscuit"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "any of various small flat sweet cakes (`biscuit' is the British term)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0672",
+  "unit": 17,
+  "headword": "deck",
+  "ipa": "dek",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 甲板, (汽車後部的)行李倉\nvt. 裝飾, 打扮, 裝甲板\n[計] 紙牌背面圖案",
+  "forms": {
+   "plural": "decks",
+   "past": "decked",
+   "pp": "decked",
+   "ing": "decking",
+   "thirdSg": "decks"
+  },
+  "examples": [
+   {
+    "en": "The deck was poorly shuffled.",
+    "zh": "牌沒洗開。"
+   },
+   {
+    "en": "Place the deck of cards on the oaken table.",
+    "zh": "把撲克牌放在橡木桌上。"
+   },
+   {
+    "en": "She stood on the deck with her long hair waving in the wind.",
+    "zh": "她站在甲板上，長頭髮隨風飛舞。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "any of various platforms built into a vessel",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0673",
+  "unit": 17,
+  "headword": "descriptive",
+  "ipa": "di'skriptiv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 描述的, 敘述的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The word \"self-descriptive\" is self-descriptive.",
+    "zh": null
+   },
+   {
+    "en": "This is a command, not truly a descriptive sentence.",
+    "zh": null
+   },
+   {
+    "en": "Generate a concise and descriptive caption for this image.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "undescriptive",
+   "prescriptive"
+  ],
+  "phrases": null,
+  "defsEn": "serving to describe or inform or characterized by description",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0674",
+  "unit": 17,
+  "headword": "detach",
+  "ipa": "di'tætʃ",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使分離, 分遣\n[機] 摘下, 分離, 卸下",
+  "forms": {
+   "pp": "detached",
+   "past": "detached",
+   "ing": "detaching",
+   "thirdSg": "detaches"
+  },
+  "examples": [
+   {
+    "en": "I have detached it.",
+    "zh": null
+   },
+   {
+    "en": "I didn't detach them.",
+    "zh": null
+   },
+   {
+    "en": "Ziri detached the cable.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "attach"
+  ],
+  "phrases": null,
+  "defsEn": "cause to become detached or separated; take off",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0675",
+  "unit": 17,
+  "headword": "documentation",
+  "ipa": ".dɒkjumen'teiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. (總稱)檔案\n[計] 檔案編制, 文件",
+  "forms": {
+   "plural": "documentations"
+  },
+  "examples": [
+   {
+    "en": "Learn about this documentation.",
+    "zh": "瞭解這份檔案。"
+   },
+   {
+    "en": "The documentation is fine.",
+    "zh": null
+   },
+   {
+    "en": "The documentation is quite good.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "certification",
+   "corroboration",
+   "support"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "confirmation that some fact or statement is true through the use of documentary evidence",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0676",
+  "unit": 17,
+  "headword": "entrepreneur",
+  "ipa": ".ɒntrәprә'nә:",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 企業家, 主辦人\n[經] 承包商, 企業家",
+  "forms": {
+   "plural": "entrepreneurs"
+  },
+  "examples": [
+   {
+    "en": "Everyone is an entrepreneur.",
+    "zh": "大家都是企業家。"
+   },
+   {
+    "en": "I am an entrepreneur.",
+    "zh": null
+   },
+   {
+    "en": "He is an entrepreneur.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "enterpriser"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who organizes a business venture and assumes the risk for it",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0677",
+  "unit": 17,
+  "headword": "exceptional",
+  "ipa": "ik'sepʃәnәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 例外的, 異常的, 特別的",
+  "forms": {
+   "plural": "exceptionals"
+  },
+  "examples": [
+   {
+    "en": "The food was exceptional.",
+    "zh": null
+   },
+   {
+    "en": "I had an exceptional year.",
+    "zh": null
+   },
+   {
+    "en": "What an exceptional woman!",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "exceeding",
+   "olympian",
+   "prodigious",
+   "surpassing",
+   "especial"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "far beyond what is usual in magnitude or degree",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0678",
+  "unit": 17,
+  "headword": "familiarize",
+  "ipa": "fә'miljәraiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使熟悉, 使熟知, 使通俗化",
+  "forms": {
+   "pp": "familiarized",
+   "ing": "familiarizing",
+   "past": "familiarized",
+   "thirdSg": "familiarizes"
+  },
+  "examples": [
+   {
+    "en": "He tried to familiarize her with the software.",
+    "zh": null
+   },
+   {
+    "en": "I've been familiarizing myself with the process.",
+    "zh": null
+   },
+   {
+    "en": "Take time to familiarize yourself with the city.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "familiarise",
+   "acquaint"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make familiar or conversant with",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0679",
+  "unit": 17,
+  "headword": "hotline",
+  "ipa": "'hɔtlain",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 熱線電話, 諮詢電話；熱線",
+  "forms": {
+   "plural": "hotlines"
+  },
+  "examples": [
+   {
+    "en": "Tom called the hotline.",
+    "zh": null
+   },
+   {
+    "en": "Sami can call the hotline.",
+    "zh": null
+   },
+   {
+    "en": "Tom called the suicide hotline.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0680",
+  "unit": 17,
+  "headword": "intonation",
+  "ipa": ".intәu'neiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 朗誦, 語調, 唱\n[化] 聲調",
+  "forms": {
+   "plural": "intonations"
+  },
+  "examples": [
+   {
+    "en": "He has very funny intonation.",
+    "zh": null
+   },
+   {
+    "en": "Try to change your intonation.",
+    "zh": null
+   },
+   {
+    "en": "He has a very funny intonation.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "modulation",
+   "chanting"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "rise and fall of the voice pitch",
+  "note": null,
+  "audioUrl": null
+ }
+]

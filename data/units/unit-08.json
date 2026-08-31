@@ -369,6 +369,10 @@
    {
     "en": "Some diseases are caused by a defective gene.",
     "zh": "一些疾病的產生原因是基因缺陷。"
+   },
+   {
+    "en": "The clock is defective.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -385,11 +389,24 @@
   "id": "w0291",
   "unit": 8,
   "headword": "ice cream",
-  "ipa": null,
+  "ipa": "aɪs krim",
   "pos": null,
   "defsZh": "冰淇淋\n[化] 冰淇淋",
   "forms": null,
-  "examples": [],
+  "examples": [
+   {
+    "en": "I love ice cream.",
+    "zh": null
+   },
+   {
+    "en": "I do like ice cream.",
+    "zh": null
+   },
+   {
+    "en": "She likes ice cream.",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -598,6 +615,10 @@
    {
     "en": "The Nobel Prize is awarded annually on December 10, the day of Alfred Nobel's death.",
     "zh": "諾貝爾獎在每年的十二月十日頒發，是Alfred Nobel去世的那天。"
+   },
+   {
+    "en": "We talk about him annually.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -829,6 +850,10 @@
    {
     "en": "I don't remember my grandmother's face accurately.",
     "zh": "我記不清奶奶的臉。"
+   },
+   {
+    "en": "Answer accurately in one go.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -935,6 +960,10 @@
    {
     "en": "The suspect told a lie to the inspector.",
     "zh": "那嫌疑犯對偵察官撒了個謊。"
+   },
+   {
+    "en": "He is an inspector.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -971,6 +1000,10 @@
    {
     "en": "Tomorrow we will welcome the first intern.",
     "zh": "明天我們將迎來第一個實習生。"
+   },
+   {
+    "en": "Tom is an intern.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1032,6 +1065,14 @@
    {
     "en": "Do not make any modifications before you get confirmations.",
     "zh": "在得到確認之前不要進行任何修改。"
+   },
+   {
+    "en": "I had the confirmation.",
+    "zh": null
+   },
+   {
+    "en": "The confirmation came out.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1246,6 +1287,10 @@
    {
     "en": "Can I have a discount voucher?",
     "zh": "可以給我優惠券嗎？"
+   },
+   {
+    "en": "Do you have a voucher?",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1382,6 +1427,14 @@
    {
     "en": "Being challenged in life is inevitable, being defeated is optional.",
     "zh": "生命中你無法選擇接踵而至的挑戰，但是你可以選擇不成為一個失敗者。"
+   },
+   {
+    "en": "Wearing green is optional.",
+    "zh": null
+   },
+   {
+    "en": "Sideburns are not optional.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -1407,6 +1460,14 @@
    {
     "en": "He never brings the paycheck home.",
     "zh": "他從不把工資帶回家。"
+   },
+   {
+    "en": "I need my paycheck.",
+    "zh": null
+   },
+   {
+    "en": "Sami got a paycheck.",
+    "zh": null
    }
   ],
   "synonyms": null,

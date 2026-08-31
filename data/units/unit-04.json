@@ -145,6 +145,10 @@
    {
     "en": "My neighbor renovated her house completely.",
     "zh": "我的鄰居把她的屋子翻新了一遍。"
+   },
+   {
+    "en": "We renovated a house.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -254,6 +258,10 @@
    {
     "en": "Would the girls please bring the donation boxes up to the stage?",
     "zh": "我們請女孩帶著募捐箱來到舞臺。"
+   },
+   {
+    "en": "Please make a donation.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -281,6 +289,14 @@
    {
     "en": "The company welcomes feedback from consumers who use their products.",
     "zh": "公司歡迎消費者對他們產品的反饋"
+   },
+   {
+    "en": "I want your feedback.",
+    "zh": null
+   },
+   {
+    "en": "Do you want feedback?",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -565,6 +581,14 @@
    {
     "en": "Korea allowed an inspection by the IAEA.",
     "zh": "韓國允許了國際原子能總署的視察。"
+   },
+   {
+    "en": "Our inspection is done.",
+    "zh": null
+   },
+   {
+    "en": "I carried out an inspection.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -593,6 +617,14 @@
    {
     "en": "Don't flip-flop the addresses of the sender and recipient!",
     "zh": "不要把寄件人、收件人地址的姓名填反了！"
+   },
+   {
+    "en": "The recipient is unknown.",
+    "zh": null
+   },
+   {
+    "en": "Do you know the recipient?",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -701,6 +733,10 @@
    {
     "en": "Sami has just been to the mechanic.",
     "zh": "薩米剛去找了技工。"
+   },
+   {
+    "en": "I am a mechanic.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -734,6 +770,10 @@
    {
     "en": "The office has been topsy-turvy since the merger upset everything.",
     "zh": "自從公司合併了以後，一切都變得十分混亂。"
+   },
+   {
+    "en": "There will be no merger.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -874,6 +914,14 @@
    {
     "en": "You should rewrite this sentence.",
     "zh": "你應該重寫這句話。"
+   },
+   {
+    "en": "I rewrote my report.",
+    "zh": null
+   },
+   {
+    "en": "She rewrote the poem.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -903,6 +951,14 @@
    {
     "en": "Everyone agrees to stay here for the night and make long-term itinerary decisions tomorrow.",
     "zh": "大家同意先在這裡住一晚，行程的事情明天再從長計議。"
+   },
+   {
+    "en": "I'll need your itinerary.",
+    "zh": null
+   },
+   {
+    "en": "Did you get my itinerary?",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -919,7 +975,7 @@
   "id": "w0147",
   "unit": 4,
   "headword": "workplace",
-  "ipa": null,
+  "ipa": "ˈwərkˌpleɪs",
   "pos": [
    "n"
   ],
@@ -935,6 +991,10 @@
    {
     "en": "It's normal to experience workplace crushes, but remember to stay professional.",
     "zh": "在職場中對某人產生好感是很正常的，但記得要保持專業形象。"
+   },
+   {
+    "en": "Your workplace is toxic.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1037,6 +1097,10 @@
    {
     "en": "If he were a little younger, he would be eligible for the post.",
     "zh": "如果他年輕一點，他將很適合這個職位。"
+   },
+   {
+    "en": "I'm eligible to vote now.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -1170,6 +1234,14 @@
    {
     "en": "These containers are airtight.",
     "zh": "這些容器是密封的。"
+   },
+   {
+    "en": "The container is full.",
+    "zh": null
+   },
+   {
+    "en": "The container is empty.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -1230,6 +1302,14 @@
    {
     "en": "The air conditioner in the lab is broken.",
     "zh": "實驗室裡的空調壞了。"
+   },
+   {
+    "en": "Go into the lab.",
+    "zh": null
+   },
+   {
+    "en": "The lab is empty.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1257,6 +1337,14 @@
    {
     "en": "We have the alternative of death and submission.",
     "zh": "我們要選擇是死亡還是臣服。"
+   },
+   {
+    "en": "He was beaten into submission.",
+    "zh": null
+   },
+   {
+    "en": "Islam is submission to one god.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1331,6 +1419,10 @@
    {
     "en": "Please attach a certificate of quality.",
     "zh": "請附上質量證明書。"
+   },
+   {
+    "en": "Mennad got his certificate.",
+    "zh": null
    }
   ],
   "synonyms": [

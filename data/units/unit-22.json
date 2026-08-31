@@ -1,0 +1,1525 @@
+[
+ {
+  "id": "w0841",
+  "unit": 22,
+  "headword": "sticker",
+  "ipa": "'stikә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 屠夫, 尖刀, 刺, 芒, 尖物, 攜帶尖刀者, 張貼物, 滯銷品, (非正式)難題\n[經] 呆滯商品",
+  "forms": {
+   "plural": "stickers"
+  },
+  "examples": [
+   {
+    "en": "Chia-ling said her grandma knows how to use LINE now. She sends stickers every day.",
+    "zh": "佳玲說她阿嬤會用 LINE 了，還每天傳貼圖。"
+   },
+   {
+    "en": "I removed the sticker.",
+    "zh": null
+   },
+   {
+    "en": "I took the sticker off.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "spine",
+   "thorn",
+   "prickle",
+   "pricker",
+   "spikelet"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a small sharp-pointed tip resembling a spike on a stem or leaf",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0842",
+  "unit": 22,
+  "headword": "telecommunication",
+  "ipa": "'telikәmju:ni'keiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 電訊, 遠距離通訊, 無線電通訊\n[計] 遠端通訊, 電信",
+  "forms": {
+   "plural": "telecommunications"
+  },
+  "examples": [
+   {
+    "en": "I work in telecommunications.",
+    "zh": null
+   },
+   {
+    "en": "He works for a telecommunications company.",
+    "zh": null
+   },
+   {
+    "en": "Mobilis is an Algerian telecommunications company.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "telecom"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(often plural) systems used in transmitting messages over a distance electronically",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0843",
+  "unit": 22,
+  "headword": "timely",
+  "ipa": "'taili",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "defsZh": "a. 及時的, 適時的\nadv. 及時地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "A timely snow promises a good harvest.",
+    "zh": "瑞雪兆豐年。"
+   },
+   {
+    "en": "Your proposal is timely.",
+    "zh": null
+   },
+   {
+    "en": "I need a timely response.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "seasonable",
+   "well-timed",
+   "seasonably",
+   "apropos"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "before a time limit expires",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0844",
+  "unit": 22,
+  "headword": "uncomfortable",
+  "ipa": ".ʌn'kʌmfәtәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不舒服的, 不自在的, 不安的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "It's very uncomfortable.",
+    "zh": "真讓人不舒服。"
+   },
+   {
+    "en": "This chair is uncomfortable.",
+    "zh": "這個椅子坐著不舒服。"
+   },
+   {
+    "en": "Where do you feel uncomfortable?",
+    "zh": "你哪兒不舒服？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "comfortable"
+  ],
+  "phrases": null,
+  "defsEn": "conducive to or feeling mental discomfort",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0845",
+  "unit": 22,
+  "headword": "amenity",
+  "ipa": "ә'mi:niti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 便利設施, 適意, 禮儀\n[法] 舒適, 方便, 優雅",
+  "forms": {
+   "plural": "amenities"
+  },
+  "examples": [
+   {
+    "en": "This airport lacks amenities.",
+    "zh": null
+   },
+   {
+    "en": "Jail noticeably lacks the basic amenities.",
+    "zh": null
+   },
+   {
+    "en": "The health spa was the hotel’s primary amenity.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "agreeableness"
+  ],
+  "antonyms": [
+   "disagreeableness"
+  ],
+  "phrases": null,
+  "defsEn": "pleasantness resulting from agreeable conditions",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0846",
+  "unit": 22,
+  "headword": "approximate",
+  "ipa": "ә'prɒksimәt",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "defsZh": "a. 大約的, 接近的, 近似的\nvt. 接近, 使接近, 粗略估計\nvi. 接近於",
+  "forms": {
+   "ing": "approximating",
+   "thirdSg": "approximates",
+   "pp": "approximated",
+   "past": "approximated"
+  },
+  "examples": [
+   {
+    "en": "This is all very approximate.",
+    "zh": "這一切都非常近似。"
+   },
+   {
+    "en": "The story approximates to historical truth.",
+    "zh": "故事與歷史真相接近。"
+   },
+   {
+    "en": "All numbers are approximate.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "estimate",
+   "gauge",
+   "guess",
+   "judge",
+   "approximative"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "be close or similar",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0847",
+  "unit": 22,
+  "headword": "await",
+  "ipa": "ә'weit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 等候\nvi. 等待著",
+  "forms": {
+   "ing": "awaiting",
+   "thirdSg": "awaits",
+   "past": "awaited",
+   "pp": "awaited"
+  },
+  "examples": [
+   {
+    "en": "I await updates.",
+    "zh": "我等待更新。"
+   },
+   {
+    "en": "What punishment awaits him?",
+    "zh": "他將面臨什麼樣的懲罰？"
+   },
+   {
+    "en": "No one knew what awaited us.",
+    "zh": "沒人知道等待我們的是什麼。"
+   }
+  ],
+  "synonyms": [
+   "expect",
+   "look",
+   "wait"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "look forward to the probable occurrence of",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0848",
+  "unit": 22,
+  "headword": "barbecue",
+  "ipa": "'bɑ:bikju:",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 烤肉\nvt. 烤肉, 燒烤",
+  "forms": {
+   "plural": "barbecues",
+   "thirdSg": "barbecues",
+   "pp": "barbecued",
+   "ing": "barbecuing",
+   "past": "barbecued"
+  },
+  "examples": [
+   {
+    "en": "I love barbecue.",
+    "zh": "我喜歡燒烤食物。"
+   },
+   {
+    "en": "Barbecuing is forbidden here.",
+    "zh": "此處禁止烤肉。"
+   },
+   {
+    "en": "We'll have a barbecue at the beach.",
+    "zh": "我們要在海邊烤肉。"
+   }
+  ],
+  "synonyms": [
+   "barbeque"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "meat that has been barbecued or grilled in a highly seasoned sauce",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0849",
+  "unit": 22,
+  "headword": "beginner",
+  "ipa": "bi'ginә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 初學者",
+  "forms": {
+   "plural": "beginners"
+  },
+  "examples": [
+   {
+    "en": "I'm still a beginner.",
+    "zh": "我還是個新手。"
+   },
+   {
+    "en": "This book is a good guide for beginners.",
+    "zh": "這本書對新手來說是一本很好的手冊。"
+   },
+   {
+    "en": "Tom's a beginner, but he catches on fast.",
+    "zh": "湯姆是個初學者，但他趕上得很快。"
+   }
+  ],
+  "synonyms": [
+   "novice",
+   "tyro",
+   "tiro",
+   "initiate",
+   "founder"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone new to a field or activity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0850",
+  "unit": 22,
+  "headword": "biology",
+  "ipa": "bai'ɒlәdʒi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 生物學\n[化] 生物; 生物學",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I never liked biology.",
+    "zh": "我從來沒喜歡過生物學。"
+   },
+   {
+    "en": "I teach biology and French.",
+    "zh": "我教生物和法語。"
+   },
+   {
+    "en": "He cheated on the biology exam.",
+    "zh": "他在生物學考試時作弊。"
+   }
+  ],
+  "synonyms": [
+   "biota"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the science that studies living organisms",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0851",
+  "unit": 22,
+  "headword": "blanket",
+  "ipa": "'blæŋkit",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "defsZh": "n. 毛毯, 毯子\nvt. 掩蓋, 覆蓋\na. 總共的",
+  "forms": {
+   "plural": "blankets",
+   "pp": "blanketed",
+   "past": "blanketed",
+   "ing": "blanketing",
+   "thirdSg": "blankets"
+  },
+  "examples": [
+   {
+    "en": "The blanket is still wet.",
+    "zh": "這個毯子還是溼的。"
+   },
+   {
+    "en": "Please give me a blanket.",
+    "zh": "請給我送一塊毯子。"
+   },
+   {
+    "en": "Do you have a woollen blanket?",
+    "zh": "你有毛毯嗎？"
+   }
+  ],
+  "synonyms": [
+   "cover",
+   "mantle"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "bedding that keeps a person warm in bed",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0852",
+  "unit": 22,
+  "headword": "chairperson",
+  "ipa": "'tʃeәp\\\\\\\\:s(e)n",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 主席",
+  "forms": {
+   "plural": "chairpersons"
+  },
+  "examples": [
+   {
+    "en": "We elected her chairperson.",
+    "zh": "我們選她為主席。"
+   },
+   {
+    "en": "Mike was elected chairperson.",
+    "zh": "邁克當選為主席。"
+   },
+   {
+    "en": "She was appointed chairperson.",
+    "zh": "她被任命為主席。"
+   }
+  ],
+  "synonyms": [
+   "president",
+   "chairman",
+   "chairwoman",
+   "chair"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the officer who presides at the meetings of an organization",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0853",
+  "unit": 22,
+  "headword": "charitable",
+  "ipa": "'tʃæritәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 大慈大悲的, 寬厚的, 慈善的\n[法] 慈善的, 慷慨的, 寬恕的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Be charitable to the poor!",
+    "zh": null
+   },
+   {
+    "en": "You're so charitable today!",
+    "zh": null
+   },
+   {
+    "en": "The revenues go to a charitable foundation.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "benevolent",
+   "kindly",
+   "sympathetic",
+   "good-hearted",
+   "openhearted"
+  ],
+  "antonyms": [
+   "uncharitable"
+  ],
+  "phrases": null,
+  "defsEn": "relating to or characterized by charity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0854",
+  "unit": 22,
+  "headword": "checkup",
+  "ipa": "'tʃekʌp",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 審查, 鑑定, 健康檢查",
+  "forms": {
+   "plural": "checkups"
+  },
+  "examples": [
+   {
+    "en": "The doctor was giving a patient a checkup.",
+    "zh": "醫生在給病人看病。"
+   },
+   {
+    "en": "I had a checkup.",
+    "zh": null
+   },
+   {
+    "en": "I got a checkup.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "medical"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0855",
+  "unit": 22,
+  "headword": "cooler",
+  "ipa": "'ku:lә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 冷卻器\n[化] 冷卻器",
+  "forms": {
+   "plural": "coolers"
+  },
+  "examples": [
+   {
+    "en": "It is getting cooler and cooler.",
+    "zh": "最近的天氣愈來愈涼爽了。"
+   },
+   {
+    "en": "Year by year, summer becomes warmer and winter becomes cooler.",
+    "zh": "夏天一年比一年熱，冬天一年比一年冷。"
+   },
+   {
+    "en": "I'm cooler than her.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "tank"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a refrigerator for cooling liquids",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0856",
+  "unit": 22,
+  "headword": "crane",
+  "ipa": "krein",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 鶴, 起重機\nvt. 伸頸, 起重機起吊\nvi. 伸頸看, 遲疑",
+  "forms": {
+   "plural": "cranes",
+   "past": "craned",
+   "ing": "craning",
+   "pp": "craned",
+   "thirdSg": "cranes"
+  },
+  "examples": [
+   {
+    "en": "Tom craned his neck in every direction.",
+    "zh": "湯姆伸長脖子四處張望。"
+   },
+   {
+    "en": "The crane, unlike the dog, has never dreamed of flying.",
+    "zh": "不像狗, 這隻鶴從來沒有夢想過飛翔。"
+   },
+   {
+    "en": "Teach me how to fold a paper crane. I forgot how to fold it.",
+    "zh": "教我怎麼摺紙鶴吧。我忘記怎麼折了。"
+   }
+  ],
+  "synonyms": [
+   "Grus"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "United States writer (1871-1900)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0857",
+  "unit": 22,
+  "headword": "dealership",
+  "ipa": "'di:lәʃip",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 代理權, 經銷權\n[法] 商品經銷特許權, 代理商",
+  "forms": {
+   "plural": "dealerships"
+  },
+  "examples": [
+   {
+    "en": "Tom owns a car dealership.",
+    "zh": null
+   },
+   {
+    "en": "Bill works in a car dealership.",
+    "zh": null
+   },
+   {
+    "en": "Sami worked at that car dealership.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "franchise"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a business established or operated under an authorization to sell or distribute a company's goods or services in a particular area",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0858",
+  "unit": 22,
+  "headword": "dependable",
+  "ipa": "di'pendәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 可信任的, 可靠的, 可信賴的",
+  "forms": {
+   "plural": "dependables"
+  },
+  "examples": [
+   {
+    "en": "I wonder if Tom and Mary are dependable.",
+    "zh": "我想知道湯姆和瑪麗可不可靠。"
+   },
+   {
+    "en": "I wonder whether Tom and Mary are dependable.",
+    "zh": "我想知道湯姆和瑪麗可不可靠。"
+   },
+   {
+    "en": "Tom is very dependable.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "reliable",
+   "honest",
+   "true",
+   "rock-steady",
+   "steady-going"
+  ],
+  "antonyms": [
+   "unreliable",
+   "undependable"
+  ],
+  "phrases": null,
+  "defsEn": "worthy of reliance or trust",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0859",
+  "unit": 22,
+  "headword": "disconnect",
+  "ipa": ".diskә'nekt",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使分離, 使不相連, 拆開\nvi. 斷開\n[計] 斷開",
+  "forms": {
+   "pp": "disconnected",
+   "past": "disconnected",
+   "thirdSg": "disconnects",
+   "ing": "disconnecting"
+  },
+  "examples": [
+   {
+    "en": "Oh, I was disconnected.",
+    "zh": "哦，我掉線了。"
+   },
+   {
+    "en": "Ziri disconnected the TV.",
+    "zh": null
+   },
+   {
+    "en": "Yanni was so disconnected.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "gulf",
+   "disconnection",
+   "unplug"
+  ],
+  "antonyms": [
+   "plug in",
+   "connect"
+  ],
+  "phrases": null,
+  "defsEn": "an unbridgeable disparity (as from a failure of understanding)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0860",
+  "unit": 22,
+  "headword": "dispose",
+  "ipa": "dis'pәuz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 處理, 排列, 佈置\nvi. 處置",
+  "forms": {
+   "ing": "disposing",
+   "pp": "disposed",
+   "past": "disposed",
+   "thirdSg": "disposes"
+  },
+  "examples": [
+   {
+    "en": "Man proposes, God disposes.",
+    "zh": "謀事在人，成事在天。"
+   },
+   {
+    "en": "He disposed of the trash.",
+    "zh": null
+   },
+   {
+    "en": "We can dispose of the car.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "discard",
+   "fling",
+   "toss",
+   "incline"
+  ],
+  "antonyms": [
+   "indispose"
+  ],
+  "phrases": null,
+  "defsEn": "give, sell, or transfer to another",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0861",
+  "unit": 22,
+  "headword": "disrupt",
+  "ipa": "dis'rʌpt",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "defsZh": "a. 分裂的, 中斷的\nvt. 使分裂, 使瓦解",
+  "forms": {
+   "pp": "disrupted",
+   "ing": "disrupting",
+   "thirdSg": "disrupts",
+   "past": "disrupted"
+  },
+  "examples": [
+   {
+    "en": "Volcanic ash disrupted air travel.",
+    "zh": "火山灰阻礙航運。"
+   },
+   {
+    "en": "Don't eat too much and disrupt the stomach's normal digestion process.",
+    "zh": "不要因為吃得太多而擾亂胃的正常消化。"
+   },
+   {
+    "en": "At the meeting he monopolized the discussion and completely disrupted the proceeding.",
+    "zh": "在這次會議上, 他壟斷了討論並徹底打亂了議程。"
+   }
+  ],
+  "synonyms": [
+   "interrupt"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make a break in",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0862",
+  "unit": 22,
+  "headword": "dynamic",
+  "ipa": "dai'næmik",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 動態的, 有活力的, 有力的, 動力的, 不斷變化的\nn. 動力, 動態\n[計] 動態的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The dynamics are all wrong.",
+    "zh": null
+   },
+   {
+    "en": "Algeria is a dynamic country.",
+    "zh": null
+   },
+   {
+    "en": "Tom has a dynamic personality.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "dynamical"
+  ],
+  "antonyms": [
+   "undynamic"
+  ],
+  "phrases": null,
+  "defsEn": "an efficient incentive",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0863",
+  "unit": 22,
+  "headword": "enthusiastically",
+  "ipa": "in.θju:zi'æstikli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 熱心地, 狂熱地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He enthusiastically engaged himself in this honorable undertaking.",
+    "zh": "她熱忱地投身於這份光榮的事業。"
+   },
+   {
+    "en": "Tom did that enthusiastically.",
+    "zh": null
+   },
+   {
+    "en": "Tom did that very enthusiastically.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "sky-high"
+  ],
+  "antonyms": [
+   "unenthusiastically"
+  ],
+  "phrases": null,
+  "defsEn": "with enthusiasm; in an enthusiastic manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0864",
+  "unit": 22,
+  "headword": "freelance",
+  "ipa": "ˈfriˌlæns",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 自由作家, 自由投稿, 自由職業者\na. 自由投稿的",
+  "forms": {
+   "ing": "freelancing",
+   "plural": "freelances",
+   "pp": "freelanced",
+   "past": "freelanced",
+   "thirdSg": "freelances"
+  },
+  "examples": [
+   {
+    "en": "Tom is a freelance writer.",
+    "zh": null
+   },
+   {
+    "en": "I'd like to be a freelance.",
+    "zh": null
+   },
+   {
+    "en": "Mary is a freelance writer.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "freelancer",
+   "free-lance",
+   "independent",
+   "self-employed"
+  ],
+  "antonyms": [
+   "salaried"
+  ],
+  "phrases": null,
+  "defsEn": "a writer or artist who sells services to different employers without a long-term contract with any of them",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0865",
+  "unit": 22,
+  "headword": "grill",
+  "ipa": "gril",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 烤架, 鐵格子, 烤肉\nv. 燒, 烤, 嚴加盤問, 給...裝柵欄",
+  "forms": {
+   "ing": "grilling",
+   "plural": "grills",
+   "pp": "grilled",
+   "past": "grilled",
+   "thirdSg": "grills"
+  },
+  "examples": [
+   {
+    "en": "I like eating grilled lamb skewers.",
+    "zh": "我喜歡吃烤羊肉串。"
+   },
+   {
+    "en": "The grill is hot.",
+    "zh": null
+   },
+   {
+    "en": "I am grilling fish.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "grillroom",
+   "grille",
+   "grillwork"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a restaurant where food is cooked on a grill",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0866",
+  "unit": 22,
+  "headword": "habitual",
+  "ipa": "hә'hitʃuәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 習慣的, 慣常的, 平常的\n[法] 習慣的, 以習慣為常業的, 慣常的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom is a habitual liar.",
+    "zh": null
+   },
+   {
+    "en": "Sami was a habitual cheater.",
+    "zh": null
+   },
+   {
+    "en": "He was fired for his habitual lateness.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "accustomed",
+   "customary",
+   "wonted"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "commonly used or practiced; usual",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0867",
+  "unit": 22,
+  "headword": "internationally",
+  "ipa": ".intә'næʃәnәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 國際性地, 在國際間",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Gandhi is internationally famous.",
+    "zh": null
+   },
+   {
+    "en": "Algeria is trading internationally.",
+    "zh": null
+   },
+   {
+    "en": "This author is internationally known.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "throughout the world",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0868",
+  "unit": 22,
+  "headword": "invaluable",
+  "ipa": "in'væljuәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 無價的, 價值無法衡量的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "His help has been invaluable.",
+    "zh": "他的援助真是雪中送炭。"
+   },
+   {
+    "en": "The Internet is an invaluable source of information.",
+    "zh": "網際網路是一種無法估量的資訊資源。"
+   },
+   {
+    "en": "This benefit is invaluable.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "priceless"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "having incalculable monetary, intellectual, or spiritual worth",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0869",
+  "unit": 22,
+  "headword": "messenger",
+  "ipa": "'mesindʒә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 報信者, 使者\n[經] 使者, 送信者, 通訊員",
+  "forms": {
+   "plural": "messengers"
+  },
+  "examples": [
+   {
+    "en": "She is the messenger.",
+    "zh": null
+   },
+   {
+    "en": "I'm just a messenger.",
+    "zh": null
+   },
+   {
+    "en": "I'm just the messenger.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "courier"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who carries a message",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0870",
+  "unit": 22,
+  "headword": "paperback",
+  "ipa": "'peipәbæk",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 平裝本, 紙面本",
+  "forms": {
+   "plural": "paperbacks",
+   "past": "paperbacked"
+  },
+  "examples": [
+   {
+    "en": "You prefer a paperback edition.",
+    "zh": null
+   },
+   {
+    "en": "Tom only reads paperback novels.",
+    "zh": null
+   },
+   {
+    "en": "The novel appeared in paperback.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "softback",
+   "soft-cover",
+   "paperbacked"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a book with paper covers",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0871",
+  "unit": 22,
+  "headword": "rebate",
+  "ipa": "ri'beit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 部分退款, 折扣\nvt. 退還, 打折扣\nvi. 退還部分付款",
+  "forms": {
+   "plural": "rebates",
+   "ing": "rebating",
+   "past": "rebated",
+   "pp": "rebated",
+   "thirdSg": "rebates"
+  },
+  "examples": [
+   {
+    "en": "He gave me a ten thousand yen rebate.",
+    "zh": null
+   },
+   {
+    "en": "My cat ate a part of the rebate check.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "discount",
+   "rabbet"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a refund of some fraction of the amount paid",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0872",
+  "unit": 22,
+  "headword": "recur",
+  "ipa": "ri'kә:",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 復發, 回到, 重現, 再來, 訴諸, 採用, 迴圈",
+  "forms": {
+   "thirdSg": "recurs",
+   "past": "recurred",
+   "ing": "recurring",
+   "pp": "recurred"
+  },
+  "examples": [
+   {
+    "en": "Did you ever have a recurring dream?",
+    "zh": "你有過一個你會重複做的夢嗎？"
+   },
+   {
+    "en": "This is a recurring problem.",
+    "zh": null
+   },
+   {
+    "en": "I have a recurring nightmare.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "repeat",
+   "resort"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "happen or occur again",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0873",
+  "unit": 22,
+  "headword": "reproduce",
+  "ipa": ".ri:prә'dju:s",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 繁殖, 再生, 複製, 生殖\n[計] 複製",
+  "forms": {
+   "pp": "reproduced",
+   "ing": "reproducing",
+   "thirdSg": "reproduces",
+   "past": "reproduced"
+  },
+  "examples": [
+   {
+    "en": "They can reproduce like mice.",
+    "zh": null
+   },
+   {
+    "en": "Bacteria reproduce by fission.",
+    "zh": null
+   },
+   {
+    "en": "Cancer cells reproduce quickly.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "procreate",
+   "multiply"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make a copy or equivalent of",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0874",
+  "unit": 22,
+  "headword": "spray",
+  "ipa": "sprei",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 水沫, 浪花, 水花, 噴霧, 噴霧器, 小樹枝\nvt. 噴霧, 掃射, 噴射\nvi. 噴, 濺開",
+  "forms": {
+   "pp": "sprayed",
+   "plural": "sprays",
+   "ing": "spraying",
+   "past": "sprayed",
+   "thirdSg": "sprays"
+  },
+  "examples": [
+   {
+    "en": "Mary carries pepper spray in her purse.",
+    "zh": "瑪麗的包裡有辣椒噴霧。"
+   },
+   {
+    "en": "Buy some bear spray.",
+    "zh": null
+   },
+   {
+    "en": "Does bear spray work?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "spraying"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a pesticide in suspension or solution; intended for spraying",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0875",
+  "unit": 22,
+  "headword": "staple",
+  "ipa": "'steipl",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "defsZh": "n. 主要產物, 常用品, 主要要素, 原料, 訂書釘, 鉤環\na. 主要的, 重要的\nvt. 分級, 釘住",
+  "forms": {
+   "plural": "staples",
+   "past": "stapled",
+   "pp": "stapled",
+   "ing": "stapling",
+   "thirdSg": "staples"
+  },
+  "examples": [
+   {
+    "en": "Bread is a staple food.",
+    "zh": null
+   },
+   {
+    "en": "Bacon is a breakfast staple.",
+    "zh": null
+   },
+   {
+    "en": "Couscous is the local staple.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "basic"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(usually plural) a necessary commodity for which demand is constant",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0876",
+  "unit": 22,
+  "headword": "strategic",
+  "ipa": "strә'ti:dʒik",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 戰略的, 戰略上的\n[經] 戰略的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This project offers strategic advantages for Algeria.",
+    "zh": "這項專案給阿爾及利亞帶來策略性優勢。"
+   },
+   {
+    "en": "Tom made a strategic error.",
+    "zh": null
+   },
+   {
+    "en": "Algeria is of strategic value.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "strategical"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "relating to or concerned with strategy",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0877",
+  "unit": 22,
+  "headword": "stripe",
+  "ipa": "straip",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 斑紋, 條紋\n[醫] 紋, 條紋",
+  "forms": {
+   "plural": "stripes",
+   "pp": "striped",
+   "ing": "striping",
+   "past": "striped",
+   "thirdSg": "stripes"
+  },
+  "examples": [
+   {
+    "en": "The stripes were horizontal.",
+    "zh": "條紋是水平的。"
+   },
+   {
+    "en": "Zebra shadows don't have stripes.",
+    "zh": "斑馬的影子沒有條紋。"
+   },
+   {
+    "en": "I would like to try the blue striped skirt.",
+    "zh": "我想試一下那條藍色條紋裙。"
+   }
+  ],
+  "synonyms": [
+   "band",
+   "banding",
+   "chevron",
+   "stripes"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an adornment consisting of a strip of a contrasting color or material",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0878",
+  "unit": 22,
+  "headword": "teen",
+  "ipa": "ti:n",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 憤怒, 悲哀",
+  "forms": {
+   "plural": "teens"
+  },
+  "examples": [
+   {
+    "en": "She got married in her teens.",
+    "zh": "她十幾歲時就結婚了。"
+   },
+   {
+    "en": "My daughter is in her late teens.",
+    "zh": "我的女兒快二十歲了。"
+   },
+   {
+    "en": "My sister got married in her teens.",
+    "zh": "我妹妹在她十幾歲時就結婚。"
+   }
+  ],
+  "synonyms": [
+   "adolescent",
+   "stripling",
+   "teenager",
+   "teenage",
+   "teenaged"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a juvenile between the onset of puberty and maturity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0879",
+  "unit": 22,
+  "headword": "tempt",
+  "ipa": "tempt",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 誘惑, 引誘, 引起...的興趣, 吸引, 冒...風險",
+  "forms": {
+   "pp": "tempted",
+   "past": "tempted",
+   "thirdSg": "tempts",
+   "ing": "tempting"
+  },
+  "examples": [
+   {
+    "en": "The snake tempted Eve.",
+    "zh": "蛇誘惑了夏娃。"
+   },
+   {
+    "en": "The serpent tempted Eve.",
+    "zh": "蛇誘惑了夏娃。"
+   },
+   {
+    "en": "That sounds very tempting.",
+    "zh": "聽起來很誘人"
+   }
+  ],
+  "synonyms": [
+   "allure",
+   "entice",
+   "lure",
+   "invite"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "dispose or incline or entice to",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0880",
+  "unit": 22,
+  "headword": "timer",
+  "ipa": "'taimә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 計時員, 計時器\n[計] 計時器",
+  "forms": {
+   "plural": "timers"
+  },
+  "examples": [
+   {
+    "en": "Small timers can also create history.",
+    "zh": "小人物同樣可以創造歷史。"
+   },
+   {
+    "en": "The button battery in the PC's internal timer has gone flat.",
+    "zh": "電腦內部計時器內的紐扣電池沒電了。"
+   },
+   {
+    "en": "I set the timer.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "timekeeper"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a timepiece that measures a time interval and signals its end",
+  "note": null,
+  "audioUrl": null
+ }
+]

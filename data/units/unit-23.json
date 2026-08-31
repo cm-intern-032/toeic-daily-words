@@ -1,0 +1,1486 @@
+[
+ {
+  "id": "w0881",
+  "unit": 23,
+  "headword": "unload",
+  "ipa": ".ʌn'lәud",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 卸貨\nvt. 從...卸下, 擺脫...之負擔, 傾銷, 卸(貨)\n[計] 解除安裝",
+  "forms": {
+   "pp": "unloaded",
+   "ing": "unloading",
+   "past": "unloaded",
+   "thirdSg": "unloads"
+  },
+  "examples": [
+   {
+    "en": "I unloaded the car.",
+    "zh": null
+   },
+   {
+    "en": "He unloaded the car.",
+    "zh": null
+   },
+   {
+    "en": "I'll unload the car.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "drop",
+   "discharge",
+   "unlade",
+   "offload"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "leave or unload",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0882",
+  "unit": 23,
+  "headword": "unusually",
+  "ipa": "ʌn'ju:ʒәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 不尋常地, 異乎尋常地, (非正式)非常",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The weather is unusually cold.",
+    "zh": "天氣非常寒冷。"
+   },
+   {
+    "en": "It's unusually warm today.",
+    "zh": null
+   },
+   {
+    "en": "Winter was unusually mild.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "remarkably",
+   "outstandingly",
+   "unco"
+  ],
+  "antonyms": [
+   "unremarkably"
+  ],
+  "phrases": null,
+  "defsEn": "to a remarkable degree or extent",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0883",
+  "unit": 23,
+  "headword": "vacate",
+  "ipa": "vә'keit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt.vi. 使空出, 搬出, 騰出, 不再使用/居住, 解除(職位), 撤離(陣地), 辭職, 退位\nvt. 取消, 使作廢",
+  "forms": {
+   "pp": "vacated",
+   "past": "vacated",
+   "ing": "vacating",
+   "thirdSg": "vacates"
+  },
+  "examples": [
+   {
+    "en": "He vacated the lease.",
+    "zh": null
+   },
+   {
+    "en": "Ziri vacated the lease.",
+    "zh": null
+   },
+   {
+    "en": "Yanni vacated the lease.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "resign",
+   "renounce",
+   "empty",
+   "abandon",
+   "revoke"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "leave (a job, post, or position) voluntarily",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0884",
+  "unit": 23,
+  "headword": "whale",
+  "ipa": "hweil",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 鯨\nvi. 捕鯨\nvt. 使慘敗, 猛揍",
+  "forms": {
+   "plural": "whales",
+   "ing": "whaling",
+   "past": "whaled",
+   "thirdSg": "whales",
+   "pp": "whaled"
+  },
+  "examples": [
+   {
+    "en": "A whale is a mammal.",
+    "zh": "鯨魚是哺乳動物。"
+   },
+   {
+    "en": "Did you ever see a whale?",
+    "zh": "你見過鯨魚嗎？"
+   },
+   {
+    "en": "I never saw so big a whale.",
+    "zh": "我從沒見過一條那麼大的鯨魚。"
+   }
+  ],
+  "synonyms": [
+   "giant",
+   "hulk",
+   "heavyweight"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a very large person; impressive in size or qualities",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0885",
+  "unit": 23,
+  "headword": "wisely",
+  "ipa": "'waizli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 聰明地, 精明地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He has acted wisely.",
+    "zh": null
+   },
+   {
+    "en": "Tom has acted wisely.",
+    "zh": null
+   },
+   {
+    "en": "Use your time wisely.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "sagely"
+  ],
+  "antonyms": [
+   "foolishly"
+  ],
+  "phrases": null,
+  "defsEn": "in a wise manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0886",
+  "unit": 23,
+  "headword": "amateur",
+  "ipa": "'æmәtә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 業餘愛好者, 外行, 愛好者\n[電] 業餘家",
+  "forms": {
+   "plural": "amateurs"
+  },
+  "examples": [
+   {
+    "en": "I was still an amateur at that time.",
+    "zh": "我那時還是個外行。"
+   },
+   {
+    "en": "My uncle is an amateur cricket player.",
+    "zh": "我的舅舅愛好打板球。"
+   },
+   {
+    "en": "Amateurs talk strategy, professionals talk logistics.",
+    "zh": "外行談策略，內行談後勤。"
+   }
+  ],
+  "synonyms": [
+   "recreational",
+   "unpaid"
+  ],
+  "antonyms": [
+   "professional"
+  ],
+  "phrases": null,
+  "defsEn": "someone who pursues a study or sport as a pastime",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0887",
+  "unit": 23,
+  "headword": "ambassador",
+  "ipa": "æm'bæsәdә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 大使\n[法] 大使, 使節, 代理",
+  "forms": {
+   "plural": "ambassadors"
+  },
+  "examples": [
+   {
+    "en": "I talked with the Polish ambassador.",
+    "zh": "我和波蘭大使說了話。"
+   },
+   {
+    "en": "He was appointed ambassador to Britain.",
+    "zh": "他被任命為駐英國大使。"
+   },
+   {
+    "en": "The ambassador was recalled from Warsaw.",
+    "zh": "大使被從華沙召回。"
+   }
+  ],
+  "synonyms": [
+   "embassador"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a diplomat of the highest rank; accredited as representative from one country to another",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0888",
+  "unit": 23,
+  "headword": "anew",
+  "ipa": "ә'nju:",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 重新, 再",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I will begin anew.",
+    "zh": null
+   },
+   {
+    "en": "Shall we start anew?",
+    "zh": null
+   },
+   {
+    "en": "I shall work anew tomorrow.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "afresh"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "again but in a new or different way",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0889",
+  "unit": 23,
+  "headword": "architectural",
+  "ipa": ".ɑ:ki'tektʃәrәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 有關建築的, 建築學的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He's an Algerian architectural historian.",
+    "zh": null
+   },
+   {
+    "en": "Algiers has a unique architectural heritage.",
+    "zh": null
+   },
+   {
+    "en": "This is one of Algeria's architectural marvels.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "of or pertaining to the art and science of architecture",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0890",
+  "unit": 23,
+  "headword": "attain",
+  "ipa": "ә'tein",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 達到, 獲得\nvi. 達到",
+  "forms": {
+   "pp": "attained",
+   "ing": "attaining",
+   "past": "attained",
+   "thirdSg": "attains"
+  },
+  "examples": [
+   {
+    "en": "They attained their goal.",
+    "zh": "他們達到了目的。"
+   },
+   {
+    "en": "Have you attained your goal?",
+    "zh": "你達成你的目標了嗎？"
+   },
+   {
+    "en": "At last he attained his goal.",
+    "zh": "他終於達到目標了。"
+   }
+  ],
+  "synonyms": [
+   "achieve",
+   "accomplish",
+   "reach",
+   "hit",
+   "strike"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "to gain with effort",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0891",
+  "unit": 23,
+  "headword": "balloon",
+  "ipa": "bә'lu:n",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 氣球\nvt. 使成氣球狀\nvi. 膨脹如氣球, 激增",
+  "forms": {
+   "plural": "balloons",
+   "past": "ballooned",
+   "ing": "ballooning",
+   "pp": "ballooned",
+   "thirdSg": "balloons"
+  },
+  "examples": [
+   {
+    "en": "Tom is inflating a balloon.",
+    "zh": "湯姆在吹氣球。"
+   },
+   {
+    "en": "The balloon was caught in the tree.",
+    "zh": "這顆氣球被樹絆住了。"
+   },
+   {
+    "en": "They sent up a balloon.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "large tough nonrigid bag filled with gas or heated air",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0892",
+  "unit": 23,
+  "headword": "blueprint",
+  "ipa": "'blu:'print",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 藍圖, 設計圖, (周詳的)計劃\nvt. 製成藍圖, 計劃",
+  "forms": {
+   "plural": "blueprints",
+   "past": "blueprinted",
+   "ing": "blueprinting",
+   "thirdSg": "blueprints",
+   "pp": "blueprinted"
+  },
+  "examples": [
+   {
+    "en": "He gave me a blueprint.",
+    "zh": null
+   },
+   {
+    "en": "I brought the blueprints.",
+    "zh": null
+   },
+   {
+    "en": "Did you see the blueprints?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "design",
+   "pattern",
+   "draft",
+   "draught"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "something intended as a guide for making something else",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0893",
+  "unit": 23,
+  "headword": "bug",
+  "ipa": "bʌg",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 錯誤, 蟲, 病菌, 缺陷, 竊聽器, 癖好, 防盜報警器, 雙座小汽車, 要人\nvt. 裝防盜報警器, 裝竊聽器, 激怒\nvi. 捉蟲, 暴突\n[計] 缺點, 錯誤",
+  "forms": {
+   "plural": "bugs",
+   "pp": "bugged",
+   "ing": "bugging",
+   "thirdSg": "bugs",
+   "past": "bugged"
+  },
+  "examples": [
+   {
+    "en": "You're a bug.",
+    "zh": "你是隻蟲。"
+   },
+   {
+    "en": "Don't bug me.",
+    "zh": "別來煩我。"
+   },
+   {
+    "en": "Stop bugging me!",
+    "zh": "別纏我了!"
+   }
+  ],
+  "synonyms": [
+   "glitch"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "general term for any insect or similar creeping or crawling invertebrate",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0894",
+  "unit": 23,
+  "headword": "cautious",
+  "ipa": "'kɒ:ʃәs",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 謹慎的, 小心的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "She's very cautious.",
+    "zh": "她很謹慎。"
+   },
+   {
+    "en": "You must be cautious.",
+    "zh": "您得小心。"
+   },
+   {
+    "en": "I am very cautious.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "timid",
+   "conservative"
+  ],
+  "antonyms": [
+   "brave",
+   "incautious"
+  ],
+  "phrases": null,
+  "defsEn": "people who are fearful and cautious",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0895",
+  "unit": 23,
+  "headword": "circuit",
+  "ipa": "'sә:kit",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 電路, 環(行)道, 巡迴\n[計] 線路; 電路",
+  "forms": {
+   "plural": "circuits",
+   "pp": "circuited",
+   "ing": "circuiting",
+   "past": "circuited",
+   "thirdSg": "circuits"
+  },
+  "examples": [
+   {
+    "en": "I spilled jam on the electric outlet and there was a short circuit.",
+    "zh": "我把果醬撒到電源插座上短路了。"
+   },
+   {
+    "en": "This circuit is live.",
+    "zh": null
+   },
+   {
+    "en": "Yanni used a circuit tester.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "tour"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an electrical device that provides a path for electrical current to flow",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0896",
+  "unit": 23,
+  "headword": "clap",
+  "ipa": "klæp",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 拍手, 拍手聲, 霹靂聲, 花柳病\nv. 鼓掌, (使)啪地關上",
+  "forms": {
+   "past": "clapped",
+   "ing": "clapping",
+   "pp": "clapped",
+   "thirdSg": "claps",
+   "plural": "claps"
+  },
+  "examples": [
+   {
+    "en": "I clapped my hands.",
+    "zh": "我拍手。"
+   },
+   {
+    "en": "Tom clapped his hands.",
+    "zh": "湯姆拍了手。"
+   },
+   {
+    "en": "Tom clapped his hands together.",
+    "zh": "湯姆拍了手。"
+   }
+  ],
+  "synonyms": [
+   "bang",
+   "eruption",
+   "blast",
+   "bam",
+   "gonorrhea"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a sudden very loud noise",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0897",
+  "unit": 23,
+  "headword": "commerce",
+  "ipa": "'kɒmә:s",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 商業, 商務, 貿易\n[經] 商業, 貿易, 商務",
+  "forms": null,
+  "examples": [
+   {
+    "en": "English is useful in commerce.",
+    "zh": "英語在商業中很有用。"
+   },
+   {
+    "en": "Osaka is the center of commerce in Japan.",
+    "zh": "大坂是日本的商業中心。"
+   },
+   {
+    "en": "Commerce helps our economy.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "commercialism",
+   "mercantilism",
+   "DoC"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "transactions (sales and purchases) having the objective of supplying commodities (goods and services)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0898",
+  "unit": 23,
+  "headword": "convey",
+  "ipa": "kәn'vei",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 傳達, 運輸, 轉讓\n[經] 轉讓(財產等), 搬運",
+  "forms": {
+   "pp": "conveyed",
+   "ing": "conveying",
+   "thirdSg": "conveys",
+   "past": "conveyed"
+  },
+  "examples": [
+   {
+    "en": "Wires are used to convey electricity.",
+    "zh": "電線被用來運送電力。"
+   },
+   {
+    "en": "His words convey nothing at all to me.",
+    "zh": "他的話對我來說沒有任何意義。"
+   },
+   {
+    "en": "I want to convey my sympathy.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "carry",
+   "express",
+   "transmit",
+   "communicate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make known; pass on, of information",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0899",
+  "unit": 23,
+  "headword": "cord",
+  "ipa": "kɒ:d",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 繩索, 束縛\n[醫] 索, 帶",
+  "forms": {
+   "plural": "cords",
+   "past": "corded",
+   "ing": "cording",
+   "thirdSg": "cords",
+   "pp": "corded"
+  },
+  "examples": [
+   {
+    "en": "He caught the cord.",
+    "zh": "他抓住了繩子。"
+   },
+   {
+    "en": "I need an extension cord.",
+    "zh": "我需要一條延長線。"
+   },
+   {
+    "en": "This extension cord is too short.",
+    "zh": "這條延長線太短了。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a line made of twisted fibers or threads",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0900",
+  "unit": 23,
+  "headword": "counselor",
+  "ipa": "'kaunsәlә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 顧問, 參事, 法律顧問",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The camp counselors are supposed to provide guidance and mentorship to the students.",
+    "zh": "營輔員應負責為學生提供指引和輔導。"
+   },
+   {
+    "en": "Tom is a counselor.",
+    "zh": null
+   },
+   {
+    "en": "Sami is a counselor.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "counsellor",
+   "advocate",
+   "counsel",
+   "counselor-at-law",
+   "pleader"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who gives advice about problems",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0901",
+  "unit": 23,
+  "headword": "debit",
+  "ipa": "'debit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 借方, 借\nvt. 記入借方",
+  "forms": {
+   "plural": "debits",
+   "pp": "debited",
+   "past": "debited",
+   "ing": "debiting",
+   "thirdSg": "debits"
+  },
+  "examples": [
+   {
+    "en": "I lost my debit card.",
+    "zh": null
+   },
+   {
+    "en": "Debit Mr Hill with $100.",
+    "zh": null
+   },
+   {
+    "en": "Do you take debit cards?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "credit"
+  ],
+  "phrases": null,
+  "defsEn": "an accounting entry acknowledging sums that are owing",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0902",
+  "unit": 23,
+  "headword": "delicate",
+  "ipa": "'delikәt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 細緻優雅的, 微妙的, 美味的\n[醫] 柔弱的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "That's a delicate matter.",
+    "zh": "那是個微妙的局勢。"
+   },
+   {
+    "en": "It's a delicate situation.",
+    "zh": "那是個微妙的局勢。"
+   },
+   {
+    "en": "It's a very delicate question.",
+    "zh": "這是條很微妙的問題。"
+   }
+  ],
+  "synonyms": [
+   "fragile",
+   "frail"
+  ],
+  "antonyms": [
+   "rugged"
+  ],
+  "phrases": null,
+  "defsEn": "exquisitely fine and subtle and pleasing; susceptible to injury",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0903",
+  "unit": 23,
+  "headword": "dependence",
+  "ipa": "di'pendәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 依賴, 依存, 信賴\n[醫] 依賴(如對藥物的依賴,即癮或癖), 從屬, 偏利共生",
+  "forms": {
+   "plural": "dependences"
+  },
+  "examples": [
+   {
+    "en": "Self-dependence is a good skill.",
+    "zh": null
+   },
+   {
+    "en": "Self-dependence is important in life.",
+    "zh": null
+   },
+   {
+    "en": "Games of chance can cause dependence.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "dependance",
+   "dependency",
+   "addiction",
+   "habituation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the state of relying on or being controlled by someone or something else",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0904",
+  "unit": 23,
+  "headword": "distraction",
+  "ipa": "dis'trækʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 娛樂, 分心的事物, 分心\n[醫] 注意力分散, 內脫位, 牙弓過寬",
+  "forms": {
+   "plural": "distractions"
+  },
+  "examples": [
+   {
+    "en": "I want a distraction.",
+    "zh": null
+   },
+   {
+    "en": "I need a distraction.",
+    "zh": null
+   },
+   {
+    "en": "We need a distraction.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "beguilement"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "mental turmoil",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0905",
+  "unit": 23,
+  "headword": "downsize",
+  "ipa": "daun'saiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 以較小尺寸設計；縮小尺寸；裁減人數",
+  "forms": {
+   "ing": "downsizing",
+   "pp": "downsized",
+   "past": "downsized"
+  },
+  "examples": [
+   {
+    "en": "It's time to begin downsizing.",
+    "zh": null
+   },
+   {
+    "en": "You should downsize the house.",
+    "zh": null
+   },
+   {
+    "en": "Sami helped companies downsize.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "dismiss from work",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0906",
+  "unit": 23,
+  "headword": "elephant",
+  "ipa": "'elifәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 象",
+  "forms": {
+   "plural": "elephants"
+  },
+  "examples": [
+   {
+    "en": "You like elephants.",
+    "zh": "你喜歡大象。"
+   },
+   {
+    "en": "God is an elephant.",
+    "zh": "神是大象。"
+   },
+   {
+    "en": "The elephant is big.",
+    "zh": "大象很大。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "five-toed pachyderm",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0907",
+  "unit": 23,
+  "headword": "enthusiasm",
+  "ipa": "in'θju:ziæzәm",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 巨大的熱情, 熱心",
+  "forms": {
+   "plural": "enthusiasms"
+  },
+  "examples": [
+   {
+    "en": "Enthusiasm is contagious.",
+    "zh": "熱情具有傳染性。"
+   },
+   {
+    "en": "Tom doesn't share Mary's enthusiasm.",
+    "zh": "湯姆沒有感受到瑪麗的熱情。"
+   },
+   {
+    "en": "He has great enthusiasm.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "exuberance",
+   "ebullience"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a feeling of excitement",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0908",
+  "unit": 23,
+  "headword": "enthusiast",
+  "ipa": "in'θju:ziæst",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 熱心家, 狂熱者, 愛好者",
+  "forms": {
+   "plural": "enthusiasts"
+  },
+  "examples": [
+   {
+    "en": "Enthusiasts of Japanese culture may enjoy the article \"Ergativity and Bare Nouns in Early Old Japanese.\"",
+    "zh": "日本文化愛好者可能會喜歡《早期古日文中的作格與裸名詞》這篇文章。"
+   },
+   {
+    "en": "Tom is a TV enthusiast.",
+    "zh": null
+   },
+   {
+    "en": "I'm a sports enthusiast.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "partisan",
+   "partizan",
+   "fancier"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an ardent and enthusiastic supporter of some person or activity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0909",
+  "unit": 23,
+  "headword": "evident",
+  "ipa": "'evidәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 顯然的, 明顯的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He spoke with evident glee.",
+    "zh": "他說話時，顯然帶著高興的表情。"
+   },
+   {
+    "en": "It is evident that he has made a mistake.",
+    "zh": "很明顯的是他犯了錯。"
+   },
+   {
+    "en": "As is evident from the data, smoking is not decreasing among the young.",
+    "zh": "資料表明年輕人抽菸的現象沒有減少。"
+   }
+  ],
+  "synonyms": [
+   "apparent",
+   "manifest",
+   "patent",
+   "plain",
+   "unmistakable"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "clearly revealed to the mind or the senses or judgment",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0910",
+  "unit": 23,
+  "headword": "flexibility",
+  "ipa": ".fleksi'biliti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 彈性, 適應性\n[計] 靈活性; 適應性",
+  "forms": {
+   "plural": "flexibilities"
+  },
+  "examples": [
+   {
+    "en": "Tom lacks flexibility.",
+    "zh": "湯姆缺乏靈活性。"
+   },
+   {
+    "en": "I admire your flexibility.",
+    "zh": null
+   },
+   {
+    "en": "We don't have much flexibility.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "flexibleness",
+   "tractability",
+   "tractableness"
+  ],
+  "antonyms": [
+   "inflexibility",
+   "intractability"
+  ],
+  "phrases": null,
+  "defsEn": "the property of being flexible; easily bent or shaped",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0911",
+  "unit": 23,
+  "headword": "flextime",
+  "ipa": "'flekstaim",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 彈性上班制",
+  "forms": null,
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0912",
+  "unit": 23,
+  "headword": "fortunately",
+  "ipa": "'fɒitʃәnitli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 幸運地, 幸虧",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Fortunately, she didn't die.",
+    "zh": "幸好她沒有死。"
+   },
+   {
+    "en": "Fortunately, Dan was on the way.",
+    "zh": "幸好丹正在趕來的路上。"
+   },
+   {
+    "en": "She fortunately knows his address.",
+    "zh": "她恰巧知道他的地址。"
+   }
+  ],
+  "synonyms": [
+   "fortuitously",
+   "luckily"
+  ],
+  "antonyms": [
+   "unfortunately",
+   "unluckily"
+  ],
+  "phrases": null,
+  "defsEn": "by good fortune",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0913",
+  "unit": 23,
+  "headword": "freighter",
+  "ipa": "'freitә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 租船人, 承運人, 託運人, 貨船, 運輸機\n[經] 裝貨人, 貨主, 承運人",
+  "forms": {
+   "plural": "freighters"
+  },
+  "examples": [
+   {
+    "en": "Tom used to be a freighter captain.",
+    "zh": null
+   },
+   {
+    "en": "The freighter transports goods across the sea.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "bottom",
+   "merchantman"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a cargo ship",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0914",
+  "unit": 23,
+  "headword": "generator",
+  "ipa": "'dʒenәreitә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 產生器, 發電機, 生產者\n[計] 發生器",
+  "forms": {
+   "plural": "generators"
+  },
+  "examples": [
+   {
+    "en": "Tom has a generator.",
+    "zh": null
+   },
+   {
+    "en": "He fixed the generator.",
+    "zh": null
+   },
+   {
+    "en": "He found the generator.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "source",
+   "author"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an apparatus that produces a vapor or gas",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0915",
+  "unit": 23,
+  "headword": "hallway",
+  "ipa": "'hɔ:lwei",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 門廳；玄關；走廊",
+  "forms": {
+   "plural": "hallways"
+  },
+  "examples": [
+   {
+    "en": "The hallway needs to be wide enough for a wheelchair.",
+    "zh": "走廊要夠輪椅寬。"
+   },
+   {
+    "en": "The principal severely reproved the students whenever they made a mess in the hallway.",
+    "zh": "每次學生把走廊弄得一團糟的時候，校長都會嚴厲地訓斥他們。"
+   },
+   {
+    "en": "I was in the hallway.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "hall"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an interior passage or corridor onto which rooms open",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0916",
+  "unit": 23,
+  "headword": "hamburger",
+  "ipa": "'hæmbә:gә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 漢堡(德國港口), 肉餅, 漢堡包, 純精牛肉, 漢堡牛排",
+  "forms": {
+   "plural": "hamburgers"
+  },
+  "examples": [
+   {
+    "en": "I ordered two hamburgers.",
+    "zh": "點了兩個漢堡。"
+   },
+   {
+    "en": "Please give me a hamburger.",
+    "zh": "請給我一個漢堡。"
+   },
+   {
+    "en": "My son is tired of hamburgers.",
+    "zh": "我的兒子厭煩了漢堡包。"
+   }
+  ],
+  "synonyms": [
+   "beefburger",
+   "burger"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0917",
+  "unit": 23,
+  "headword": "hazard",
+  "ipa": "'hæzәd",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 冒險, 危險, 機會\nvt. 冒...的危險, 賭運氣, 使冒危險\n[計] 相關危險; 冒險",
+  "forms": {
+   "plural": "hazards",
+   "past": "hazarded",
+   "ing": "hazarding",
+   "pp": "hazarded",
+   "thirdSg": "hazards"
+  },
+  "examples": [
+   {
+    "en": "It's a fire hazard.",
+    "zh": null
+   },
+   {
+    "en": "I'll hazard a guess.",
+    "zh": null
+   },
+   {
+    "en": "That's a fire hazard.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "jeopardy",
+   "peril",
+   "risk",
+   "endangerment",
+   "luck"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a source of danger; a possibility of incurring loss or misfortune",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0918",
+  "unit": 23,
+  "headword": "homeowner",
+  "ipa": "'hәum.әunә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 私房屋主；自己擁有住房者",
+  "forms": {
+   "plural": "homeowners"
+  },
+  "examples": [
+   {
+    "en": "I became a homeowner.",
+    "zh": "我買房了。"
+   },
+   {
+    "en": "Are you a homeowner?",
+    "zh": null
+   },
+   {
+    "en": "Ziri was the homeowner.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "householder"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who owns a home",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0919",
+  "unit": 23,
+  "headword": "imperative",
+  "ipa": "im'perәtiv",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 命令, 必要的事, 規則, 祈使語氣\na. 命令式的, 急需的, 勢在必行的, 強制的",
+  "forms": {
+   "plural": "imperatives"
+  },
+  "examples": [
+   {
+    "en": "It is imperative for you to act at once.",
+    "zh": "你必須馬上行動。"
+   },
+   {
+    "en": "It is imperative for you to finish by Sunday.",
+    "zh": "你必須在星期日前完成。"
+   },
+   {
+    "en": "It's the imperative mood.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "beseeching"
+  ],
+  "phrases": null,
+  "defsEn": "a mood that expresses an intention to influence the listener's behavior",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0920",
+  "unit": 23,
+  "headword": "inflate",
+  "ipa": "in'fleit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使膨脹, 使得意, 使通貨膨脹, 使充氣\nvi. 充氣, 膨脹",
+  "forms": {
+   "pp": "inflated",
+   "ing": "inflating",
+   "past": "inflated",
+   "thirdSg": "inflates"
+  },
+  "examples": [
+   {
+    "en": "Tom is inflating a balloon.",
+    "zh": "湯姆在吹氣球。"
+   },
+   {
+    "en": "I inflated my tyres.",
+    "zh": null
+   },
+   {
+    "en": "I am inflating my balloon.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "expand",
+   "amplify"
+  ],
+  "antonyms": [
+   "deflate"
+  ],
+  "phrases": null,
+  "defsEn": "exaggerate or make bigger",
+  "note": null,
+  "audioUrl": null
+ }
+]

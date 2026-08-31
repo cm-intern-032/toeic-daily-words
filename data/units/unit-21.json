@@ -1,0 +1,1472 @@
+[
+ {
+  "id": "w0801",
+  "unit": 21,
+  "headword": "absorb",
+  "ipa": "әb'sɒ:b",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 吸收, 使全神貫注, 同化, 買進, 理解, 承受, 忍受, 承擔\n[醫] 吸收",
+  "forms": {
+   "pp": "absorbed",
+   "past": "absorbed",
+   "thirdSg": "absorbs",
+   "ing": "absorbing"
+  },
+  "examples": [
+   {
+    "en": "A sponge absorbs water.",
+    "zh": "海綿吸水。"
+   },
+   {
+    "en": "He was absorbed in reading.",
+    "zh": "他沉浸在閱讀之中。"
+   },
+   {
+    "en": "She is absorbed in rock music.",
+    "zh": "她沉迷於搖滾樂。"
+   }
+  ],
+  "synonyms": [
+   "assimilate",
+   "ingest"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "become imbued",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0802",
+  "unit": 21,
+  "headword": "administer",
+  "ipa": "әd'ministә",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 管理, 料理, 執行\nvi. 執行遺產管理人的職責, 給予幫助",
+  "forms": {
+   "pp": "administered",
+   "ing": "administering",
+   "thirdSg": "administers",
+   "past": "administered"
+  },
+  "examples": [
+   {
+    "en": "The doctor administered medicine to the patient.",
+    "zh": "醫生向病人用藥。"
+   },
+   {
+    "en": "The medication should be administered topically.",
+    "zh": "此藥只供外用。"
+   },
+   {
+    "en": "Tom will administer the oath.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "administrate",
+   "distribute",
+   "deal",
+   "lot",
+   "dispense"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "work in an administrative capacity; supervise or be in charge of",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0803",
+  "unit": 21,
+  "headword": "ample",
+  "ipa": "'æmpl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 大量的, 充足的, 豐富的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He has ample experience.",
+    "zh": "他經驗豐富。"
+   },
+   {
+    "en": "We have ample time to catch our train.",
+    "zh": "我們有充裕的時間趕上火車。"
+   },
+   {
+    "en": "We have ample food.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "copious",
+   "plenteous",
+   "plentiful",
+   "rich",
+   "sizable"
+  ],
+  "antonyms": [
+   "meager"
+  ],
+  "phrases": null,
+  "defsEn": "more than enough in size or scope or capacity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0804",
+  "unit": 21,
+  "headword": "antique",
+  "ipa": "æn'ti:k",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 古董, 古物\na. 古老的, 古風的, 舊式的, 過時的",
+  "forms": {
+   "plural": "antiques",
+   "past": "antiqued",
+   "ing": "antiquing",
+   "thirdSg": "antiques",
+   "pp": "antiqued"
+  },
+  "examples": [
+   {
+    "en": "He has an eye for antiques.",
+    "zh": "他很有鑑賞古董的眼光。"
+   },
+   {
+    "en": "She has an eye for antiques.",
+    "zh": "她看古董的眼光很好。"
+   },
+   {
+    "en": "She has a great love for antique goods.",
+    "zh": "她對古董很感興趣。"
+   }
+  ],
+  "synonyms": [
+   "old-timer",
+   "oldtimer",
+   "gaffer"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an elderly man",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0805",
+  "unit": 21,
+  "headword": "bean",
+  "ipa": "bi:n",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 豆子\n[化] 油嘴; 豆",
+  "forms": {
+   "plural": "beans"
+  },
+  "examples": [
+   {
+    "en": "I like beans.",
+    "zh": "我喜歡豆子。"
+   },
+   {
+    "en": "Who likes beans?",
+    "zh": "誰喜歡豆子？"
+   },
+   {
+    "en": "I hate lima beans.",
+    "zh": "我不喜歡利馬豆子。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "any of various edible seeds of plants of the family Leguminosae used for food",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0806",
+  "unit": 21,
+  "headword": "browse",
+  "ipa": "brauz",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "v. 瀏覽, 吃草\nn. 瀏覽, 吃草\n[計] 瀏覽",
+  "forms": {
+   "ing": "browsing",
+   "past": "browsed",
+   "pp": "browsed",
+   "thirdSg": "browses"
+  },
+  "examples": [
+   {
+    "en": "I'm just browsing.",
+    "zh": "我只是瀏覽一下。"
+   },
+   {
+    "en": "Tom is browsing the web.",
+    "zh": null
+   },
+   {
+    "en": "There is no private browsing.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "browsing"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "vegetation (such as young shoots, twigs, and leaves) that is suitable for animals to eat",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0807",
+  "unit": 21,
+  "headword": "bye",
+  "ipa": "bai",
+  "pos": [
+   "int"
+  ],
+  "defsZh": "interj. 再會, 回頭見\n[計] 結束命令",
+  "forms": {
+   "plural": "byes"
+  },
+  "examples": [
+   {
+    "en": "I must say good-bye to you.",
+    "zh": "我要和你說再見了。"
+   },
+   {
+    "en": "He departed without so much as saying good bye.",
+    "zh": "他連再見也不說就走了。"
+   },
+   {
+    "en": "He left the room without so much as saying good-bye to me.",
+    "zh": "他連再見也沒說就離開了房間。"
+   }
+  ],
+  "synonyms": [
+   "pass",
+   "adieu",
+   "adios",
+   "arrivederci",
+   "bye-bye"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "you advance to the next round in a tournament without playing an opponent",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0808",
+  "unit": 21,
+  "headword": "careless",
+  "ipa": "'kєәlis",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 粗心的, 不關心的, 無憂無慮的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Don't be so careless!",
+    "zh": "別這麼粗心！"
+   },
+   {
+    "en": "I admit I was careless.",
+    "zh": "我承認我大意了。"
+   },
+   {
+    "en": "He is careless about money.",
+    "zh": "他不關心錢。"
+   }
+  ],
+  "synonyms": [
+   "regardless"
+  ],
+  "antonyms": [
+   "careful"
+  ],
+  "phrases": null,
+  "defsEn": "marked by lack of attention or consideration or forethought or thoroughness; not careful",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0809",
+  "unit": 21,
+  "headword": "collector",
+  "ipa": "kә'lektә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 收集家, 收取款項的人\n[化] 集電極; 捕收劑",
+  "forms": {
+   "plural": "collectors"
+  },
+  "examples": [
+   {
+    "en": "I'm a stamp collector.",
+    "zh": null
+   },
+   {
+    "en": "Tom is a debt collector.",
+    "zh": null
+   },
+   {
+    "en": "Ken is a coin collector.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "aggregator",
+   "gatherer",
+   "accumulator"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who collects things",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0810",
+  "unit": 21,
+  "headword": "conform",
+  "ipa": "kәn'fɒ:m",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使一致, 使遵守, 使符合\nvi. 一致, 符合, 適應",
+  "forms": {
+   "thirdSg": "conforms",
+   "ing": "conforming",
+   "past": "conformed",
+   "pp": "conformed"
+  },
+  "examples": [
+   {
+    "en": "We must conform to the rules.",
+    "zh": "我們必須遵守規則。"
+   },
+   {
+    "en": "He refused to conform.",
+    "zh": null
+   },
+   {
+    "en": "She refused to conform.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "adjust",
+   "adapt"
+  ],
+  "antonyms": [
+   "deviate"
+  ],
+  "phrases": null,
+  "defsEn": "be similar, be in line with",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0811",
+  "unit": 21,
+  "headword": "congestion",
+  "ipa": "kәn'dʒestʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 擁擠, 充血\n[計] 擁擠, 擁塞",
+  "forms": {
+   "plural": "congestions"
+  },
+  "examples": [
+   {
+    "en": "The congestion slowly eased.",
+    "zh": null
+   },
+   {
+    "en": "Algiers suffers from congestion.",
+    "zh": null
+   },
+   {
+    "en": "Traffic congestion has increased.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "over-crowding"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "excessive accumulation of blood or other fluid in a body part",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0812",
+  "unit": 21,
+  "headword": "contradiction",
+  "ipa": ".kɒntrә'dikʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 反駁, 矛盾\n[法] 矛盾, 否認, 反駁",
+  "forms": {
+   "plural": "contradictions"
+  },
+  "examples": [
+   {
+    "en": "From what stems this contradiction between our hopes and our reality?",
+    "zh": "希望與現實之間的矛盾，因何而起？"
+   },
+   {
+    "en": "My life's a contradiction.",
+    "zh": null
+   },
+   {
+    "en": "It's full of contradictions.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "opposition between two conflicting forces or ideas",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0813",
+  "unit": 21,
+  "headword": "contrary",
+  "ipa": "'kɒntrәri",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "defsZh": "a. 相反的, 矛盾的, 對立的\nn. 相反, 對立面\nadv. 相反地",
+  "forms": {
+   "plural": "contraries"
+  },
+  "examples": [
+   {
+    "en": "His behavior is contrary to his belief.",
+    "zh": "他的行為和他的信念背道而馳。"
+   },
+   {
+    "en": "And yet, the contrary is always true as well.",
+    "zh": "然而，相反的理論往往也是真的。"
+   },
+   {
+    "en": "On the contrary, I've never said such a thing.",
+    "zh": "正好相反，我從沒說過這樣的話。"
+   }
+  ],
+  "synonyms": [
+   "reverse",
+   "opposite"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a relation of direct opposition",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0814",
+  "unit": 21,
+  "headword": "diploma",
+  "ipa": "di'plәumә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 文憑, 畢業證書\n[醫] 文憑",
+  "forms": {
+   "plural": "diplomas"
+  },
+  "examples": [
+   {
+    "en": "The principal presented each of the graduates with diploma.",
+    "zh": "校長向每個畢業生頒發了畢業證書。"
+   },
+   {
+    "en": "I have a diploma.",
+    "zh": null
+   },
+   {
+    "en": "I am a diploma holder.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "sheepskin"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a document certifying the successful completion of a course of study",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0815",
+  "unit": 21,
+  "headword": "distributor",
+  "ipa": "dis'tribjutә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 分發者, 分佈者, 散佈者, 分配者, 銷售者, 分配器, 配電盤, 自動拆版機\n[計] 分配器",
+  "forms": {
+   "plural": "distributors"
+  },
+  "examples": [
+   {
+    "en": "Do you have any sales distributors in Japan?",
+    "zh": null
+   },
+   {
+    "en": "Tom got the t-shirts straight from the distributor.",
+    "zh": null
+   },
+   {
+    "en": "The distributors are asking for an exceptional margin.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "distributer",
+   "allocator"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who markets merchandise",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0816",
+  "unit": 21,
+  "headword": "dive",
+  "ipa": "daiv",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 潛水, 跳水\nvi. 跳水, 俯衝, 猛衝\nvt. 把...突然伸入",
+  "forms": {
+   "past": "dived",
+   "ing": "diving",
+   "thirdSg": "dives",
+   "plural": "dives",
+   "pp": "dived"
+  },
+  "examples": [
+   {
+    "en": "I dived into the river.",
+    "zh": "我潛入了河裡。"
+   },
+   {
+    "en": "Ken stands on the diving board.",
+    "zh": "肯站在跳水臺上"
+   },
+   {
+    "en": "Have you ever tried scuba diving?",
+    "zh": "你曾試過用水肺潛水嗎？"
+   }
+  ],
+  "synonyms": [
+   "honkytonk",
+   "diving",
+   "nosedive"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a cheap disreputable nightclub or dance hall",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0817",
+  "unit": 21,
+  "headword": "energetic",
+  "ipa": ".enә'dʒetik",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 精力充沛的, 積極的",
+  "forms": {
+   "plural": "energetics"
+  },
+  "examples": [
+   {
+    "en": "He's a bit energetic.",
+    "zh": "他有點活潑。"
+   },
+   {
+    "en": "I feel more energetic now.",
+    "zh": "變得更有精神了"
+   },
+   {
+    "en": "He isn't as energetic as he once was.",
+    "zh": "他不像從前那樣精力充沛了。"
+   }
+  ],
+  "synonyms": [
+   "gumptious",
+   "industrious",
+   "up-and-coming"
+  ],
+  "antonyms": [
+   "lethargic"
+  ],
+  "phrases": null,
+  "defsEn": "possessing or exerting or displaying energy",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0818",
+  "unit": 21,
+  "headword": "environmentally",
+  "ipa": "ɪnˌvaɪrənˈmɛnəli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 有關環境方面",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Is this environmentally safe?",
+    "zh": "這是否對於環境安全無害？"
+   },
+   {
+    "en": "Tom is environmentally conscious.",
+    "zh": "湯姆有環保意識。"
+   },
+   {
+    "en": "Solar power is environmentally friendly.",
+    "zh": "太陽能有益於環保。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "for the environment",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0819",
+  "unit": 21,
+  "headword": "escalator",
+  "ipa": "'eskәleitә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 電動扶梯, 自動扶梯\n[機] 升降階梯",
+  "forms": {
+   "plural": "escalators"
+  },
+  "examples": [
+   {
+    "en": "Where is the escalator?",
+    "zh": "扶梯在哪兒？"
+   },
+   {
+    "en": "People who are not in a hurry stand on the right side of the escalator.",
+    "zh": "不趕時間的人們站在自動扶梯的右邊。"
+   },
+   {
+    "en": "When using the escalator, please hold the handrail and stand within the yellow line.",
+    "zh": "在乘坐扶梯時，請握住扶手，並站在黃線內。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a clause in a contract that provides for an increase or a decrease in wages or prices or benefits etc. depending on certain conditions (as a change in the cost of living index)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0820",
+  "unit": 21,
+  "headword": "exotic",
+  "ipa": "ig'zɒtik",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 異國的, 外來的\nn. 外來人, 外來物, 舶來品",
+  "forms": {
+   "plural": "exotics"
+  },
+  "examples": [
+   {
+    "en": "I like exotic foods.",
+    "zh": null
+   },
+   {
+    "en": "Tom likes exotic cars.",
+    "zh": null
+   },
+   {
+    "en": "I dream of exotic fruit.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "alien"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "being or from or characteristic of another place or part of the world",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0821",
+  "unit": 21,
+  "headword": "fabric",
+  "ipa": "'fæbrik",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 織物, 布, 結構, 構造, 建築物\n[經] 組織, 建築物, 工廠",
+  "forms": {
+   "plural": "fabrics"
+  },
+  "examples": [
+   {
+    "en": "Do we still have this fabric?",
+    "zh": "我們還有這種布料嗎？"
+   },
+   {
+    "en": "The dress is made of a thin fabric.",
+    "zh": "這件衣服是由薄織物製成的。"
+   },
+   {
+    "en": "These fabrics are made of pure wool.",
+    "zh": "這些布是全羊毛的。"
+   }
+  ],
+  "synonyms": [
+   "cloth",
+   "material",
+   "textile",
+   "framework"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0822",
+  "unit": 21,
+  "headword": "generalization",
+  "ipa": ",dʒenәrәlai'zeiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 一般化, 普遍化, 概括\n[化] 推廣; 普適化",
+  "forms": {
+   "plural": "generalizations"
+  },
+  "examples": [
+   {
+    "en": "I doubt these generalizations.",
+    "zh": null
+   },
+   {
+    "en": "Generalizations are always wrong.",
+    "zh": null
+   },
+   {
+    "en": "Ziri always avoids generalization.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "generalisation",
+   "induction",
+   "generality",
+   "abstraction"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "reasoning from detailed facts to general principles",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0823",
+  "unit": 21,
+  "headword": "guidance",
+  "ipa": "'gaidns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 指導, 領導\n[醫] 導",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Under the teacher's guidance, I took big strides with my studies.",
+    "zh": "在老師的指導下，我的學習有了很大的進步。"
+   },
+   {
+    "en": "The camp counselors are supposed to provide guidance and mentorship to the students.",
+    "zh": "營輔員應負責為學生提供指引和輔導。"
+   },
+   {
+    "en": "This type of exercise can be practiced alone and does not require a coach's guidance.",
+    "zh": "這類運動可以單人練習，不需教練指導。"
+   }
+  ],
+  "synonyms": [
+   "counsel",
+   "counseling",
+   "counselling",
+   "direction",
+   "steering"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "something that provides direction or advice as to a decision or course of action",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0824",
+  "unit": 21,
+  "headword": "gum",
+  "ipa": "gʌm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 樹膠, 橡皮, 橡皮糖, 牙床, 老天\nvt. 塗以樹膠, 用膠粘, 使有粘性\nvi. 分泌樹膠, 發粘",
+  "forms": {
+   "plural": "gums",
+   "ing": "gumming",
+   "past": "gummed",
+   "pp": "gummed",
+   "thirdSg": "gums"
+  },
+  "examples": [
+   {
+    "en": "I chew gum.",
+    "zh": "我嚼口香糖。"
+   },
+   {
+    "en": "My gums bleed.",
+    "zh": "我的牙齦流血。"
+   },
+   {
+    "en": "I'm chewing gum.",
+    "zh": "我嚼口香糖。"
+   }
+  ],
+  "synonyms": [
+   "gingiva"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a preparation (usually made of sweetened chicle) for chewing",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0825",
+  "unit": 21,
+  "headword": "hesitant",
+  "ipa": "'hezitәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 遲疑的, 躊躇的, 猶豫不定的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Why did he remain hesitant?",
+    "zh": "他為什麼仍然猶豫不決？"
+   },
+   {
+    "en": "Tom is hesitant to visit Mary in the hospital.",
+    "zh": "對於是否要去醫院探望Mary,Tom有點猶豫不決。"
+   },
+   {
+    "en": "Tom seems a little hesitant.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "hesitating"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "lacking decisiveness of character; unable to act or decide quickly or firmly",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0826",
+  "unit": 21,
+  "headword": "indicator",
+  "ipa": "'indikeitә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 指示器, 指示劑, 指標\n[計] 指示器",
+  "forms": {
+   "plural": "indicators"
+  },
+  "examples": [
+   {
+    "en": "Put your indicator on.",
+    "zh": null
+   },
+   {
+    "en": "All indicators are normal.",
+    "zh": null
+   },
+   {
+    "en": "Tom turned on the indicator.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "index",
+   "indicant"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0827",
+  "unit": 21,
+  "headword": "individually",
+  "ipa": ".indi'vidʒuәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 以個人身分, 各個地, 獨特地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He tallied them individually.",
+    "zh": null
+   },
+   {
+    "en": "Tom spoke with each of us individually.",
+    "zh": null
+   },
+   {
+    "en": "Leon texted Amelia and John individually.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "separately",
+   "singly",
+   "severally"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "apart from others",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0828",
+  "unit": 21,
+  "headword": "junior",
+  "ipa": "'dʒu:njә",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 年少者, 地位較低者, 大學三年級學生\na. 年少的, 下級的, 後進的",
+  "forms": {
+   "plural": "juniors"
+  },
+  "examples": [
+   {
+    "en": "He's two years my junior.",
+    "zh": "他比我小兩歲。"
+   },
+   {
+    "en": "He is two years my junior.",
+    "zh": "他比我小兩歲。"
+   },
+   {
+    "en": "She is five years junior to me.",
+    "zh": "她比我小五歲。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "term of address for a disrespectful and annoying male",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0829",
+  "unit": 21,
+  "headword": "lifestyle",
+  "ipa": "'laifstail",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 生活方式",
+  "forms": {
+   "plural": "lifestyles"
+  },
+  "examples": [
+   {
+    "en": "He has problems with adapting to lifestyle changes.",
+    "zh": "他在適應新的生活方式上有問題。"
+   },
+   {
+    "en": "I have an orderly lifestyle.",
+    "zh": null
+   },
+   {
+    "en": "Tom has a healthy lifestyle.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "life-style"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a manner of living that reflects the person's values and attitudes",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0830",
+  "unit": 21,
+  "headword": "likewise",
+  "ipa": "'laikwaiz",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 同樣地, 也",
+  "forms": null,
+  "examples": [
+   {
+    "en": "\"I hate you!\" \"Likewise.\"",
+    "zh": "“我討厭你！”“彼此彼此。”"
+   },
+   {
+    "en": "Tom is tall and likewise strong.",
+    "zh": "湯姆又高又壯。"
+   },
+   {
+    "en": "Watch him and do likewise.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "similarly",
+   "besides",
+   "too",
+   "also",
+   "alike"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "in like or similar manner; ; - Samuel Johnson",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0831",
+  "unit": 21,
+  "headword": "morale",
+  "ipa": "mɒ'rɑ:l",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 士氣, 道德",
+  "forms": {
+   "plural": "morales"
+  },
+  "examples": [
+   {
+    "en": "Our morale is low.",
+    "zh": null
+   },
+   {
+    "en": "My morale is flat.",
+    "zh": null
+   },
+   {
+    "en": "Our morale is high.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a state of individual psychological well-being based upon a sense of confidence and usefulness and purpose",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0832",
+  "unit": 21,
+  "headword": "orchestra",
+  "ipa": "'ɒ:kistrә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 管絃樂隊, 樂隊演奏處",
+  "forms": {
+   "plural": "orchestras"
+  },
+  "examples": [
+   {
+    "en": "I'm going to join the school orchestra.",
+    "zh": "我打算加入學校的管絃樂團。"
+   },
+   {
+    "en": "This is the fifth concert by this orchestra.",
+    "zh": "這是管絃樂團的第五場音樂會。"
+   },
+   {
+    "en": "Do you know the concert schedule of London Symphony Orchestra?",
+    "zh": "你知道倫敦交響樂團的演奏會行程嗎？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a musical organization consisting of a group of instrumentalists including string players",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0833",
+  "unit": 21,
+  "headword": "organizational",
+  "ipa": ".ɒ:gәnai'zeiʃәnәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 組織的\n[法] 組織的, 編制的, 機構的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "In the previous meeting, we already discussed the organizational problem within our company.",
+    "zh": "在上次會議中我們已經討論了我們集團的組織問題。"
+   },
+   {
+    "en": "He focuses on organizational growth.",
+    "zh": null
+   },
+   {
+    "en": "Do they assess organizational risks?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "organisational"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "of or relating to an organization",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0834",
+  "unit": 21,
+  "headword": "outlook",
+  "ipa": "'autluk",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 觀點, 景色, 前途, 瞭望\n[經] 展望",
+  "forms": {
+   "plural": "outlooks"
+  },
+  "examples": [
+   {
+    "en": "Let go of your negative outlook on life.",
+    "zh": "請拋開你那些負面的人生觀。"
+   },
+   {
+    "en": "The outlook is grim.",
+    "zh": null
+   },
+   {
+    "en": "The outlook is bleak.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "mentality",
+   "mindset",
+   "mind-set",
+   "expectation",
+   "prospect"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a habitual or characteristic mental attitude that determines how you will interpret and respond to situations",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0835",
+  "unit": 21,
+  "headword": "physics",
+  "ipa": "'fiziks",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 物理學, 物理過程, 物理現象\n[化] 物理; 物理學",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He does well in physics.",
+    "zh": "他的物理學得很好。"
+   },
+   {
+    "en": "Physics is my favorite subject.",
+    "zh": "物理是我最喜歡的科目。"
+   },
+   {
+    "en": "The boy was very sharp at physics.",
+    "zh": "這個男孩兒精通物理學。"
+   }
+  ],
+  "synonyms": [
+   "purgative",
+   "cathartic",
+   "physic",
+   "aperient"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the science of matter and energy and their interactions",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0836",
+  "unit": 21,
+  "headword": "pole",
+  "ipa": "pәul",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 波蘭人, 極點, 磁極, 電極, 杆, 竿, 相反的極端\nvt. 用竿支撐\nvi. 撐篙",
+  "forms": {
+   "plural": "poles",
+   "ing": "poling",
+   "past": "poled",
+   "pp": "poled",
+   "thirdSg": "poles"
+  },
+  "examples": [
+   {
+    "en": "She is learning pole dancing.",
+    "zh": "她在學鋼管舞。"
+   },
+   {
+    "en": "Santa lives at the North Pole.",
+    "zh": "聖誕老人住在北極。"
+   },
+   {
+    "en": "To reach the North Pole is not easy.",
+    "zh": "到北極可不容易。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a long (usually round) rod of wood or metal or plastic",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0837",
+  "unit": 21,
+  "headword": "puzzle",
+  "ipa": "'pʌzl",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 難題, 迷惑\nvt. 使困惑, 使為難\nvi. 迷惑, 苦思",
+  "forms": {
+   "plural": "puzzles",
+   "ing": "puzzling",
+   "past": "puzzled",
+   "pp": "puzzled",
+   "thirdSg": "puzzles"
+  },
+  "examples": [
+   {
+    "en": "What a puzzle.",
+    "zh": "多讓人不解呀！"
+   },
+   {
+    "en": "I'm still puzzled.",
+    "zh": "我還不明白。"
+   },
+   {
+    "en": "Tom looked puzzled.",
+    "zh": "湯姆看起來很疑惑。"
+   }
+  ],
+  "synonyms": [
+   "puzzler",
+   "mystifier",
+   "teaser",
+   "perplex",
+   "vex"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a particularly baffling problem that is said to have a correct solution",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0838",
+  "unit": 21,
+  "headword": "reflexive",
+  "ipa": "ri'fleksiv",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 反射的, 折回的, 折轉的, 內省的, 反省的, 反身的\nn. 反身代詞, 反身動詞",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Conjugating reflexive verbs is a real mind-boggler.",
+    "zh": null
+   },
+   {
+    "en": "The lesson on reflexive verbs is always difficult for the students.",
+    "zh": null
+   },
+   {
+    "en": "The relationship \"A loves B\" is not reflexive, transitive, or symmetric.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "automatic",
+   "reflex",
+   "self-referent"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a personal pronoun compounded with -self to show the agent's action affects the agent",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0839",
+  "unit": 21,
+  "headword": "snowy",
+  "ipa": "'snәui",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 多雪的, 雪的, 被雪所覆蓋著的, 下雪的",
+  "forms": {
+   "plural": "snowys"
+  },
+  "examples": [
+   {
+    "en": "It's snowy today.",
+    "zh": "今天下雪。"
+   },
+   {
+    "en": "According to the weather forecast, tomorrow will be snowy.",
+    "zh": "天氣預報說明天會下雪。"
+   },
+   {
+    "en": "It's a snowy day.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "white",
+   "snow-clad",
+   "snow-covered",
+   "snow-white"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "marked by the presence of snow",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0840",
+  "unit": 21,
+  "headword": "steak",
+  "ipa": "steik",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 牛排, 魚排, 肉排",
+  "forms": {
+   "plural": "steaks"
+  },
+  "examples": [
+   {
+    "en": "How would you like your steak?",
+    "zh": "您的牛排要幾分熟？"
+   },
+   {
+    "en": "Can you give me a kilo of steak?",
+    "zh": "能不能請您給我一公斤牛排？"
+   },
+   {
+    "en": "She said she felt like eating steak.",
+    "zh": "她說她想要吃牛排。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a slice of meat cut from the fleshy part of an animal or large fish",
+  "note": null,
+  "audioUrl": null
+ }
+]

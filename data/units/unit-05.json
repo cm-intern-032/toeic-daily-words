@@ -408,6 +408,14 @@
    {
     "en": "This is an innovative solution.",
     "zh": "這是個創新的解法。"
+   },
+   {
+    "en": "I try to be innovative.",
+    "zh": null
+   },
+   {
+    "en": "He's an innovative person.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -522,6 +530,10 @@
    {
     "en": "Inside the venue, sounds of clapping, whistling, yelling, laughing blended together.",
     "zh": "會場內，掌聲、哨聲、喊聲、笑聲亂成了一鍋粥。"
+   },
+   {
+    "en": "All we need is a new venue.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -587,6 +599,10 @@
    {
     "en": "The sidebar is displayed on the edge of the page below the site logo.",
     "zh": "側邊欄顯示在網站標誌下方的頁面邊緣。"
+   },
+   {
+    "en": "I like the logo.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -685,6 +701,14 @@
    {
     "en": "Please replace the empty ink cartridge in the printer.",
     "zh": "請把印表機裡面的空的墨粉鼓換掉。"
+   },
+   {
+    "en": "That's a bootleg cartridge.",
+    "zh": null
+   },
+   {
+    "en": "The ink cartridge can be recycled.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -790,6 +814,10 @@
    {
     "en": "Black Friday sales attract shoppers.",
     "zh": "黑色星期五促銷活動吸引了許多購物者。"
+   },
+   {
+    "en": "Mary is a mystery shopper.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -972,6 +1000,14 @@
    {
     "en": "I can't calculate the final cost without first discussing it with our contractors.",
     "zh": "不先與我們的承包商討論的話我無法計算出最後的費用。"
+   },
+   {
+    "en": "Tom is a contractor.",
+    "zh": null
+   },
+   {
+    "en": "Ziri is a contractor.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -987,7 +1023,7 @@
   "id": "w0189",
   "unit": 5,
   "headword": "download",
-  "ipa": null,
+  "ipa": "ˈdaʊnˌloʊd",
   "pos": null,
   "defsZh": "[計] 解除安裝, 下栽",
   "forms": {
@@ -1156,6 +1192,14 @@
    {
     "en": "Life is a sexually transmitted terminal disease.",
     "zh": "生命是一種致命的性傳染病。"
+   },
+   {
+    "en": "It's in terminal 1.",
+    "zh": null
+   },
+   {
+    "en": "How do I open a terminal?",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1186,6 +1230,14 @@
    {
     "en": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
     "zh": "工作日是：週一，週二，週三，週四，和週五。"
+   },
+   {
+    "en": "We work on weekdays.",
+    "zh": null
+   },
+   {
+    "en": "Diego worked on weekdays.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -1415,6 +1467,10 @@
    {
     "en": "This pub has very beautiful waitresses.",
     "zh": "這個酒吧的女服務員很漂亮。"
+   },
+   {
+    "en": "Mary is a waitress.",
+    "zh": null
    }
   ],
   "synonyms": [

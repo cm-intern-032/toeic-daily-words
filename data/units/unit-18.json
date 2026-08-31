@@ -1,0 +1,1493 @@
+[
+ {
+  "id": "w0681",
+  "unit": 18,
+  "headword": "invention",
+  "ipa": "in'venʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 發明, 創作能力, 虛構的故事\n[經] 發明",
+  "forms": {
+   "plural": "inventions"
+  },
+  "examples": [
+   {
+    "en": "Love is only an invention.",
+    "zh": "愛不過是發明。"
+   },
+   {
+    "en": "The computer is a recent invention.",
+    "zh": "電腦是最近才發明的。"
+   },
+   {
+    "en": "The washing machine is a wonderful invention.",
+    "zh": "洗衣機是個絕妙的發明。"
+   }
+  ],
+  "synonyms": [
+   "innovation",
+   "excogitation",
+   "conception",
+   "design"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the creation of something in the mind",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0682",
+  "unit": 18,
+  "headword": "irritate",
+  "ipa": "'iriteit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 激怒, 使發怒, 使興奮, 使發炎\nvi. 引起不快",
+  "forms": {
+   "pp": "irritated",
+   "past": "irritated",
+   "thirdSg": "irritates",
+   "ing": "irritating"
+  },
+  "examples": [
+   {
+    "en": "He became irritated.",
+    "zh": "他開始生氣了。"
+   },
+   {
+    "en": "Tom said that he was irritated.",
+    "zh": "湯姆說他很煩躁。"
+   },
+   {
+    "en": "If someone irritates you, it is best not to react immediately.",
+    "zh": "如果有人激怒你，你最好不要立刻做出反應。"
+   }
+  ],
+  "synonyms": [
+   "annoy",
+   "rag",
+   "bother",
+   "rile",
+   "nark"
+  ],
+  "antonyms": [
+   "soothe"
+  ],
+  "phrases": null,
+  "defsEn": "cause annoyance in; disturb, especially by minor irritations",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0683",
+  "unit": 18,
+  "headword": "locker",
+  "ipa": "'lɒkә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 抽屜, 小櫃, 上鎖人\n[機] 鎖櫃",
+  "forms": {
+   "plural": "lockers"
+  },
+  "examples": [
+   {
+    "en": "Each student has a locker.",
+    "zh": "每個學生都有一櫃子。"
+   },
+   {
+    "en": "Tom left a note in Mary's locker.",
+    "zh": "湯姆在瑪麗亞的儲物櫃裡留下了一張紙條。"
+   },
+   {
+    "en": "Jayjay ran into John in the locker room.",
+    "zh": "傑傑在更衣室碰到了約翰。"
+   }
+  ],
+  "synonyms": [
+   "cabinet",
+   "footlocker"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a storage compartment for clothes and valuables; usually it has a lock",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0684",
+  "unit": 18,
+  "headword": "overlook",
+  "ipa": ".әuvә'luk",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 俯瞰, 遠眺, 沒注意到\nn. 眺望, 俯瞰到的景色",
+  "forms": {
+   "ing": "overlooking",
+   "pp": "overlooked",
+   "thirdSg": "overlooks",
+   "past": "overlooked"
+  },
+  "examples": [
+   {
+    "en": "I overlooked the truth.",
+    "zh": "我忽略了事實。"
+   },
+   {
+    "en": "The window overlooks the courtyard.",
+    "zh": "窗戶俯瞰著院子。"
+   },
+   {
+    "en": "We have overlooked this important fact.",
+    "zh": "我們看漏了這件重要的事。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a high place affording a good view",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0685",
+  "unit": 18,
+  "headword": "patent",
+  "ipa": "'pætnt. 'peitnt",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "defsZh": "n. 專利權, 許可證, 執照, 專利品, 素質\na. 專利的, 特許的, 顯著的, 新奇的\nvt. 取得...的專利權, 請準專利",
+  "forms": {
+   "plural": "patents",
+   "pp": "patented",
+   "past": "patented",
+   "ing": "patenting",
+   "thirdSg": "patents"
+  },
+  "examples": [
+   {
+    "en": "I filed a patent.",
+    "zh": null
+   },
+   {
+    "en": "Tom filed a patent.",
+    "zh": null
+   },
+   {
+    "en": "Tom filed the patent.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a document granting an inventor sole rights to an invention",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0686",
+  "unit": 18,
+  "headword": "payable",
+  "ipa": "'peiәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 可付的, 到期的, 應付的, 有利益的\n[經] 應付的",
+  "forms": {
+   "plural": "payables"
+  },
+  "examples": [
+   {
+    "en": "This check is payable to the bearer.",
+    "zh": null
+   },
+   {
+    "en": "The total amount is payable on delivery.",
+    "zh": null
+   },
+   {
+    "en": "Checks should be made payable to the ABC Company.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "collectible",
+   "collectable"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a liability account showing how much is owed for goods and services purchased on credit",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0687",
+  "unit": 18,
+  "headword": "preliminary",
+  "ipa": "pri'liminәri",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 初步做法, 初步措施, 預試, 預選賽\na. 初步的, 開始的, 預備的",
+  "forms": {
+   "plural": "preliminaries"
+  },
+  "examples": [
+   {
+    "en": "A preliminary hearing is scheduled for October 20th.",
+    "zh": null
+   },
+   {
+    "en": "The inquiry's preliminary findings have been published.",
+    "zh": null
+   },
+   {
+    "en": "Before we begin, a number of preliminary remarks are in order.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "prelim",
+   "overture",
+   "prelude"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a minor match preceding the main event",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0688",
+  "unit": 18,
+  "headword": "salesman",
+  "ipa": "'seilzmәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 售貨員, 推銷員\n[經] 售貨員, 店員, 推銷員",
+  "forms": {
+   "plural": "salesmen"
+  },
+  "examples": [
+   {
+    "en": "He's a salesman too.",
+    "zh": "他也是推銷員。"
+   },
+   {
+    "en": "He's also a salesman.",
+    "zh": "他也是推銷員。"
+   },
+   {
+    "en": "I was mistaken for a salesman.",
+    "zh": "我被誤認為是推銷員。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a man salesperson",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0689",
+  "unit": 18,
+  "headword": "sauna",
+  "ipa": "'saunә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 桑拿浴",
+  "forms": {
+   "plural": "saunas"
+  },
+  "examples": [
+   {
+    "en": "She likes to go to the sauna.",
+    "zh": "她喜歡去桑拿。"
+   },
+   {
+    "en": "Sami was in a sauna.",
+    "zh": null
+   },
+   {
+    "en": "Tom is in the sauna.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a Finnish steam bath; steam is produced by pouring water over heated rocks",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0690",
+  "unit": 18,
+  "headword": "smoothly",
+  "ipa": "'smu:ðli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 平滑地, 流暢地, 流利地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Everything went smoothly.",
+    "zh": "一切進展順利。"
+   },
+   {
+    "en": "This zipper doesn't zip smoothly.",
+    "zh": "這拉鍊卡卡的。"
+   },
+   {
+    "en": "I do hope everything will go smoothly.",
+    "zh": "我希望一切都順利。"
+   }
+  ],
+  "synonyms": [
+   "swimmingly"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "with no problems or difficulties",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0691",
+  "unit": 18,
+  "headword": "sunshine",
+  "ipa": "'sʌnʃain",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 陽光, 光明, 晴天",
+  "forms": null,
+  "examples": [
+   {
+    "en": "You're my sunshine.",
+    "zh": "你是我的陽光。"
+   },
+   {
+    "en": "You are my sunshine.",
+    "zh": "你是我的陽光。"
+   },
+   {
+    "en": "The lake was gleaming in the bright sunshine.",
+    "zh": "湖水在耀眼的陽光下閃閃發亮。"
+   }
+  ],
+  "synonyms": [
+   "sunlight",
+   "sun",
+   "temperateness",
+   "cheerfulness",
+   "cheer"
+  ],
+  "antonyms": [
+   "uncheerfulness"
+  ],
+  "phrases": null,
+  "defsEn": "the rays of the sun",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0692",
+  "unit": 18,
+  "headword": "tow",
+  "ipa": "tәu",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 拖, 拖繩, 拖輪\nvt. 拖, 拉, 牽引",
+  "forms": {
+   "pp": "towed",
+   "ing": "towing",
+   "past": "towed",
+   "plural": "tows",
+   "thirdSg": "tows"
+  },
+  "examples": [
+   {
+    "en": "He is towing.",
+    "zh": "他在拖。"
+   },
+   {
+    "en": "The policeman didn't tow your car away.",
+    "zh": "警察沒有拖走你的車。"
+   },
+   {
+    "en": "We could use a tow.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "towage"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of hauling something (as a vehicle) by means of a hitch or rope",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0693",
+  "unit": 18,
+  "headword": "translator",
+  "ipa": "træn'leitә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 翻譯者\n[計] 翻譯程式; 翻譯器",
+  "forms": {
+   "plural": "translators"
+  },
+  "examples": [
+   {
+    "en": "I'm a translator.",
+    "zh": "我是個翻譯。"
+   },
+   {
+    "en": "I am a translator.",
+    "zh": "我是個翻譯。"
+   },
+   {
+    "en": "Thanks to all the translators!",
+    "zh": "感謝所有的翻譯人員！"
+   }
+  ],
+  "synonyms": [
+   "transcriber",
+   "interpreter"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who translates written messages from one language to another",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0694",
+  "unit": 18,
+  "headword": "tuition",
+  "ipa": "tju:'iʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 學費, 講授",
+  "forms": {
+   "ing": "tuitioning"
+  },
+  "examples": [
+   {
+    "en": "I am working to save for my college tuition.",
+    "zh": "我工作是為了攢大學學費。"
+   },
+   {
+    "en": "Who paid your tuition?",
+    "zh": null
+   },
+   {
+    "en": "Tom is paying my tuition.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "tutelage",
+   "tutorship"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a fee paid for instruction (especially for higher education)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0695",
+  "unit": 18,
+  "headword": "unavailable",
+  "ipa": ".ʌnә'veilәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 得不到的, 不能利用的, 無用的\n[化] 不可得的; 無效的; 不能利用的",
+  "forms": {
+   "plural": "unavailables"
+  },
+  "examples": [
+   {
+    "en": "Sorry. The number you have dialled is currently unavailable.",
+    "zh": "對不起，您撥打的使用者暫時無法接通。"
+   },
+   {
+    "en": "We're sorry. The number you have dialed is currently unavailable.",
+    "zh": "對不起，您撥打的使用者暫時無法接通。"
+   },
+   {
+    "en": "Tom must've been unavailable.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "available"
+  ],
+  "phrases": null,
+  "defsEn": "not available or accessible or at hand",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0696",
+  "unit": 18,
+  "headword": "violation",
+  "ipa": ".vaiә'leiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 違反, 違背, 妨礙\n[法] 違犯, 違背, 違反",
+  "forms": {
+   "plural": "violations"
+  },
+  "examples": [
+   {
+    "en": "What was the violation?",
+    "zh": null
+   },
+   {
+    "en": "This is his first violation.",
+    "zh": null
+   },
+   {
+    "en": "This is a violation of the law.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "misdemeanor",
+   "misdemeanour",
+   "infraction",
+   "infringement",
+   "trespass"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a crime less serious than a felony",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0697",
+  "unit": 18,
+  "headword": "webpage",
+  "ipa": null,
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 網頁",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I reloaded the webpage.",
+    "zh": null
+   },
+   {
+    "en": "The webpage has frozen.",
+    "zh": null
+   },
+   {
+    "en": "His webpage is bilingual.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a document connected to the World Wide Web and viewable by anyone connected to the internet who has a web browser",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0698",
+  "unit": 18,
+  "headword": "acceptance",
+  "ipa": "әk'septәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 接受, 接納, 承認, 同意, 贊同, 容忍, 相信\n[經] 承兌, 認付, (工程)驗收",
+  "forms": {
+   "plural": "acceptances"
+  },
+  "examples": [
+   {
+    "en": "Is Yanni seeking acceptance?",
+    "zh": null
+   },
+   {
+    "en": "Is there peace in acceptance?",
+    "zh": null
+   },
+   {
+    "en": "Tom gave an acceptance speech.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "credence",
+   "adoption",
+   "acceptation",
+   "espousal"
+  ],
+  "antonyms": [
+   "rejection"
+  ],
+  "phrases": null,
+  "defsEn": "the mental attitude that something is believable and should be accepted as true",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0699",
+  "unit": 18,
+  "headword": "allocate",
+  "ipa": "'ælәukeit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 分派, 分配\n[計] 分配",
+  "forms": {
+   "pp": "allocated",
+   "ing": "allocating",
+   "thirdSg": "allocates",
+   "past": "allocated"
+  },
+  "examples": [
+   {
+    "en": "Try to allocate time well.",
+    "zh": null
+   },
+   {
+    "en": "We cannot allocate money for it.",
+    "zh": null
+   },
+   {
+    "en": "Allocate a room for research purposes.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "apportion"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "distribute according to a plan or set apart for a special purpose",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0700",
+  "unit": 18,
+  "headword": "ambitious",
+  "ipa": "æm'biʃәs",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 有野心的, 抱負不凡的, 雄心勃勃的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The difference between bragging and being ambitious is miniscule.",
+    "zh": "吹噓與雄心的差別甚小。"
+   },
+   {
+    "en": "I'm someone ambitious - someone who knows very well what he is after.",
+    "zh": "我是有志向的人——清楚自己的目標。"
+   },
+   {
+    "en": "I'm someone ambitious - someone who knows very well what she is after.",
+    "zh": "我是有志向的人——清楚自己的目標。"
+   }
+  ],
+  "synonyms": [
+   "challenging"
+  ],
+  "antonyms": [
+   "unambitious"
+  ],
+  "phrases": null,
+  "defsEn": "having a strong desire for success or achievement",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0701",
+  "unit": 18,
+  "headword": "appendix",
+  "ipa": "ә'pendiks",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 附錄, 附加物, 闌尾\n[化] 增補",
+  "forms": {
+   "plural": "appendices"
+  },
+  "examples": [
+   {
+    "en": "I had my appendix removed.",
+    "zh": null
+   },
+   {
+    "en": "The appendix is of no use.",
+    "zh": null
+   },
+   {
+    "en": "He had his appendix removed.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "supplementary material that is collected and appended at the back of a book",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0702",
+  "unit": 18,
+  "headword": "booth",
+  "ipa": "bu:θ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 亭, 攤棚\n[經] 貨攤, 電話間",
+  "forms": {
+   "plural": "booths"
+  },
+  "examples": [
+   {
+    "en": "Where's the nearest telephone booth?",
+    "zh": "最近的電話亭在哪裡？"
+   },
+   {
+    "en": "Telephone booths are as scarce as hen's teeth around here.",
+    "zh": "這裡附近的電話亭少得可憐。"
+   },
+   {
+    "en": "Tom ran and ran, until at last he saw the telephone booth.",
+    "zh": "湯姆跑啊跑, 直到他終於看到了電話亭。"
+   }
+  ],
+  "synonyms": [
+   "cubicle",
+   "stall",
+   "kiosk"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a table (in a restaurant or bar) surrounded by two high-backed benches",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0703",
+  "unit": 18,
+  "headword": "clarify",
+  "ipa": "'klærifai",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 澄清, 闡明\nvt. 使明晰",
+  "forms": {
+   "pp": "clarified",
+   "ing": "clarifying",
+   "thirdSg": "clarifies",
+   "past": "clarified"
+  },
+  "examples": [
+   {
+    "en": "I appreciate your help in clarifying this.",
+    "zh": "感謝你幫我解釋明白。"
+   },
+   {
+    "en": "Let me clarify that.",
+    "zh": null
+   },
+   {
+    "en": "Can you clarify that?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "elucidate"
+  ],
+  "antonyms": [
+   "obfuscate"
+  ],
+  "phrases": null,
+  "defsEn": "make clear and (more) comprehensible",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0704",
+  "unit": 18,
+  "headword": "classmate",
+  "ipa": "'klɑ:smeit",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 同班同學",
+  "forms": {
+   "plural": "classmates"
+  },
+  "examples": [
+   {
+    "en": "We are classmates.",
+    "zh": "我們是同學。"
+   },
+   {
+    "en": "He is my classmate.",
+    "zh": "他是我的同班同學。"
+   },
+   {
+    "en": "She's my classmate.",
+    "zh": "她是我的同學。"
+   }
+  ],
+  "synonyms": [
+   "schoolmate",
+   "schoolfellow"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an acquaintance that you go to school with",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0705",
+  "unit": 18,
+  "headword": "compile",
+  "ipa": "kәm'pail",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 編譯, 編輯, 編纂, 收集\n[計] 編譯",
+  "forms": {
+   "pp": "compiled",
+   "ing": "compiling",
+   "past": "compiled",
+   "thirdSg": "compiles"
+  },
+  "examples": [
+   {
+    "en": "I'm having some problems compiling this software.",
+    "zh": "我編譯這個程式有些困難。"
+   },
+   {
+    "en": "Compiling a dictionary demands an enormous amount of time.",
+    "zh": "編字典是一項極花時間的工作。"
+   },
+   {
+    "en": "Tom compiled a list.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "collect",
+   "accumulate",
+   "amass",
+   "hoard",
+   "compose"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "get or gather together",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0706",
+  "unit": 18,
+  "headword": "correction",
+  "ipa": "kә'rekʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 訂正, 改正, 改正的地方\n[化] 校正",
+  "forms": {
+   "plural": "corrections"
+  },
+  "examples": [
+   {
+    "en": "Thank you for the corrections.",
+    "zh": "謝謝你的修改。"
+   },
+   {
+    "en": "A proper test does not allow the use of correction fluid.",
+    "zh": "正規的考試不允許使用塗改液。"
+   },
+   {
+    "en": "My correction fluid has run out, so now I only write in pencil.",
+    "zh": "我的塗改液用完了，現在寫字只用鉛筆。"
+   }
+  ],
+  "synonyms": [
+   "rectification"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of offering an improvement to replace a mistake; setting right",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0707",
+  "unit": 18,
+  "headword": "customize",
+  "ipa": "kʌstәmaiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 定製, 按規格改制, 定做\n[計] 定製",
+  "forms": {
+   "pp": "customized",
+   "ing": "customizing",
+   "past": "customized",
+   "thirdSg": "customizes"
+  },
+  "examples": [
+   {
+    "en": "Can I customize it?",
+    "zh": null
+   },
+   {
+    "en": "I want to customize my car.",
+    "zh": null
+   },
+   {
+    "en": "A burrito can be customized.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "custom-make",
+   "customise",
+   "tailor-make"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make to specifications",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0708",
+  "unit": 18,
+  "headword": "dedication",
+  "ipa": ".dedi'keiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 奉獻, 獻身, 獻辭\n[計] 專用",
+  "forms": {
+   "plural": "dedications"
+  },
+  "examples": [
+   {
+    "en": "Hard work and dedication will bring you success.",
+    "zh": "努力和敬業會讓你成功。"
+   },
+   {
+    "en": "I admire his dedication.",
+    "zh": null
+   },
+   {
+    "en": "I admire your dedication.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "commitment"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "complete and wholehearted fidelity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0709",
+  "unit": 18,
+  "headword": "diagnose",
+  "ipa": "'daiәgnәuz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 診斷",
+  "forms": {
+   "pp": "diagnosed",
+   "past": "diagnosed",
+   "ing": "diagnosing",
+   "thirdSg": "diagnoses",
+   "plural": "diagnoses"
+  },
+  "examples": [
+   {
+    "en": "People “diagnosed” with “Internet addiction” are nearly always diagnosed with other difficulties as well.",
+    "zh": "診斷患有“網路成癮症”的人差不多總是也有其他的困難。"
+   },
+   {
+    "en": "Tom was diagnosed with ADHD.",
+    "zh": null
+   },
+   {
+    "en": "Tom was diagnosed with autism.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "name"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "determine or distinguish the nature of a problem or an illness through a diagnostic analysis",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0710",
+  "unit": 18,
+  "headword": "discontinue",
+  "ipa": ".diskәn'tinju:",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 中斷, 終止, 停止\nvt. 使中止",
+  "forms": {
+   "pp": "discontinued",
+   "past": "discontinued",
+   "ing": "discontinuing",
+   "thirdSg": "discontinues"
+  },
+  "examples": [
+   {
+    "en": "The project was discontinued.",
+    "zh": null
+   },
+   {
+    "en": "That model has been discontinued.",
+    "zh": null
+   },
+   {
+    "en": "The project has been discontinued.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "stop",
+   "cease",
+   "quit",
+   "break"
+  ],
+  "antonyms": [
+   "continue"
+  ],
+  "phrases": null,
+  "defsEn": "put an end to a state or an activity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0711",
+  "unit": 18,
+  "headword": "dishwasher",
+  "ipa": "'diʃwɒʃә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 洗碗機, 洗碗工",
+  "forms": {
+   "plural": "dishwashers"
+  },
+  "examples": [
+   {
+    "en": "We don't have a dishwasher.",
+    "zh": "我們沒有洗碗機。"
+   },
+   {
+    "en": "The kitchen lacks a dishwasher.",
+    "zh": "廚房裡缺少一臺洗碗機。"
+   },
+   {
+    "en": "Sami put the rusty fork in the dishwasher.",
+    "zh": "薩米將生鏽的叉子放進了洗碗機。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a machine for washing dishes",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0712",
+  "unit": 18,
+  "headword": "drought",
+  "ipa": "draut",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 乾旱, 缺乏",
+  "forms": {
+   "plural": "droughts"
+  },
+  "examples": [
+   {
+    "en": "During droughts, farmers are barely able to eke out a living.",
+    "zh": "發生旱災的時候，農民很難維持生計。"
+   },
+   {
+    "en": "Last year the region was visited by the worst drought in 60 years.",
+    "zh": "去年那個地區遭受了60年來最嚴重的乾旱。"
+   },
+   {
+    "en": "The drought is over.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "drouth"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a shortage of rainfall",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0713",
+  "unit": 18,
+  "headword": "economize",
+  "ipa": "i'kɒnәmaiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 節約, 節省, 有效地利用",
+  "forms": {
+   "ing": "economizing",
+   "past": "economized",
+   "thirdSg": "economizes",
+   "pp": "economized"
+  },
+  "examples": [
+   {
+    "en": "Let's economize on time.",
+    "zh": null
+   },
+   {
+    "en": "We don't economize on food in our school.",
+    "zh": null
+   },
+   {
+    "en": "Living is dear, accordingly we have to economize.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "conserve",
+   "husband",
+   "economise",
+   "save"
+  ],
+  "antonyms": [
+   "waste"
+  ],
+  "phrases": null,
+  "defsEn": "use cautiously and frugally",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0714",
+  "unit": 18,
+  "headword": "entree",
+  "ipa": "'ɒntrei",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 入場許可, 主菜",
+  "forms": {
+   "plural": "entrees"
+  },
+  "examples": [
+   {
+    "en": "The entree is cold.",
+    "zh": null
+   },
+   {
+    "en": "Tom mistakenly ate his entree with his salad fork.",
+    "zh": null
+   },
+   {
+    "en": "In many restaurants in Turkey, kebab is the main entree.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "access",
+   "accession",
+   "admission",
+   "admittance",
+   "entrance"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the principal dish of a meal",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0715",
+  "unit": 18,
+  "headword": "firework",
+  "ipa": "ˈfaɪrˌwərk",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 煙火具, 煙火, 煙火訊號彈, 焰火, 激情的表現",
+  "forms": {
+   "plural": "fireworks"
+  },
+  "examples": [
+   {
+    "en": "These fireworks are spectacular!",
+    "zh": "這些焰火真壯觀！"
+   },
+   {
+    "en": "The sky was ablaze with fireworks.",
+    "zh": "天空被焰火點亮。"
+   },
+   {
+    "en": "It's easy to see the fireworks from over there.",
+    "zh": "從那兒很容易就能看到焰火。"
+   }
+  ],
+  "synonyms": [
+   "pyrotechnic"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(usually plural) a device with an explosive that burns at a low rate and with colored flames; can be used to illuminate areas or send signals etc.",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0716",
+  "unit": 18,
+  "headword": "freight",
+  "ipa": "'freit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 船貨, 運費, 貨運\nvt. 裝貨, 使充滿, 以貨運運送, 租(或出租)(船等)",
+  "forms": {
+   "plural": "freights",
+   "pp": "freighted",
+   "ing": "freighting",
+   "past": "freighted",
+   "thirdSg": "freights"
+  },
+  "examples": [
+   {
+    "en": "Has the freight arrived yet?",
+    "zh": null
+   },
+   {
+    "en": "Ziri boarded a freight train.",
+    "zh": null
+   },
+   {
+    "en": "Gustavo took a freight train.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "cargo",
+   "lading",
+   "load",
+   "loading",
+   "payload"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "goods carried by a large vehicle",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0717",
+  "unit": 18,
+  "headword": "fry",
+  "ipa": "frai",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 油炸食物, 魚苗\nv. 油炸, 煎",
+  "forms": {
+   "plural": "fries",
+   "ing": "frying",
+   "pp": "fried",
+   "past": "fried",
+   "thirdSg": "fries"
+  },
+  "examples": [
+   {
+    "en": "I ate french fries.",
+    "zh": "我吃了炸薯條。"
+   },
+   {
+    "en": "I am eating fried fish.",
+    "zh": "我正在吃炸魚。"
+   },
+   {
+    "en": "I'm eating french fries.",
+    "zh": "我在吃薯條。"
+   }
+  ],
+  "synonyms": [
+   "child",
+   "kid",
+   "youngster",
+   "minor",
+   "shaver"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "English painter and art critic (1866-1934)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0718",
+  "unit": 18,
+  "headword": "gallon",
+  "ipa": "'gælәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 加侖\n[醫] 加侖",
+  "forms": {
+   "plural": "gallons"
+  },
+  "examples": [
+   {
+    "en": "Five gallons of regular, please.",
+    "zh": "請照平常一樣五加侖。"
+   },
+   {
+    "en": "Pick up a gallon of milk.",
+    "zh": null
+   },
+   {
+    "en": "Tom bought 30 gallons of gas.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "gal",
+   "congius"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "United States liquid unit equal to 4 quarts or 3.785 liters",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0719",
+  "unit": 18,
+  "headword": "gardener",
+  "ipa": "'gɑ:dәnә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 園丁, 花匠, 園藝家",
+  "forms": {
+   "plural": "gardeners"
+  },
+  "examples": [
+   {
+    "en": "The gardener turned out to be the murderer.",
+    "zh": "園丁後來發現就是兇手。"
+   },
+   {
+    "en": "The gardener planted a rose tree in the middle of the garden.",
+    "zh": "園丁在花園的中央種了一棵玫瑰樹。"
+   },
+   {
+    "en": "Tom is a gardener.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "nurseryman"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who takes care of a garden",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0720",
+  "unit": 18,
+  "headword": "ideally",
+  "ipa": "ai'diәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 完美地, 理想地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Ideally, a candidate for this job should have four years' work experience.",
+    "zh": "我們希望應聘者能有4年工作經驗。"
+   },
+   {
+    "en": "Ideally, everyone would be prosperous.",
+    "zh": null
+   },
+   {
+    "en": "Ideally we would like the project completed by Friday.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "in an ideal manner",
+  "note": null,
+  "audioUrl": null
+ }
+]

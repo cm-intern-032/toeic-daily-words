@@ -1,0 +1,1503 @@
+[
+ {
+  "id": "w1041",
+  "unit": 27,
+  "headword": "cushion",
+  "ipa": "'kuʃәn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 墊子, 橡皮軟墊\nvt. 加墊褥, 緩衝, 掩蓋",
+  "forms": {
+   "plural": "cushions",
+   "pp": "cushioned",
+   "past": "cushioned",
+   "ing": "cushioning",
+   "thirdSg": "cushions"
+  },
+  "examples": [
+   {
+    "en": "She hugged a cushion.",
+    "zh": null
+   },
+   {
+    "en": "Do you need a cushion?",
+    "zh": null
+   },
+   {
+    "en": "Tom has a Pikachu cushion.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "shock"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a mechanical damper; absorbs energy of sudden impulses",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1042",
+  "unit": 27,
+  "headword": "dose",
+  "ipa": "dәus",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 劑量, 服用量\nvt. 給藥, (用藥)醫治\nvi. 服藥",
+  "forms": {
+   "plural": "doses",
+   "pp": "dosed",
+   "ing": "dosing",
+   "past": "dosed",
+   "thirdSg": "doses"
+  },
+  "examples": [
+   {
+    "en": "It's a lethal dose.",
+    "zh": null
+   },
+   {
+    "en": "What dose is required?",
+    "zh": null
+   },
+   {
+    "en": "Take it in small doses.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "dosage",
+   "VD",
+   "STD"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a measured portion of medicine taken at any one time",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1043",
+  "unit": 27,
+  "headword": "drum",
+  "ipa": "drʌm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 鼓, 鼓聲\nvi. 擊鼓, 作鼓聲\nvt. 打鼓奏出\n[計] 磁鼓",
+  "forms": {
+   "plural": "drums",
+   "past": "drummed",
+   "pp": "drummed",
+   "ing": "drumming",
+   "thirdSg": "drums"
+  },
+  "examples": [
+   {
+    "en": "The drum faded away.",
+    "zh": "鼓聲漸漸地消失。"
+   },
+   {
+    "en": "She can play the drum.",
+    "zh": "她會打鼓。"
+   },
+   {
+    "en": "Tom plays the bongo drums.",
+    "zh": "湯姆會打邦哥鼓。"
+   }
+  ],
+  "synonyms": [
+   "membranophone",
+   "tympan",
+   "barrel"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1044",
+  "unit": 27,
+  "headword": "embed",
+  "ipa": "im'bed",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使插入, 使嵌入, 使深留腦中\n[計] 嵌入",
+  "forms": {
+   "pp": "embedded",
+   "ing": "embedding",
+   "thirdSg": "embeds",
+   "past": "embedded"
+  },
+  "examples": [
+   {
+    "en": "The scene was embedded in his memory.",
+    "zh": null
+   },
+   {
+    "en": "Ivan had a chip embedded in his skin.",
+    "zh": null
+   },
+   {
+    "en": "A knife was embedded in Layla's chest.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "implant",
+   "engraft",
+   "imbed",
+   "plant"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "fix or set securely or deeply",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1045",
+  "unit": 27,
+  "headword": "evacuate",
+  "ipa": "i'vækjueit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 疏散, 撤出, 排洩",
+  "forms": {
+   "pp": "evacuated",
+   "ing": "evacuating",
+   "past": "evacuated",
+   "thirdSg": "evacuates"
+  },
+  "examples": [
+   {
+    "en": "People were evacuated because of the flood.",
+    "zh": "人們因為洪水被疏散了。"
+   },
+   {
+    "en": "The people were evacuated because of the flood.",
+    "zh": "人們因為洪水被疏散了。"
+   },
+   {
+    "en": "We have less than five minutes to evacuate the whole building.",
+    "zh": "我們有不到五分鐘來疏散整棟樓的人。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "move out of an unsafe location into safety",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1046",
+  "unit": 27,
+  "headword": "expedite",
+  "ipa": "'ekspidait",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "defsZh": "vt. 加快, 促進, 發出\na. 暢通的, 無阻礙的, 迅速的, 方便的",
+  "forms": {
+   "ing": "expediting",
+   "past": "expedited",
+   "thirdSg": "expedites",
+   "pp": "expedited"
+  },
+  "examples": [
+   {
+    "en": "Would you like expedited shipping?",
+    "zh": null
+   },
+   {
+    "en": "We're trying to expedite the process.",
+    "zh": null
+   },
+   {
+    "en": "Would you like to expedite this order?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "hasten"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "speed up the progress of; facilitate",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1047",
+  "unit": 27,
+  "headword": "extinguisher",
+  "ipa": "ik'stiŋ^wiʃә(r)",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 熄滅者, 滅火器, 消滅者\n[化] 滅火器; 滅火劑",
+  "forms": {
+   "plural": "extinguishers"
+  },
+  "examples": [
+   {
+    "en": "Tom used a fire extinguisher to try and put the fire out.",
+    "zh": "湯姆試著用滅火器把火撲滅。"
+   },
+   {
+    "en": "Bring a fire extinguisher!",
+    "zh": null
+   },
+   {
+    "en": "Get me a fire extinguisher.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "asphyxiator"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a manually operated device for extinguishing small fires",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1048",
+  "unit": 27,
+  "headword": "familiarity",
+  "ipa": "fә.mili'æriti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 熟悉, 精通, 親密",
+  "forms": {
+   "plural": "familiarities"
+  },
+  "examples": [
+   {
+    "en": "I wouldn't permit such familiarity.",
+    "zh": null
+   },
+   {
+    "en": "Familiarity breeds contempt and children.",
+    "zh": null
+   },
+   {
+    "en": "Love's intensity can wane as familiarity grows.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "acquaintance",
+   "conversance",
+   "conversancy",
+   "intimacy",
+   "closeness"
+  ],
+  "antonyms": [
+   "unfamiliarity"
+  ],
+  "phrases": null,
+  "defsEn": "personal knowledge or information about someone or something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1049",
+  "unit": 27,
+  "headword": "flaw",
+  "ipa": "flɒ:",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 缺點, 裂紋, 瑕疵, 一陣狂風\n[化] 劃痕; 裂縫; 裂紋",
+  "forms": {
+   "plural": "flaws",
+   "ing": "flawing",
+   "past": "flawed",
+   "thirdSg": "flaws",
+   "pp": "flawed"
+  },
+  "examples": [
+   {
+    "en": "The design itself is flawed.",
+    "zh": "設計本身有問題。"
+   },
+   {
+    "en": "Although she has flaws, I still like her.",
+    "zh": "雖然她有缺點，但我喜歡她。"
+   },
+   {
+    "en": "I can't find a single flaw in his theory.",
+    "zh": "我在他的理論中找不到任何問題。"
+   }
+  ],
+  "synonyms": [
+   "defect",
+   "fault"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an imperfection in an object or machine",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1050",
+  "unit": 27,
+  "headword": "fluctuate",
+  "ipa": "'flʌktʃueit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 變動, 起伏, 動搖\nvt. 使波動, 使動搖",
+  "forms": {
+   "past": "fluctuated",
+   "thirdSg": "fluctuates",
+   "pp": "fluctuated",
+   "ing": "fluctuating"
+  },
+  "examples": [
+   {
+    "en": "The price of gold fluctuates daily.",
+    "zh": "黃金的價格每天波動。"
+   },
+   {
+    "en": "The policy fluctuated between two opinions.",
+    "zh": "該政策在兩種意見之間搖擺。"
+   },
+   {
+    "en": "Her weight fluctuates like crazy.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "vacillate",
+   "waver"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "cause to fluctuate or move in a wavelike pattern",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1051",
+  "unit": 27,
+  "headword": "fluent",
+  "ipa": "'flu:әnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 流利的, 流暢的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He is fluent in French.",
+    "zh": "他說法語說得很流利。"
+   },
+   {
+    "en": "He is fluent in Chinese.",
+    "zh": "他能說流利的中文。"
+   },
+   {
+    "en": "He's fluent in Japanese.",
+    "zh": "他能講流利的日語。"
+   }
+  ],
+  "synonyms": [
+   "fluid",
+   "liquid",
+   "smooth",
+   "eloquent",
+   "facile"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "smooth and unconstrained in movement",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1052",
+  "unit": 27,
+  "headword": "honestly",
+  "ipa": "'ɒnistli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 真誠地, 公正地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Honestly, I really like you.",
+    "zh": "說實在的，我真的喜歡你。"
+   },
+   {
+    "en": "Honestly, I also want to learn Japanese.",
+    "zh": "其實我也想學日語。"
+   },
+   {
+    "en": "I may look strong, but I'm honestly not.",
+    "zh": "我看上去像是很有力氣的人，可實際上並非如此。"
+   }
+  ],
+  "synonyms": [
+   "candidly",
+   "frankly",
+   "aboveboard"
+  ],
+  "antonyms": [
+   "dishonestly"
+  ],
+  "phrases": null,
+  "defsEn": "(used as intensives reflecting the speaker's attitude) it is sincerely the case that",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1053",
+  "unit": 27,
+  "headword": "housekeep",
+  "ipa": "'hauski:p",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 自立門戶, 主持家務",
+  "forms": {
+   "thirdSg": "housekeeps",
+   "ing": "housekeeping",
+   "past": "housekept",
+   "pp": "housekept"
+  },
+  "examples": [
+   {
+    "en": "She was doing the housekeeping.",
+    "zh": null
+   },
+   {
+    "en": "Karl didn't order housekeeping.",
+    "zh": null
+   },
+   {
+    "en": "Mennad was doing the housekeeping.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "maintain a household; take care of all business related to a household",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1054",
+  "unit": 27,
+  "headword": "hurricane",
+  "ipa": "'hә:rikәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 颶風, 暴風, 暴風雨",
+  "forms": {
+   "plural": "hurricanes"
+  },
+  "examples": [
+   {
+    "en": "After the hurricane, their house was a wreck.",
+    "zh": "暴風雨過後，他們的房子成了廢墟。"
+   },
+   {
+    "en": "Hurricane Sandy is coming.",
+    "zh": null
+   },
+   {
+    "en": "Hurricanes are violent storms.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1055",
+  "unit": 27,
+  "headword": "hygiene",
+  "ipa": "'haidʒi:n",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 衛生保健, 衛生學, 保健法\n[醫] 衛生, 衛生學",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom has poor hygiene.",
+    "zh": null
+   },
+   {
+    "en": "We need good hygiene.",
+    "zh": null
+   },
+   {
+    "en": "Yanni sells hygiene products.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "hygienics"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a condition promoting sanitary practices",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1056",
+  "unit": 27,
+  "headword": "integral",
+  "ipa": "'intigrәl",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 整體, 積分, 整數\na. 固有的, 整體的, 整數的, 積分的\n[計] 積分",
+  "forms": {
+   "plural": "integrals"
+  },
+  "examples": [
+   {
+    "en": "Death is an integral part of life.",
+    "zh": null
+   },
+   {
+    "en": "Taiwan is an integral part of China.",
+    "zh": null
+   },
+   {
+    "en": "Fluence is the time integral of flux.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "built-in",
+   "constitutional",
+   "inbuilt",
+   "inherent",
+   "entire"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the result of a mathematical integration; F(x) is the integral of f(x) if dF/dx = f(x)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1057",
+  "unit": 27,
+  "headword": "interactive",
+  "ipa": ",intәr'æktiv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 相互作用的, 相互影響的\n[計] 互動, 人機對話的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This is more interactive.",
+    "zh": null
+   },
+   {
+    "en": "Our course uses an interactive method.",
+    "zh": null
+   },
+   {
+    "en": "Jonas created an interactive hologram.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "synergistic",
+   "interactional"
+  ],
+  "antonyms": [
+   "antagonistic"
+  ],
+  "phrases": null,
+  "defsEn": "used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1058",
+  "unit": 27,
+  "headword": "interfere",
+  "ipa": ".intә'fiә",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 妨礙, 衝突, 干涉, 牴觸\n[醫] 干擾, 干涉, 阻礙, 碰腿(馬)",
+  "forms": {
+   "ing": "interfering",
+   "pp": "interfered",
+   "thirdSg": "interferes",
+   "past": "interfered"
+  },
+  "examples": [
+   {
+    "en": "I had no right to interfere.",
+    "zh": "我沒有權利干涉。"
+   },
+   {
+    "en": "Tom won't interfere with you.",
+    "zh": "湯姆不會干涉你的。"
+   },
+   {
+    "en": "Don't interfere in my affairs.",
+    "zh": "不要插手我的事。"
+   }
+  ],
+  "synonyms": [
+   "intervene",
+   "interpose"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "come between so as to be hindrance or obstacle",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1059",
+  "unit": 27,
+  "headword": "kilogram",
+  "ipa": "'kilәgræm",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 千克, 公斤\n[醫] 千克, 公斤",
+  "forms": {
+   "plural": "kilograms"
+  },
+  "examples": [
+   {
+    "en": "I lost three kilograms.",
+    "zh": "我瘦了三公斤。"
+   },
+   {
+    "en": "Are you over 60 kilograms?",
+    "zh": "你達到 60 公斤重了嗎？"
+   },
+   {
+    "en": "Rice is sold by the kilogram.",
+    "zh": "米以公斤為單位來出售。"
+   }
+  ],
+  "synonyms": [
+   "kg",
+   "kilo"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "one thousand grams; the basic unit of mass adopted under the Systeme International d'Unites",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1060",
+  "unit": 27,
+  "headword": "layoff",
+  "ipa": "'leiɒf",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 臨時解僱, 操作停止, 活動停止期間",
+  "forms": {
+   "plural": "layoffs"
+  },
+  "examples": [
+   {
+    "en": "The company announced hundreds of layoffs.",
+    "zh": null
+   },
+   {
+    "en": "The scuttlebutt is that layoffs are coming.",
+    "zh": null
+   },
+   {
+    "en": "Fortunately, the organizational changes did not involve any layoffs.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of laying off an employee or a work force",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1061",
+  "unit": 27,
+  "headword": "lightweight",
+  "ipa": "'laitweit",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 不到平均重量的人/物, 輕量級, 無足輕重的人, 性格不夠強的人\na. 平均重量以下的, 重量輕的\n[計] 輕便的, 輕量的",
+  "forms": {
+   "plural": "lightweights"
+  },
+  "examples": [
+   {
+    "en": "Tom is a lightweight.",
+    "zh": null
+   },
+   {
+    "en": "The rifle is lightweight.",
+    "zh": null
+   },
+   {
+    "en": "It's compact and lightweight.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "whippersnapper",
+   "jackanapes"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a professional boxer who weighs between 131 and 135 pounds",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1062",
+  "unit": 27,
+  "headword": "merit",
+  "ipa": "'merit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 優點, 功績, 價值, 功過, 真相\nvt. 值得\nvi. 應受",
+  "forms": {
+   "plural": "merits",
+   "thirdSg": "merits",
+   "past": "merited",
+   "pp": "merited",
+   "ing": "meriting"
+  },
+  "examples": [
+   {
+    "en": "With all her merits she was not proud.",
+    "zh": "她不自豪她所有的優點。"
+   },
+   {
+    "en": "Charms strike the sight, but merit wins the soul.",
+    "zh": "魅力衝擊視覺，美德征服心靈。"
+   },
+   {
+    "en": "Does she have any merit?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "virtue",
+   "deservingness",
+   "meritoriousness",
+   "deserve"
+  ],
+  "antonyms": [
+   "demerit"
+  ],
+  "phrases": null,
+  "defsEn": "any admirable quality or attribute",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1063",
+  "unit": 27,
+  "headword": "necklace",
+  "ipa": "'neklis",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 項鍊",
+  "forms": {
+   "plural": "necklaces",
+   "past": "necklaced",
+   "ing": "necklacing"
+  },
+  "examples": [
+   {
+    "en": "My nan gave me this necklace.",
+    "zh": "這條項鍊是我奶奶送給我的。"
+   },
+   {
+    "en": "My grandma gave me this necklace.",
+    "zh": "這條項鍊是我奶奶送給我的。"
+   },
+   {
+    "en": "Tom found Mary's necklace under the sofa.",
+    "zh": "在沙發下，湯姆找到了瑪麗的項鍊。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1064",
+  "unit": 27,
+  "headword": "needy",
+  "ipa": "'ni:di",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 貧窮的, 貧困的, 生活艱苦的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom is too needy.",
+    "zh": null
+   },
+   {
+    "en": "Tom is very needy.",
+    "zh": null
+   },
+   {
+    "en": "God helps the needy.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "destitute",
+   "impoverished",
+   "indigent",
+   "necessitous",
+   "poverty-stricken"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "needy people collectively",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1065",
+  "unit": 27,
+  "headword": "overpay",
+  "ipa": ".әuvә'pei",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 多付, 多給報酬\nvi. 付得過多",
+  "forms": {
+   "pp": "overpaid",
+   "past": "overpaid",
+   "ing": "overpaying",
+   "thirdSg": "overpays"
+  },
+  "examples": [
+   {
+    "en": "I think Tom overpaid.",
+    "zh": null
+   },
+   {
+    "en": "I think Tom is overpaid.",
+    "zh": null
+   },
+   {
+    "en": "Sami is overpaid on hours.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "underpay"
+  ],
+  "phrases": null,
+  "defsEn": "pay too much",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1066",
+  "unit": 27,
+  "headword": "pamphlet",
+  "ipa": "'pæmflit",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 小冊子, 活頁文選",
+  "forms": {
+   "plural": "pamphlets"
+  },
+  "examples": [
+   {
+    "en": "This pamphlet is free of charge.",
+    "zh": "這本小冊子是免費的。"
+   },
+   {
+    "en": "Tom gave me a pamphlet.",
+    "zh": null
+   },
+   {
+    "en": "He studied the pamphlet.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "booklet",
+   "brochure",
+   "folder",
+   "leaflet",
+   "tract"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a small book usually having a paper cover",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1067",
+  "unit": 27,
+  "headword": "partial",
+  "ipa": "'pɑ:ʃәl",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 部分的, 偏袒的, 偏愛的\nn. 分音",
+  "forms": {
+   "plural": "partials"
+  },
+  "examples": [
+   {
+    "en": "It was only a partial success.",
+    "zh": "那只是部分的成功。"
+   },
+   {
+    "en": "Departure is a partial death but death in essence is not only departure.",
+    "zh": "離開是部分的死亡，而死亡不僅僅是離開。"
+   },
+   {
+    "en": "It was a partial success.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "overtone"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the derivative of a function of two or more variables with respect to a single variable while the other variables are considered to be constant",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1068",
+  "unit": 27,
+  "headword": "penalize",
+  "ipa": "'pi:nәlaiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 處刑, 對...處罰(刑), 使不利\n[法] 處罰, 對...處以刑事懲罰",
+  "forms": {
+   "pp": "penalized",
+   "thirdSg": "penalizes",
+   "past": "penalized",
+   "ing": "penalizing"
+  },
+  "examples": [
+   {
+    "en": "Will Tom be penalized?",
+    "zh": null
+   },
+   {
+    "en": "Tom was later penalized.",
+    "zh": null
+   },
+   {
+    "en": "Tom could be penalized for that.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "punish",
+   "penalise"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "impose a penalty on; inflict punishment on",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1069",
+  "unit": 27,
+  "headword": "pollute",
+  "ipa": "pә'lu:t",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 汙染, 弄髒, 玷汙\n[化] 汙染",
+  "forms": {
+   "ing": "polluting",
+   "pp": "polluted",
+   "thirdSg": "pollutes",
+   "past": "polluted"
+  },
+  "examples": [
+   {
+    "en": "This water was polluted by oil.",
+    "zh": "這水被石油汙染了。"
+   },
+   {
+    "en": "Sewage often pollutes the ocean.",
+    "zh": "廢水經常汙染海洋。"
+   },
+   {
+    "en": "The air was polluted by exhaust gas.",
+    "zh": "空氣被廢氣汙染了。"
+   }
+  ],
+  "synonyms": [
+   "foul",
+   "contaminate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make impure",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1070",
+  "unit": 27,
+  "headword": "prescribe",
+  "ipa": "pris'kraib",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 規定, 指定, 囑咐, 開處方",
+  "forms": {
+   "pp": "prescribed",
+   "ing": "prescribing",
+   "thirdSg": "prescribes",
+   "past": "prescribed"
+  },
+  "examples": [
+   {
+    "en": "Let's see what fate has prescribed.",
+    "zh": "看緣分吧。"
+   },
+   {
+    "en": "The doctor has prescribed you medicine.",
+    "zh": "醫生給您開了藥。"
+   },
+   {
+    "en": "The physician prescribed his patient some medicine.",
+    "zh": "醫生給他的病人開了一些藥。"
+   }
+  ],
+  "synonyms": [
+   "order",
+   "dictate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "issue commands or orders for",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1071",
+  "unit": 27,
+  "headword": "probable",
+  "ipa": "'prɒbәbl",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 很可能的, 大概的, 可信的\nn. 很有希望的候選人, 很可能的事情",
+  "forms": {
+   "plural": "probables"
+  },
+  "examples": [
+   {
+    "en": "When will the most probable hypothetical accident occur?",
+    "zh": "最大可能假想事故什麼時候會發生？"
+   },
+   {
+    "en": "It is highly probable that the deletion of element C will still yield the same result.",
+    "zh": "很有可能去掉C元素會得出同樣的結果。"
+   },
+   {
+    "en": "It is probable that he is ill.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "likely"
+  ],
+  "antonyms": [
+   "improbable"
+  ],
+  "phrases": null,
+  "defsEn": "an applicant likely to be chosen",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1072",
+  "unit": 27,
+  "headword": "prominent",
+  "ipa": "'prɒminәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 卓越的, 顯著的, 突出的, 凸出的",
+  "forms": {
+   "plural": "prominents"
+  },
+  "examples": [
+   {
+    "en": "Prominent figures in the literary world gathered together last night.",
+    "zh": "知名文學界人士昨晚齊聚一堂。"
+   },
+   {
+    "en": "Sartre was a prominent sociologist.",
+    "zh": null
+   },
+   {
+    "en": "He's famous as a prominent pianist.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "outstanding",
+   "salient",
+   "spectacular",
+   "striking",
+   "big"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "having a quality that thrusts itself into attention",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1073",
+  "unit": 27,
+  "headword": "rainfall",
+  "ipa": "'reinfɒ:l",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 降雨, 降雨量\n[經] 降雨量",
+  "forms": {
+   "plural": "rainfalls"
+  },
+  "examples": [
+   {
+    "en": "We had a heavy rainfall last night.",
+    "zh": "昨晚雨勢很大。"
+   },
+   {
+    "en": "The rainfall was very heavy.",
+    "zh": null
+   },
+   {
+    "en": "We have one pocket of rainfall.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "rain"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "water falling in drops from vapor condensed in the atmosphere",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1074",
+  "unit": 27,
+  "headword": "relocation",
+  "ipa": ".ri:lәu'keiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 再佈置, 變換佈置\n[經] 重新安置",
+  "forms": {
+   "plural": "relocations"
+  },
+  "examples": [
+   {
+    "en": "The couple's relationship slowly began to drift apart after the relocation.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "resettlement",
+   "move"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the transportation of people (as a family or colony) to a new settlement (as after an upheaval of some kind)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1075",
+  "unit": 27,
+  "headword": "residence",
+  "ipa": "'rezidәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 住宅, 居留, 駐紮, 居住期間\n[醫] 住房",
+  "forms": {
+   "plural": "residences"
+  },
+  "examples": [
+   {
+    "en": "Everyone has the right to freedom of movement and residence within the borders of each State.",
+    "zh": "每個人在各國境內均享有遷徙自由與居住自由的權利。"
+   },
+   {
+    "en": "In Beijing, hutongs are alleys formed by lines of siheyuans, the traditional courtyard residences.",
+    "zh": "在北京，衚衕是由四合院的傳統居所排形成。"
+   },
+   {
+    "en": "Is this Tom's residence?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "abode",
+   "residency",
+   "abidance"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "any address at which you dwell more than temporarily",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1076",
+  "unit": 27,
+  "headword": "retrieve",
+  "ipa": "ri'tri:v",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 取回, 挽回, 彌補, 恢復, 補償, 回憶, 檢索\nvi. 找回獵物\nn. 取回, 恢復, 救險球\n[計] 檢索",
+  "forms": {
+   "pp": "retrieved",
+   "ing": "retrieving",
+   "past": "retrieved",
+   "thirdSg": "retrieves"
+  },
+  "examples": [
+   {
+    "en": "I can't retrieve the paper.",
+    "zh": null
+   },
+   {
+    "en": "Dogs like retrieving balls.",
+    "zh": null
+   },
+   {
+    "en": "The dog retrieved the ball.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "recover",
+   "find",
+   "regain"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "get or find back; recover the use of",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1077",
+  "unit": 27,
+  "headword": "rider",
+  "ipa": "'raidә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 騎手, (檔案後的)附件, 扶手\n[化] 遊碼",
+  "forms": {
+   "plural": "riders"
+  },
+  "examples": [
+   {
+    "en": "Tom is a camel rider.",
+    "zh": null
+   },
+   {
+    "en": "The rider is not careful.",
+    "zh": null
+   },
+   {
+    "en": "The rider mounted a horse.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a traveler who actively rides an animal (as a horse or camel)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1078",
+  "unit": 27,
+  "headword": "rubber",
+  "ipa": "'rʌbә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 橡皮, 橡膠, 做摩擦動作的人, 按摩師, 決勝盤\nvt. 用橡膠製造, 塗橡膠於",
+  "forms": {
+   "plural": "rubbers",
+   "ing": "rubbering",
+   "past": "rubbered",
+   "thirdSg": "rubbers",
+   "pp": "rubbered"
+  },
+  "examples": [
+   {
+    "en": "This isn't rubber.",
+    "zh": "這不是橡皮。"
+   },
+   {
+    "en": "Sorry, I won't do it without a rubber.",
+    "zh": "對不起，但是如果不用避孕套的話我不做。"
+   },
+   {
+    "en": "Rubber is not hard: it gives way to pressure.",
+    "zh": "橡皮不硬：它在壓力下會變形。"
+   }
+  ],
+  "synonyms": [
+   "caoutchouc"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1079",
+  "unit": 27,
+  "headword": "rug",
+  "ipa": "rʌg",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 小塊地毯, 揭露某人",
+  "forms": {
+   "plural": "rugs"
+  },
+  "examples": [
+   {
+    "en": "This rug is handmade.",
+    "zh": "這塊地毯是手工製作的。"
+   },
+   {
+    "en": "He never stepped on that rug.",
+    "zh": "他從未踩過那塊地毯。"
+   },
+   {
+    "en": "When I didn't have any money, I only had a rug for a bed.",
+    "zh": "我沒有錢的時候，只能以地毯為床。"
+   }
+  ],
+  "synonyms": [
+   "carpet",
+   "carpeting"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1080",
+  "unit": 27,
+  "headword": "salespeople",
+  "ipa": "'seilz,pi:pl",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 售貨員,店員",
+  "forms": {
+   "plural": "salespeople"
+  },
+  "examples": [
+   {
+    "en": "Good salespeople are hard to find.",
+    "zh": null
+   },
+   {
+    "en": "It's hard to find good salespeople.",
+    "zh": null
+   },
+   {
+    "en": "The salespeople often overcharge me.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "salesperson"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited)",
+  "note": null,
+  "audioUrl": null
+ }
+]

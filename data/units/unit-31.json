@@ -1,0 +1,1399 @@
+[
+ {
+  "id": "w1201",
+  "unit": 31,
+  "headword": "broaden",
+  "ipa": "'brɒ:dn",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 變寬, 擴大\nvt. 放寬, 使擴大",
+  "forms": {
+   "pp": "broadened",
+   "ing": "broadening",
+   "thirdSg": "broadens",
+   "past": "broadened"
+  },
+  "examples": [
+   {
+    "en": "To broaden your view, go see the underground shopping mall beneath People's Square.",
+    "zh": "再要開眼界，去看人民廣場下面的地下商場。"
+   },
+   {
+    "en": "Travel broadens your mind.",
+    "zh": null
+   },
+   {
+    "en": "It has broadened my horizons.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "widen",
+   "extend",
+   "diversify"
+  ],
+  "antonyms": [
+   "specialize",
+   "specialise"
+  ],
+  "phrases": null,
+  "defsEn": "make broader",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1202",
+  "unit": 31,
+  "headword": "bulb",
+  "ipa": "bʌlb",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 球莖, 電燈泡\n[醫] 球, 鱗莖, 球莖",
+  "forms": {
+   "plural": "bulbs"
+  },
+  "examples": [
+   {
+    "en": "A light bulb gives light.",
+    "zh": "燈泡發光。"
+   },
+   {
+    "en": "Three bulbs have burned out.",
+    "zh": "三個燈泡燒壞了。"
+   },
+   {
+    "en": "Yanni put the light bulb in a box.",
+    "zh": "雅尼將燈泡放入箱子。"
+   }
+  ],
+  "synonyms": [
+   "lightbulb"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a modified bud consisting of a thickened globular underground stem serving as a reproductive structure",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1203",
+  "unit": 31,
+  "headword": "by-law",
+  "ipa": null,
+  "pos": null,
+  "defsZh": "[化] (公司、社團等的)內部章程; 附則; 細則\n[經] 公司章程附則",
+  "forms": {
+   "plural": "by-laws"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1204",
+  "unit": 31,
+  "headword": "cheer",
+  "ipa": "tʃiә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 愉快, 振奮, 歡呼\nvi. 歡呼, 喝彩, 快活起來\nvt. 使振奮, 歡呼",
+  "forms": {
+   "plural": "cheers",
+   "ing": "cheering",
+   "pp": "cheered",
+   "past": "cheered",
+   "thirdSg": "cheers"
+  },
+  "examples": [
+   {
+    "en": "The flowers cheered her up.",
+    "zh": "那些花兒安慰了她。"
+   },
+   {
+    "en": "After hearing the news, she cheered up.",
+    "zh": "聽到這個訊息，她開心了起來。"
+   },
+   {
+    "en": "The situation is improving, so cheer up!",
+    "zh": "情況正在改善，所以振作起來！"
+   }
+  ],
+  "synonyms": [
+   "cheerfulness",
+   "sunniness",
+   "sunshine",
+   "hearten",
+   "recreate"
+  ],
+  "antonyms": [
+   "uncheerfulness",
+   "dishearten"
+  ],
+  "phrases": null,
+  "defsEn": "a cry or shout of approval",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1205",
+  "unit": 31,
+  "headword": "complication",
+  "ipa": ".kɒmpli'keiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 複雜化, 複雜情況\n[醫] 併發症, 併發病",
+  "forms": {
+   "plural": "complications"
+  },
+  "examples": [
+   {
+    "en": "The emergence of a third gender has added legal and administrative complications, creating unnecessary burdens.",
+    "zh": "第三性別的出現增加了法律和行政上的麻煩，徒增無謂的負擔。"
+   },
+   {
+    "en": "We have a complication.",
+    "zh": null
+   },
+   {
+    "en": "There was a complication.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act or process of complicating",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1206",
+  "unit": 31,
+  "headword": "considerate",
+  "ipa": "kәn'sidәrit",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 體貼的, 體諒的, 考慮周到的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "You are so considerate.",
+    "zh": "你真體貼。"
+   },
+   {
+    "en": "You were considerate not to disturb us.",
+    "zh": "你考慮周到，沒有打擾我們。"
+   },
+   {
+    "en": "How considerate of you!",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "inconsiderate"
+  ],
+  "phrases": null,
+  "defsEn": "showing concern for the rights and feelings of others",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1207",
+  "unit": 31,
+  "headword": "daytime",
+  "ipa": "'deitaim",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 白天, 日間",
+  "forms": {
+   "plural": "daytimes"
+  },
+  "examples": [
+   {
+    "en": "It was daytime.",
+    "zh": "那時是白天。"
+   },
+   {
+    "en": "The thieves knocked off another bank today in a daytime robbery.",
+    "zh": "今天強盜大白天的就搶了另一家銀行。"
+   },
+   {
+    "en": "The Summer Solstice is the day with the longest daytime hours of the year.",
+    "zh": "夏至是一年中，日晝時間最長的一天。"
+   }
+  ],
+  "synonyms": [
+   "day",
+   "daylight"
+  ],
+  "antonyms": [
+   "night"
+  ],
+  "phrases": null,
+  "defsEn": "the time after sunrise and before sunset while it is light outside",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1208",
+  "unit": 31,
+  "headword": "decoration",
+  "ipa": ".dekә'reiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 裝飾, 裝飾品",
+  "forms": {
+   "plural": "decorations"
+  },
+  "examples": [
+   {
+    "en": "I love the decoration.",
+    "zh": null
+   },
+   {
+    "en": "Sami put up the decorations.",
+    "zh": null
+   },
+   {
+    "en": "I like Christmas decorations.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "ornament",
+   "ornamentation",
+   "medal",
+   "medallion",
+   "palm"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "something used to beautify",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1209",
+  "unit": 31,
+  "headword": "discard",
+  "ipa": "dis'kɑ:d",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 丟棄, 拋棄\nvi. 墊牌\nn. 墊牌, 拋棄",
+  "forms": {
+   "pp": "discarded",
+   "past": "discarded",
+   "ing": "discarding",
+   "thirdSg": "discards",
+   "plural": "discards"
+  },
+  "examples": [
+   {
+    "en": "Discard a card.",
+    "zh": "丟棄一張手牌。"
+   },
+   {
+    "en": "His plan was discarded.",
+    "zh": "他的計劃被駁回了。"
+   },
+   {
+    "en": "No women like to wear a dress that another discarded. With men, they're not so choosy.",
+    "zh": "沒有女人會喜歡穿二手裙子；可是二手男人呢，她們卻照要不誤。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "anything that is cast aside or discarded",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1210",
+  "unit": 31,
+  "headword": "drastically",
+  "ipa": "'dræstikәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 激烈地, 徹底地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Meanwhile, conditions have drastically altered.",
+    "zh": "在這期間，情況發生了巨大變化。"
+   },
+   {
+    "en": "Meanwhile, the circumstances have changed drastically.",
+    "zh": "在這期間，情況發生了巨大變化。"
+   },
+   {
+    "en": "They monopolized the supply market and drastically raised prices.",
+    "zh": "他們壟斷了原物料供應，並開天價。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "in a drastic manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1211",
+  "unit": 31,
+  "headword": "erase",
+  "ipa": "i'reis",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 抹去, 擦掉\n[計] 清洗; 擦除; 抹除; DOS內部命令:從磁碟上刪除一個或多個檔案",
+  "forms": {
+   "pp": "erased",
+   "past": "erased",
+   "ing": "erasing",
+   "thirdSg": "erases"
+  },
+  "examples": [
+   {
+    "en": "The blackboard needs erasing.",
+    "zh": "黑板需要擦擦了。"
+   },
+   {
+    "en": "He wishes to erase bad memories.",
+    "zh": "他希望抹去不好的記憶。"
+   },
+   {
+    "en": "He erased his speech from the tape.",
+    "zh": "他把他的那段話從磁帶裡刪除了。"
+   }
+  ],
+  "synonyms": [
+   "efface",
+   "delete"
+  ],
+  "antonyms": [
+   "record"
+  ],
+  "phrases": null,
+  "defsEn": "remove from memory or existence",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1212",
+  "unit": 31,
+  "headword": "explorer",
+  "ipa": "ik'splɒ:rә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 探險家, 探測者, 勘探器\n[醫] 探察器",
+  "forms": {
+   "plural": "explorers"
+  },
+  "examples": [
+   {
+    "en": "Early explorers used the stars for navigation.",
+    "zh": "古代的探險家用星星來辨別方向。"
+   },
+   {
+    "en": "The explorers discovered a skeleton in the cave.",
+    "zh": "探險家們在洞穴裡發現了骸骨。"
+   },
+   {
+    "en": "Tom is an explorer.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "adventurer",
+   "IE"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who travels into little known regions (especially for some scientific purpose)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1213",
+  "unit": 31,
+  "headword": "factual",
+  "ipa": "'fæktʃuәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 事實的, 實際的\n[法] 事實的, 與事實有關的, 實際的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This is not factual information.",
+    "zh": null
+   },
+   {
+    "en": "I believe that it's not factual.",
+    "zh": null
+   },
+   {
+    "en": "That book is full of factual errors.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "actual"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "existing in act or fact",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1214",
+  "unit": 31,
+  "headword": "fixture",
+  "ipa": "'fikstʃә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 固定(狀態), 固定物, 裝置\n[計] 夾具",
+  "forms": {
+   "plural": "fixtures",
+   "ing": "fixturing"
+  },
+  "examples": [
+   {
+    "en": "Tom installed a new light fixture.",
+    "zh": null
+   },
+   {
+    "en": "He was a fixture at the local mosque.",
+    "zh": null
+   },
+   {
+    "en": "He was called to fix a broken light fixture.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "regular",
+   "habitue",
+   "fastness",
+   "fixedness",
+   "fixity"
+  ],
+  "antonyms": [
+   "looseness"
+  ],
+  "phrases": null,
+  "defsEn": "an object firmly fixed in place (especially in a household)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1215",
+  "unit": 31,
+  "headword": "footwear",
+  "ipa": "'fjtweә(r)",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 鞋類, 靴類",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I wore my footwear.",
+    "zh": null
+   },
+   {
+    "en": "He wore his footwear.",
+    "zh": null
+   },
+   {
+    "en": "Mom got me some footwear.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "footgear"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "clothing worn on a person's feet",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1216",
+  "unit": 31,
+  "headword": "genre",
+  "ipa": "'ʒɒŋrә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 型別, 流派",
+  "forms": {
+   "plural": "genres"
+  },
+  "examples": [
+   {
+    "en": "What genres of music are you into?",
+    "zh": "你喜歡哪種型別的音樂？"
+   },
+   {
+    "en": "I don't like that genre.",
+    "zh": null
+   },
+   {
+    "en": "What's your favorite genre?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a kind of literary or artistic work",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1217",
+  "unit": 31,
+  "headword": "gymnasium",
+  "ipa": "dʒim'neiziәm",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 健身房, 體育館\n[醫] 體育館, 健身室, 運動場",
+  "forms": {
+   "plural": "gymnasiums"
+  },
+  "examples": [
+   {
+    "en": "Where is the gymnasium?",
+    "zh": null
+   },
+   {
+    "en": "He could be in the gymnasium.",
+    "zh": null
+   },
+   {
+    "en": "Tom could be in the gymnasium.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "lyceum",
+   "lycee",
+   "gym"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a school for students intermediate between elementary school and college; usually grades 9 to 12",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1218",
+  "unit": 31,
+  "headword": "hereby",
+  "ipa": "hiә'bai",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 因此, 據此",
+  "forms": null,
+  "examples": [
+   {
+    "en": "We, ACME Ltd., hereby announce that we will resist with all our strength this hostile takeover.",
+    "zh": "我們ACME有限公司，特此宣佈，我們將盡我們的力量抵制這種惡意收購。"
+   },
+   {
+    "en": "The work is hereby done.",
+    "zh": null
+   },
+   {
+    "en": "I hereby tender my resignation.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "herewith"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(formal) by means of this",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1219",
+  "unit": 31,
+  "headword": "hesitation",
+  "ipa": ".hezi'teiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 猶豫, 躊躇, 含糊, 口吃, 暫停\n[計] 暫停",
+  "forms": {
+   "plural": "hesitations"
+  },
+  "examples": [
+   {
+    "en": "I would marry you without hesitation.",
+    "zh": "我會毫不猶豫嫁給你。"
+   },
+   {
+    "en": "After some hesitation, he laid the book on the desk.",
+    "zh": "猶豫了片刻之後，他把書放在了桌子上。"
+   },
+   {
+    "en": "Without the slightest hesitation, he sold his own car.",
+    "zh": "他毫不猶豫地把自己的車賣了。"
+   }
+  ],
+  "synonyms": [
+   "vacillation",
+   "wavering",
+   "reluctance",
+   "hesitancy",
+   "disinclination"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "indecision in speech or action",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1220",
+  "unit": 31,
+  "headword": "homemade",
+  "ipa": "'hәum'meid",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 自制的, 國產的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This is homemade jam.",
+    "zh": null
+   },
+   {
+    "en": "This jam is homemade.",
+    "zh": null
+   },
+   {
+    "en": "It's a homemade bomb!",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "factory-made"
+  ],
+  "phrases": null,
+  "defsEn": "made or produced in the home or by yourself",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1221",
+  "unit": 31,
+  "headword": "hospitality",
+  "ipa": ".hɒspi'tæliti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 款待, 親切, 殷勤",
+  "forms": {
+   "plural": "hospitalities"
+  },
+  "examples": [
+   {
+    "en": "All the guests were touched by her hospitality.",
+    "zh": "所有的客人都被她的好客感動了。"
+   },
+   {
+    "en": "Thanks for the hospitality.",
+    "zh": null
+   },
+   {
+    "en": "Thanks for your hospitality.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "inhospitality"
+  ],
+  "phrases": null,
+  "defsEn": "kindness in welcoming guests or strangers",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1222",
+  "unit": 31,
+  "headword": "incoming",
+  "ipa": "'inkʌmiŋ",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 進來的, 剛開始的, 新來的\nn. 進來",
+  "forms": {
+   "plural": "incomings"
+  },
+  "examples": [
+   {
+    "en": "There's a storm incoming.",
+    "zh": null
+   },
+   {
+    "en": "Sami and Layla were incoming freshmen.",
+    "zh": null
+   },
+   {
+    "en": "Yanni almost ran into an incoming car.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "entrance",
+   "entering",
+   "entry",
+   "ingress"
+  ],
+  "antonyms": [
+   "outgoing"
+  ],
+  "phrases": null,
+  "defsEn": "the act of entering",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1223",
+  "unit": 31,
+  "headword": "induction",
+  "ipa": "in'dʌkʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 歸納法, 感應, 就職, 入門\n[計] 歸納法",
+  "forms": {
+   "plural": "inductions"
+  },
+  "examples": [
+   {
+    "en": "Induction cooktops use magnets.",
+    "zh": null
+   },
+   {
+    "en": "Induction cookers use magnets to directly heat pots and pans.",
+    "zh": null
+   },
+   {
+    "en": "The rock star's induction into the Hall of Fame was predicted by all.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "initiation",
+   "installation",
+   "inductance",
+   "generalization",
+   "generalisation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a formal entry into an organization or position or office",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1224",
+  "unit": 31,
+  "headword": "inspiration",
+  "ipa": ".inspә'reiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 靈感, 鼓舞人心的人或物, 妙計, 吸氣\n[醫] 吸[氣]",
+  "forms": {
+   "plural": "inspirations"
+  },
+  "examples": [
+   {
+    "en": "I lost my inspiration.",
+    "zh": "我丟了我的靈感。"
+   },
+   {
+    "en": "My inspiration has run dry.",
+    "zh": "我靈感枯竭了。"
+   },
+   {
+    "en": "Suddenly she had a brilliant inspiration.",
+    "zh": "她突然有了一個絕妙的靈感。"
+   }
+  ],
+  "synonyms": [
+   "brainchild"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "arousal of the mind to special unusual activity or creativity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1225",
+  "unit": 31,
+  "headword": "intently",
+  "ipa": "in'tentli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 一心一意地, 心無旁物地, 專心地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He is working intently.",
+    "zh": null
+   },
+   {
+    "en": "Tom is listening intently.",
+    "zh": null
+   },
+   {
+    "en": "Tom was listening intently.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "with strained or eager attention",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1226",
+  "unit": 31,
+  "headword": "mower",
+  "ipa": "'mәuә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 刈草的人, 刈草機",
+  "forms": {
+   "plural": "mowers"
+  },
+  "examples": [
+   {
+    "en": "He fixed the mower.",
+    "zh": null
+   },
+   {
+    "en": "Tom fixed the mower.",
+    "zh": null
+   },
+   {
+    "en": "My lawn mower is broken.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "garden tool for mowing grass on lawns",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1227",
+  "unit": 31,
+  "headword": "nutrition",
+  "ipa": "nju:'triʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 營養, 營養學\n[醫] 營養, 營養品",
+  "forms": null,
+  "examples": [
+   {
+    "en": "She is careful about her child's nutrition.",
+    "zh": "她很關心孩子的營養問題。"
+   },
+   {
+    "en": "I am uneducated on nutrition.",
+    "zh": null
+   },
+   {
+    "en": "Read the nutrition information.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "nutriment",
+   "nourishment",
+   "sustenance",
+   "aliment",
+   "alimentation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1228",
+  "unit": 31,
+  "headword": "restatement",
+  "ipa": ".ri:'steitmәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 再宣告, 重述\n[經] 重報, 重新陳述, 再宣告",
+  "forms": {
+   "plural": "restatements"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a revised statement",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1229",
+  "unit": 31,
+  "headword": "sedan",
+  "ipa": "si'dæn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 轎車, 轎子",
+  "forms": {
+   "plural": "sedans"
+  },
+  "examples": [
+   {
+    "en": "I drive small sedans.",
+    "zh": null
+   },
+   {
+    "en": "Tom drives a big sedan.",
+    "zh": null
+   },
+   {
+    "en": "Tom drives a black sedan.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "saloon"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a car that is closed and that has front and rear seats and two or four doors",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1230",
+  "unit": 31,
+  "headword": "sunscreen",
+  "ipa": "'sʌnskri:n",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. (防曬油中的)遮光劑",
+  "forms": {
+   "plural": "sunscreens",
+   "ing": "sunscreening"
+  },
+  "examples": [
+   {
+    "en": "Put on some sunscreen.",
+    "zh": "塗點防曬吧。"
+   },
+   {
+    "en": "Do you have a sunscreen?",
+    "zh": null
+   },
+   {
+    "en": "Did you put on sunscreen?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "sunblock"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a cream spread on the skin; contains a chemical (as PABA) to filter out ultraviolet light and so protect from sunburn",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1231",
+  "unit": 31,
+  "headword": "wellness",
+  "ipa": "'welnis",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 健康",
+  "forms": null,
+  "examples": [
+   {
+    "en": "It is a stunning exhibition on wellness and holistic healing from awe-inspiring India.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "health"
+  ],
+  "antonyms": [
+   "illness",
+   "unwellness"
+  ],
+  "phrases": null,
+  "defsEn": "a healthy state of wellbeing free from disease",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1232",
+  "unit": 31,
+  "headword": "workbook",
+  "ipa": "'w\\\\\\\\:kbjk",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 輔助練習冊, 工作規程書, 工作記事簿, 筆記本, 工作手冊\n[計] 工作簿",
+  "forms": {
+   "plural": "workbooks"
+  },
+  "examples": [
+   {
+    "en": "Where is my workbook?",
+    "zh": null
+   },
+   {
+    "en": "He has a Berber workbook.",
+    "zh": null
+   },
+   {
+    "en": "I have my Berber workbook.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a student's book or booklet containing problems with spaces for solving them",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1233",
+  "unit": 31,
+  "headword": "bookcase",
+  "ipa": "'bukkeis",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 書架, 書櫃",
+  "forms": {
+   "plural": "bookcases"
+  },
+  "examples": [
+   {
+    "en": "John built a bookcase.",
+    "zh": "約翰組裝了書架。"
+   },
+   {
+    "en": "This bookcase is easy to assemble.",
+    "zh": "這個書架組裝起來很簡單。"
+   },
+   {
+    "en": "The bookcase is level with the table.",
+    "zh": "書架和桌子齊平。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a piece of furniture with shelves for storing books",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1234",
+  "unit": 31,
+  "headword": "cleanliness",
+  "ipa": "'klenlinis",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 清潔, 乾淨",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Cleanliness is a virtue.",
+    "zh": null
+   },
+   {
+    "en": "He's obsessed with cleanliness.",
+    "zh": null
+   },
+   {
+    "en": "He's bananas about cleanliness.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "uncleanliness"
+  ],
+  "phrases": null,
+  "defsEn": "the habit of keeping free of superficial imperfections",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1235",
+  "unit": 31,
+  "headword": "contestant",
+  "ipa": "kәn'testәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 競爭者\n[法] 爭辯者, 競爭者",
+  "forms": {
+   "plural": "contestants"
+  },
+  "examples": [
+   {
+    "en": "Linda is one of the contestants in the pageant.",
+    "zh": "琳達是大會的參賽者之一。"
+   },
+   {
+    "en": "Are you a contestant?",
+    "zh": null
+   },
+   {
+    "en": "Are all the contestants here?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "dissenter",
+   "dissident",
+   "protester",
+   "objector"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who participates in competitions",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1236",
+  "unit": 31,
+  "headword": "ethics",
+  "ipa": "'eθiks",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 道德規範\n[醫] 倫理學",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The senator was censured by the congressional ethics committee.",
+    "zh": "議員受到了議會道德委員會的譴責。"
+   },
+   {
+    "en": "Her ethics are pliant.",
+    "zh": null
+   },
+   {
+    "en": "Her ethics are flexible.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "morals",
+   "morality",
+   "ethic",
+   "value-system"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "motivation based on ideas of right and wrong",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1237",
+  "unit": 31,
+  "headword": "healthful",
+  "ipa": "'helθful",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 有益健康的, 使人健康的, 衛生的\n[法] 有益健康的, 健康的, 衛生的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "My goats are more healthful than this man's oxen will ever be.",
+    "zh": null
+   },
+   {
+    "en": "More Vietnamese citizens are looking for food products that are healthful.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "sanitary"
+  ],
+  "antonyms": [
+   "unhealthful",
+   "unsanitary"
+  ],
+  "phrases": null,
+  "defsEn": "conducive to good health of body or mind",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1238",
+  "unit": 31,
+  "headword": "inefficient",
+  "ipa": ".ini'fiʃәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 無效率的, 無能的\n[醫] 無效的, 無效力的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "It is inefficient of you.",
+    "zh": "你們的效率太低了。"
+   },
+   {
+    "en": "This is highly inefficient.",
+    "zh": null
+   },
+   {
+    "en": "I think Tom is inefficient.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "ineffective"
+  ],
+  "antonyms": [
+   "efficient"
+  ],
+  "phrases": null,
+  "defsEn": "not producing desired results; wasteful",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1239",
+  "unit": 31,
+  "headword": "liter",
+  "ipa": "'li:tә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 公升\n[化] 升",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I drink 1.7 liters of water each day.",
+    "zh": "我每天喝1.7升水。"
+   },
+   {
+    "en": "Last month, we collected five liters of rainwater.",
+    "zh": "上個月我們收集了五升雨水。"
+   },
+   {
+    "en": "This bottle is able to contain two liters of hot water.",
+    "zh": "這個瓶子可以裝兩升熱水。"
+   }
+  ],
+  "synonyms": [
+   "litre",
+   "l"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1240",
+  "unit": 31,
+  "headword": "recession",
+  "ipa": "ri'seʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 後退, 凹處, 衰退, 歸還\n[醫] 退縮",
+  "forms": {
+   "plural": "recessions"
+  },
+  "examples": [
+   {
+    "en": "The unemployment rate went up to 5% because of the recession.",
+    "zh": "經濟不景氣失業率上升到了5％。"
+   },
+   {
+    "en": "We're in a recession.",
+    "zh": null
+   },
+   {
+    "en": "The recession is over.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "recess",
+   "niche",
+   "corner",
+   "recessional"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the state of the economy declines; a widespread decline in the GDP and employment and trade lasting from six months to a year",
+  "note": null,
+  "audioUrl": null
+ }
+]

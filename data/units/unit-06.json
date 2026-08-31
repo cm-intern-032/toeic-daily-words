@@ -54,6 +54,10 @@
    {
     "en": "Most developers hate debugging; it's more fun to create bugs than to correct them.",
     "zh": "大部分程式設計師討厭除錯，設定故障比糾正它們有意思多了。"
+   },
+   {
+    "en": "Is she a developer?",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -80,6 +84,14 @@
    {
     "en": "There was a different kind of atmosphere in the headquarters.",
     "zh": "總部裡有另外一種氣氛。"
+   },
+   {
+    "en": "This is our headquarters.",
+    "zh": null
+   },
+   {
+    "en": "Tom is at police headquarters.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -110,6 +122,14 @@
    {
     "en": "How long does it take for the airport shuttle to get to the airport?",
     "zh": "穿梭班車到機場需要多長時間？"
+   },
+   {
+    "en": "When's the next shuttle?",
+    "zh": null
+   },
+   {
+    "en": "When is the next shuttle?",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -141,6 +161,10 @@
    {
     "en": "What stationery isn't worth buying?",
     "zh": "哪些文具不值得買？"
+   },
+   {
+    "en": "I buy stationery in bulk.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -366,6 +390,14 @@
    {
     "en": "We will continue the meeting after some light refreshments.",
     "zh": "茶點過後我們接著開會。"
+   },
+   {
+    "en": "Refreshments will be sold.",
+    "zh": null
+   },
+   {
+    "en": "Refreshments will be served.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -395,6 +427,10 @@
    {
     "en": "The emergence of a third gender has added legal and administrative complications, creating unnecessary burdens.",
     "zh": "第三性別的出現增加了法律和行政上的麻煩，徒增無謂的負擔。"
+   },
+   {
+    "en": "I hate administrative work.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -427,6 +463,10 @@
    {
     "en": "Is it true that you authorized the driver to take the car home?",
     "zh": "你批准司機把車開回家的事是真的嗎？"
+   },
+   {
+    "en": "I can't authorize that.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -495,6 +535,14 @@
    {
     "en": "Ubuntu is a popular Linux distribution.",
     "zh": "Ubuntu是一個流行的Linux發行版。"
+   },
+   {
+    "en": "Fedora is a Linux distribution.",
+    "zh": null
+   },
+   {
+    "en": "I love the distribution of gifts.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -567,6 +615,10 @@
    {
     "en": "This classroom can accommodate only thirty students.",
     "zh": "這間班房只能容納三十個學生。"
+   },
+   {
+    "en": "I accommodated him with money.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -584,7 +636,7 @@
   "id": "w0218",
   "unit": 6,
   "headword": "affordable",
-  "ipa": null,
+  "ipa": "əˈfɔrdəbəl",
   "pos": null,
   "defsZh": "[計] 普及型",
   "forms": null,
@@ -592,6 +644,14 @@
    {
     "en": "The laptop provides cutting-edge technology at an affordable price.",
     "zh": "這款筆記型電腦價格親民，技術領先。"
+   },
+   {
+    "en": "The price was affordable.",
+    "zh": null
+   },
+   {
+    "en": "Is this fighter affordable?",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -669,6 +729,10 @@
    {
     "en": "I spend a lot of time commuting.",
     "zh": "我花很多時間通勤。"
+   },
+   {
+    "en": "I commute by train.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -739,6 +803,14 @@
    {
     "en": "I knew that Tom was in his office doing paperwork.",
     "zh": "我知道湯姆正在辦公室處理檔案。"
+   },
+   {
+    "en": "I have the paperwork.",
+    "zh": null
+   },
+   {
+    "en": "He lost the paperwork.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -924,6 +996,14 @@
    {
     "en": "Is this community safe? Are there lighting installations for the night?",
     "zh": "小區安全嗎？夜晚有照明設施嗎？"
+   },
+   {
+    "en": "There's no installation fee.",
+    "zh": null
+   },
+   {
+    "en": "The installation is complete.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -988,6 +1068,14 @@
    {
     "en": "Availability may vary by region and device compatibility.",
     "zh": "實際提供內容可能因地區與裝置相容性而異。"
+   },
+   {
+    "en": "Mennad updated his availability.",
+    "zh": null
+   },
+   {
+    "en": "Contact us to check availability.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1400,6 +1488,10 @@
    {
     "en": "Concerning the content below, I want to verify two things.",
     "zh": "關於下面的內容，我想確認兩件事情。"
+   },
+   {
+    "en": "I can verify that.",
+    "zh": null
    }
   ],
   "synonyms": [

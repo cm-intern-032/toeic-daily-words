@@ -1,0 +1,1483 @@
+[
+ {
+  "id": "w0521",
+  "unit": 14,
+  "headword": "enthusiastic",
+  "ipa": "in.θju:zi'æstik",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 狂熱的, 熱心的, 熱烈的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "George is very enthusiastic about his new job.",
+    "zh": "喬治對自己的新工作充滿熱情。"
+   },
+   {
+    "en": "This book is a result of his enthusiastic research.",
+    "zh": "這本書是他熱心研究的成果。"
+   },
+   {
+    "en": "My older brother is a very enthusiastic soccer fan.",
+    "zh": "我的哥哥是很狂熱的足球迷。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "unenthusiastic"
+  ],
+  "phrases": null,
+  "defsEn": "having or showing great excitement and interest",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0522",
+  "unit": 14,
+  "headword": "graduation",
+  "ipa": ".grædʒu'eiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 畢業, 得學位, 分劃, 刻度, 分等級\n[醫] 刻度, 分度, 畢業",
+  "forms": {
+   "plural": "graduations"
+  },
+  "examples": [
+   {
+    "en": "I've been really busy with my graduation dissertation recently.",
+    "zh": "我最近真忙於我的畢業論文。"
+   },
+   {
+    "en": "From graduation to retirement, Laowang worked as a teacher without intermission.",
+    "zh": "從大學畢業到退休，老王一直擔任教學工作。"
+   },
+   {
+    "en": "Although his exam scores weren't very high, he was still successful after graduation.",
+    "zh": "儘管他考試成績不高，但他畢業後還是很成功。"
+   }
+  ],
+  "synonyms": [
+   "commencement"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the successful completion of a program of study",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0523",
+  "unit": 14,
+  "headword": "icy",
+  "ipa": "'aisi",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 冰的, 冰冷的, 冷淡的, 滑溜的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The icy road sparkled in the sunlight.",
+    "zh": "結冰的道路在陽光下閃閃發亮。"
+   },
+   {
+    "en": "An icy blast of wind chilled me to the bone.",
+    "zh": "冰冷的疾風吹到我骨子裡去了。"
+   },
+   {
+    "en": "It is hard to keep our balance on icy streets.",
+    "zh": "在結冰的街道上我們很難保持平衡。"
+   }
+  ],
+  "synonyms": [
+   "frigid",
+   "frosty",
+   "frozen",
+   "glacial",
+   "wintry"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "devoid of warmth and cordiality; expressive of unfriendliness or disdain",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0524",
+  "unit": 14,
+  "headword": "irregular",
+  "ipa": "i'regjulә",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 不規則物, 不合規格之物\na. 不規則的, 不整齊的, 不合法的",
+  "forms": {
+   "plural": "irregulars"
+  },
+  "examples": [
+   {
+    "en": "I don't like learning irregular verbs.",
+    "zh": "我不喜歡學習不規則動詞。"
+   },
+   {
+    "en": "This is very irregular.",
+    "zh": null
+   },
+   {
+    "en": "It's an irregular verb.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "guerrilla",
+   "guerilla",
+   "insurgent",
+   "second"
+  ],
+  "antonyms": [
+   "regular"
+  ],
+  "phrases": null,
+  "defsEn": "a member of an irregular armed force that fights a stronger force by sabotage and harassment",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0525",
+  "unit": 14,
+  "headword": "login",
+  "ipa": null,
+  "pos": null,
+  "defsZh": "[計] 註冊(程式), 登記, 使用者註冊程式",
+  "forms": {
+   "plural": "logins"
+  },
+  "examples": [
+   {
+    "en": "I forgot my login.",
+    "zh": null
+   },
+   {
+    "en": "Login to your account.",
+    "zh": null
+   },
+   {
+    "en": "What's your login name?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0526",
+  "unit": 14,
+  "headword": "managerial",
+  "ipa": ".mænә'dʒiәriәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 管理的\n[經] 管理上的, 經營上的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "My classmate, Xiao Ming, has strong managerial capability.",
+    "zh": "小明同學管理能力很強。"
+   },
+   {
+    "en": "He has managerial talent.",
+    "zh": null
+   },
+   {
+    "en": "Tom has managerial talent.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "of or relating to the function or responsibility or activity of management",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0527",
+  "unit": 14,
+  "headword": "mineral",
+  "ipa": "'minәrәl",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 礦物, 無機物, 蘇打水\na. 礦物的, 似礦物的",
+  "forms": {
+   "plural": "minerals"
+  },
+  "examples": [
+   {
+    "en": "I like to drink natural mineral water.",
+    "zh": "我喜歡喝天然的礦泉水。"
+   },
+   {
+    "en": "Fruits are rich in vitamins and minerals.",
+    "zh": "水果富含維生素和礦物質。"
+   },
+   {
+    "en": "That country is rich in mineral resources.",
+    "zh": "那個國家擁有豐富的礦物資源。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "solid homogeneous inorganic substances occurring in nature having a definite chemical composition",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0528",
+  "unit": 14,
+  "headword": "motorcycle",
+  "ipa": "'mәutәsaikl",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 摩托車\n[機] 機動車, 機踏車, 摩托車",
+  "forms": {
+   "plural": "motorcycles",
+   "thirdSg": "motorcycles",
+   "ing": "motorcycling",
+   "past": "motorcycled",
+   "pp": "motorcycled"
+  },
+  "examples": [
+   {
+    "en": "My motorcycle is new.",
+    "zh": "我的摩托車是新的。"
+   },
+   {
+    "en": "Tom wants a motorcycle.",
+    "zh": "湯姆想要一輛摩托車。"
+   },
+   {
+    "en": "She rides a motorcycle well.",
+    "zh": "她騎摩托車的技術不錯！"
+   }
+  ],
+  "synonyms": [
+   "bike",
+   "motorbike",
+   "cycle"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a motor vehicle with two wheels and a strong frame",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0529",
+  "unit": 14,
+  "headword": "necessity",
+  "ipa": "ni'sesәti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 需要, 必需品, 必然\n[法] 必要性, 必然性, 必要",
+  "forms": {
+   "plural": "necessities"
+  },
+  "examples": [
+   {
+    "en": "Necessity knows no law.",
+    "zh": "鋌而走險。"
+   },
+   {
+    "en": "A computer is an absolute necessity now.",
+    "zh": "電腦現在是一個絕對必要的東西了。"
+   },
+   {
+    "en": "Labor is not merely a necessity but a pleasure.",
+    "zh": "勞動不僅是一種需要，而還是一種愉快。"
+   }
+  ],
+  "synonyms": [
+   "essential",
+   "requirement",
+   "requisite",
+   "necessary"
+  ],
+  "antonyms": [
+   "inessential"
+  ],
+  "phrases": null,
+  "defsEn": "the condition of being essential or indispensable",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0530",
+  "unit": 14,
+  "headword": "planner",
+  "ipa": "'plænә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 計劃者, 設計者, 安排者\n[機] 刨床機",
+  "forms": {
+   "plural": "planners"
+  },
+  "examples": [
+   {
+    "en": "Tom is a planner.",
+    "zh": null
+   },
+   {
+    "en": "He's my wedding planner.",
+    "zh": null
+   },
+   {
+    "en": "Tom is an urban planner.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "contriver",
+   "deviser"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who makes plans",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0531",
+  "unit": 14,
+  "headword": "programmer",
+  "ipa": "'prәugræmә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 程式設計師\n[計] 程式設計員; 程式設計師",
+  "forms": {
+   "plural": "programmers"
+  },
+  "examples": [
+   {
+    "en": "He's a programmer.",
+    "zh": "他是程式設計師。"
+   },
+   {
+    "en": "She's a programmer.",
+    "zh": "她是程式設計師。"
+   },
+   {
+    "en": "Is she a computer programmer?",
+    "zh": "她是個女程式設計師嗎？"
+   }
+  ],
+  "synonyms": [
+   "coder"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who designs and writes and tests computer programs",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0532",
+  "unit": 14,
+  "headword": "proofread",
+  "ipa": "'pru:fri:d",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 校正, 校對",
+  "forms": {
+   "pp": "proofread",
+   "past": "proofread",
+   "ing": "proofreading",
+   "thirdSg": "proofreads"
+  },
+  "examples": [
+   {
+    "en": "Did you proofread this?",
+    "zh": null
+   },
+   {
+    "en": "Can you proofread this?",
+    "zh": null
+   },
+   {
+    "en": "Didn't you proofread it?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "proof"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "read for errors",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0533",
+  "unit": 14,
+  "headword": "recruiter",
+  "ipa": "ri'kru:tә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 招聘人員, 徵兵人員",
+  "forms": {
+   "plural": "recruiters"
+  },
+  "examples": [
+   {
+    "en": "Are you a good recruiter?",
+    "zh": null
+   },
+   {
+    "en": "Try to contact new recruiters.",
+    "zh": null
+   },
+   {
+    "en": "Jim was in touch with ISIS recruiters.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who supplies members or employees",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0534",
+  "unit": 14,
+  "headword": "remainder",
+  "ipa": "ri'meindә",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "defsZh": "n. 剩餘物, 其他人, 殘餘, 餘數\nv. 削價出售(圖書)\na. 剩餘的, 出售削價剩書的\n[計] 餘數",
+  "forms": {
+   "plural": "remainders",
+   "pp": "remaindered",
+   "ing": "remaindering",
+   "past": "remaindered",
+   "thirdSg": "remainders"
+  },
+  "examples": [
+   {
+    "en": "The remainder of the evening was peaceful.",
+    "zh": null
+   },
+   {
+    "en": "Yanni scraped off the remainder of the resin.",
+    "zh": null
+   },
+   {
+    "en": "He was excused from the remainder of the work.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "balance",
+   "residual",
+   "residue",
+   "residuum",
+   "rest"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "something left after other parts have been taken away",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0535",
+  "unit": 14,
+  "headword": "statue",
+  "ipa": "'stætju",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 以雕像裝飾\nn. 雕像",
+  "forms": {
+   "plural": "statues"
+  },
+  "examples": [
+   {
+    "en": "We made statues out of wood.",
+    "zh": "我們用木材做雕像。"
+   },
+   {
+    "en": "This statue is as large as life.",
+    "zh": "這座雕像和真人的尺寸一樣。"
+   },
+   {
+    "en": "He carved a Buddha statue from wood.",
+    "zh": "他用一塊木頭刻出一尊佛像。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a sculpture representing a human or animal",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0536",
+  "unit": 14,
+  "headword": "steadily",
+  "ipa": "'stedili",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 穩定地, 無變化地, 有規則地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Prices have been rising steadily.",
+    "zh": "物價一直在穩定上升。"
+   },
+   {
+    "en": "The patient is steadily recovering.",
+    "zh": "這個病人正在穩定地康復中。"
+   },
+   {
+    "en": "Prices have been climbing steadily.",
+    "zh": "價格一直在穩定地攀升。"
+   }
+  ],
+  "synonyms": [
+   "steady"
+  ],
+  "antonyms": [
+   "unsteadily"
+  ],
+  "phrases": null,
+  "defsEn": "at a steady rate or pace",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0537",
+  "unit": 14,
+  "headword": "stockholder",
+  "ipa": "'stɒkhәuldә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 股東\n[法] 股東, 股票持有者, 股票所有人",
+  "forms": {
+   "plural": "stockholders",
+   "thirdSg": "stockholders"
+  },
+  "examples": [
+   {
+    "en": "I'm a stockholder in this company.",
+    "zh": null
+   },
+   {
+    "en": "The stockholders are making money hand over fist.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "shareholder",
+   "shareowner"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who holds shares of stock in a corporation",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0538",
+  "unit": 14,
+  "headword": "vacant",
+  "ipa": "'veikәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 空的, 空白的, 空虛的, 空閒的, 茫然的, 空缺的\n[法] 空的, 空虛的, 閒暇的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "There were several rooms still vacant.",
+    "zh": "還有幾間空房。"
+   },
+   {
+    "en": "He was standing there with a vacant look.",
+    "zh": "他站在那裡,一臉茫然。"
+   },
+   {
+    "en": "Rooms should be left vacant by eleven a.m. on the day of departure.",
+    "zh": "走的那天，房間11點要空出來。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "void of thought or knowledge",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0539",
+  "unit": 14,
+  "headword": "accessory",
+  "ipa": "әk'sesәri",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 附件, 零件, 附加物, 從犯, 同謀\na. 附屬的, 補充的, 同謀的, 幫兇的, 非主要的, 副的\n[計] 附件",
+  "forms": {
+   "plural": "accessories"
+  },
+  "examples": [
+   {
+    "en": "Do you sell coffee pot accessories too?",
+    "zh": "你們也有販售咖啡壺配件嗎？"
+   },
+   {
+    "en": "It's a fashion accessory.",
+    "zh": null
+   },
+   {
+    "en": "She is wearing accessories.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "accoutrement",
+   "accouterment",
+   "appurtenance",
+   "supplement",
+   "add-on"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "clothing that is worn or carried, but not part of your main clothing",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0540",
+  "unit": 14,
+  "headword": "assembly",
+  "ipa": "ә'sembli",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 與會者, 集會, 裝配, 元件\n[化] 裝配",
+  "forms": {
+   "plural": "assemblies"
+  },
+  "examples": [
+   {
+    "en": "Where is the assembly point?",
+    "zh": "集合地點是哪兒？"
+   },
+   {
+    "en": "Tessa shared her experience in a chapel assembly this April.",
+    "zh": "今年四月，苔絲在教會集會上分享了她的經驗。"
+   },
+   {
+    "en": "There was an assembly.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "fabrication",
+   "forum"
+  ],
+  "antonyms": [
+   "disassembly"
+  ],
+  "phrases": null,
+  "defsEn": "a group of machine parts that fit together to form a self-contained unit",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0541",
+  "unit": 14,
+  "headword": "basket",
+  "ipa": "'bɑ:skit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 籃, 籃子\nvt. 裝入籃",
+  "forms": {
+   "plural": "baskets"
+  },
+  "examples": [
+   {
+    "en": "The eggs are in the basket.",
+    "zh": "雞蛋在籃子裡。"
+   },
+   {
+    "en": "The basket was full of apples.",
+    "zh": "籃子裡裝滿了蘋果。"
+   },
+   {
+    "en": "She had a basket full of apples.",
+    "zh": "她有一整籃的蘋果。"
+   }
+  ],
+  "synonyms": [
+   "handbasket",
+   "basketful",
+   "hoop"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a container that is usually woven and has handles",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0542",
+  "unit": 14,
+  "headword": "certification",
+  "ipa": ".sә:tifi'keiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 證明\n[經] 證明",
+  "forms": {
+   "plural": "certifications"
+  },
+  "examples": [
+   {
+    "en": "You can skip stage three of the certification process and advance immediately to stage six.",
+    "zh": "您可以跳過認證過程的第三階段，直接進入第六階段。"
+   },
+   {
+    "en": "He received an accredited certification.",
+    "zh": null
+   },
+   {
+    "en": "Do you have any work-related certifications?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "enfranchisement",
+   "documentation",
+   "corroboration",
+   "certificate",
+   "credential"
+  ],
+  "antonyms": [
+   "disenfranchisement"
+  ],
+  "phrases": null,
+  "defsEn": "the act of certifying or bestowing a franchise on",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0543",
+  "unit": 14,
+  "headword": "closure",
+  "ipa": "'klәuʒә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 關閉\nvt. 使終止",
+  "forms": {
+   "plural": "closures",
+   "ing": "closuring",
+   "past": "closured",
+   "thirdSg": "closures",
+   "pp": "closured"
+  },
+  "examples": [
+   {
+    "en": "The school's closure was due to the snow.",
+    "zh": "停課是因為下雪。"
+   },
+   {
+    "en": "We hope that there is closure.",
+    "zh": null
+   },
+   {
+    "en": "There is a road closure up ahead.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "closing",
+   "cloture"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "approaching a particular destination; a coming closer; a narrowing of a gap",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0544",
+  "unit": 14,
+  "headword": "dislike",
+  "ipa": "dis'laik",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 嫌惡\nvt. 討厭, 不喜歡",
+  "forms": {
+   "past": "disliked",
+   "pp": "disliked",
+   "thirdSg": "dislikes",
+   "ing": "disliking",
+   "plural": "dislikes"
+  },
+  "examples": [
+   {
+    "en": "I dislike eggs.",
+    "zh": "我不喜歡雞蛋。"
+   },
+   {
+    "en": "She disliked him.",
+    "zh": "她不喜歡他。"
+   },
+   {
+    "en": "I dislike big cities.",
+    "zh": "我不喜歡大城市。"
+   }
+  ],
+  "synonyms": [
+   "disfavor",
+   "disfavour",
+   "disapproval"
+  ],
+  "antonyms": [
+   "liking",
+   "like"
+  ],
+  "phrases": null,
+  "defsEn": "an inclination to withhold approval from some person or group",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0545",
+  "unit": 14,
+  "headword": "downstairs",
+  "ipa": "'daun'stєәz",
+  "pos": [
+   "n",
+   "adj",
+   "adv"
+  ],
+  "defsZh": "n. 樓下\na. 樓下的\nadv. 在樓下",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom ran downstairs.",
+    "zh": "湯姆跑了下去。"
+   },
+   {
+    "en": "Ann came downstairs.",
+    "zh": "安下樓來了。"
+   },
+   {
+    "en": "They live downstairs.",
+    "zh": "她們住在樓下。"
+   }
+  ],
+  "synonyms": [
+   "downstair",
+   "below"
+  ],
+  "antonyms": [
+   "upstairs"
+  ],
+  "phrases": null,
+  "defsEn": "on or of lower floors of a building",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0546",
+  "unit": 14,
+  "headword": "expiration",
+  "ipa": ".ekspi'reiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 終止, 滿期, 撥出, 呼氣\n[醫] 呼[氣], 斷氣, 死亡",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Humanity has an expiration date.",
+    "zh": null
+   },
+   {
+    "en": "This food is past its expiration date.",
+    "zh": null
+   },
+   {
+    "en": "Every difficulty has an expiration date.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "termination",
+   "expiry",
+   "passing",
+   "loss",
+   "departure"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a coming to an end of a contract period",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0547",
+  "unit": 14,
+  "headword": "headache",
+  "ipa": "'hedeik",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 頭痛, 令人頭痛之事\n[醫] 頭痛",
+  "forms": {
+   "plural": "headaches"
+  },
+  "examples": [
+   {
+    "en": "I have a headache.",
+    "zh": "我頭痛。"
+   },
+   {
+    "en": "He's got a headache.",
+    "zh": "他的頭痛了。"
+   },
+   {
+    "en": "I've got a headache.",
+    "zh": "我頭痛。"
+   }
+  ],
+  "synonyms": [
+   "concern",
+   "worry",
+   "vexation",
+   "cephalalgia"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "something or someone that causes anxiety; a source of unhappiness",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0548",
+  "unit": 14,
+  "headword": "jam",
+  "ipa": "dʒæm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 果醬, 擁塞之物, 堵塞, 困境\nvt. 擠進, 使塞滿, 混雜, 壓碎, 使堵塞\nvi. 堵塞, 軋住, 擁擠",
+  "forms": {
+   "pp": "jammed",
+   "plural": "jams",
+   "ing": "jamming",
+   "past": "jammed",
+   "thirdSg": "jams"
+  },
+  "examples": [
+   {
+    "en": "Ziri made apple jam.",
+    "zh": "齊莉製作了蘋果醬。"
+   },
+   {
+    "en": "She made jam from the apples.",
+    "zh": "她用蘋果做了果醬。"
+   },
+   {
+    "en": "She used apples to do the jam.",
+    "zh": "她用蘋果做了果醬。"
+   }
+  ],
+  "synonyms": [
+   "fix",
+   "hole",
+   "mess",
+   "muddle",
+   "pickle"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "preserve of crushed fruit",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0549",
+  "unit": 14,
+  "headword": "nail",
+  "ipa": "neil",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 釘子, 指甲\nvt. 用釘釘牢, 使固定, 截住, 揭露",
+  "forms": {
+   "plural": "nails",
+   "pp": "nailed",
+   "ing": "nailing",
+   "past": "nailed",
+   "thirdSg": "nails"
+  },
+  "examples": [
+   {
+    "en": "I broke a nail.",
+    "zh": "我的指甲斷了。"
+   },
+   {
+    "en": "Stop biting your nails.",
+    "zh": "不要再咬指甲了。"
+   },
+   {
+    "en": "The nail tore his jacket.",
+    "zh": "這個釘子撕破了他的夾克。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "horny plate covering and protecting part of the dorsal surface of the digits",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0550",
+  "unit": 14,
+  "headword": "optimistic",
+  "ipa": ".ɒpti'mistik",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 樂觀的, 樂觀主義的, 樂天的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom won't be optimistic.",
+    "zh": "湯姆不會樂觀。"
+   },
+   {
+    "en": "I think Tom is optimistic.",
+    "zh": "我認為湯姆樂觀。"
+   },
+   {
+    "en": "Others are less optimistic.",
+    "zh": "其他人不那麼樂觀。"
+   }
+  ],
+  "synonyms": [
+   "affirmative"
+  ],
+  "antonyms": [
+   "pessimistic"
+  ],
+  "phrases": null,
+  "defsEn": "expecting the best in this best of all possible worlds",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0551",
+  "unit": 14,
+  "headword": "pedestrian",
+  "ipa": "pә'destriәn",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 行人, 步行者\na. 人行的, 徒步的, 呆板的, 通俗的, 平淡無奇的",
+  "forms": {
+   "plural": "pedestrians"
+  },
+  "examples": [
+   {
+    "en": "When the light is green, cars turning must yield to pedestrians.",
+    "zh": "綠燈時，拐彎車要讓人。"
+   },
+   {
+    "en": "The interface of this website is somewhat pedestrian, but it’s simple.",
+    "zh": "這個網站的介面沒有甚麼新意，但是卻很簡潔。"
+   },
+   {
+    "en": "It was the morning rush hour, and there were a lot of passing pedestrians and cars.",
+    "zh": "當時正是早高峰，來來往往的行人和車輛很多。"
+   }
+  ],
+  "synonyms": [
+   "walker",
+   "footer",
+   "prosaic",
+   "prosy",
+   "earthbound"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who travels by foot",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0552",
+  "unit": 14,
+  "headword": "projection",
+  "ipa": "prә'dʒekʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 發射, 計劃, 突出部分, 設計, 推測\n[計] 投影",
+  "forms": {
+   "plural": "projections"
+  },
+  "examples": [
+   {
+    "en": "Sami has never seen a projection room.",
+    "zh": null
+   },
+   {
+    "en": "Tom claims he can do astral projection.",
+    "zh": null
+   },
+   {
+    "en": "What projection is this planisphere in?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "project"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a prediction made by extrapolating from past observations",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0553",
+  "unit": 14,
+  "headword": "sleeve",
+  "ipa": "sli:v",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 袖子, 套管\nvt. 縫上袖子",
+  "forms": {
+   "plural": "sleeves",
+   "past": "sleeved",
+   "ing": "sleeving",
+   "pp": "sleeved"
+  },
+  "examples": [
+   {
+    "en": "Roll up your sleeve.",
+    "zh": "捲起你的袖子。"
+   },
+   {
+    "en": "Roll up your sleeves.",
+    "zh": "捲起你的袖子。"
+   },
+   {
+    "en": "Roll up your right sleeve.",
+    "zh": "捲起你右邊的袖子。"
+   }
+  ],
+  "synonyms": [
+   "arm"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the part of a garment that is attached at the armhole and that provides a cloth covering for the arm",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0554",
+  "unit": 14,
+  "headword": "suburb",
+  "ipa": "'sʌbә:b",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 市郊住宅區, 郊區, 邊緣",
+  "forms": {
+   "plural": "suburbs"
+  },
+  "examples": [
+   {
+    "en": "We live in the suburbs.",
+    "zh": "我們住在郊區。"
+   },
+   {
+    "en": "It's quiet in the suburbs...",
+    "zh": "郊區很安靜......"
+   },
+   {
+    "en": "He lives in the suburbs of Tokyo.",
+    "zh": "他住在東京郊區。"
+   }
+  ],
+  "synonyms": [
+   "suburbia"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a residential district located on the outskirts of a city",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0555",
+  "unit": 14,
+  "headword": "takeover",
+  "ipa": "ˈteɪˌkoʊvər",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 接管, 接收\n[經] 接收",
+  "forms": {
+   "plural": "takeovers"
+  },
+  "examples": [
+   {
+    "en": "We, ACME Ltd., hereby announce that we will resist with all our strength this hostile takeover.",
+    "zh": "我們ACME有限公司，特此宣佈，我們將盡我們的力量抵制這種惡意收購。"
+   },
+   {
+    "en": "It's not a judicial reform; it's a judicial takeover.",
+    "zh": null
+   },
+   {
+    "en": "Predictably, after Elon Musk's takeover, Twitter was flooded with Nazi spam.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "coup",
+   "putsch"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a sudden and decisive change of government illegally or by force",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0556",
+  "unit": 14,
+  "headword": "unsure",
+  "ipa": ".ʌn'ʃuә",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不肯定的, 不確定的, 沒有自信的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "She seemed somewhat unsure of herself.",
+    "zh": "她似乎對自己有點不確定。"
+   },
+   {
+    "en": "He was unsure how he would get there, and when.",
+    "zh": "他不知道怎麼到那裡去、什麼時候到。"
+   },
+   {
+    "en": "Tom is still unsure.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "diffident",
+   "shy",
+   "timid",
+   "uncertain",
+   "incertain"
+  ],
+  "antonyms": [
+   "confident",
+   "certain",
+   "sure"
+  ],
+  "phrases": null,
+  "defsEn": "lacking self-confidence",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0557",
+  "unit": 14,
+  "headword": "upstairs",
+  "ipa": "'ʌp'stєәz",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "defsZh": "a. 樓上的\nadv. 在樓上, 向樓上, 處於更高地位\nn. 樓層",
+  "forms": null,
+  "examples": [
+   {
+    "en": "She went upstairs.",
+    "zh": "她上樓了。"
+   },
+   {
+    "en": "I'm going upstairs.",
+    "zh": "我要去樓上。"
+   },
+   {
+    "en": "The library is upstairs.",
+    "zh": "圖書館在樓上。"
+   }
+  ],
+  "synonyms": [
+   "upstair"
+  ],
+  "antonyms": [
+   "downstairs"
+  ],
+  "phrases": null,
+  "defsEn": "the part of a building above the ground floor",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0558",
+  "unit": 14,
+  "headword": "verbal",
+  "ipa": "'vә:bl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 用言辭的, 言語的, 口頭的, 逐字的, 動詞的\n[醫] 言語的, 口述的",
+  "forms": {
+   "plural": "verbals"
+  },
+  "examples": [
+   {
+    "en": "I don't need your verbal gentleness.",
+    "zh": "我不需要你口頭上的溫柔。"
+   },
+   {
+    "en": "He opened up the verbal battle.",
+    "zh": null
+   },
+   {
+    "en": "Sami was making verbal threats.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "communicated in the form of words",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0559",
+  "unit": 14,
+  "headword": "visa",
+  "ipa": "'vi:zә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 簽證\nvt. 簽發",
+  "forms": {
+   "plural": "visas",
+   "ing": "visaing",
+   "past": "visaed",
+   "thirdSg": "visas",
+   "pp": "visaed"
+  },
+  "examples": [
+   {
+    "en": "I applied for a visa.",
+    "zh": "我申請了簽證。"
+   },
+   {
+    "en": "You don't need a visa.",
+    "zh": "你不需要簽證。"
+   },
+   {
+    "en": "I beg you, give me a visa.",
+    "zh": "拜託您，請給我一張簽證。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an endorsement made in a passport that allows the bearer to enter the country issuing it",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0560",
+  "unit": 14,
+  "headword": "wildlife",
+  "ipa": "'waildlaif",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 野生動植物",
+  "forms": null,
+  "examples": [
+   {
+    "en": "When the World Wildlife Fund was founded in 1961, it took the panda as its symbol.",
+    "zh": "國際野生動物基金在一九六一年創辦的時候，以熊貓為象徵。"
+   },
+   {
+    "en": "It's a wildlife sanctuary.",
+    "zh": null
+   },
+   {
+    "en": "Ziri observed the wildlife.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "all living things (except people) that are undomesticated",
+  "note": null,
+  "audioUrl": null
+ }
+]

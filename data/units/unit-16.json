@@ -1,0 +1,1482 @@
+[
+ {
+  "id": "w0601",
+  "unit": 16,
+  "headword": "fasten",
+  "ipa": "'fɑ:sәn",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 拴緊, 使固定, 系, 集中於, 強加於\nvi. 扣緊",
+  "forms": {
+   "pp": "fastened",
+   "past": "fastened",
+   "ing": "fastening",
+   "thirdSg": "fastens"
+  },
+  "examples": [
+   {
+    "en": "Fasten your seat belt.",
+    "zh": "繫上您的安全帶。"
+   },
+   {
+    "en": "Fasten your seat belts.",
+    "zh": "繫上安全帶。"
+   },
+   {
+    "en": "Always fasten your seatbelt.",
+    "zh": "無論何時都要扣好安全帶。"
+   }
+  ],
+  "synonyms": [
+   "fix",
+   "secure"
+  ],
+  "antonyms": [
+   "unfasten"
+  ],
+  "phrases": null,
+  "defsEn": "cause to be firmly attached",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0602",
+  "unit": 16,
+  "headword": "harmful",
+  "ipa": "'hɑ:mful",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 有害的, 傷害的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Smoking is harmful to your health.",
+    "zh": "吸菸有害健康。"
+   },
+   {
+    "en": "Some medicines can be harmful to the body.",
+    "zh": "有些藥品會對身體產生危害。"
+   },
+   {
+    "en": "Fear is more harmful than the sharpest of swords.",
+    "zh": "恐懼比利劍更傷人。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "harmless"
+  ],
+  "phrases": null,
+  "defsEn": "causing or capable of causing harm",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0603",
+  "unit": 16,
+  "headword": "informative",
+  "ipa": "in'fɒ:mәtiv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 提供訊息的, 見聞廣博的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This is a very informative article.",
+    "zh": "這是篇資訊量很大的文章。"
+   },
+   {
+    "en": "It should be informative.",
+    "zh": null
+   },
+   {
+    "en": "It was really informative.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "enlightening",
+   "illuminating",
+   "instructive",
+   "informatory"
+  ],
+  "antonyms": [
+   "unenlightening",
+   "uninstructive",
+   "uninformative"
+  ],
+  "phrases": null,
+  "defsEn": "tending to increase knowledge or dissipate ignorance",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0604",
+  "unit": 16,
+  "headword": "institute",
+  "ipa": "'institju:t",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 學會, 學院, 協會\nvt. 創立, 開始, 制定, 任命",
+  "forms": {
+   "plural": "institutes",
+   "pp": "instituted",
+   "past": "instituted",
+   "ing": "instituting",
+   "thirdSg": "institutes"
+  },
+  "examples": [
+   {
+    "en": "A new classroom building was built in our institute last year.",
+    "zh": "去年我們學院建了一個新教學樓。"
+   },
+   {
+    "en": "At The Happiness Institute in Australia, a couple of hundred dollars may do the trick.",
+    "zh": "在澳大利亞的快樂協會，兩百塊錢可能達到效果。"
+   },
+   {
+    "en": "Sami was at the art institute.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "establish",
+   "found",
+   "plant",
+   "constitute",
+   "bring"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an association organized to promote art or science or education",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0605",
+  "unit": 16,
+  "headword": "kit",
+  "ipa": "kit",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 裝備, 工具箱, 成套工具\n[計] 成套部件; 成套零件",
+  "forms": {
+   "plural": "kits",
+   "pp": "kitted",
+   "ing": "kitting",
+   "past": "kitted",
+   "thirdSg": "kits"
+  },
+  "examples": [
+   {
+    "en": "Don't forget to take the first-aid kit.",
+    "zh": "別忘了帶上急救箱。"
+   },
+   {
+    "en": "I need a first aid kit.",
+    "zh": null
+   },
+   {
+    "en": "She bought a waxing kit.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "outfit"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a case for containing a set of articles",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0606",
+  "unit": 16,
+  "headword": "locally",
+  "ipa": "'lәukәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 地方性地, 區域性性地, 在當地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Think globally, act locally.",
+    "zh": "放眼全球，立足本土。"
+   },
+   {
+    "en": "Everything is locally grown.",
+    "zh": null
+   },
+   {
+    "en": "Everything is grown locally.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "topically"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "by a particular locality",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0607",
+  "unit": 16,
+  "headword": "mentor",
+  "ipa": "'mentɔ:",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 指導者, 良師益友",
+  "forms": {
+   "plural": "mentors",
+   "ing": "mentoring",
+   "past": "mentored",
+   "thirdSg": "mentors",
+   "pp": "mentored"
+  },
+  "examples": [
+   {
+    "en": "Tom is my mentor.",
+    "zh": null
+   },
+   {
+    "en": "Tom was my mentor.",
+    "zh": null
+   },
+   {
+    "en": "Sami is my mentor.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a wise and trusted guide and advisor",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0608",
+  "unit": 16,
+  "headword": "nominate",
+  "ipa": "'nɒmineit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 提名, 任命, 命名\n[法] 提名...為候選人, 指定, 推薦",
+  "forms": {
+   "pp": "nominated",
+   "past": "nominated",
+   "ing": "nominating",
+   "thirdSg": "nominates"
+  },
+  "examples": [
+   {
+    "en": "They nominated Calvin Coolidge for vice president.",
+    "zh": "他們提名卡爾文•柯立芝為副總統。"
+   },
+   {
+    "en": "I nominate Tom Jackson.",
+    "zh": null
+   },
+   {
+    "en": "Tom failed to get nominated.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "propose",
+   "name",
+   "make"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "propose as a candidate for some honor",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0609",
+  "unit": 16,
+  "headword": "opt",
+  "ipa": "ɒpt",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 選擇",
+  "forms": {
+   "ing": "opting",
+   "pp": "opted",
+   "past": "opted",
+   "thirdSg": "opts"
+  },
+  "examples": [
+   {
+    "en": "Ziri opted to turn back.",
+    "zh": null
+   },
+   {
+    "en": "You can opt out if you like.",
+    "zh": null
+   },
+   {
+    "en": "I opt to shield my emotions.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "choose",
+   "prefer"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "select as an alternative over another",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0610",
+  "unit": 16,
+  "headword": "parade",
+  "ipa": "pә'reid",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 遊行, 炫耀, 閱兵\nv. 遊行, 炫耀, (使)列隊行進",
+  "forms": {
+   "plural": "parades",
+   "ing": "parading",
+   "past": "paraded",
+   "pp": "paraded",
+   "thirdSg": "parades"
+  },
+  "examples": [
+   {
+    "en": "I caught sight of a parade on my way home.",
+    "zh": "在回家的路上，我看到一場閱兵式。"
+   },
+   {
+    "en": "A crowd of people gathered to see the parade.",
+    "zh": "一大群人聚在一起看巡遊。"
+   },
+   {
+    "en": "She parades her wealth.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a ceremonial procession including people marching",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0611",
+  "unit": 16,
+  "headword": "physician",
+  "ipa": "fi'ziʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 醫師, 內科醫師, 解除痛苦者\n[醫] 主治醫師",
+  "forms": {
+   "plural": "physicians"
+  },
+  "examples": [
+   {
+    "en": "He saw a physician.",
+    "zh": "他看到了一位內科醫師。"
+   },
+   {
+    "en": "My wife is a physician.",
+    "zh": "我的老婆是一個醫生。"
+   },
+   {
+    "en": "Are you a practicing physician?",
+    "zh": "你是執業醫師嗎？"
+   }
+  ],
+  "synonyms": [
+   "doctor",
+   "doc",
+   "MD",
+   "Dr.",
+   "medico"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a licensed medical practitioner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0612",
+  "unit": 16,
+  "headword": "polish",
+  "ipa": "'pɒliʃ",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "defsZh": "a. 波蘭的\nn. 波蘭人, 上光劑, 光澤, 優雅\nvt. 擦亮, 擦去, 使完美\nvi. 擦亮, 變得光亮",
+  "forms": {
+   "pp": "polished",
+   "ing": "polishing",
+   "past": "polished",
+   "plural": "polishes",
+   "thirdSg": "polishes"
+  },
+  "examples": [
+   {
+    "en": "Do you speak Polish?",
+    "zh": "你會說波蘭語嗎？"
+   },
+   {
+    "en": "Timuçin learns Polish.",
+    "zh": "Timuçin在學波蘭語。"
+   },
+   {
+    "en": "We polished our shoes.",
+    "zh": "我們擦亮了鞋子。"
+   }
+  ],
+  "synonyms": [
+   "gloss",
+   "glossiness",
+   "burnish",
+   "refinement",
+   "culture"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the property of being smooth and shiny",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0613",
+  "unit": 16,
+  "headword": "postage",
+  "ipa": "'pәustidʒ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 郵資\n[經] 郵費, 郵資",
+  "forms": {
+   "plural": "postages"
+  },
+  "examples": [
+   {
+    "en": "No postage is necessary.",
+    "zh": null
+   },
+   {
+    "en": "What will the postage be?",
+    "zh": null
+   },
+   {
+    "en": "The price includes postage.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "stamp"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the charge for mailing something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0614",
+  "unit": 16,
+  "headword": "recreational",
+  "ipa": ".rekri'eiʃәnәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 消遣的, 娛樂的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom is a recreational arguer.",
+    "zh": null
+   },
+   {
+    "en": "Leon used recreational substances.",
+    "zh": null
+   },
+   {
+    "en": "He purchased a recreational vehicle.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "amateur",
+   "unpaid"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "of or relating to recreation",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0615",
+  "unit": 16,
+  "headword": "rehearse",
+  "ipa": "ri'hә:s",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 預演, 排演, 使熟練掌握, 練習, 複述\nvi. 排練, 練習, 演習",
+  "forms": {
+   "ing": "rehearsing",
+   "pp": "rehearsed",
+   "past": "rehearsed",
+   "thirdSg": "rehearses"
+  },
+  "examples": [
+   {
+    "en": "They aren't quarreling, but are rehearsing a play.",
+    "zh": "他們不是在打架，而是在排練戲劇。"
+   },
+   {
+    "en": "I have to rehearse.",
+    "zh": null
+   },
+   {
+    "en": "We need to rehearse.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "practise",
+   "practice"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "engage in a rehearsal (of)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0616",
+  "unit": 16,
+  "headword": "removal",
+  "ipa": "ri'mu:vl",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 移動, 移居, 遷移, 排除, 切除\n[醫] 切除, 除去",
+  "forms": {
+   "plural": "removals"
+  },
+  "examples": [
+   {
+    "en": "Early removal of the placenta is very dangerous.",
+    "zh": "胎盤早剝很危險。"
+   },
+   {
+    "en": "I had laser hair removal.",
+    "zh": null
+   },
+   {
+    "en": "Rodrigo is here for tattoo removal.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "remotion"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of removing",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0617",
+  "unit": 16,
+  "headword": "satisfactory",
+  "ipa": ".sætis'fæktәri",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 滿意的, 贖罪的\n[法] 令人滿意的, 令當事人滿意的, 充分的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The explanation is by no means satisfactory.",
+    "zh": "這個解釋不是很令人滿意。"
+   },
+   {
+    "en": "The results of the research were quite satisfactory.",
+    "zh": "調查的結果十分令人滿意。"
+   },
+   {
+    "en": "His work was satisfactory.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "acceptable"
+  ],
+  "antonyms": [
+   "unsatisfactory"
+  ],
+  "phrases": null,
+  "defsEn": "giving satisfaction",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0618",
+  "unit": 16,
+  "headword": "seasonal",
+  "ipa": "'si:znәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 季節的, 依照季節的, 週期性的\n[經] 季節性的, 季節的",
+  "forms": {
+   "plural": "seasonals"
+  },
+  "examples": [
+   {
+    "en": "Our business is seasonal.",
+    "zh": null
+   },
+   {
+    "en": "I have seasonal allergies.",
+    "zh": null
+   },
+   {
+    "en": "Ziri was a seasonal worker.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "year-round"
+  ],
+  "phrases": null,
+  "defsEn": "a worker who finds employment only in certain seasons",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0619",
+  "unit": 16,
+  "headword": "separately",
+  "ipa": "'sepәrәtli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. [表]分開, 不相連, 分隔, 分離, 不同, 單獨, 獨立, 各自, 各別, 脫離肉體, 靈魂\n[計] 分離地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Please bill us separately.",
+    "zh": "請讓我們分開付錢。"
+   },
+   {
+    "en": "Let's pay separately today.",
+    "zh": "今天我們AA制吧。"
+   },
+   {
+    "en": "Could you wrap this separately, please?",
+    "zh": "請你分開包裝好嗎？"
+   }
+  ],
+  "synonyms": [
+   "individually",
+   "singly",
+   "severally"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "apart from others",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0620",
+  "unit": 16,
+  "headword": "turnover",
+  "ipa": "'tә:n.әuvә",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 翻倒, 翻轉, 半圓酥餅, 營業額, 流通, 週轉\na. 可翻轉的",
+  "forms": {
+   "plural": "turnovers"
+  },
+  "examples": [
+   {
+    "en": "This company achieved a remarkable increase in turnover last year.",
+    "zh": "這家公司去年獲得顯著的營業額增長。"
+   },
+   {
+    "en": "I'd like a turnover, please.",
+    "zh": null
+   },
+   {
+    "en": "The turnover was 500 million shares.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the ratio of the number of workers that had to be replaced in a given time period to the average number of workers",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0621",
+  "unit": 16,
+  "headword": "unnecessary",
+  "ipa": ".ʌn'nesәsәri",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不必要的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I believe this was unnecessary.",
+    "zh": "我相信這是不必要的。"
+   },
+   {
+    "en": "The facts proved that our worries were unnecessary.",
+    "zh": "事實證明了我們的擔心是多餘的。"
+   },
+   {
+    "en": "If two men always have the same opinion, one of them is unnecessary.",
+    "zh": "如果兩個人總是意見相同，那麼他們其中一個就沒必要了。"
+   }
+  ],
+  "synonyms": [
+   "unneeded"
+  ],
+  "antonyms": [
+   "necessary"
+  ],
+  "phrases": null,
+  "defsEn": "not necessary",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0622",
+  "unit": 16,
+  "headword": "accordingly",
+  "ipa": "ә'kɒ:diŋli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 相應地, 因此, 於是",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Plan your life accordingly.",
+    "zh": null
+   },
+   {
+    "en": "Accordingly I gave up my plans.",
+    "zh": null
+   },
+   {
+    "en": "I will deal with Tom accordingly.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "consequently"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(sentence connectors) because of the reason given",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0623",
+  "unit": 16,
+  "headword": "apple",
+  "ipa": "'æpl",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 蘋果, 傢伙\n[醫] 蘋果",
+  "forms": {
+   "plural": "apples"
+  },
+  "examples": [
+   {
+    "en": "I ate apples.",
+    "zh": "我吃蘋果了。"
+   },
+   {
+    "en": "Buy an apple.",
+    "zh": "買一顆蘋果。"
+   },
+   {
+    "en": "I eat apples.",
+    "zh": "我吃蘋果。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0624",
+  "unit": 16,
+  "headword": "applicable",
+  "ipa": "'æplikәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 合適的, 可應用的\n[法] 適用的, 適應的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This law is applicable to all cases.",
+    "zh": "此法適用於所有情況。"
+   },
+   {
+    "en": "That's no longer applicable.",
+    "zh": null
+   },
+   {
+    "en": "The laws are not applicable.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "capable of being applied; having relevance",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0625",
+  "unit": 16,
+  "headword": "auction",
+  "ipa": "'ɒ:kʃәn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 拍賣\nvt. 拍賣",
+  "forms": {
+   "plural": "auctions",
+   "pp": "auctioned",
+   "past": "auctioned",
+   "ing": "auctioning",
+   "thirdSg": "auctions"
+  },
+  "examples": [
+   {
+    "en": "The unclaimed items were auctioned off.",
+    "zh": "無人領取的物品被拍賣了。"
+   },
+   {
+    "en": "The unclaimed items were sold at auction.",
+    "zh": "無人領取的物品被拍賣了。"
+   },
+   {
+    "en": "The unclaimed items were sold off at auction.",
+    "zh": "無人領取的物品被拍賣了。"
+   }
+  ],
+  "synonyms": [
+   "vendue",
+   "auctioneer"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a variety of bridge in which tricks made in excess of the contract are scored toward game; now generally superseded by contract bridge",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0626",
+  "unit": 16,
+  "headword": "balcony",
+  "ipa": "'bælkәni",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 陽臺, 戲院樓廳",
+  "forms": {
+   "plural": "balconies",
+   "past": "balconied"
+  },
+  "examples": [
+   {
+    "en": "I'm on the balcony.",
+    "zh": "我在陽臺上。"
+   },
+   {
+    "en": "I ate breakfast on my balcony.",
+    "zh": "我在陽臺上吃的早飯。"
+   },
+   {
+    "en": "What are you doing on the balcony?",
+    "zh": "你在陽臺上做什麼？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an upper floor projecting from the rear over the main floor in an auditorium",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0627",
+  "unit": 16,
+  "headword": "basement",
+  "ipa": "'beismәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 地下室, 牆腳\n[化] 地下室",
+  "forms": {
+   "plural": "basements"
+  },
+  "examples": [
+   {
+    "en": "The basement was flooded.",
+    "zh": "地下室被水淹了。"
+   },
+   {
+    "en": "I know I left it somewhere down here in the basement.",
+    "zh": "我知道我把它放在地下室的某個地方了。"
+   },
+   {
+    "en": "They cleaned everything, from the basement to the attic.",
+    "zh": "他們從地下室到閣樓都打掃了。"
+   }
+  ],
+  "synonyms": [
+   "cellar"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0628",
+  "unit": 16,
+  "headword": "beforehand",
+  "ipa": "bi'fɒ:hænd",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 預先",
+  "forms": null,
+  "examples": [
+   {
+    "en": "It had been arranged beforehand.",
+    "zh": "那事已提前安排好了。"
+   },
+   {
+    "en": "Please let me know the schedule beforehand.",
+    "zh": "請你事先把計劃告訴我。"
+   },
+   {
+    "en": "In case I can't come, I'll give you a call beforehand.",
+    "zh": "萬一來不了，我會先給你打電話。"
+   }
+  ],
+  "synonyms": [
+   "advance",
+   "ahead"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "being ahead of time or need",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0629",
+  "unit": 16,
+  "headword": "culinary",
+  "ipa": "'kʌlinәri",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 廚房的, 烹呼叫的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "India is a region rich in culinary culture.",
+    "zh": "印度是一個烹飪文化豐富的地區。"
+   },
+   {
+    "en": "They studied culinary arts.",
+    "zh": null
+   },
+   {
+    "en": "I dabble in the culinary arts.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "of or relating to or used in cooking",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0630",
+  "unit": 16,
+  "headword": "documentary",
+  "ipa": ".dɒkju'mentәri",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 記錄片\na. 檔案的",
+  "forms": {
+   "plural": "documentaries"
+  },
+  "examples": [
+   {
+    "en": "He recorded a documentary and gave it to me.",
+    "zh": "他錄了一個紀錄片給我。"
+   },
+   {
+    "en": "That documentary about the environmental crisis was a real eye-opener.",
+    "zh": "這部有關環境危機的紀錄片真是令人大開眼界。"
+   },
+   {
+    "en": "I watched a documentary.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "docudrama",
+   "infotainment",
+   "documental",
+   "objective"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a film or TV program presenting the facts about a person or event",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0631",
+  "unit": 16,
+  "headword": "downturn",
+  "ipa": "'dauntә:n",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. (尤指經濟方面的)衰退, 下降趨勢\n[電] 低迷時期",
+  "forms": {
+   "plural": "downturns",
+   "past": "downturned"
+  },
+  "examples": [
+   {
+    "en": "Can the economy handle another downturn?",
+    "zh": null
+   },
+   {
+    "en": "Will the global economy face another downturn?",
+    "zh": null
+   },
+   {
+    "en": "What's responsible for Algeria's economic downturn?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "downswing"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a worsening of business or economic activity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0632",
+  "unit": 16,
+  "headword": "earthquake",
+  "ipa": "'ә:θkweik",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 地震",
+  "forms": {
+   "plural": "earthquakes"
+  },
+  "examples": [
+   {
+    "en": "I'm afraid of earthquakes.",
+    "zh": "我怕地震。"
+   },
+   {
+    "en": "Earthquakes strike suddenly.",
+    "zh": "地震發生得都很突然。"
+   },
+   {
+    "en": "Taiwan is prone to earthquakes.",
+    "zh": "臺灣容易發生地震。"
+   }
+  ],
+  "synonyms": [
+   "quake",
+   "temblor",
+   "seism"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0633",
+  "unit": 16,
+  "headword": "elegant",
+  "ipa": "'eligәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 優雅的, 端莊的, 高雅的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "She looks very elegant.",
+    "zh": "她看上去十分優雅。"
+   },
+   {
+    "en": "The man is elegant.",
+    "zh": null
+   },
+   {
+    "en": "What an elegant hat.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "graceful",
+   "refined"
+  ],
+  "antonyms": [
+   "inelegant"
+  ],
+  "phrases": null,
+  "defsEn": "refined and tasteful in appearance or behavior or style",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0634",
+  "unit": 16,
+  "headword": "excessive",
+  "ipa": "ik'sesiv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 過度的, 過多的, 極端的\n[法] 過度的, 過分的, 額外的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The government's expenditures are a bit excessive.",
+    "zh": "政府的開支有些過頭了。"
+   },
+   {
+    "en": "Excessive choice results in the inability to choose.",
+    "zh": "選擇太多導致無法選擇。"
+   },
+   {
+    "en": "Excessive drinking is one of the causes of impotence.",
+    "zh": "酗酒是導致陽痿的一個因素。"
+   }
+  ],
+  "synonyms": [
+   "inordinate",
+   "undue",
+   "unreasonable",
+   "extravagant",
+   "exuberant"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "beyond normal limits",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0635",
+  "unit": 16,
+  "headword": "generic",
+  "ipa": "dʒi'nerik",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 屬類的, 一般的\n[計] 一般的",
+  "forms": {
+   "plural": "generics"
+  },
+  "examples": [
+   {
+    "en": "This is generic Eurodance.",
+    "zh": null
+   },
+   {
+    "en": "We don't sell generics in this pharmacy.",
+    "zh": null
+   },
+   {
+    "en": "The generic name for Prozac is fluoxetine.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "varietal",
+   "varietal wine"
+  ],
+  "phrases": null,
+  "defsEn": "a wine that is a blend of several varieties of grapes with no one grape predominating; a wine that does not carry the name of any specific grape",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0636",
+  "unit": 16,
+  "headword": "jazz",
+  "ipa": "dʒæz",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "defsZh": "n. 爵士樂, 喧鬧\na. 爵士樂的, 喧吵的\nvi. 演奏爵士樂, 跳爵士舞, 遊蕩\nvt. 奏爵士樂, 使活潑",
+  "forms": {
+   "ing": "jazzing",
+   "past": "jazzed",
+   "thirdSg": "jazzes",
+   "pp": "jazzed"
+  },
+  "examples": [
+   {
+    "en": "I like jazz.",
+    "zh": "我喜歡爵士樂。"
+   },
+   {
+    "en": "I like jazz music.",
+    "zh": "我喜歡爵士樂。"
+   },
+   {
+    "en": "Do you also like jazz?",
+    "zh": "您也喜歡爵士樂嗎？"
+   }
+  ],
+  "synonyms": [
+   "wind",
+   "malarkey",
+   "malarky",
+   "nothingness"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "empty rhetoric or insincere or exaggerated talk",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0637",
+  "unit": 16,
+  "headword": "lifetime",
+  "ipa": "'laiftaim",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 一生, 終生\na. 一生的, 終生的",
+  "forms": {
+   "plural": "lifetimes"
+  },
+  "examples": [
+   {
+    "en": "Communism will never be reached in my lifetime.",
+    "zh": "在我有生之年，共產主義不可能達到。"
+   },
+   {
+    "en": "Some things I will never be able to learn in my lifetime.",
+    "zh": "有些東西是我永遠也學不會的。"
+   },
+   {
+    "en": "An opportunity like this only comes along once in a lifetime.",
+    "zh": "一輩子只會出現一次像這樣的機會。"
+   }
+  ],
+  "synonyms": [
+   "life",
+   "life-time",
+   "lifespan"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the period during which something is functional (as between birth and death)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0638",
+  "unit": 16,
+  "headword": "massage",
+  "ipa": "'mæsɑ:ʒ",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 按摩, 揉\nvt. 按摩, 揉",
+  "forms": {
+   "ing": "massaging",
+   "past": "massaged",
+   "pp": "massaged",
+   "plural": "massages",
+   "thirdSg": "massages"
+  },
+  "examples": [
+   {
+    "en": "She gave him a massage.",
+    "zh": "她給他做了個按摩。"
+   },
+   {
+    "en": "She works as a massage therapist.",
+    "zh": "她是按摩師。"
+   },
+   {
+    "en": "I want a massage. I need to relax.",
+    "zh": "我想要按摩。我需要放鬆。"
+   }
+  ],
+  "synonyms": [
+   "knead"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "kneading and rubbing parts of the body to increase circulation and promote relaxation",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0639",
+  "unit": 16,
+  "headword": "maximize",
+  "ipa": "'mæksimaiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 取...最大值, 使增加(或擴大)到最大限度\n[計] 最大化",
+  "forms": {
+   "ing": "maximizing",
+   "thirdSg": "maximizes",
+   "pp": "maximized",
+   "past": "maximized"
+  },
+  "examples": [
+   {
+    "en": "You need to maximize your profits.",
+    "zh": null
+   },
+   {
+    "en": "We need to maximize this opportunity.",
+    "zh": null
+   },
+   {
+    "en": "He wants to maximize his productivity.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "maximise"
+  ],
+  "antonyms": [
+   "minimize",
+   "minimise"
+  ],
+  "phrases": null,
+  "defsEn": "make as big or large as possible",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0640",
+  "unit": 16,
+  "headword": "mild",
+  "ipa": "maild",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 溫和的, 溫柔的, 淡味的, 適度的, 輕微的, (肥皂等)軟性的\n[醫] 輕的, 緩和的",
+  "forms": {
+   "plural": "milds"
+  },
+  "examples": [
+   {
+    "en": "We had a mild winter last year.",
+    "zh": "去年冬天很暖和。"
+   },
+   {
+    "en": "This country has a mild climate.",
+    "zh": "這個國家的氣候很溫和。"
+   },
+   {
+    "en": "It's fairly mild for this time of year.",
+    "zh": "就現在這個節氣來說天氣是相當溫和了。"
+   }
+  ],
+  "synonyms": [
+   "meek",
+   "modest",
+   "balmy",
+   "soft"
+  ],
+  "antonyms": [
+   "intense"
+  ],
+  "phrases": null,
+  "defsEn": "moderate in type or degree or effect or force; far from extreme",
+  "note": null,
+  "audioUrl": null
+ }
+]

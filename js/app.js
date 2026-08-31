@@ -508,9 +508,9 @@ function renderSettings() {
       </div>
       <div class="card about">
         <h2>關於</h2>
-        <p class="muted">TOEIC 單字學習 v1 — 400 字（TSL 1.2 前 400，依多益語料詞頻分 10 單元）。</p>
+        <p class="muted">TOEIC 單字學習 — 1250 字（TSL 1.2 全量，依多益語料詞頻分 32 單元）。</p>
         <p class="muted">資料來源：TOEIC Service List 1.2（Browne, Culligan &amp; Phillips, CC BY）·
-        ECDICT（中文釋義/音標/變形）· Princeton WordNet（英英/同反義）·
+        ECDICT（中文釋義/音標/變形）· CMUdict（音標補位）· Princeton WordNet（英英/同反義）·
         Tatoeba（例句，CC BY 2.0 FR）· OpenCC（簡轉繁）。</p>
       </div>
     </div>`;

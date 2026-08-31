@@ -1,0 +1,1408 @@
+[
+ {
+  "id": "w0761",
+  "unit": 20,
+  "headword": "courtesy",
+  "ipa": "'kә:tisi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 禮貌, 謙恭, 好意\n[法] 優待, 禮貌, 恩惠",
+  "forms": {
+   "plural": "courtesies"
+  },
+  "examples": [
+   {
+    "en": "\"Exchanging courtesies every day is all we've done,\" Tom answered with resignation.",
+    "zh": "“天天寒暄就是我們做的所有事了。”湯姆無奈地回答。"
+   },
+   {
+    "en": "Show a little courtesy!",
+    "zh": null
+   },
+   {
+    "en": "It's a common courtesy.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "discourtesy"
+  ],
+  "phrases": null,
+  "defsEn": "a courteous or respectful or considerate act",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0762",
+  "unit": 20,
+  "headword": "creativity",
+  "ipa": ".kri:ei'tiviti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 創造力, 創造性",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Creating creativity itself is improving creativity.",
+    "zh": "創新創新本身就提升了創新。"
+   },
+   {
+    "en": "Creativity is the key.",
+    "zh": null
+   },
+   {
+    "en": "His creativity ran out.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "creativeness"
+  ],
+  "antonyms": [
+   "uncreativeness"
+  ],
+  "phrases": null,
+  "defsEn": "the ability to create",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0763",
+  "unit": 20,
+  "headword": "disagreement",
+  "ipa": ".disә'gri:mәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 不合, 爭論, 不一致\n[法] 不一致, 不同意, 陪審團的意見不一",
+  "forms": {
+   "plural": "disagreements"
+  },
+  "examples": [
+   {
+    "en": "Jim sometimes has disagreements with his wife.",
+    "zh": "吉姆有時與他的妻子意見分歧。"
+   },
+   {
+    "en": "It's clear that there's a rather strong disagreement between the two.",
+    "zh": "很明顯的是這兩者之間有很強烈的分歧。"
+   },
+   {
+    "en": "They express disagreement by shaking their heads, which may indicate agreement in other countries.",
+    "zh": "他們以搖頭表示不同意，而其他國家的人可能以搖頭表示同意。"
+   }
+  ],
+  "synonyms": [
+   "dissension",
+   "dissonance",
+   "discrepancy",
+   "divergence",
+   "variance"
+  ],
+  "antonyms": [
+   "agreement"
+  ],
+  "phrases": null,
+  "defsEn": "a conflict of people's opinions or actions or characters",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0764",
+  "unit": 20,
+  "headword": "disappointment",
+  "ipa": ".disә'pɒintmәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 失望",
+  "forms": {
+   "plural": "disappointments"
+  },
+  "examples": [
+   {
+    "en": "What a disappointment!",
+    "zh": "多麼讓人失望啊！"
+   },
+   {
+    "en": "Tom couldn't conceal his disappointment.",
+    "zh": "湯姆不能掩飾他的失望。"
+   },
+   {
+    "en": "The new teacher was a disappointment to the class.",
+    "zh": "新老師辜負了這個班學生的期望。"
+   }
+  ],
+  "synonyms": [
+   "letdown"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a feeling of dissatisfaction that results when your expectations are not realized",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0765",
+  "unit": 20,
+  "headword": "dissatisfy",
+  "ipa": "dis'sætisfai",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使感覺不滿, 不滿足",
+  "forms": {
+   "ing": "dissatisfying",
+   "plural": "dissatisfies",
+   "past": "dissatisfied",
+   "thirdSg": "dissatisfies",
+   "pp": "dissatisfied"
+  },
+  "examples": [
+   {
+    "en": "If you're so dissatisfied with what I'm doing, you'd be better off doing it yourself.",
+    "zh": "你要是這麼不滿意我做的，自己來做好了。"
+   },
+   {
+    "en": "I was quite dissatisfied.",
+    "zh": null
+   },
+   {
+    "en": "Why are you dissatisfied?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "satisfy"
+  ],
+  "phrases": null,
+  "defsEn": "fail to satisfy",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0766",
+  "unit": 20,
+  "headword": "enjoyable",
+  "ipa": "in'dʒɒiәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 可從中得到樂趣的, 令人愉快的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I had an enjoyable two weeks in London.",
+    "zh": "我在倫敦度過了愉快的兩週。"
+   },
+   {
+    "en": "This photograph reminds me of enjoyable times when I was a child.",
+    "zh": "這張照片讓我想起童年的快樂時光。"
+   },
+   {
+    "en": "I feel like somehow I've stopped thinking of translation as something enjoyable.",
+    "zh": "不知怎麼的，我覺得翻譯好像已經不再是一件樂事了。"
+   }
+  ],
+  "synonyms": [
+   "gratifying",
+   "pleasurable"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "affording satisfaction or pleasure",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0767",
+  "unit": 20,
+  "headword": "faculty",
+  "ipa": "'fækәlti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 才能, 能力, 全體教員, (大學的)系\n[醫] 能力, [大學]院系",
+  "forms": {
+   "plural": "faculties"
+  },
+  "examples": [
+   {
+    "en": "I study comparative religion in the arts faculty of the University of Turku.",
+    "zh": "我在圖爾庫大學文化系學習宗教比較學。"
+   },
+   {
+    "en": "Tom is my faculty advisor.",
+    "zh": null
+   },
+   {
+    "en": "What faculty were they in again?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "module",
+   "staff"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "one of the inherent cognitive or perceptual powers of the mind",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0768",
+  "unit": 20,
+  "headword": "favorable",
+  "ipa": "'feivәrәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 有利的, 讚許的, 良好的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Circumstances are entirely favorable to us.",
+    "zh": "環境完全對我們有利。"
+   },
+   {
+    "en": "His comments about the book were favorable.",
+    "zh": "他給這本書正面的評價。"
+   },
+   {
+    "en": "Thanks to the favorable wind, we soon reached the island.",
+    "zh": "多虧了順風，我們很快就到了那個小島。"
+   }
+  ],
+  "synonyms": [
+   "favourable",
+   "golden",
+   "lucky",
+   "prosperous"
+  ],
+  "antonyms": [
+   "unfavorable"
+  ],
+  "phrases": null,
+  "defsEn": "encouraging or approving or pleasing",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0769",
+  "unit": 20,
+  "headword": "foreman",
+  "ipa": "'fɒ:mәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 領班, 工頭, 陪審長\n[經] 領班, 工頭",
+  "forms": {
+   "plural": "foremen"
+  },
+  "examples": [
+   {
+    "en": "Ziri is a foreman.",
+    "zh": null
+   },
+   {
+    "en": "Tom is the foreman.",
+    "zh": null
+   },
+   {
+    "en": "Tom was our foreman.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "chief",
+   "gaffer",
+   "honcho",
+   "boss"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who exercises control over workers",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0770",
+  "unit": 20,
+  "headword": "forum",
+  "ipa": "'fɒ:rәm",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 論壇, 公開討論的廣場, 法庭, 討論會\n[法] 討論會, 專題討論, 公共論壇",
+  "forms": {
+   "plural": "forums"
+  },
+  "examples": [
+   {
+    "en": "I do not have an account in these forums.",
+    "zh": "我在這些論壇上沒有帳號。"
+   },
+   {
+    "en": "This forum is great.",
+    "zh": null
+   },
+   {
+    "en": "Tom attended the forum.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "assembly"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a public meeting or assembly for open discussion",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0771",
+  "unit": 20,
+  "headword": "founder",
+  "ipa": "'faundә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 創立者, 建立者\nvt. 使沉沒, 使摔倒, 弄跛, 浸水, 破壞\nvi. 沉沒, 摔到, 變跛, 倒塌, 失敗",
+  "forms": {
+   "plural": "founders",
+   "past": "foundered",
+   "pp": "foundered",
+   "ing": "foundering",
+   "thirdSg": "founders"
+  },
+  "examples": [
+   {
+    "en": "She is not the founder, she's the investor.",
+    "zh": "她不是創辦人，她是投資人。"
+   },
+   {
+    "en": "In the center of the university campus stands the statue of the founder.",
+    "zh": "創校人的雕像在大學校園的中心矗立著。"
+   },
+   {
+    "en": "The founder died two months ago.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "laminitis",
+   "beginner",
+   "father"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "inflammation of the laminated tissue that attaches the hoof to the foot of a horse",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0772",
+  "unit": 20,
+  "headword": "fundraise",
+  "ipa": "'fʌnd,reiz",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 募捐",
+  "forms": {
+   "ing": "fundraising"
+  },
+  "examples": [
+   {
+    "en": "He's also in charge of fundraising.",
+    "zh": null
+   },
+   {
+    "en": "Tom is organizing a fundraising event.",
+    "zh": null
+   },
+   {
+    "en": "He was in charge of the fundraising efforts.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "fund-raise"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "raise money for a cause or project",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0773",
+  "unit": 20,
+  "headword": "graphics",
+  "ipa": "'græfiks",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 製圖法, 製圖學, 圖解演算法, 圖形顯示\n[計] 圖形; DOS外部命令:列印圖形方式下的螢幕內容",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The graphics keep glitching out.",
+    "zh": null
+   },
+   {
+    "en": "Tom installed graphics mods for his game.",
+    "zh": null
+   },
+   {
+    "en": "Your laptop's graphics card is top-notch.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "artwork",
+   "art",
+   "graphic"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "photographs or other visual representations in a printed publication",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0774",
+  "unit": 20,
+  "headword": "handy",
+  "ipa": "'hændi",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 便利的, 敏捷的, 容易取得的\n[化] 便於使用的; 易操作的",
+  "forms": {
+   "plural": "handies"
+  },
+  "examples": [
+   {
+    "en": "That's very handy.",
+    "zh": "這很方便。"
+   },
+   {
+    "en": "It really comes in handy.",
+    "zh": "這真的能派上用場。"
+   },
+   {
+    "en": "She's handy with a needle.",
+    "zh": "她擅長針線活。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "United States blues musician who transcribed and published traditional blues music (1873-1958)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0775",
+  "unit": 20,
+  "headword": "hazardous",
+  "ipa": "'hæzәdәs",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 危險的, 冒險的, 碰運氣的\n[法] 危險的, 冒險的, 碰運氣的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This is extremely hazardous.",
+    "zh": null
+   },
+   {
+    "en": "This is a hazardous workplace.",
+    "zh": null
+   },
+   {
+    "en": "Lead is hazardous to human health.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "risky",
+   "wild"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "involving risk or danger",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0776",
+  "unit": 20,
+  "headword": "healthcare",
+  "ipa": "'helθkεә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 醫療保健；衛生保健；健康護理, 健康服務",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Gunter worked in healthcare.",
+    "zh": null
+   },
+   {
+    "en": "Is there healthcare in Hell?",
+    "zh": null
+   },
+   {
+    "en": "Do you have a healthcare proxy?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the preservation of mental and physical health by preventing or treating illness through services offered by the health profession",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0777",
+  "unit": 20,
+  "headword": "humidity",
+  "ipa": "hju:'miditi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 溼氣, 潮溼, 溼度\n[計] 溼度",
+  "forms": {
+   "plural": "humidities"
+  },
+  "examples": [
+   {
+    "en": "The humidity is down.",
+    "zh": null
+   },
+   {
+    "en": "I can't stand humidity.",
+    "zh": null
+   },
+   {
+    "en": "The humidity is very high.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "humidness"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "wetness in the atmosphere",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0778",
+  "unit": 20,
+  "headword": "influential",
+  "ipa": ".infu'enʃәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 有影響的, 有勢力的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He has a lot of influential friends.",
+    "zh": "他有很多具有影響力的朋友。"
+   },
+   {
+    "en": "Tom and Mary think John isn't influential.",
+    "zh": "湯姆和瑪莉認為約翰沒有影響力。"
+   },
+   {
+    "en": "He's very influential in the world of medicine.",
+    "zh": "他在醫學界有很大的影響力。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "uninfluential"
+  ],
+  "phrases": null,
+  "defsEn": "having or exercising influence or power",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0779",
+  "unit": 20,
+  "headword": "nationwide",
+  "ipa": "'neiʃәnwaid",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 全國性的\n[法] 全國的, 全國範圍的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He had got nationwide fame.",
+    "zh": null
+   },
+   {
+    "en": "The Kremlin moved to extend the lockdown nationwide.",
+    "zh": null
+   },
+   {
+    "en": "Implementing this nationwide was no simple endeavor.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "countrywide",
+   "nationally"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "occurring or extending throughout a country or nation",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0780",
+  "unit": 20,
+  "headword": "pad",
+  "ipa": "pæd",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 填補, 襯墊, 印色盒, 路\nvt. 填補, 走, 誇大\nvi. 步行\n[計] 焊接點; 包裝配/拆卸",
+  "forms": {
+   "plural": "pads",
+   "past": "padded",
+   "pp": "padded",
+   "ing": "padding",
+   "thirdSg": "pads"
+  },
+  "examples": [
+   {
+    "en": "May I use your ink pad?",
+    "zh": "可以借你的印臺一用嗎？"
+   },
+   {
+    "en": "Is this maxi pad for overnight use?",
+    "zh": "這是夜用的衛生巾嗎？"
+   },
+   {
+    "en": "I am so exhausted because I have padded the hoof for 4 hours.",
+    "zh": "走了四個小時，我覺得非常累了。"
+   }
+  ],
+  "synonyms": [
+   "tablet",
+   "inkpad"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a number of sheets of paper fastened together along one edge",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0781",
+  "unit": 20,
+  "headword": "paraphrase",
+  "ipa": "'pærәfreiz",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 釋義, 解述, 改寫\nvt. 改寫, 解述\nvi. 釋義, 意譯",
+  "forms": {
+   "pp": "paraphrased",
+   "plural": "paraphrases",
+   "ing": "paraphrasing",
+   "thirdSg": "paraphrases",
+   "past": "paraphrased"
+  },
+  "examples": [
+   {
+    "en": "Sami is paraphrasing here.",
+    "zh": null
+   },
+   {
+    "en": "I don't understand this word. Could you paraphrase it?",
+    "zh": null
+   },
+   {
+    "en": "I'm surprised by AI's ability to paraphrase and analyze novel sentences.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "paraphrasis",
+   "rephrase",
+   "reword"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "rewording for the purpose of clarification",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0782",
+  "unit": 20,
+  "headword": "placement",
+  "ipa": "'pleismәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 放置, 佈置, 工作安排, 編班, 定位球\n[計] 放置",
+  "forms": {
+   "plural": "placements"
+  },
+  "examples": [
+   {
+    "en": "There's a placement test next week.",
+    "zh": null
+   },
+   {
+    "en": "The show is full of product placement.",
+    "zh": null
+   },
+   {
+    "en": "I cheated on my Berber placement test.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "arrangement",
+   "location",
+   "locating",
+   "position",
+   "positioning"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the spatial property of the way in which something is placed",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0783",
+  "unit": 20,
+  "headword": "postal",
+  "ipa": "'pәustl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 郵政的, 郵局的\n[經] 郵政的",
+  "forms": {
+   "plural": "postals"
+  },
+  "examples": [
+   {
+    "en": "What is a postal code?",
+    "zh": null
+   },
+   {
+    "en": "Tom is a postal worker.",
+    "zh": null
+   },
+   {
+    "en": "Tom worked as a postal worker.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "of or relating to the system for delivering mail",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0784",
+  "unit": 20,
+  "headword": "publicity",
+  "ipa": "pʌb'lisiti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 名聲, 宣傳, 公開場合\n[經] 宣傳, 廣告",
+  "forms": null,
+  "examples": [
+   {
+    "en": "You don't have to worry about publicity.",
+    "zh": "你不用擔心宣傳的事。"
+   },
+   {
+    "en": "It was a publicity stunt.",
+    "zh": null
+   },
+   {
+    "en": "This job pays in publicity.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "promotion",
+   "packaging"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a message issued in behalf of some product or cause or idea or person or institution",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0785",
+  "unit": 20,
+  "headword": "renter",
+  "ipa": "'rentә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 承租人, 佃戶, 出租人\n[經] 租賃人, 租戶, 出租人",
+  "forms": {
+   "plural": "renters"
+  },
+  "examples": [
+   {
+    "en": "Yanni is an evicted renter.",
+    "zh": null
+   },
+   {
+    "en": "It'll be easy to find a renter for this house.",
+    "zh": null
+   },
+   {
+    "en": "I am now a member of the local association of renters.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "tenant"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who pays rent to use land or a building or a car that is owned by someone else",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0786",
+  "unit": 20,
+  "headword": "repairperson",
+  "ipa": "[ri'pεə,pəsən]",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 修理工",
+  "forms": null,
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0787",
+  "unit": 20,
+  "headword": "repeatedly",
+  "ipa": "ri'pi:tidli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 重複地, 再三地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I'm tossing and turning, repeatedly thinking about what happened today, deeply remorseful.",
+    "zh": "我輾轉反側，反覆思考著白天發生的事，後悔不已。"
+   },
+   {
+    "en": "I can't believe you are eating something the doctor has told you repeatedly you shouldn't eat.",
+    "zh": "真的不敢相信你在吃醫生叮囑不要食用的東西。"
+   },
+   {
+    "en": "Tom kicked Mary repeatedly.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "several time",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0788",
+  "unit": 20,
+  "headword": "restroom",
+  "ipa": "'restru:m",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 洗手間；休息室；更衣室；廁所",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Where's the restroom?",
+    "zh": "廁所在哪裡？"
+   },
+   {
+    "en": "She's in the restroom.",
+    "zh": "她在上廁所。"
+   },
+   {
+    "en": "May I go to the restroom?",
+    "zh": "我可以去洗手間嗎？"
+   }
+  ],
+  "synonyms": [
+   "convenience"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a toilet that is available to the public",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0789",
+  "unit": 20,
+  "headword": "silently",
+  "ipa": "'sailәntli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 默默地, 靜靜地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom sat silently for 30 minutes.",
+    "zh": "湯姆靜靜地坐了半個小時。"
+   },
+   {
+    "en": "Tom watched Mary silently.",
+    "zh": null
+   },
+   {
+    "en": "Tom silently shut the door.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "mutely",
+   "wordlessly",
+   "taciturnly"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "without speaking",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0790",
+  "unit": 20,
+  "headword": "spa",
+  "ipa": "spɑ:",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 礦泉, 溫泉浴場, 礦泉治療地\n[計] 軟體出版者協會",
+  "forms": {
+   "plural": "spas"
+  },
+  "examples": [
+   {
+    "en": "I hit on a spa.",
+    "zh": null
+   },
+   {
+    "en": "James has a spa.",
+    "zh": null
+   },
+   {
+    "en": "Spa is a spa town.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a health resort near a spring or at the seaside",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0791",
+  "unit": 20,
+  "headword": "spreadsheet",
+  "ipa": "'spredʃi:t",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 空白表格程式, 電子製表軟體, 電子資料表\n[計] 電子表格",
+  "forms": {
+   "plural": "spreadsheets",
+   "ing": "spreadsheeting"
+  },
+  "examples": [
+   {
+    "en": "You cannot put this into an Excel spreadsheet.",
+    "zh": null
+   },
+   {
+    "en": "Do you have experience working with spreadsheets?",
+    "zh": null
+   },
+   {
+    "en": "The link to your spreadsheet has invalid characters.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a screen-oriented interactive program enabling a user to lay out financial data on the screen",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0792",
+  "unit": 20,
+  "headword": "stapler",
+  "ipa": "'steiplә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 主要物產商, 把羊毛分級的人, 訂書機\n[經] 主要商品批發商",
+  "forms": {
+   "plural": "staplers"
+  },
+  "examples": [
+   {
+    "en": "Will you please lend me a stapler?",
+    "zh": "請你借給我一支訂書機好嗎？"
+   },
+   {
+    "en": "Is that a stapler?",
+    "zh": null
+   },
+   {
+    "en": "Yanni has a stapler.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a machine that inserts staples into sheets of paper in order to fasten them together",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0793",
+  "unit": 20,
+  "headword": "streamline",
+  "ipa": "'stri:mlain",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 流線, 流線型\nvt. 使成流線型, 使合理化",
+  "forms": {
+   "ing": "streamlining",
+   "pp": "streamlined",
+   "past": "streamlined",
+   "thirdSg": "streamlines"
+  },
+  "examples": [
+   {
+    "en": "Our curriculum is very streamlined.",
+    "zh": null
+   },
+   {
+    "en": "The manufacturing process has been streamlined.",
+    "zh": null
+   },
+   {
+    "en": "Tom is constantly streamlining his business plan.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "contour economically or efficiently",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0794",
+  "unit": 20,
+  "headword": "substantially",
+  "ipa": "sәb'stænʃәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 實質上, 本質上, 大體上",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Can Algeria reduce its unemployment rate substantially?",
+    "zh": null
+   },
+   {
+    "en": "Algeria will need to increase its interest rates substantially.",
+    "zh": null
+   },
+   {
+    "en": "The stability of Chinese economy is substantially overestimated.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "well",
+   "considerably"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "to a great extent or degree",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0795",
+  "unit": 20,
+  "headword": "teller",
+  "ipa": "'telә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 敘述者, 講故事者, 出納員\n[經] 出納員",
+  "forms": {
+   "plural": "tellers"
+  },
+  "examples": [
+   {
+    "en": "Ziri is a teller.",
+    "zh": null
+   },
+   {
+    "en": "Ziri became a teller.",
+    "zh": null
+   },
+   {
+    "en": "Peter is a truth teller.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "cashier"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "United States physicist (born in Hungary) who worked on the first atom bomb and the first hydrogen bomb (1908-2003)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0796",
+  "unit": 20,
+  "headword": "tidy",
+  "ipa": "'taidi",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "defsZh": "n. 椅子的背罩, 裝雜物的容器\na. 整齊的, 有條理的\nvt. 弄整齊, 收拾, 整理\nvi. 整理, 收拾",
+  "forms": {
+   "ing": "tidying",
+   "past": "tidied",
+   "pp": "tidied",
+   "thirdSg": "tidies",
+   "plural": "tidies"
+  },
+  "examples": [
+   {
+    "en": "Tidy up the room.",
+    "zh": "整理一下房間。"
+   },
+   {
+    "en": "His room is always tidy.",
+    "zh": "他的房間總是那麼整潔乾淨。"
+   },
+   {
+    "en": "The cottage was clean and tidy.",
+    "zh": "小屋乾淨又整潔。"
+   }
+  ],
+  "synonyms": [
+   "neaten",
+   "straighten"
+  ],
+  "antonyms": [
+   "untidy"
+  ],
+  "phrases": null,
+  "defsEn": "receptacle that holds odds and ends (as sewing materials)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0797",
+  "unit": 20,
+  "headword": "toll",
+  "ipa": "tәul",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 通行費, 代價, 鐘聲\nvt. 徵收, 敲鐘, 鳴鐘, 勾引, 引誘\nvi. 徵稅, 鳴鐘",
+  "forms": {
+   "plural": "tolls",
+   "past": "tolled",
+   "ing": "tolling",
+   "thirdSg": "tolls",
+   "pp": "tolled"
+  },
+  "examples": [
+   {
+    "en": "We must pay a toll to drive on this road.",
+    "zh": "我們必得繳通行稅才能在這條道路上行駛。"
+   },
+   {
+    "en": "Time takes its toll.",
+    "zh": null
+   },
+   {
+    "en": "How much is the toll?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "price",
+   "cost",
+   "bell"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a fee levied for the use of roads or bridges (used for maintenance)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0798",
+  "unit": 20,
+  "headword": "toner",
+  "ipa": "'tәunә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 調色劑\n[計] 增色劑; 色粉",
+  "forms": {
+   "plural": "toners"
+  },
+  "examples": [
+   {
+    "en": "We're out of toner.",
+    "zh": null
+   },
+   {
+    "en": "The toner cartridge needs to be replaced.",
+    "zh": null
+   },
+   {
+    "en": "The toner cartridge needed to be replaced after only a few months.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a solution containing chemicals that can change the color of a photographic print",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0799",
+  "unit": 20,
+  "headword": "urgently",
+  "ipa": "ˈərʤəntli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 急切地；迫切地；緊急地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He urgently needs to find work.",
+    "zh": "他迫切的需要找到工作"
+   },
+   {
+    "en": "I urgently need you.",
+    "zh": null
+   },
+   {
+    "en": "I urgently need help.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "desperately"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "with great urgency",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0800",
+  "unit": 20,
+  "headword": "walkway",
+  "ipa": "'wɒ:kwei",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 走道, 人行道",
+  "forms": {
+   "plural": "walkways",
+   "past": "walkwayed"
+  },
+  "examples": [
+   {
+    "en": "Flambeaus lit the walkway.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "walk",
+   "paseo"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a path set aside for walking",
+  "note": null,
+  "audioUrl": null
+ }
+]
