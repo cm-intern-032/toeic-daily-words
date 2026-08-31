@@ -1,0 +1,1510 @@
+[
+ {
+  "id": "w0921",
+  "unit": 24,
+  "headword": "insert",
+  "ipa": "in'sә:t",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 插入物\nvt. 插入, 把(人造衛星)射入(軌道), 添寫\nvi. 附著\n[計] 插入",
+  "forms": {
+   "pp": "inserted",
+   "ing": "inserting",
+   "past": "inserted",
+   "plural": "inserts",
+   "thirdSg": "inserts"
+  },
+  "examples": [
+   {
+    "en": "This is an automated payphone; you use it by inserting a coin.",
+    "zh": "這是自動投幣電話，用一元硬幣來打的。"
+   },
+   {
+    "en": "Tom inserted a disk.",
+    "zh": null
+   },
+   {
+    "en": "Please insert a coin.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "inset",
+   "cut-in"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a folded section placed between the leaves of another publication",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0922",
+  "unit": 24,
+  "headword": "lecturer",
+  "ipa": "'lektʃәrә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 演講者, 講師\n[法] 講演人, 講課人, 講師",
+  "forms": {
+   "plural": "lecturers"
+  },
+  "examples": [
+   {
+    "en": "Tom is a lecturer.",
+    "zh": null
+   },
+   {
+    "en": "Sami is a highly-paid lecturer.",
+    "zh": null
+   },
+   {
+    "en": "Are you a lecturer or a student?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "lector",
+   "reader"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a public lecturer at certain universities",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0923",
+  "unit": 24,
+  "headword": "meaningful",
+  "ipa": "'mi:niŋful",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 意味深長的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "She gave me a meaningful look.",
+    "zh": "她意味深長地看了我一眼。"
+   },
+   {
+    "en": "Everyone listened and was very happy, thinking this wedding was both original and meaningful.",
+    "zh": "大家聽了，都很高興，覺得這個婚禮又新穎又有意義。"
+   },
+   {
+    "en": "Live a meaningful life.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "meaningless"
+  ],
+  "phrases": null,
+  "defsEn": "having a meaning or purpose",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0924",
+  "unit": 24,
+  "headword": "memorize",
+  "ipa": "'memәraiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 記住, 熟記, 背熟",
+  "forms": {
+   "ing": "memorizing",
+   "past": "memorized",
+   "pp": "memorized",
+   "thirdSg": "memorizes"
+  },
+  "examples": [
+   {
+    "en": "I memorized his name and address.",
+    "zh": "我記下了他的名字和地址。"
+   },
+   {
+    "en": "Have you got this number memorized?",
+    "zh": "這個號碼你默記了嗎？"
+   },
+   {
+    "en": "I've memorized the model number of the charger.",
+    "zh": "我把充電器的型號記下了。"
+   }
+  ],
+  "synonyms": [
+   "memorise",
+   "con",
+   "learn"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "commit to memory; learn by heart",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0925",
+  "unit": 24,
+  "headword": "merchant",
+  "ipa": "'mә:tʃәnt",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 商人, 店主\na. 商業的, 商人的",
+  "forms": {
+   "plural": "merchants",
+   "ing": "merchanting"
+  },
+  "examples": [
+   {
+    "en": "Merchants only look at the profits.",
+    "zh": "商人們只看中利益。"
+   },
+   {
+    "en": "This man is a merchant.",
+    "zh": null
+   },
+   {
+    "en": "He is a famous merchant.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "merchandiser"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a businessperson engaged in retail trade",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0926",
+  "unit": 24,
+  "headword": "modification",
+  "ipa": ".mɒdifi'keiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 修正, 修飾, 修改\n[化] 修飾; 修改",
+  "forms": {
+   "plural": "modifications"
+  },
+  "examples": [
+   {
+    "en": "I made a few modifications.",
+    "zh": "我做了點改動。"
+   },
+   {
+    "en": "Through genetic modification, we can improve crops.",
+    "zh": "透過遺傳修飾，我們可以改良農作物。"
+   },
+   {
+    "en": "Do not make any modifications before you get confirmations.",
+    "zh": "在得到確認之前不要進行任何修改。"
+   }
+  ],
+  "synonyms": [
+   "alteration",
+   "adjustment",
+   "qualifying",
+   "limiting"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of making something different (as e.g. the size of a garment)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0927",
+  "unit": 24,
+  "headword": "occupant",
+  "ipa": "'ɒkjupәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 佔有者, 居住者, 佔用者",
+  "forms": {
+   "plural": "occupants"
+  },
+  "examples": [
+   {
+    "en": "Russia is an occupant.",
+    "zh": null
+   },
+   {
+    "en": "The occupants are complaining.",
+    "zh": null
+   },
+   {
+    "en": "Tobias is the upstairs occupant.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "resident",
+   "occupier"
+  ],
+  "antonyms": [
+   "nonresident"
+  ],
+  "phrases": null,
+  "defsEn": "someone who lives at a particular place for a prolonged period or who was born there",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0928",
+  "unit": 24,
+  "headword": "overcharge",
+  "ipa": ".әuvә'tʃɑ:dʒ",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "v. 討價過高, 裝載過多, 過度充電, 渲染\nn. 超載, 裝藥過多, 過度充電",
+  "forms": {
+   "ing": "overcharging",
+   "pp": "overcharged",
+   "past": "overcharged",
+   "plural": "overcharges",
+   "thirdSg": "overcharges"
+  },
+  "examples": [
+   {
+    "en": "I think I've been overcharged.",
+    "zh": null
+   },
+   {
+    "en": "The salespeople often overcharge me.",
+    "zh": null
+   },
+   {
+    "en": "Ziri overcharged the battery in cycles.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "soak",
+   "surcharge",
+   "gazump",
+   "fleece",
+   "plume"
+  ],
+  "antonyms": [
+   "undercharge"
+  ],
+  "phrases": null,
+  "defsEn": "a price that is too high",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0929",
+  "unit": 24,
+  "headword": "oversee",
+  "ipa": ".әuvә'si:",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 向下看, 瞭望, 監督, 偷看到\n[法] 監察, 監督, 俯瞰",
+  "forms": {
+   "ing": "overseeing",
+   "thirdSg": "oversees",
+   "past": "oversaw",
+   "pp": "overseen"
+  },
+  "examples": [
+   {
+    "en": "Karl was overseeing the operation.",
+    "zh": null
+   },
+   {
+    "en": "I really think we can oversee this.",
+    "zh": null
+   },
+   {
+    "en": "Tom is in charge of overseeing the entire project.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "supervise",
+   "superintend",
+   "manage"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "watch and direct",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0930",
+  "unit": 24,
+  "headword": "petition",
+  "ipa": "pi'tiʃәn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 請願, 訴狀, 陳情書, 申請, 祈求, 禱文\nv. 正式請求, 懇求, 請願",
+  "forms": {
+   "plural": "petitions",
+   "past": "petitioned",
+   "pp": "petitioned",
+   "ing": "petitioning",
+   "thirdSg": "petitions"
+  },
+  "examples": [
+   {
+    "en": "I signed the petition.",
+    "zh": null
+   },
+   {
+    "en": "He signed the petition.",
+    "zh": null
+   },
+   {
+    "en": "I signed this petition.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "request",
+   "postulation",
+   "prayer",
+   "orison"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a formal message requesting something that is submitted to an authority",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0931",
+  "unit": 24,
+  "headword": "pillow",
+  "ipa": "'pilәu",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 枕頭, 靠墊, 枕狀巖\nvt. 作...的枕頭, 墊, 枕於\nvi. 靠在枕上",
+  "forms": {
+   "plural": "pillows",
+   "past": "pillowed",
+   "ing": "pillowing",
+   "pp": "pillowed",
+   "thirdSg": "pillows"
+  },
+  "examples": [
+   {
+    "en": "I need another pillow.",
+    "zh": "我還需要一個枕頭。"
+   },
+   {
+    "en": "I borrowed your pillow.",
+    "zh": "我借了你的枕頭。"
+   },
+   {
+    "en": "They had a pillow fight.",
+    "zh": "他們打了一場枕頭戰。"
+   }
+  ],
+  "synonyms": [
+   "rest"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a cushion to support the head of a sleeping person",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0932",
+  "unit": 24,
+  "headword": "popcorn",
+  "ipa": "'pɒpkɒ:n",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 爆米花",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom wants popcorn.",
+    "zh": "湯姆要爆米花。"
+   },
+   {
+    "en": "I bought two bags of popcorn.",
+    "zh": "我買了兩袋爆米花。"
+   },
+   {
+    "en": "Popcorn is my favorite snack.",
+    "zh": "爆米花是我最喜歡的零食。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "corn having small ears and kernels that burst when exposed to dry heat",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0933",
+  "unit": 24,
+  "headword": "pottery",
+  "ipa": "'pɒtәri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 陶器, 陶器廠\n[化] 陶器",
+  "forms": {
+   "plural": "potteries"
+  },
+  "examples": [
+   {
+    "en": "I'm interested in oriental pottery.",
+    "zh": "我對東方陶瓷有興趣。"
+   },
+   {
+    "en": "Tom took a pottery class.",
+    "zh": null
+   },
+   {
+    "en": "This store sells pottery.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "clayware"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "ceramic ware made from clay and baked in a kiln",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0934",
+  "unit": 24,
+  "headword": "professionally",
+  "ipa": "prəˈfɛʃənəli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 專業地；內行地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He plays oboe professionally.",
+    "zh": null
+   },
+   {
+    "en": "Have you danced professionally?",
+    "zh": null
+   },
+   {
+    "en": "I've never cooked professionally.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "in a professional manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0935",
+  "unit": 24,
+  "headword": "publicize",
+  "ipa": "'pʌblisaiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 宣傳",
+  "forms": {
+   "pp": "publicized",
+   "ing": "publicizing",
+   "past": "publicized",
+   "thirdSg": "publicizes"
+  },
+  "examples": [
+   {
+    "en": "Flavio publicized the news.",
+    "zh": null
+   },
+   {
+    "en": "Television news stories publicized Earth Day.",
+    "zh": null
+   },
+   {
+    "en": "You don't have to publicize your whole life on Facebook.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "publicise",
+   "air",
+   "bare",
+   "advertise",
+   "advertize"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make public",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0936",
+  "unit": 24,
+  "headword": "ray",
+  "ipa": "rei",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 光線, 射線, 閃爍, 光輝\nvi. 射出光線, 浮現, 放射光線\nvt. 放射, 顯出",
+  "forms": {
+   "plural": "rays",
+   "ing": "raying",
+   "past": "rayed",
+   "thirdSg": "rays",
+   "pp": "rayed"
+  },
+  "examples": [
+   {
+    "en": "Do I need X-rays?",
+    "zh": "我需要照X光片嗎？"
+   },
+   {
+    "en": "The X-ray showed two broken fingers.",
+    "zh": "X光片顯示兩根手指斷了。"
+   },
+   {
+    "en": "The doctors are looking at an X-ray.",
+    "zh": "醫生在觀察X光片。"
+   }
+  ],
+  "synonyms": [
+   "beam",
+   "shaft",
+   "irradiation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a column of light (as from a beacon)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0937",
+  "unit": 24,
+  "headword": "redecorate",
+  "ipa": "'ri:'dekәreit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt.vi. 重新裝飾",
+  "forms": {
+   "ing": "redecorating",
+   "pp": "redecorated",
+   "past": "redecorated",
+   "thirdSg": "redecorates"
+  },
+  "examples": [
+   {
+    "en": "You need to redecorate your room.",
+    "zh": "你需要裝修你的房間。"
+   },
+   {
+    "en": "Ziri wants to redecorate.",
+    "zh": null
+   },
+   {
+    "en": "He's redecorating the office.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "redo the decoration of an apartment or house",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0938",
+  "unit": 24,
+  "headword": "refinery",
+  "ipa": "ri'fainәri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 精煉廠\n[化] 精煉廠煉糖廠",
+  "forms": {
+   "plural": "refineries"
+  },
+  "examples": [
+   {
+    "en": "What's Algeria's largest refinery?",
+    "zh": null
+   },
+   {
+    "en": "How safe is the refinery where you work?",
+    "zh": null
+   },
+   {
+    "en": "Tom works long hours at the oil refinery.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an industrial plant for purifying a crude substance",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0939",
+  "unit": 24,
+  "headword": "refresh",
+  "ipa": "ri'freʃ",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使清新, 使恢復, 使生氣蓬勃\nvi. 提起精神, 恢復精神, 吃點心, 喝飲料\nvt. 重新整理, 重新整理\nvi. 重新整理, 重新整理\n[計] 重新整理, 重新整理",
+  "forms": {
+   "past": "refreshed",
+   "pp": "refreshed",
+   "ing": "refreshing",
+   "thirdSg": "refreshes",
+   "plural": "refreshes"
+  },
+  "examples": [
+   {
+    "en": "Moderate exercise will refresh both mind and body.",
+    "zh": "適度的運動讓身心煥然一新。"
+   },
+   {
+    "en": "A glass of cold water is very refreshing in hot weather.",
+    "zh": "一杯冷水在暑熱的天氣裡十分提神。"
+   },
+   {
+    "en": "So wine and venison, to their hearts' desire, / refreshed their strength.",
+    "zh": "於是，他們心滿意足地享用了美酒和野味，/ 恢復了體力。"
+   }
+  ],
+  "synonyms": [
+   "review",
+   "freshen",
+   "refreshen"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "refresh one's memory",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0940",
+  "unit": 24,
+  "headword": "refundable",
+  "ipa": "ri'fʌndәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 可償還的, 可歸還的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This ticket is non-refundable.",
+    "zh": null
+   },
+   {
+    "en": "This train ticket is non-refundable.",
+    "zh": null
+   },
+   {
+    "en": "The tickets I bought are non-refundable.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0941",
+  "unit": 24,
+  "headword": "reimbursement",
+  "ipa": ".ri:im'bә:smәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 付還, 退還\n[經] 償付, 賠還",
+  "forms": {
+   "plural": "reimbursements"
+  },
+  "examples": [
+   {
+    "en": "Tom will receive reimbursement for his work.",
+    "zh": null
+   },
+   {
+    "en": "Remember to save your receipts for later reimbursement.",
+    "zh": null
+   },
+   {
+    "en": "The hotel gave Karl a full reimbursement for the entire stay.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "compensation paid (to someone) for damages or losses or money already spent etc.",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0942",
+  "unit": 24,
+  "headword": "reliability",
+  "ipa": "ri.laiә'biliti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 信度, 可靠性\n[計] 可靠性",
+  "forms": {
+   "plural": "reliabilities"
+  },
+  "examples": [
+   {
+    "en": "He has a good name for reliability.",
+    "zh": null
+   },
+   {
+    "en": "I can assure you of his reliability.",
+    "zh": null
+   },
+   {
+    "en": "Can you vouch for Tom's reliability?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "dependability",
+   "dependableness",
+   "reliableness"
+  ],
+  "antonyms": [
+   "undependability",
+   "undependableness",
+   "unreliability",
+   "unreliableness"
+  ],
+  "phrases": null,
+  "defsEn": "the quality of being dependable or reliable",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0943",
+  "unit": 24,
+  "headword": "reluctant",
+  "ipa": "ri'lʌktәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不情願的, 勉強的\n[法] 不願的, 勉強的, 難以處理的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom is reluctant to talk about it.",
+    "zh": "湯姆不太願意談這件事。"
+   },
+   {
+    "en": "I'm reluctant to leave.",
+    "zh": null
+   },
+   {
+    "en": "Tom was reluctant to go.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "loath",
+   "loth"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "unwillingness to do something contrary to your custom",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0944",
+  "unit": 24,
+  "headword": "sewer",
+  "ipa": "'su:ә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 下水道, 陰溝, 裁縫師\nvt. 用下水道排, 鋪設下水道於",
+  "forms": {
+   "plural": "sewers",
+   "pp": "sewered"
+  },
+  "examples": [
+   {
+    "en": "The sewer ran under the road.",
+    "zh": "下水道位於道路下方。"
+   },
+   {
+    "en": "That's a sewer rat.",
+    "zh": null
+   },
+   {
+    "en": "Where do sewers go?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "sewerage",
+   "cloaca",
+   "gutter",
+   "toilet"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a waste pipe that carries away sewage or surface water",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0945",
+  "unit": 24,
+  "headword": "skate",
+  "ipa": "skeit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 溜冰, 冰鞋\nvi. 滑冰, 滑過",
+  "forms": {
+   "ing": "skating",
+   "plural": "skates",
+   "past": "skated",
+   "thirdSg": "skates",
+   "pp": "skated"
+  },
+  "examples": [
+   {
+    "en": "Do you skate?",
+    "zh": "你滑冰嗎？"
+   },
+   {
+    "en": "Can you skate?",
+    "zh": "你會溜冰嗎？"
+   },
+   {
+    "en": "I want to go skating.",
+    "zh": "我想去滑冰。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "sports equipment that is worn on the feet to enable the wearer to glide along and to be propelled by the alternate actions of the legs",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0946",
+  "unit": 24,
+  "headword": "skateboard",
+  "ipa": "'skeitbɔ:d",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 溜冰板",
+  "forms": {
+   "plural": "skateboards",
+   "ing": "skateboarding",
+   "thirdSg": "skateboards"
+  },
+  "examples": [
+   {
+    "en": "Do you skateboard?",
+    "zh": "你玩滑板嗎？"
+   },
+   {
+    "en": "I think skateboards are usually cheaper than rollerblades.",
+    "zh": "我覺得一般滑板比輪滑鞋便宜。"
+   },
+   {
+    "en": "I have a skateboard.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a board with wheels that is ridden in a standing or crouching position and propelled by foot",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0947",
+  "unit": 24,
+  "headword": "sleepy",
+  "ipa": "'sli:pi",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 睏乏的, 欲睡的",
+  "forms": {
+   "plural": "sleepies"
+  },
+  "examples": [
+   {
+    "en": "Are you sleepy?",
+    "zh": "你困嗎？"
+   },
+   {
+    "en": "You look sleepy.",
+    "zh": "你看起來很困了。"
+   },
+   {
+    "en": "I'm very sleepy.",
+    "zh": "我非常困。"
+   }
+  ],
+  "synonyms": [
+   "sleepy-eyed",
+   "sleepyheaded"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "ready to fall asleep",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0948",
+  "unit": 24,
+  "headword": "tailor",
+  "ipa": "'teilә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 裁縫, 成衣匠\nvt. 縫製, 製作, 使適應\nvi. 做裁縫",
+  "forms": {
+   "pp": "tailored",
+   "past": "tailored",
+   "plural": "tailors",
+   "thirdSg": "tailors",
+   "ing": "tailoring"
+  },
+  "examples": [
+   {
+    "en": "My tailor is rich.",
+    "zh": "我的裁縫很有錢。"
+   },
+   {
+    "en": "Father always has the tailor make his suits.",
+    "zh": "父親總是讓這位裁縫師為他做西裝。"
+   },
+   {
+    "en": "The tailor is going to redo the hem of my pants.",
+    "zh": "裁縫師要幫我重新修褲腳。"
+   }
+  ],
+  "synonyms": [
+   "seamster",
+   "sartor",
+   "orient",
+   "cut"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person whose occupation is making and altering garments",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0949",
+  "unit": 24,
+  "headword": "termination",
+  "ipa": ".tә:mi'neiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 終止, 結束, 結果, 詞尾\n[化] 終止",
+  "forms": {
+   "plural": "terminations"
+  },
+  "examples": [
+   {
+    "en": "Antonio entered the termination code.",
+    "zh": null
+   },
+   {
+    "en": "Any failure will result in termination.",
+    "zh": null
+   },
+   {
+    "en": "Tom sued his employer for wrongful termination.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "expiration",
+   "expiry",
+   "endpoint",
+   "terminus",
+   "result"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a coming to an end of a contract period",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0950",
+  "unit": 24,
+  "headword": "theft",
+  "ipa": "θeft",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 盜竊, 失竊, 盜竊罪, 贓物\n[法] 盜竊行為, 偷竊, 失竊",
+  "forms": {
+   "plural": "thefts"
+  },
+  "examples": [
+   {
+    "en": "The police accused him of theft.",
+    "zh": "警察起訴他盜竊。"
+   },
+   {
+    "en": "Betty has a previous conviction for theft.",
+    "zh": "貝蒂有盜竊前科。"
+   },
+   {
+    "en": "You can't accuse him of theft without having proof.",
+    "zh": "沒有證據你們不能指責他偷東西。"
+   }
+  ],
+  "synonyms": [
+   "larceny",
+   "thievery",
+   "thieving",
+   "stealing"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of taking something from someone unlawfully",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0951",
+  "unit": 24,
+  "headword": "thunderstorm",
+  "ipa": "'θʌndәstɒ:m",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 雷暴雨",
+  "forms": {
+   "plural": "thunderstorms"
+  },
+  "examples": [
+   {
+    "en": "Do you like thunderstorms?",
+    "zh": null
+   },
+   {
+    "en": "I'm scared of thunderstorms.",
+    "zh": null
+   },
+   {
+    "en": "A thunderstorm hit the island.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a storm resulting from strong rising air currents; heavy rain or hail along with thunder and lightning",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0952",
+  "unit": 24,
+  "headword": "transmission",
+  "ipa": "træns'miʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 傳輸, 傳送, 變速器\n[計] 傳輸",
+  "forms": {
+   "plural": "transmissions"
+  },
+  "examples": [
+   {
+    "en": "Can you drive a manual transmission?",
+    "zh": "你會開手排車嗎?"
+   },
+   {
+    "en": "The transmission has failed.",
+    "zh": null
+   },
+   {
+    "en": "The radio transmission ended.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "transmittal",
+   "transmitting",
+   "transmittance"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of sending a message; causing a message to be transmitted",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0953",
+  "unit": 24,
+  "headword": "transmit",
+  "ipa": "træns'mit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 傳輸, 傳染, 傳達, 遺傳, 發射, 傳播\nvi. 發射訊號, 留傳下來\n[計] 傳送",
+  "forms": {
+   "pp": "transmitted",
+   "ing": "transmitting",
+   "past": "transmitted",
+   "thirdSg": "transmits"
+  },
+  "examples": [
+   {
+    "en": "Life is a fatal sexually transmitted disease.",
+    "zh": "生命是一種致命的性傳染病。"
+   },
+   {
+    "en": "Life is a sexually transmitted terminal disease.",
+    "zh": "生命是一種致命的性傳染病。"
+   },
+   {
+    "en": "Condoms offer protection against sexually transmitted diseases.",
+    "zh": "避孕套可以預防性傳播疾病。"
+   }
+  ],
+  "synonyms": [
+   "convey",
+   "communicate",
+   "impart",
+   "conduct",
+   "carry"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "transfer to another",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0954",
+  "unit": 24,
+  "headword": "unused",
+  "ipa": ".ʌn'ju:zd",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不用的, 不在使用的, 從未用過的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Give the unused material to Tom.",
+    "zh": null
+   },
+   {
+    "en": "We have two unused rooms in our house.",
+    "zh": null
+   },
+   {
+    "en": "We have vast amounts of unused information.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "fresh",
+   "idle"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "not yet used or soiled",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0955",
+  "unit": 24,
+  "headword": "waive",
+  "ipa": "weiv",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 不堅持要求, 放棄, 推遲考慮, 丟棄\n[經] 放棄權利, 免除, 棄權人",
+  "forms": {
+   "pp": "waived",
+   "ing": "waiving",
+   "past": "waived",
+   "thirdSg": "waives"
+  },
+  "examples": [
+   {
+    "en": "I waived the fee.",
+    "zh": null
+   },
+   {
+    "en": "We'll waive the fee.",
+    "zh": null
+   },
+   {
+    "en": "He waived his rights.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "relinquish",
+   "forgo",
+   "forego",
+   "foreswear",
+   "forfeit"
+  ],
+  "antonyms": [
+   "claim"
+  ],
+  "phrases": null,
+  "defsEn": "do without or cease to hold or adhere to",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0956",
+  "unit": 24,
+  "headword": "yen",
+  "ipa": "jen",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 日元(日本貨幣單位), 渴望, 嗜好\nvi. 渴望",
+  "forms": {
+   "plural": "yens"
+  },
+  "examples": [
+   {
+    "en": "It's 50 yen.",
+    "zh": "50日元。"
+   },
+   {
+    "en": "I owe him 100 yen.",
+    "zh": "我欠他一百日元。"
+   },
+   {
+    "en": "He gave me 10,000 yen.",
+    "zh": "他給了我1萬日元。"
+   }
+  ],
+  "synonyms": [
+   "hankering",
+   "ache",
+   "yearn",
+   "pine",
+   "languish"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a yearning for something or to do something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0957",
+  "unit": 24,
+  "headword": "activate",
+  "ipa": "'æktiveit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使活動, 使啟用, 正式建成\nvi. 有活力",
+  "forms": {
+   "pp": "activated",
+   "ing": "activating",
+   "thirdSg": "activates",
+   "past": "activated"
+  },
+  "examples": [
+   {
+    "en": "Their goal and activating main idea was indeed brotherhood and justice among the peoples.",
+    "zh": "他們的目標和活動的主要思想是真正的四海一家和各民族的普遍公正。"
+   },
+   {
+    "en": "He activated the portal.",
+    "zh": null
+   },
+   {
+    "en": "She activated an account.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "trip",
+   "actuate",
+   "trigger",
+   "spark"
+  ],
+  "antonyms": [
+   "inactivate"
+  ],
+  "phrases": null,
+  "defsEn": "put in motion or move to act",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0958",
+  "unit": 24,
+  "headword": "additionally",
+  "ipa": "əˈdɪʃəˌnəli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 另外, 此外",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Additionally, I have a daughter.",
+    "zh": null
+   },
+   {
+    "en": "Additionally, three civilians were killed.",
+    "zh": null
+   },
+   {
+    "en": "Additionally, there are hungry sharks in the lake.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "in addition, by way of addition; furthermore",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0959",
+  "unit": 24,
+  "headword": "affirmative",
+  "ipa": "ә'fә:mәtiv",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 肯定的, 贊成的, 積極的\nn. 肯定語",
+  "forms": {
+   "plural": "affirmatives"
+  },
+  "examples": [
+   {
+    "en": "The response is affirmative.",
+    "zh": null
+   },
+   {
+    "en": "Is the response affirmative?",
+    "zh": null
+   },
+   {
+    "en": "Tom answered in the affirmative.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "affirmatory",
+   "optimistic"
+  ],
+  "antonyms": [
+   "negative"
+  ],
+  "phrases": null,
+  "defsEn": "a reply of affirmation",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0960",
+  "unit": 24,
+  "headword": "baker",
+  "ipa": "'beikә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 麵包師\n[醫] 烤箱(骨科用)",
+  "forms": {
+   "plural": "bakers"
+  },
+  "examples": [
+   {
+    "en": "I am a baker.",
+    "zh": null
+   },
+   {
+    "en": "He is a baker.",
+    "zh": null
+   },
+   {
+    "en": "Tom is a baker.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who bakes commercially",
+  "note": null,
+  "audioUrl": null
+ }
+]

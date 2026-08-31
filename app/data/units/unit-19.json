@@ -1,0 +1,1491 @@
+[
+ {
+  "id": "w0721",
+  "unit": 19,
+  "headword": "inclusive",
+  "ipa": "in'klu:siv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 包含的, 包括的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Ages 5 to 10 inclusive.",
+    "zh": null
+   },
+   {
+    "en": "The price is all-inclusive.",
+    "zh": null
+   },
+   {
+    "en": "Monday to Friday inclusive.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "exclusive"
+  ],
+  "phrases": null,
+  "defsEn": "including much or everything; and especially including stated limits",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0722",
+  "unit": 19,
+  "headword": "insufficient",
+  "ipa": ".insә'fiʃәnt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不夠的, 不能勝任的, 不充足的\n[法] 不足的, 不充分的, 不能勝任的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "There is insufficient light to take pictures.",
+    "zh": "拍照片光線不夠亮。"
+   },
+   {
+    "en": "Don't read under insufficient light, for it is bad for your eyes.",
+    "zh": "不要在太暗的光線下看書，那對你的眼睛不好的。"
+   },
+   {
+    "en": "The money is insufficient.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "deficient"
+  ],
+  "antonyms": [
+   "sufficient"
+  ],
+  "phrases": null,
+  "defsEn": "of a quantity not able to fulfill a need or requirement",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0723",
+  "unit": 19,
+  "headword": "introductory",
+  "ipa": ".intrә'dʌktәri",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 介紹的, 引導的, 開端的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom delivered the introductory speech.",
+    "zh": null
+   },
+   {
+    "en": "I have to take an introductory seminar next year.",
+    "zh": null
+   },
+   {
+    "en": "Write this in the introductory section of your paper.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "basic",
+   "prefatorial",
+   "prefatory"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "serving to open or begin",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0724",
+  "unit": 19,
+  "headword": "junk",
+  "ipa": "dʒʌŋk",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 垃圾, 烏七八糟的東西, 舢板\n[計] 清除",
+  "forms": {
+   "plural": "junks",
+   "ing": "junking",
+   "pp": "junked",
+   "past": "junked",
+   "thirdSg": "junks"
+  },
+  "examples": [
+   {
+    "en": "I don't eat junk food.",
+    "zh": "我不吃垃圾食品。"
+   },
+   {
+    "en": "Tom has accumulated a lot of junk.",
+    "zh": "湯姆屯了很多垃圾。"
+   },
+   {
+    "en": "Tom used to eat a lot of junk food.",
+    "zh": "湯姆以前經常吃很多垃圾食品。"
+   }
+  ],
+  "synonyms": [
+   "debris",
+   "dust",
+   "rubble",
+   "detritus",
+   "trash"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the remains of something that has been destroyed or broken up",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0725",
+  "unit": 19,
+  "headword": "ma'am",
+  "ipa": "mæm, mɑ:m, mәm",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 夫人, 女王, 公主",
+  "forms": null,
+  "examples": [
+   {
+    "en": "May I help you ma'am?",
+    "zh": null
+   },
+   {
+    "en": "Is that correct, ma'am?",
+    "zh": null
+   },
+   {
+    "en": "Ma'am, can you help me?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "dame",
+   "madam",
+   "lady",
+   "gentlewoman"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a woman of refinement",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0726",
+  "unit": 19,
+  "headword": "mileage",
+  "ipa": "'mailidʒ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 英里數\n[經] 運費(按英里計算的)",
+  "forms": {
+   "plural": "mileages"
+  },
+  "examples": [
+   {
+    "en": "Your mileage may vary.",
+    "zh": null
+   },
+   {
+    "en": "Is there a mileage charge?",
+    "zh": null
+   },
+   {
+    "en": "This car has good gas mileage.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "milage"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "distance measured in miles",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0727",
+  "unit": 19,
+  "headword": "noisy",
+  "ipa": "'nɒizi",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 嘈雜的, 喧鬧的\n[機] 噪聲的, 嘈雜的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The boys are noisy.",
+    "zh": "男孩兒們鬧哄哄的。"
+   },
+   {
+    "en": "It's too noisy in here.",
+    "zh": "這兒太吵了。"
+   },
+   {
+    "en": "That street is very noisy.",
+    "zh": "那街道非常吵。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "quiet"
+  ],
+  "phrases": null,
+  "defsEn": "full of or characterized by loud and nonmusical sounds",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0728",
+  "unit": 19,
+  "headword": "pan",
+  "ipa": "pæn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 平鍋, 淺盤, 盆地, 硬土層, 拍攝全景\nv. 上下左右移動, 搖鏡頭, 淘洗, 淘金",
+  "forms": {
+   "plural": "pans",
+   "pp": "panned",
+   "ing": "panning",
+   "past": "panned",
+   "thirdSg": "pans"
+  },
+  "examples": [
+   {
+    "en": "The pan boiled dry.",
+    "zh": "鍋燒乾了。"
+   },
+   {
+    "en": "They're panning for gold.",
+    "zh": "他們正在淘金。"
+   },
+   {
+    "en": "Take the pan off the fire.",
+    "zh": "把平底鍋離火。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "cooking utensil consisting of a wide metal vessel",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0729",
+  "unit": 19,
+  "headword": "parcel",
+  "ipa": "'pɑ:sl",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "adv"
+  ],
+  "defsZh": "n. 包裹, 部分, 片\nvt. 分配, 打包\na. 部分的\nadv. 區域性地",
+  "forms": {
+   "plural": "parcels",
+   "pp": "parcelled",
+   "ing": "parcelling",
+   "thirdSg": "parcels",
+   "past": "parcelled"
+  },
+  "examples": [
+   {
+    "en": "Where's my parcel?",
+    "zh": "我的包裹到哪裡了？"
+   },
+   {
+    "en": "Did you get the parcel I sent you?",
+    "zh": "你收到我寄給你的包裹了嗎？"
+   },
+   {
+    "en": "She tied up the parcel with string.",
+    "zh": "她用繩子把包裹緊緊綁好了。"
+   }
+  ],
+  "synonyms": [
+   "package",
+   "portion",
+   "share",
+   "tract"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a wrapped container",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0730",
+  "unit": 19,
+  "headword": "pasta",
+  "ipa": "'pæstә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 義大利麵食\n[醫] 糊劑, 泥膏劑",
+  "forms": {
+   "plural": "pastas"
+  },
+  "examples": [
+   {
+    "en": "Do you eat pasta?",
+    "zh": "你吃意麵嗎？"
+   },
+   {
+    "en": "Lunch is often rice or pasta.",
+    "zh": "中餐常有米飯或麵條。"
+   },
+   {
+    "en": "Kids love pasta in tomato sauce.",
+    "zh": "茄汁意粉是小朋友的最愛。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a dish that contains pasta as its main ingredient",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0731",
+  "unit": 19,
+  "headword": "periodical",
+  "ipa": ".piәri'ɒdikl",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 期刊\na. 定期出版的, (有關)期刊的, 間歇(性的), 週期的, 定期的",
+  "forms": {
+   "plural": "periodicals"
+  },
+  "examples": [
+   {
+    "en": "Those are old periodicals.",
+    "zh": null
+   },
+   {
+    "en": "I subscribed to two periodicals.",
+    "zh": null
+   },
+   {
+    "en": "The periodical costs less than the book.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "periodic"
+  ],
+  "antonyms": [
+   "aperiodic"
+  ],
+  "phrases": null,
+  "defsEn": "a publication that appears at fixed intervals",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0732",
+  "unit": 19,
+  "headword": "pill",
+  "ipa": "pil",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 藥丸, 彈丸, 屈辱, 胡說\nv. 做成藥丸, 形成丸狀, 服藥丸, 挫敗, 搶劫",
+  "forms": {
+   "plural": "pills"
+  },
+  "examples": [
+   {
+    "en": "These pills act on the heart.",
+    "zh": "這種藥片對心臟有療效。"
+   },
+   {
+    "en": "Why does Tom take those pills?",
+    "zh": "為啥湯姆要吃這些藥片？"
+   },
+   {
+    "en": "Before going to bed, I took three pills to stop a cold.",
+    "zh": "睡覺前我吃了三片藥來治療感冒。"
+   }
+  ],
+  "synonyms": [
+   "lozenge",
+   "tablet",
+   "tab"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "something that resembles a tablet of medicine in shape or size",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0733",
+  "unit": 19,
+  "headword": "portable",
+  "ipa": "'pɒ:tәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 可攜帶的, 可搬運的, 可移動的\n[計] 可移植的",
+  "forms": {
+   "plural": "portables"
+  },
+  "examples": [
+   {
+    "en": "The device is portable.",
+    "zh": "裝置是便攜的。"
+   },
+   {
+    "en": "Who has a portable computer?",
+    "zh": null
+   },
+   {
+    "en": "Burritos are a portable meal.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "unportable"
+  ],
+  "phrases": null,
+  "defsEn": "a small light typewriter; usually with a case in which it can be carried",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0734",
+  "unit": 19,
+  "headword": "punctual",
+  "ipa": "'pәŋktʃuәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 準時的, 守時的, 點狀的, 中肯的\n[經] 準時的, 不誤期的, 準時",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He's always punctual.",
+    "zh": "他總是準時到。"
+   },
+   {
+    "en": "I expect you to be punctual.",
+    "zh": "我期待你能準時。"
+   },
+   {
+    "en": "Tom has never been punctual.",
+    "zh": "湯姆從不準時。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "unpunctual"
+  ],
+  "phrases": null,
+  "defsEn": "acting or arriving or performed exactly at the time appointed",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0735",
+  "unit": 19,
+  "headword": "recreation",
+  "ipa": ".rekri'eiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 娛樂, 消遣, 休息, 再創造\n[醫] 娛樂, 休養",
+  "forms": {
+   "plural": "recreations"
+  },
+  "examples": [
+   {
+    "en": "Playing go is my only recreation.",
+    "zh": null
+   },
+   {
+    "en": "The resort has a recreation area.",
+    "zh": null
+   },
+   {
+    "en": "Skiing is a good form of recreation.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "diversion",
+   "refreshment"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an activity that diverts or amuses or stimulates",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0736",
+  "unit": 19,
+  "headword": "relieve",
+  "ipa": "ri'li:v",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 減輕, 救濟, 解除, 使免除, 換...的班, 使得到調劑, 使不單調, 襯托, 使顯著\nvi. 救濟, 當替補投手, 呈鮮明突出",
+  "forms": {
+   "past": "relieved",
+   "pp": "relieved",
+   "ing": "relieving",
+   "thirdSg": "relieves"
+  },
+  "examples": [
+   {
+    "en": "I feel relieved.",
+    "zh": "我感覺輕鬆了。"
+   },
+   {
+    "en": "How do you relieve stress?",
+    "zh": "你怎麼釋放壓力？"
+   },
+   {
+    "en": "I exercise to relieve stress.",
+    "zh": "我透過運動來緩解壓力。"
+   }
+  ],
+  "synonyms": [
+   "alleviate",
+   "palliate",
+   "assuage",
+   "exempt",
+   "free"
+  ],
+  "antonyms": [
+   "enforce"
+  ],
+  "phrases": null,
+  "defsEn": "provide physical relief, as from pain",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0737",
+  "unit": 19,
+  "headword": "reminder",
+  "ipa": "ri'maindә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 提醒的人, 暗示\n[經] 催單",
+  "forms": {
+   "plural": "reminders"
+  },
+  "examples": [
+   {
+    "en": "Do you need a reminder?",
+    "zh": null
+   },
+   {
+    "en": "Thanks for the reminder.",
+    "zh": null
+   },
+   {
+    "en": "That was just a reminder.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "admonisher",
+   "monitor"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a message that helps you remember something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0738",
+  "unit": 19,
+  "headword": "rumor",
+  "ipa": "'ru:mә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 謠言, 傳聞\nvt. 謠傳",
+  "forms": {
+   "plural": "rumors",
+   "ing": "rumoring",
+   "past": "rumored",
+   "thirdSg": "rumors",
+   "pp": "rumored"
+  },
+  "examples": [
+   {
+    "en": "The rumor isn't true.",
+    "zh": "傳聞不是正確的。"
+   },
+   {
+    "en": "The rumors were false.",
+    "zh": "謠言是假的。"
+   },
+   {
+    "en": "Rumor says he resigned.",
+    "zh": "謠言說他辭職了。"
+   }
+  ],
+  "synonyms": [
+   "rumour",
+   "hearsay",
+   "bruit"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "gossip (usually a mixture of truth and untruth) passed around by word of mouth",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0739",
+  "unit": 19,
+  "headword": "scarf",
+  "ipa": "skɑ:f",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 圍巾, 頭巾, 領帶, 領巾, 嵌接\nvt. 用圍巾圍, 嵌接",
+  "forms": {
+   "plural": "scarves",
+   "pp": "scarfed",
+   "past": "scarfed",
+   "ing": "scarfing",
+   "thirdSg": "scarfs"
+  },
+  "examples": [
+   {
+    "en": "Where did Tom buy that scarf?",
+    "zh": "湯姆在哪兒買的那個圍巾呀？"
+   },
+   {
+    "en": "Why are you wearing that scarf?",
+    "zh": "你為什麼戴那條圍巾？"
+   },
+   {
+    "en": "Don't you like my yellow scarf?",
+    "zh": "你不喜歡我的黃圍巾嗎？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a garment worn around the head or neck or shoulders for warmth or decoration",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0740",
+  "unit": 19,
+  "headword": "seaside",
+  "ipa": "'si:said",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 海邊的, 海濱的\nn. 海濱",
+  "forms": {
+   "plural": "seasides"
+  },
+  "examples": [
+   {
+    "en": "It never rains at the seaside.",
+    "zh": "海邊從不下雨。"
+   },
+   {
+    "en": "He wants to go to the seaside.",
+    "zh": "他想去海邊。"
+   },
+   {
+    "en": "I've been to the seaside by car.",
+    "zh": "我乘車去了海邊。"
+   }
+  ],
+  "synonyms": [
+   "seaboard"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the shore of a sea or ocean regarded as a resort",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0741",
+  "unit": 19,
+  "headword": "shorten",
+  "ipa": "'ʃɒ:tn",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 弄短, 縮短, 減少\nvi. 縮小, 變短",
+  "forms": {
+   "pp": "shortened",
+   "ing": "shortening",
+   "thirdSg": "shortens",
+   "past": "shortened"
+  },
+  "examples": [
+   {
+    "en": "I shortened my speeches.",
+    "zh": "我精簡語言。"
+   },
+   {
+    "en": "I daub the venison with shortening.",
+    "zh": "我把起酥油塗抹在鹿肉上。"
+   },
+   {
+    "en": "Don't smoke. Smoking can shorten your penis.",
+    "zh": "別吸菸。吸菸可能縮短你的陰莖。"
+   }
+  ],
+  "synonyms": [
+   "abridge",
+   "foreshorten",
+   "abbreviate",
+   "cut",
+   "contract"
+  ],
+  "antonyms": [
+   "lengthen",
+   "expand"
+  ],
+  "phrases": null,
+  "defsEn": "make shorter than originally intended; reduce or retrench in length or duration",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0742",
+  "unit": 19,
+  "headword": "specially",
+  "ipa": "'speʃәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 特別地, 專門地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This is a store that caters specially to students.",
+    "zh": "這是一家專門為學生提供服務的商店。"
+   },
+   {
+    "en": "The conference will be held in a specially selected church.",
+    "zh": "會議將會在特意安排的禮堂裡舉行。"
+   },
+   {
+    "en": "Tom is specially abled.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "especially",
+   "particularly",
+   "peculiarly"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "in a special manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0743",
+  "unit": 19,
+  "headword": "spill",
+  "ipa": "spil",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 溢位, 濺出, 摔下, 溢位量, 木片, 小塞子\nvt. 使溢位, 使散落, 灑, 使流出, 倒出, 使摔下\nvi. 溢位, 湧流, 摔下",
+  "forms": {
+   "ing": "spilling",
+   "past": "spilled",
+   "thirdSg": "spills",
+   "pp": "spilled",
+   "plural": "spills"
+  },
+  "examples": [
+   {
+    "en": "What did you spill?",
+    "zh": "你灑了什麼？"
+   },
+   {
+    "en": "Who spilled the soda?",
+    "zh": "誰把汽水灑了？"
+   },
+   {
+    "en": "All of the milk was spilled.",
+    "zh": "所有的牛奶都溢位去了。"
+   }
+  ],
+  "synonyms": [
+   "spillway",
+   "wasteweir",
+   "spillage",
+   "release"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "liquid that is spilled",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0744",
+  "unit": 19,
+  "headword": "spouse",
+  "ipa": "spauz",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 配偶",
+  "forms": {
+   "plural": "spouses"
+  },
+  "examples": [
+   {
+    "en": "Tom found a wonderful spouse in Mary.",
+    "zh": "湯姆認識了瑪莉這麼個好老婆。"
+   },
+   {
+    "en": "His spouse is a German.",
+    "zh": null
+   },
+   {
+    "en": "Spouses are also welcome.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "partner",
+   "mate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person's partner in marriage",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0745",
+  "unit": 19,
+  "headword": "subtract",
+  "ipa": "sәb'trækt",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 減去, 扣掉, 減少\nvi. 做減法\n[計] 減",
+  "forms": {
+   "ing": "subtracting",
+   "pp": "subtracted",
+   "past": "subtracted",
+   "thirdSg": "subtracts"
+  },
+  "examples": [
+   {
+    "en": "Subtract two from ten and you have eight.",
+    "zh": "十減二等於八。"
+   },
+   {
+    "en": "Subtract three from eight and you get five.",
+    "zh": "八減去三就能得到五。"
+   },
+   {
+    "en": "What is 6 subtracted from 10?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "deduct"
+  ],
+  "antonyms": [
+   "add"
+  ],
+  "phrases": null,
+  "defsEn": "make a subtraction",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0746",
+  "unit": 19,
+  "headword": "tablet",
+  "ipa": "'tæblit",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 平板, 門牌, 筆記簿, 碑, 匾, 藥片\n[化] 片劑",
+  "forms": {
+   "plural": "tablets"
+  },
+  "examples": [
+   {
+    "en": "The tablets took away my pain.",
+    "zh": "藥片止住了我的疼痛。"
+   },
+   {
+    "en": "I can't swallow these tablets without a drink of water.",
+    "zh": "不喝水我咽不下這些藥片。"
+   },
+   {
+    "en": "Take after meals, twice per day, two tablets each time.",
+    "zh": "飯後服用，一日兩次，一次兩粒。"
+   }
+  ],
+  "synonyms": [
+   "pad"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a slab of stone or wood suitable for bearing an inscription",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0747",
+  "unit": 19,
+  "headword": "ton",
+  "ipa": "tʌn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 噸\n[經] 噸",
+  "forms": {
+   "plural": "tons",
+   "ing": "toning"
+  },
+  "examples": [
+   {
+    "en": "I've got tons of ideas.",
+    "zh": "我有許多主意。"
+   },
+   {
+    "en": "Sami received tons of e-mails.",
+    "zh": "薩米收到了一大堆郵件。"
+   },
+   {
+    "en": "This grizzly bear weighs half a ton.",
+    "zh": "這隻灰熊有0.5噸重。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a United States unit of weight equivalent to 2000 pounds",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0748",
+  "unit": 19,
+  "headword": "vend",
+  "ipa": "vend",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 出售, 從事販賣",
+  "forms": {
+   "ing": "vending",
+   "thirdSg": "vends",
+   "past": "vended",
+   "pp": "vended"
+  },
+  "examples": [
+   {
+    "en": "Coffee vending machines are bad.",
+    "zh": "咖啡自動販賣機是壞的。"
+   },
+   {
+    "en": "This vending machine isn't working.",
+    "zh": "這臺自動販賣機故障了。"
+   },
+   {
+    "en": "The vending machines are over there.",
+    "zh": "自動售貨機在那邊。"
+   }
+  ],
+  "synonyms": [
+   "peddle",
+   "monger",
+   "huckster",
+   "hawk",
+   "pitch"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "sell or offer for sale from place to place",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0749",
+  "unit": 19,
+  "headword": "yoga",
+  "ipa": "'jәugә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 瑜珈",
+  "forms": null,
+  "examples": [
+   {
+    "en": "There's a guy in my yoga class.",
+    "zh": "有個小夥子在我的瑜伽班裡。"
+   },
+   {
+    "en": "Do you do yoga?",
+    "zh": null
+   },
+   {
+    "en": "She's a yoga teacher.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "Hindu discipline aimed at training the consciousness for a state of perfect spiritual insight and tranquility that is achieved through the three paths of actions and knowledge and devotion",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0750",
+  "unit": 19,
+  "headword": "accent",
+  "ipa": "'æksәnt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 重音, 口音, 特點, 注重點\nvt. 重讀, 加重音號於, 強調",
+  "forms": {
+   "plural": "accents",
+   "past": "accented",
+   "ing": "accenting",
+   "pp": "accented",
+   "thirdSg": "accents"
+  },
+  "examples": [
+   {
+    "en": "He had a funny accent.",
+    "zh": "他有一口滑稽的口音。"
+   },
+   {
+    "en": "What accent have I got?",
+    "zh": "我有什麼口音？"
+   },
+   {
+    "en": "Do you speak with an accent?",
+    "zh": "你說話帶口音嗎？"
+   }
+  ],
+  "synonyms": [
+   "emphasis",
+   "dialect",
+   "idiom"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "distinctive manner of oral expression",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0751",
+  "unit": 19,
+  "headword": "advisory",
+  "ipa": "әd'vaizәri",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 顧問的, 諮詢的, 勸告的\n[法] 勸告的, 忠告的, 諮詢的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom has assumed an advisory role.",
+    "zh": null
+   },
+   {
+    "en": "There's a flood advisory in effect.",
+    "zh": null
+   },
+   {
+    "en": "There's a fog advisory this morning.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "consultative",
+   "consultatory",
+   "consultive"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an announcement that usually advises or warns the public of some threat",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0752",
+  "unit": 19,
+  "headword": "asleep",
+  "ipa": "ә'sli:p",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "defsZh": "a. 睡著的, 長眠的, 麻木的\nadv. 熟睡地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He is asleep.",
+    "zh": "他睡著了。"
+   },
+   {
+    "en": "Is Tom asleep?",
+    "zh": "湯姆睡著了嗎？"
+   },
+   {
+    "en": "Was Tom asleep?",
+    "zh": "湯姆睡著了嗎？"
+   }
+  ],
+  "synonyms": [
+   "benumbed",
+   "numb",
+   "deceased",
+   "departed",
+   "gone"
+  ],
+  "antonyms": [
+   "awake"
+  ],
+  "phrases": null,
+  "defsEn": "in a state of sleep",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0753",
+  "unit": 19,
+  "headword": "authentic",
+  "ipa": "ɒ:'θentik",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 可靠的, 可信的, 真正的\n[法] 被認證的, 確認的, 可信的",
+  "forms": {
+   "plural": "authentics"
+  },
+  "examples": [
+   {
+    "en": "I really hope that I can speak authentic Chinese.",
+    "zh": "我很希望可以說一口地道的中文。"
+   },
+   {
+    "en": "Are there authentic Chinese restaurants in France?",
+    "zh": "法國有正宗的中餐嗎？"
+   },
+   {
+    "en": "It's not authentic, Tom.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "reliable",
+   "unquestionable",
+   "veritable"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "conforming to fact and therefore worthy of belief",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0754",
+  "unit": 19,
+  "headword": "bakery",
+  "ipa": "'beikәri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 麵包店",
+  "forms": {
+   "plural": "bakeries"
+  },
+  "examples": [
+   {
+    "en": "The bakery is closed.",
+    "zh": "麵包房打烊了。"
+   },
+   {
+    "en": "The girl who works at the bakery is cute.",
+    "zh": "在麵包房工作的姑娘很可愛。"
+   },
+   {
+    "en": "In U.S. bakeries, a \"baker's dozen\" is 13, not 12.",
+    "zh": "在美國的麵包店，\"麵包師傅的一打\"是13，不是12。"
+   }
+  ],
+  "synonyms": [
+   "bakeshop",
+   "bakehouse"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a workplace where baked goods (breads and cakes and pastries) are produced or sold",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0755",
+  "unit": 19,
+  "headword": "carton",
+  "ipa": "'kɑ:tn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 硬紙盒, 紙板箱\n[化] 卡紙",
+  "forms": {
+   "plural": "cartons"
+  },
+  "examples": [
+   {
+    "en": "Robert dropped an entire carton of milk all over Linda's head.",
+    "zh": "羅伯將一整盒牛奶灑在琳達頭上。"
+   },
+   {
+    "en": "Buy a carton of milk.",
+    "zh": null
+   },
+   {
+    "en": "I need a carton of eggs.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "cartonful"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the quantity contained in a carton",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0756",
+  "unit": 19,
+  "headword": "compartment",
+  "ipa": "kәm'pɑ:tmәnt",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 分隔間, 臥車包房, 防水艙隔\n[醫] 隔室, 隔間",
+  "forms": {
+   "plural": "compartments",
+   "pp": "compartmented",
+   "past": "compartmented"
+  },
+  "examples": [
+   {
+    "en": "I found the secret compartment quite by accident.",
+    "zh": "我完全是在偶然的情況下發現了密室。"
+   },
+   {
+    "en": "We rode in the same compartment.",
+    "zh": null
+   },
+   {
+    "en": "It's in the overhead compartment.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a space into which an area is subdivided",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0757",
+  "unit": 19,
+  "headword": "compatible",
+  "ipa": "kәm'pætәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 能共處的, 可並立的, 適合的\n[計] 相容的; 相容的",
+  "forms": {
+   "plural": "compatibles",
+   "thirdSg": "compatibles"
+  },
+  "examples": [
+   {
+    "en": "They are very compatible.",
+    "zh": null
+   },
+   {
+    "en": "They were very compatible.",
+    "zh": null
+   },
+   {
+    "en": "Tom says we're not compatible.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "incompatible"
+  ],
+  "phrases": null,
+  "defsEn": "able to exist and perform in harmonious or agreeable combination",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0758",
+  "unit": 19,
+  "headword": "consumption",
+  "ipa": "kәn'sʌmpʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 消費, 消費量, 癆病\n[化] 消耗量; 耗量",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Alcohol consumption is increasing every year.",
+    "zh": "酒的消費每年都在上升。"
+   },
+   {
+    "en": "Limit the consumption of white sugar and salt.",
+    "zh": "限制白糖和鹽的攝取量。"
+   },
+   {
+    "en": "Alcohol consumption is higher in Eastern Europe than in Western Europe.",
+    "zh": "東歐的酒精消耗量比西歐高。"
+   }
+  ],
+  "synonyms": [
+   "ingestion",
+   "intake",
+   "uptake",
+   "phthisis",
+   "usance"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the process of taking food into the body through the mouth (as by eating)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0759",
+  "unit": 19,
+  "headword": "conveniently",
+  "ipa": "kənˈvinjəntli",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 方便, 合宜",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Our house is conveniently located.",
+    "zh": "我們的房子位於交通便利的地方。"
+   },
+   {
+    "en": "This hotel is conveniently located in terms of public transportation.",
+    "zh": "這間酒店的交通位置很方便。"
+   },
+   {
+    "en": "Is your home conveniently located?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "handily"
+  ],
+  "antonyms": [
+   "inconveniently"
+  ],
+  "phrases": null,
+  "defsEn": "in a convenient manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0760",
+  "unit": 19,
+  "headword": "cosmetic",
+  "ipa": "kɒz'metik",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 化妝品\na. 化妝用的",
+  "forms": {
+   "plural": "cosmetics"
+  },
+  "examples": [
+   {
+    "en": "There is nothing wrong with boys wearing cosmetics.",
+    "zh": "男孩化粧沒有甚麼問題。"
+   },
+   {
+    "en": "Cosmetic surgery is not covered by most insurance plans.",
+    "zh": "大部份的保險計劃不包含整容手術。"
+   },
+   {
+    "en": "Tom had cosmetic surgery.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "decorative",
+   "ornamental",
+   "enhancive"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a toiletry designed to beautify the body",
+  "note": null,
+  "audioUrl": null
+ }
+]

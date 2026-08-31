@@ -1,0 +1,1480 @@
+[
+ {
+  "id": "w0961",
+  "unit": 25,
+  "headword": "brainstorm",
+  "ipa": "'breinstɒ:m",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 靈機一動\nv. 集體討論",
+  "forms": {
+   "ing": "brainstorming",
+   "plural": "brainstorms",
+   "past": "brainstormed",
+   "thirdSg": "brainstorms",
+   "pp": "brainstormed"
+  },
+  "examples": [
+   {
+    "en": "I have a brainstorm teacher.",
+    "zh": null
+   },
+   {
+    "en": "I was up all night brainstorming.",
+    "zh": null
+   },
+   {
+    "en": "They had a brainstorming session.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "insight",
+   "brainwave"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the clear (and often sudden) understanding of a complex situation",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0962",
+  "unit": 25,
+  "headword": "cage",
+  "ipa": "keidʒ",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 籠, 牢房, 戰俘營\nvt. 關進籠內",
+  "forms": {
+   "plural": "cages",
+   "pp": "caged",
+   "past": "caged",
+   "ing": "caging",
+   "thirdSg": "cages"
+  },
+  "examples": [
+   {
+    "en": "The bird escaped from its cage.",
+    "zh": "鳥兒逃出了籠子。"
+   },
+   {
+    "en": "She set the bird free from the cage.",
+    "zh": "她把小鳥從籠子裡釋放出來。"
+   },
+   {
+    "en": "He thought that it was like a bird cage.",
+    "zh": "他覺得這像箇鳥籠。"
+   }
+  ],
+  "synonyms": [
+   "coop"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an enclosure made or wire or metal bars in which birds or animals can be kept",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0963",
+  "unit": 25,
+  "headword": "cinema",
+  "ipa": "'sinәmә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 電影院, 電影",
+  "forms": {
+   "plural": "cinemas"
+  },
+  "examples": [
+   {
+    "en": "This is a new cinema.",
+    "zh": "這是一家新電影院。"
+   },
+   {
+    "en": "Let's go to the cinema.",
+    "zh": "我們去看電影吧。"
+   },
+   {
+    "en": "I am fond of the cinema.",
+    "zh": "我喜歡看電影。"
+   }
+  ],
+  "synonyms": [
+   "film",
+   "celluloid"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a medium that disseminates moving pictures",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0964",
+  "unit": 25,
+  "headword": "collaboration",
+  "ipa": "kә.læbә'ræʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 合作, 勾結\n[法] 通敵賣國者, 奸細",
+  "forms": {
+   "plural": "collaborations"
+  },
+  "examples": [
+   {
+    "en": "Are we open to collaboration?",
+    "zh": null
+   },
+   {
+    "en": "He considered a collaboration.",
+    "zh": null
+   },
+   {
+    "en": "Our collaboration was fruitful.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "coaction",
+   "collaborationism",
+   "quislingism"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "act of working jointly",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0965",
+  "unit": 25,
+  "headword": "condominium",
+  "ipa": ".kɒndә'miniәm",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 共同統治\n[經] 財產共有權",
+  "forms": {
+   "plural": "condominiums"
+  },
+  "examples": [
+   {
+    "en": "Tom bought a condominium.",
+    "zh": null
+   },
+   {
+    "en": "Our home is a condominium.",
+    "zh": null
+   },
+   {
+    "en": "Sami bought a condominium in Cairo.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "condo"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "one of the dwelling units in a condominium",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0966",
+  "unit": 25,
+  "headword": "consecutive",
+  "ipa": "kәn'sekjutiv",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 連續的, 聯貫的\n[計] 連續的; 連線的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "It snowed for ten consecutive days.",
+    "zh": "雪持續下了十天。"
+   },
+   {
+    "en": "Our team has lost two consecutive games.",
+    "zh": null
+   },
+   {
+    "en": "The trial lasted for ten consecutive days.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "back-to-back",
+   "sequent",
+   "sequential",
+   "serial",
+   "successive"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "one after the other",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0967",
+  "unit": 25,
+  "headword": "cordless",
+  "ipa": "'kɒ:dlis",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 無繩索的, 交直流兩用的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom has a cordless phone with two handsets.",
+    "zh": null
+   },
+   {
+    "en": "Ziri asked Yazid if he could borrow his cordless drill.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "not having a cord",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0968",
+  "unit": 25,
+  "headword": "deluxe",
+  "ipa": "dә'luks",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "defsZh": "a. 高階的, 豪華的\nadv. 豪華地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "What comes with deluxe room service?",
+    "zh": null
+   },
+   {
+    "en": "What is on the chicken deluxe sandwich?",
+    "zh": null
+   },
+   {
+    "en": "I'll have a kebab pizza deluxe, with mixed sauce.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "gilded",
+   "grand",
+   "luxurious",
+   "opulent",
+   "princely"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "rich and superior in quality",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0969",
+  "unit": 25,
+  "headword": "desirable",
+  "ipa": "di'zairәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 令人想望的, 可取的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "It is the things that we do not possess which seem to us most desirable.",
+    "zh": "得不到的東西就最想得到。"
+   },
+   {
+    "en": "Ziri found Rima desirable.",
+    "zh": null
+   },
+   {
+    "en": "Ziri finds Rima desirable.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "suitable",
+   "worthy"
+  ],
+  "antonyms": [
+   "undesirable"
+  ],
+  "phrases": null,
+  "defsEn": "worth having or seeking or achieving",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0970",
+  "unit": 25,
+  "headword": "discrepancy",
+  "ipa": "dis'krepәnsi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 不符合, 差異, 不相符之處\n[化] 不符值; 偏差值",
+  "forms": {
+   "plural": "discrepancies"
+  },
+  "examples": [
+   {
+    "en": "The accounts have discrepancies.",
+    "zh": null
+   },
+   {
+    "en": "Please report discrepancy in data.",
+    "zh": null
+   },
+   {
+    "en": "Tom has found some interesting discrepancies.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "disagreement",
+   "divergence",
+   "variance",
+   "variant"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a difference between conflicting facts or claims or opinions",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0971",
+  "unit": 25,
+  "headword": "dispatch",
+  "ipa": "dis'pætʃ",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 派遣\nn. 派遣, 急件\n[計] 排程",
+  "forms": {
+   "pp": "dispatched",
+   "past": "dispatched",
+   "plural": "dispatches",
+   "ing": "dispatching",
+   "thirdSg": "dispatches"
+  },
+  "examples": [
+   {
+    "en": "We ordered the products on time. However, they won’t be dispatched until next month.",
+    "zh": "我們按時預定了產品。然而，要到下個月後才能發貨。"
+   },
+   {
+    "en": "Dispatch letters to them.",
+    "zh": null
+   },
+   {
+    "en": "They dispatched them to me.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "despatch",
+   "communique",
+   "shipment",
+   "expedition",
+   "expeditiousness"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an official report (usually sent in haste)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0972",
+  "unit": 25,
+  "headword": "drawback",
+  "ipa": "'drɒ:bæk",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 缺點, 退稅\n[法] 退款, 退稅",
+  "forms": {
+   "plural": "drawbacks"
+  },
+  "examples": [
+   {
+    "en": "This system is bristling with defects and drawbacks.",
+    "zh": "這個系統存在著許多缺陷和不盡完善的地方。"
+   },
+   {
+    "en": "What are the advantages and drawbacks of this method?",
+    "zh": "這方法有什麼優點和缺點？"
+   },
+   {
+    "en": "Brilliant people have one major drawback - they don't know how to lose.",
+    "zh": "天才們有一個重要的缺點：他們不會輸。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the quality of being a hindrance",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0973",
+  "unit": 25,
+  "headword": "dull",
+  "ipa": "dʌl",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "defsZh": "a. 鈍的, 無趣的, 呆滯的, 陰暗的\nvt. 使遲鈍, 使陰暗, 緩和\nvi. 變遲鈍, 減少",
+  "forms": {
+   "past": "dulled",
+   "pp": "dulled",
+   "ing": "dulling",
+   "thirdSg": "dulls"
+  },
+  "examples": [
+   {
+    "en": "I used to feel it dull.",
+    "zh": "我以前覺得這很無趣。"
+   },
+   {
+    "en": "This novel is too dull.",
+    "zh": "這本小說太乏味了。"
+   },
+   {
+    "en": "My knife has become dull.",
+    "zh": "我的刀變鈍了。"
+   }
+  ],
+  "synonyms": [
+   "muffle",
+   "mute",
+   "damp",
+   "dampen"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make dull in appearance",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0974",
+  "unit": 25,
+  "headword": "economically",
+  "ipa": "i:kә'nɔmikәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 節約地, 不浪費地, 節省地, 節儉地, 在經濟上, 在經濟學上",
+  "forms": null,
+  "examples": [
+   {
+    "en": "More and more women have their own careers and are economically independent of their husbands.",
+    "zh": "越來越多的女人擁有自己的事業並實現和丈夫的經濟獨立。"
+   },
+   {
+    "en": "Try to drive economically.",
+    "zh": null
+   },
+   {
+    "en": "Algeria is economically weak.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "with respect to economic science",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0975",
+  "unit": 25,
+  "headword": "evenly",
+  "ipa": "'i:vәnli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 平衡地, 平坦地, 平等地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Nowadays, equal pay is not enough. Household responsibilities must also be distributed evenly.",
+    "zh": "現在不止要男女薪金平等，而且還要平均分配家務。"
+   },
+   {
+    "en": "Spread the sand evenly.",
+    "zh": null
+   },
+   {
+    "en": "They split the bill evenly.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "equally"
+  ],
+  "antonyms": [
+   "unevenly",
+   "unequally"
+  ],
+  "phrases": null,
+  "defsEn": "in equal amounts or shares; in a balanced or impartial way",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0976",
+  "unit": 25,
+  "headword": "excellence",
+  "ipa": "'ekslәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 優秀, 卓越, 優點",
+  "forms": {
+   "plural": "excellences"
+  },
+  "examples": [
+   {
+    "en": "He won the prize for excellence in all subjects.",
+    "zh": "他各科全優。"
+   },
+   {
+    "en": "Some analysts consider Somalia as the failed state par excellence.",
+    "zh": "一些分析家認為索馬利亞是非常失敗的國家。"
+   },
+   {
+    "en": "Good morning, your excellence!",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "excellency"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the quality of excelling; possessing good qualities in high degree",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0977",
+  "unit": 25,
+  "headword": "exclusively",
+  "ipa": "ik'sklu:sivli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 排他地, 僅僅, 專門, 只, 僅, 唯一地, 專有地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Confidence and courage are not exclusively masculine traits—they are values that everyone can aspire to.",
+    "zh": "自信與勇氣不僅是男性特質，也可以是所有人都能追求的價值。"
+   },
+   {
+    "en": "I buy exclusively organic dates.",
+    "zh": null
+   },
+   {
+    "en": "You want me exclusively for you.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "entirely",
+   "solely",
+   "alone",
+   "only"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "without any others being included or involved",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0978",
+  "unit": 25,
+  "headword": "farewell",
+  "ipa": "'fєә'wel",
+  "pos": [
+   "n",
+   "int"
+  ],
+  "defsZh": "n. 辭別, 再見, 再會\ninterj. 再會",
+  "forms": {
+   "plural": "farewells"
+  },
+  "examples": [
+   {
+    "en": "He said farewell and left.",
+    "zh": "他說了聲再見就走了。"
+   },
+   {
+    "en": "He bade farewell to the students.",
+    "zh": "他向學生們告別了。"
+   },
+   {
+    "en": "I got a farewell present from everyone.",
+    "zh": "每個人都送了我一份歡送禮物。"
+   }
+  ],
+  "synonyms": [
+   "leave",
+   "leave-taking",
+   "parting"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an acknowledgment or expression of goodwill at parting",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0979",
+  "unit": 25,
+  "headword": "fatigue",
+  "ipa": "fә'ti:g",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "defsZh": "n. 疲乏, 疲勞\nvt. 使疲勞, 使心智衰弱\nvi. 疲勞\na. 疲勞的",
+  "forms": {
+   "plural": "fatigues",
+   "pp": "fatigued",
+   "past": "fatigued",
+   "ing": "fatiguing",
+   "thirdSg": "fatigues"
+  },
+  "examples": [
+   {
+    "en": "What with fatigue and lack of sleep, he has fallen ill at last.",
+    "zh": "他疲勞過度，又睡眠不足，最後便病倒了。"
+   },
+   {
+    "en": "I have a fatigue problem.",
+    "zh": null
+   },
+   {
+    "en": "Fatigue showed on her face.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "weariness",
+   "tiredness"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "temporary loss of strength and energy resulting from hard physical or mental work",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0980",
+  "unit": 25,
+  "headword": "fiscal",
+  "ipa": "'fiskәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 財政的, 國庫的\n[經] 財政上的, 會計的, 國庫的",
+  "forms": {
+   "plural": "fiscals"
+  },
+  "examples": [
+   {
+    "en": "Tax cuts are often used as a major fiscal tool to stimulate the economy.",
+    "zh": "減稅常被用作刺激經濟的主要財政手段。"
+   },
+   {
+    "en": "What's its fiscal status?",
+    "zh": null
+   },
+   {
+    "en": "Algeria needs fiscal transparency.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "financial"
+  ],
+  "antonyms": [
+   "nonfinancial"
+  ],
+  "phrases": null,
+  "defsEn": "involving financial matters",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0981",
+  "unit": 25,
+  "headword": "fleet",
+  "ipa": "fli:t",
+  "pos": [
+   "n",
+   "adj",
+   "adv",
+   "v"
+  ],
+  "defsZh": "n. 艦隊, 港灣, 小河\na. 快速的, 敏捷的, 淺的, 短暫的\nadv. 淺\nvi. 疾馳, 飛逝, 掠過\nvt. 消磨, 變換船(或船員)的位置",
+  "forms": {
+   "plural": "fleets",
+   "ing": "fleeting",
+   "past": "fleeted",
+   "thirdSg": "fleets",
+   "pp": "fleeted"
+  },
+  "examples": [
+   {
+    "en": "Human life is fleeting.",
+    "zh": null
+   },
+   {
+    "en": "My happiness was fleeting.",
+    "zh": null
+   },
+   {
+    "en": "How can I desert the fleet?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "group of aircraft operating together under the same ownership",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0982",
+  "unit": 25,
+  "headword": "flour",
+  "ipa": "'flauә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 麵粉, 粉沫, 碎粉\n[醫] 麵粉, 麥粉",
+  "forms": {
+   "plural": "flours",
+   "past": "floured",
+   "ing": "flouring",
+   "thirdSg": "flours",
+   "pp": "floured"
+  },
+  "examples": [
+   {
+    "en": "Bread is made from flour.",
+    "zh": "麵包是麵粉做的。"
+   },
+   {
+    "en": "Flour is made from wheat.",
+    "zh": "麵粉是小麥製成的。"
+   },
+   {
+    "en": "Mix the flour with two eggs.",
+    "zh": "把麵粉和兩顆雞蛋混合。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "fine powdery foodstuff obtained by grinding and sifting the meal of a cereal grain",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0983",
+  "unit": 25,
+  "headword": "fog",
+  "ipa": "fɒg",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 霧, 迷惑, (割後的)最生草, 苔蘚\nvi. 被霧籠罩, 變模糊\nvt. 使困惑, 以霧籠罩",
+  "forms": {
+   "plural": "fogs",
+   "ing": "fogging",
+   "pp": "fogged",
+   "past": "fogged",
+   "thirdSg": "fogs"
+  },
+  "examples": [
+   {
+    "en": "We got lost in the fog.",
+    "zh": "我們在霧中迷了路。"
+   },
+   {
+    "en": "I could see nothing but fog.",
+    "zh": "除了霧我什麼都看不見。"
+   },
+   {
+    "en": "London is famous for its fog.",
+    "zh": "倫敦以霧著名。"
+   }
+  ],
+  "synonyms": [
+   "fogginess",
+   "murk",
+   "murkiness",
+   "daze",
+   "haze"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "droplets of water vapor suspended in the air near the ground",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0984",
+  "unit": 25,
+  "headword": "formally",
+  "ipa": "'fɒ:mәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 正式地, 形式上",
+  "forms": null,
+  "examples": [
+   {
+    "en": "French is the only foreign language I've ever formally studied.",
+    "zh": "我只系統地學習過法語。"
+   },
+   {
+    "en": "I formally deny it.",
+    "zh": null
+   },
+   {
+    "en": "I'd like to formally apologize.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "officially"
+  ],
+  "antonyms": [
+   "informally"
+  ],
+  "phrases": null,
+  "defsEn": "with official authorization",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0985",
+  "unit": 25,
+  "headword": "gram",
+  "ipa": "græm",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 克, 綠豆, 鷹嘴豆\n[醫] 克",
+  "forms": {
+   "plural": "grams"
+  },
+  "examples": [
+   {
+    "en": "A bowl of rice is about 180 grams.",
+    "zh": "一碗飯大約重一百八十克。"
+   },
+   {
+    "en": "A bowl of rice weighs about 180 grams.",
+    "zh": "一碗飯大約重一百八十克。"
+   },
+   {
+    "en": "Cook 300 grams of rice.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "gramme",
+   "gm",
+   "g"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a metric unit of weight equal to one thousandth of a kilogram",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0986",
+  "unit": 25,
+  "headword": "handbook",
+  "ipa": "'hænd,buk",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 手冊\n[計] 手冊",
+  "forms": {
+   "plural": "handbooks"
+  },
+  "examples": [
+   {
+    "en": "This is a good handbook.",
+    "zh": null
+   },
+   {
+    "en": "I consulted the handbook.",
+    "zh": null
+   },
+   {
+    "en": "The Esperanto handbooks are cheap.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "enchiridion"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a concise reference book providing specific information about a subject or location",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0987",
+  "unit": 25,
+  "headword": "headphone",
+  "ipa": "'hedfәun",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 戴在頭上的收話器, 耳機\n[電] 頭載數話器",
+  "forms": {
+   "plural": "headphones"
+  },
+  "examples": [
+   {
+    "en": "Give me the headphones.",
+    "zh": "給我耳機。"
+   },
+   {
+    "en": "Tom is wearing headphones.",
+    "zh": "湯姆在戴著耳機。"
+   },
+   {
+    "en": "Everybody was wearing headphones.",
+    "zh": "每個人都在戴著耳機。"
+   }
+  ],
+  "synonyms": [
+   "earphone",
+   "earpiece",
+   "phone"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0988",
+  "unit": 25,
+  "headword": "heater",
+  "ipa": "'hi:tә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 加熱器, 燈絲, 加熱工\n[化] 加熱器",
+  "forms": {
+   "plural": "heaters"
+  },
+  "examples": [
+   {
+    "en": "The heater broke.",
+    "zh": "暖氣壞了。"
+   },
+   {
+    "en": "The heater is broken.",
+    "zh": "暖氣壞了。"
+   },
+   {
+    "en": "The heater doesn't work.",
+    "zh": "暖氣壞了。"
+   }
+  ],
+  "synonyms": [
+   "warmer",
+   "fastball",
+   "smoke",
+   "hummer",
+   "bullet"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "device that heats water or supplies warmth to a room",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0989",
+  "unit": 25,
+  "headword": "helmet",
+  "ipa": "'helmit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 鋼盔, 盔, 防護帽\nvt. 給...戴頭盔",
+  "forms": {
+   "plural": "helmets"
+  },
+  "examples": [
+   {
+    "en": "I'd wear a helmet.",
+    "zh": "我要戴頭盔。"
+   },
+   {
+    "en": "Go get your helmet.",
+    "zh": "戴上你的安全帽。"
+   },
+   {
+    "en": "He put his helmet back on.",
+    "zh": "他重新戴上了他的頭盔。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "armor plate that protects the head",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0990",
+  "unit": 25,
+  "headword": "hiker",
+  "ipa": "'haikә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 徒步旅行者",
+  "forms": {
+   "plural": "hikers"
+  },
+  "examples": [
+   {
+    "en": "He isn't a hiker.",
+    "zh": null
+   },
+   {
+    "en": "A hiker went missing.",
+    "zh": null
+   },
+   {
+    "en": "Ziri is an avid hiker.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "tramp",
+   "tramper"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a foot traveler; someone who goes on an extended walk (for pleasure)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0991",
+  "unit": 25,
+  "headword": "homeless",
+  "ipa": "'hәumlis",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 無家的, 無養主的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "He is a homeless person.",
+    "zh": "他是一個流浪漢。"
+   },
+   {
+    "en": "Those homeless people are living hand-to-mouth.",
+    "zh": "那些無家可歸的人每天過著僅夠餬口的生活。"
+   },
+   {
+    "en": "I often slept on that bench when I was homeless.",
+    "zh": "當我無家可歸的時候，我常在那張長椅上睡覺。"
+   }
+  ],
+  "synonyms": [
+   "stateless"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone unfortunate without housing",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0992",
+  "unit": 25,
+  "headword": "lighter",
+  "ipa": "'laitә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 點火者, 點燈工人, 打火機, 駁船\nvt. 以駁船搬運",
+  "forms": {
+   "plural": "lighters"
+  },
+  "examples": [
+   {
+    "en": "Have you got a lighter?",
+    "zh": "您有打火機嗎？"
+   },
+   {
+    "en": "It is getting lighter outside.",
+    "zh": "外面天色越來越亮了。"
+   },
+   {
+    "en": "He likes green in a lighter shade.",
+    "zh": "他喜歡比較淺的綠色。"
+   }
+  ],
+  "synonyms": [
+   "igniter",
+   "ignitor",
+   "light",
+   "barge",
+   "flatboat"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a substance used to ignite or kindle a fire",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0993",
+  "unit": 25,
+  "headword": "loudly",
+  "ipa": "'laudli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 高聲地, 大聲地, 吵鬧地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "She cursed loudly.",
+    "zh": "她大聲詛咒。"
+   },
+   {
+    "en": "John speaks loudly.",
+    "zh": "約翰講話很大聲。"
+   },
+   {
+    "en": "Stop talking loudly.",
+    "zh": "停止大聲說話。"
+   }
+  ],
+  "synonyms": [
+   "loud",
+   "aloud",
+   "obstreperously",
+   "clamorously",
+   "forte"
+  ],
+  "antonyms": [
+   "softly",
+   "piano"
+  ],
+  "phrases": null,
+  "defsEn": "with relatively high volume",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0994",
+  "unit": 25,
+  "headword": "loyalty",
+  "ipa": "'lɒiәlti",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 忠貞, 忠誠, 忠實\n[法] 忠誠, 忠心",
+  "forms": {
+   "plural": "loyalties"
+  },
+  "examples": [
+   {
+    "en": "You doubt my loyalty?",
+    "zh": null
+   },
+   {
+    "en": "We admire your loyalty.",
+    "zh": null
+   },
+   {
+    "en": "I question your loyalty.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "trueness",
+   "commitment",
+   "allegiance",
+   "dedication"
+  ],
+  "antonyms": [
+   "disloyalty"
+  ],
+  "phrases": null,
+  "defsEn": "the quality of being loyal",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0995",
+  "unit": 25,
+  "headword": "microwave",
+  "ipa": "'maikrәuweiv",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 微波\n[計] 微波",
+  "forms": {
+   "plural": "microwaves",
+   "past": "microwaved",
+   "ing": "microwaving",
+   "pp": "microwaved",
+   "thirdSg": "microwaves"
+  },
+  "examples": [
+   {
+    "en": "Tom doesn't have a microwave oven.",
+    "zh": "湯姆沒有微波爐。"
+   },
+   {
+    "en": "The cause of this fire was a microwave oven.",
+    "zh": "這場火災的起因是一個微波爐。"
+   },
+   {
+    "en": "It is about time we bought a new microwave oven.",
+    "zh": "我們是時候買新的微波爐了。"
+   }
+  ],
+  "synonyms": [
+   "micro-cook",
+   "zap",
+   "nuke"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens and for transmitting telephone, facsimile, video and data",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0996",
+  "unit": 25,
+  "headword": "misidentify",
+  "ipa": ",misai'dentifai",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 識別錯",
+  "forms": {
+   "pp": "misidentified",
+   "thirdSg": "misidentifies",
+   "past": "misidentified"
+  },
+  "examples": [],
+  "synonyms": [
+   "mistake"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "identify incorrectly",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0997",
+  "unit": 25,
+  "headword": "neat",
+  "ipa": "ni:t",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 整潔的, 巧妙的, 勻稱的, 簡潔的\nn. 牛",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This is neat.",
+    "zh": "這很棒。"
+   },
+   {
+    "en": "That was pretty neat.",
+    "zh": "那真整潔。"
+   },
+   {
+    "en": "She has very neat handwriting.",
+    "zh": "她的字型很整齊."
+   }
+  ],
+  "synonyms": [
+   "orderly",
+   "refined",
+   "tasteful"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "clean or organized",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0998",
+  "unit": 25,
+  "headword": "nomination",
+  "ipa": ".nɒmi'neiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 提名, 任命, 提名權",
+  "forms": {
+   "plural": "nominations"
+  },
+  "examples": [
+   {
+    "en": "I second his nomination.",
+    "zh": null
+   },
+   {
+    "en": "Tom lost the nomination.",
+    "zh": null
+   },
+   {
+    "en": "He accepted the nomination.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the act of officially naming a candidate",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0999",
+  "unit": 25,
+  "headword": "officially",
+  "ipa": "ә'fiʃәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 作為公務員, 職務上, 官方地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This person's worldview is officially unhealthy.",
+    "zh": "經鑑定，此人三觀不正。"
+   },
+   {
+    "en": "The Japanese Parliament today officially elected Ryūtarō Hashimoto as the country's 52nd prime minister.",
+    "zh": "日本國會今天正式選舉了橋本龍太郎作為全國第52屆總理。"
+   },
+   {
+    "en": "I'm officially in love.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "formally"
+  ],
+  "antonyms": [
+   "unofficially"
+  ],
+  "phrases": null,
+  "defsEn": "in an official role",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1000",
+  "unit": 25,
+  "headword": "outfit",
+  "ipa": "'autfit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 用具, 配備, 機構\nvt. 配備, 供應\nvi. 得到裝備",
+  "forms": {
+   "plural": "outfits",
+   "ing": "outfitting",
+   "past": "outfitted",
+   "thirdSg": "outfits",
+   "pp": "outfitted"
+  },
+  "examples": [
+   {
+    "en": "Your outfit today is so gorgeous!",
+    "zh": "你今天穿得非常漂亮啊！"
+   },
+   {
+    "en": "You look great in that white outfit.",
+    "zh": "你穿那件白色的衣服很好看。"
+   },
+   {
+    "en": "I like your outfit.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "getup",
+   "rig",
+   "turnout",
+   "kit"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "any cohesive unit such as a military company",
+  "note": null,
+  "audioUrl": null
+ }
+]

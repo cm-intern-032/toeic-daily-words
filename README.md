@@ -1,7 +1,7 @@
 # 多益日課 — TOEIC 400 單字學習 App（v1）
 
 純前端靜態 PWA：iPhone Safari 加到主畫面即可離線使用，無後端、無帳號。
-400 個 TOEIC 核心單字（TSL 1.2 前 400，依多益語料詞頻排序），10 單元 × 40 字。
+1250 個 TOEIC 核心單字（TSL 1.2 全量，依多益語料詞頻排序），32 單元 × 至多 40 字。
 
 **線上版：https://cm-intern-032.github.io/toeic-daily-words/**
 
@@ -24,7 +24,7 @@ reports/      各里程碑報告與 coverage report
 ## 核心機制
 
 - **單元級記憶曲線**：完成首學 stage=1，之後每次複習 stage+1，
-  間隔 `[1,2,4,7,15,30]` 天，stage 6 畢業（`config.js`）。
+  間隔 `[1,2,4,7,15,30]` 天，六個間隔走完（stage 7）畢業（`config.js`）。
 - **字級 Leitner**：答對 box+1（上限 5）、答錯歸 0。
   弱字（box<3 或正確率<70%）才進每日複習；每日弱字上限 120，超過順延單元。
 - **進度與內容徹底分離**：進度只在 localStorage（可匯出/匯入 JSON），

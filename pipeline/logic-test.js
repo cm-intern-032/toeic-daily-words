@@ -70,11 +70,14 @@ function check(name, cond) {
   check("複習 stage=2", Store.unitP(1).stage === 2);
   check("nextDue=+2 天", Store.unitP(1).nextDue === "2026-09-03");
 
-  /* 5. 畢業 */
+  /* 5. 畢業（六個間隔全走完：…15 天到 stage 6，再 30 天到 stage 7 畢業） */
   for (const [d, s] of [["2026-09-03", 3], ["2026-09-07", 4], ["2026-09-14", 5], ["2026-09-29", 6]]) {
     FAKE = d; Scheduler.completeUnit(1);
     check(`到 ${d} stage=${s}`, Store.unitP(1).stage === s);
   }
+  check("stage 6 後 nextDue=+30 天", Store.unitP(1).nextDue === "2026-10-29");
+  FAKE = "2026-10-29"; Scheduler.completeUnit(1);
+  check("30 天複習後 stage=7 畢業", Store.unitP(1).stage === 7);
   check("畢業後 nextDue=null", Store.unitP(1).nextDue === null);
 
   /* 6. buildTodayTasks：新單元派發 */
@@ -123,7 +126,7 @@ function check(name, cond) {
   Store.markAnswer("w0005", true);
   Store.importJson(dump);
   check("匯入還原 w0005 未作答", Store.wordP("w0005").correct === 0);
-  check("匯入保留 Unit1 畢業", Store.unitP(1).stage === 6);
+  check("匯入保留 Unit1 畢業", Store.unitP(1).stage === CONFIG.GRADUATE_STAGE);
 
   console.log(failures ? `\n${failures} FAILURES` : "\nALL PASS");
   process.exit(failures ? 1 : 0);

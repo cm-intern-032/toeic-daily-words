@@ -1,0 +1,373 @@
+[
+ {
+  "id": "w1241",
+  "unit": 32,
+  "headword": "timeline",
+  "ipa": "ˈtaɪmlaɪn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 時間軸, 時間表",
+  "forms": {
+   "plural": "timelines"
+  },
+  "examples": [
+   {
+    "en": "We don't have a timeline.",
+    "zh": null
+   },
+   {
+    "en": "I want to see the timeline.",
+    "zh": null
+   },
+   {
+    "en": "Tell us the timeline of events.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a sequence of related events arranged in chronological order and displayed along a line (usually drawn left to right or top to bottom)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1242",
+  "unit": 32,
+  "headword": "unreliable",
+  "ipa": ".ʌnri'laiәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不可靠的\n[法] 不可靠的, 靠不住的",
+  "forms": {
+   "plural": "unreliables"
+  },
+  "examples": [
+   {
+    "en": "They are unreliable.",
+    "zh": "他們不可靠。"
+   },
+   {
+    "en": "Tom is very unreliable.",
+    "zh": null
+   },
+   {
+    "en": "Tom says I'm unreliable.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "undependable",
+   "treacherous"
+  ],
+  "antonyms": [
+   "reliable",
+   "dependable"
+  ],
+  "phrases": null,
+  "defsEn": "liable to be erroneous or misleading",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1243",
+  "unit": 32,
+  "headword": "acclaim",
+  "ipa": "ә'kleim",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 喝彩, 歡呼, 贊同\nv. 歡呼, 喝彩, 稱讚",
+  "forms": {
+   "pp": "acclaimed",
+   "past": "acclaimed",
+   "ing": "acclaiming",
+   "plural": "acclaims",
+   "thirdSg": "acclaims"
+  },
+  "examples": [
+   {
+    "en": "They acclaimed her Queen.",
+    "zh": null
+   },
+   {
+    "en": "They acclaimed him emperor.",
+    "zh": null
+   },
+   {
+    "en": "Sami is an acclaimed pianist.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "acclamation",
+   "plaudits",
+   "plaudit",
+   "eclat",
+   "hail"
+  ],
+  "antonyms": [
+   "boo"
+  ],
+  "phrases": null,
+  "defsEn": "enthusiastic approval",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1244",
+  "unit": 32,
+  "headword": "chronic",
+  "ipa": "'krɒnik",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 慢性的, 習慣性的\nn. 慢性病患者",
+  "forms": null,
+  "examples": [
+   {
+    "en": "My pain is chronic.",
+    "zh": null
+   },
+   {
+    "en": "Tom is a chronic liar.",
+    "zh": null
+   },
+   {
+    "en": "He's a chronic latecomer.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "continuing",
+   "inveterate"
+  ],
+  "antonyms": [
+   "acute"
+  ],
+  "phrases": null,
+  "defsEn": "being long-lasting and recurrent or characterized by long suffering",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1245",
+  "unit": 32,
+  "headword": "deteriorate",
+  "ipa": "di'tiәriәreit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. (使)惡化",
+  "forms": {
+   "past": "deteriorated",
+   "pp": "deteriorated",
+   "thirdSg": "deteriorates",
+   "ing": "deteriorating"
+  },
+  "examples": [
+   {
+    "en": "The situation is deteriorating.",
+    "zh": "情況正在變糟。"
+   },
+   {
+    "en": "Tom's eyesight is deteriorating.",
+    "zh": "Tom的視力正在惡化。"
+   },
+   {
+    "en": "Robert's health deteriorated day by day.",
+    "zh": "羅伯特的健康狀況日益惡化。"
+   }
+  ],
+  "synonyms": [
+   "devolve",
+   "drop",
+   "degenerate"
+  ],
+  "antonyms": [
+   "recuperate"
+  ],
+  "phrases": null,
+  "defsEn": "become worse or disintegrate",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1246",
+  "unit": 32,
+  "headword": "resemble",
+  "ipa": "ri'zembl",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 相似, 類似",
+  "forms": {
+   "thirdSg": "resembles",
+   "ing": "resembling",
+   "past": "resembled",
+   "pp": "resembled"
+  },
+  "examples": [
+   {
+    "en": "She resembles her aunt.",
+    "zh": "她長得像她姑姑。"
+   },
+   {
+    "en": "Jack resembles his father.",
+    "zh": "傑克像他父親。"
+   },
+   {
+    "en": "Young tigers resemble cats.",
+    "zh": "小老虎很象貓。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "appear like; be similar or bear a likeness to",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1247",
+  "unit": 32,
+  "headword": "unauthorized",
+  "ipa": ".ʌn'ɒ:θәraizd",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 未經許可的\n[法] 無權的, 未經授權的, 未經許可的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Use a password to protect your laptop from unauthorized access.",
+    "zh": null
+   },
+   {
+    "en": "I don't want unauthorized pictures of me on people's social media.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "unauthorised",
+   "wildcat"
+  ],
+  "antonyms": [
+   "authorized"
+  ],
+  "phrases": null,
+  "defsEn": "not endowed with authority",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1248",
+  "unit": 32,
+  "headword": "violate",
+  "ipa": "'vaiәleit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 違犯, 褻瀆, 違反, 侵犯, 妨礙\n[經] 違犯, 違反",
+  "forms": {
+   "pp": "violated",
+   "ing": "violating",
+   "past": "violated",
+   "thirdSg": "violates",
+   "plural": "violates"
+  },
+  "examples": [
+   {
+    "en": "He violated a law.",
+    "zh": "他觸犯了法律。"
+   },
+   {
+    "en": "The law should not be violated.",
+    "zh": "法律不應受到侵犯。"
+   },
+   {
+    "en": "I'll never violate a law again.",
+    "zh": "我不會再違法了。"
+   }
+  ],
+  "synonyms": [
+   "break",
+   "transgress",
+   "offend",
+   "infract",
+   "breach"
+  ],
+  "antonyms": [
+   "conform to",
+   "keep"
+  ],
+  "phrases": null,
+  "defsEn": "fail to agree with; be in violation of; as of rules or patterns",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1249",
+  "unit": 32,
+  "headword": "unplug",
+  "ipa": ".ʌn'plʌg",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 拔開...的塞子, 拔去...的插頭, 除掉...的障礙物",
+  "forms": {
+   "ing": "unplugging",
+   "thirdSg": "unplugs",
+   "past": "unplugged",
+   "pp": "unplugged"
+  },
+  "examples": [
+   {
+    "en": "Unplug all the cables.",
+    "zh": "拔下所有的電纜。"
+   },
+   {
+    "en": "I unplugged the TV.",
+    "zh": null
+   },
+   {
+    "en": "Who unplugged the TV?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "disconnect"
+  ],
+  "antonyms": [
+   "plug in"
+  ],
+  "phrases": null,
+  "defsEn": "pull the plug of (electrical appliances) and render inoperable",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1250",
+  "unit": 32,
+  "headword": "videoconference",
+  "ipa": ",vidiәj'kɔnfәrәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 視訊會議",
+  "forms": {
+   "plural": "videoconferences"
+  },
+  "examples": [],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": null,
+  "note": null,
+  "audioUrl": null
+ }
+]

@@ -53,6 +53,14 @@
    {
     "en": "A good warranty would make me feel better.",
     "zh": "優質的保固能讓我安心。"
+   },
+   {
+    "en": "The warranty is expiring.",
+    "zh": null
+   },
+   {
+    "en": "The warranty is two months.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -260,6 +268,14 @@
    {
     "en": "I signed the lease today.",
     "zh": "我今天簽了租約。"
+   },
+   {
+    "en": "His lease is up.",
+    "zh": null
+   },
+   {
+    "en": "I signed a lease.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -412,6 +428,14 @@
    {
     "en": "Tom is a flight attendant.",
     "zh": "湯姆是空服員。"
+   },
+   {
+    "en": "Mary is a flight attendant.",
+    "zh": null
+   },
+   {
+    "en": "The word meant \"attendants.\"",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -669,6 +693,14 @@
    {
     "en": "She has an oval face.",
     "zh": "她有一張橢圓形的臉。"
+   },
+   {
+    "en": "A rugby ball is oval.",
+    "zh": null
+   },
+   {
+    "en": "The object was oval in shape.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -936,6 +968,10 @@
    {
     "en": "I cannot forbid a person to marry several wives, for it does not contradict Scripture.",
     "zh": "我不能禁止一個人娶好幾個妻子，因為這與聖經不矛盾。"
+   },
+   {
+    "en": "He contradicted the news.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1219,6 +1255,14 @@
    {
     "en": "Do you have your student identification card?",
     "zh": "你有學生證嗎？"
+   },
+   {
+    "en": "Do you have identification?",
+    "zh": null
+   },
+   {
+    "en": "May I see your identification?",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1246,6 +1290,14 @@
    {
     "en": "May I have coupon tickets?",
     "zh": "可以給我優惠券嗎？"
+   },
+   {
+    "en": "I've got a coupon.",
+    "zh": null
+   },
+   {
+    "en": "Do you have a coupon?",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1357,6 +1409,10 @@
    {
     "en": "Elon Musk embodies the conservative propaganda tactic of calling everyone who crosses you a pedophile.",
     "zh": "伊隆馬斯克將「凡是與你作對的人都是戀童癖」這一保守派慣用的抹黑手法發揮得淋漓盡致。"
+   },
+   {
+    "en": "He changed his tactics.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1434,6 +1490,10 @@
    {
     "en": "With this upgrade, one obvious impact is that users will be obliged to reset their passwords.",
     "zh": "這次升級的一個明顯影響是使用者會被強制重置密碼。"
+   },
+   {
+    "en": "Tom upgraded his phone.",
+    "zh": null
    }
   ],
   "synonyms": [

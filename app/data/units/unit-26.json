@@ -1,0 +1,1488 @@
+[
+ {
+  "id": "w1001",
+  "unit": 26,
+  "headword": "pastry",
+  "ipa": "'peistri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 油酥點心, 麵粉糕餅",
+  "forms": {
+   "plural": "pastries"
+  },
+  "examples": [
+   {
+    "en": "Roll the pastry into a rectangle.",
+    "zh": "把麵團擀成方形。"
+   },
+   {
+    "en": "From childhood I dreamed of being a pastry cook.",
+    "zh": "我從小的夢想就是做一名糕點師。"
+   },
+   {
+    "en": "Tom is a pastry chef.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a dough of flour and water and shortening",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1002",
+  "unit": 26,
+  "headword": "personalize",
+  "ipa": "'pә:sәnәlaiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. (貶)使個人化, 體現, 使人格化, 在(物品)上標明姓名/標出地址/標出記號",
+  "forms": {
+   "past": "personalized",
+   "pp": "personalized",
+   "ing": "personalizing",
+   "thirdSg": "personalizes"
+  },
+  "examples": [
+   {
+    "en": "Every student deserves personalized lessons.",
+    "zh": null
+   },
+   {
+    "en": "I would like you to stop personalizing disputes.",
+    "zh": null
+   },
+   {
+    "en": "Could you show me how to personalize my desktop?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "personalise",
+   "individualize",
+   "individualise"
+  ],
+  "antonyms": [
+   "depersonalize",
+   "depersonalise"
+  ],
+  "phrases": null,
+  "defsEn": "make personal or more personal",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1003",
+  "unit": 26,
+  "headword": "poorly",
+  "ipa": "'puәli",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "defsZh": "adv. 貧窮地, 不充分地, 貧乏地\na. 身體不舒服的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The deck was poorly shuffled.",
+    "zh": "牌沒洗開。"
+   },
+   {
+    "en": "The U.S. Constitution was poorly written.",
+    "zh": "美國憲法寫得很爛。"
+   },
+   {
+    "en": "The lubrication system was poorly designed.",
+    "zh": "潤滑系統設計得不好。"
+   }
+  ],
+  "synonyms": [
+   "ailing",
+   "indisposed",
+   "peaked",
+   "sickly",
+   "unwell"
+  ],
+  "antonyms": [
+   "well"
+  ],
+  "phrases": null,
+  "defsEn": "somewhat ill or prone to illness",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1004",
+  "unit": 26,
+  "headword": "prestigious",
+  "ipa": "pre'stidʒiәs",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 享有聲望的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "David had a prestigious job.",
+    "zh": null
+   },
+   {
+    "en": "Sami lived a prestigious life.",
+    "zh": null
+   },
+   {
+    "en": "He entered a prestigious school.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "esteemed",
+   "honored"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "having an illustrious reputation; respected",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1005",
+  "unit": 26,
+  "headword": "purser",
+  "ipa": "'pә:sә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 事務長\n[經] 會計員, 出納員, 事務長",
+  "forms": {
+   "plural": "pursers"
+  },
+  "examples": [
+   {
+    "en": "The purser acts as the crew's private merchant aboard the ship.",
+    "zh": null
+   },
+   {
+    "en": "As the ship's purser, Tom was responsible for handling all financial transactions on board.",
+    "zh": null
+   },
+   {
+    "en": "The purser welcomed the passengers aboard and checked their tickets with practiced efficiency.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an officer aboard a ship who keeps accounts and attends to the passengers' welfare",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1006",
+  "unit": 26,
+  "headword": "reassure",
+  "ipa": ".ri:ә'ʃuә",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使...安心, 向...再保證\n[法] 重新保證, 再保險, 使清除疑慮",
+  "forms": {
+   "pp": "reassured",
+   "past": "reassured",
+   "ing": "reassuring",
+   "thirdSg": "reassures"
+  },
+  "examples": [
+   {
+    "en": "Tom felt reassured.",
+    "zh": "湯姆感到放心。"
+   },
+   {
+    "en": "I'm not very reassured.",
+    "zh": null
+   },
+   {
+    "en": "That doesn't reassure me.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "assure"
+  ],
+  "antonyms": [
+   "worry"
+  ],
+  "phrases": null,
+  "defsEn": "cause to feel sure; give reassurance to",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1007",
+  "unit": 26,
+  "headword": "resume",
+  "ipa": "ri'zju:m",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 重新開始, 取回, 恢復\nvi. 再開始\nn. 摘要, 個人簡歷\n[計] 繼續執行",
+  "forms": {
+   "past": "resumed",
+   "pp": "resumed",
+   "ing": "resuming",
+   "thirdSg": "resumes",
+   "plural": "resumes"
+  },
+  "examples": [
+   {
+    "en": "I asked the company for his resume.",
+    "zh": "我向他公司詢問了他的經歷。"
+   },
+   {
+    "en": "I don't worry so much about my resume.",
+    "zh": "我對自己的履歷不那麼在意。"
+   },
+   {
+    "en": "He resumed reading after lunch.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "sketch",
+   "survey",
+   "CV",
+   "restart",
+   "re-start"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "short descriptive summary (of events)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1008",
+  "unit": 26,
+  "headword": "reunion",
+  "ipa": "ri:'ju:njәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 團圓, 重聚\n[醫] 再連合, 復連[合]",
+  "forms": {
+   "plural": "reunions"
+  },
+  "examples": [
+   {
+    "en": "Tom went to Australia for a family reunion.",
+    "zh": "湯姆去澳大利亞與家人團聚。"
+   },
+   {
+    "en": "This means that eating dumplings on New Year's eve is a symbol of family reunion.",
+    "zh": "說明年夜飯的餃子是親人團聚的象徵。"
+   },
+   {
+    "en": "How was the reunion?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "reunification"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a party of former associates who have come together again",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1009",
+  "unit": 26,
+  "headword": "revolutionize",
+  "ipa": ".revә'lu:ʃәnaiz",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 向...鼓吹革命, 使發生革命性劇變",
+  "forms": {
+   "pp": "revolutionized",
+   "past": "revolutionized",
+   "ing": "revolutionizing",
+   "thirdSg": "revolutionizes"
+  },
+  "examples": [
+   {
+    "en": "The book revolutionized the field.",
+    "zh": null
+   },
+   {
+    "en": "The paper revolutionized the field.",
+    "zh": null
+   },
+   {
+    "en": "This book revolutionized the field.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "revolutionise",
+   "overturn",
+   "inspire"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "change radically",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1010",
+  "unit": 26,
+  "headword": "seafood",
+  "ipa": "'si:fu:d",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 海味, 海鮮, 魚類",
+  "forms": {
+   "plural": "seafoods"
+  },
+  "examples": [
+   {
+    "en": "She likes seafood.",
+    "zh": "她喜歡海鮮。"
+   },
+   {
+    "en": "I really like seafood.",
+    "zh": "我很喜歡吃海鮮。"
+   },
+   {
+    "en": "I really like eating seafood.",
+    "zh": "我很喜歡吃海產。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "edible fish (broadly including freshwater fish) or shellfish or roe etc",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1011",
+  "unit": 26,
+  "headword": "signify",
+  "ipa": "'signifai",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 象徵, 預示\nvi. 要緊, 重要",
+  "forms": {
+   "thirdSg": "signifies",
+   "past": "signified",
+   "ing": "signifying",
+   "pp": "signified"
+  },
+  "examples": [
+   {
+    "en": "What does this sign signify?",
+    "zh": null
+   },
+   {
+    "en": "What do those lights signify?",
+    "zh": null
+   },
+   {
+    "en": "What you think doesn't signify at all.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "mean",
+   "intend"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "denote or connote",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1012",
+  "unit": 26,
+  "headword": "slot",
+  "ipa": "slɒt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 水溝, 細長孔, 硬幣投幣口, 縫, 狹槽, 狹通道, 位置, 一檔(廣播節目等)\nvt. 開槽於, 把...納入機構\n[計] 槽; 儲存槽",
+  "forms": {
+   "plural": "slots",
+   "pp": "slotted",
+   "past": "slotted",
+   "thirdSg": "slots",
+   "ing": "slotting"
+  },
+  "examples": [
+   {
+    "en": "Shove it in the slot.",
+    "zh": null
+   },
+   {
+    "en": "When is the next free slot?",
+    "zh": null
+   },
+   {
+    "en": "Tom put a penny in the slot.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a position in a grammatical linguistic construction in which a variety of alternative units are interchangeable",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1013",
+  "unit": 26,
+  "headword": "steer",
+  "ipa": "stiә",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 引導, 駕駛, 航行, 控制\nvi. 駕駛, 掌舵, 行駛\nn. 駕駛指示, 勸告",
+  "forms": {
+   "past": "steered",
+   "ing": "steering",
+   "pp": "steered",
+   "thirdSg": "steers",
+   "plural": "steers"
+  },
+  "examples": [
+   {
+    "en": "Japanese cars' steering wheels are on the right.",
+    "zh": "日本車的方向盤在右邊。"
+   },
+   {
+    "en": "Have I steered you wrong?",
+    "zh": null
+   },
+   {
+    "en": "A car has a steering wheel.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "tip",
+   "lead",
+   "wind",
+   "hint",
+   "bullock"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an indication of potential opportunity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1014",
+  "unit": 26,
+  "headword": "sue",
+  "ipa": "su:",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 控告, 起訴, 請求\nvi. 提出訴訟, 提出請求",
+  "forms": {
+   "pp": "sued",
+   "ing": "suing",
+   "past": "sued",
+   "thirdSg": "sues"
+  },
+  "examples": [
+   {
+    "en": "I'll sue you.",
+    "zh": "我要告你。"
+   },
+   {
+    "en": "I will sue you.",
+    "zh": "我要控告你。"
+   },
+   {
+    "en": "Did you sue her?",
+    "zh": "你告她了嗎？"
+   }
+  ],
+  "synonyms": [
+   "action",
+   "litigate",
+   "process"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "French writer whose novels described the sordid side of city life (1804-1857)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1015",
+  "unit": 26,
+  "headword": "superb",
+  "ipa": "sju'pә:b",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 極度的, 華麗的, 極好的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom is a superb cook.",
+    "zh": null
+   },
+   {
+    "en": "This is a superb idea.",
+    "zh": null
+   },
+   {
+    "en": "You have superb English.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "brilliant"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "of surpassing excellence",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1016",
+  "unit": 26,
+  "headword": "traditionally",
+  "ipa": "trəˈdɪʃənəli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 傳統上；傳說上；習慣上",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tuareg men dress traditionally.",
+    "zh": null
+   },
+   {
+    "en": "Life in Algeria is traditionally Muslim.",
+    "zh": null
+   },
+   {
+    "en": "Algeria is traditionally close to Russia.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "according to tradition; in a traditional manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1017",
+  "unit": 26,
+  "headword": "tremendous",
+  "ipa": "tri'mendәs",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 巨大的, 非常的, 可怕的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "The pressure was tremendous.",
+    "zh": "壓力很巨大。"
+   },
+   {
+    "en": "The rocket travels at a tremendous speed.",
+    "zh": "火箭飛得極快。"
+   },
+   {
+    "en": "Coming out of the closet requires tremendous courage.",
+    "zh": "出櫃需要莫大的勇氣。"
+   }
+  ],
+  "synonyms": [
+   "enormous",
+   "fantastic",
+   "grand",
+   "howling",
+   "marvelous"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "extraordinarily large in size or extent or amount or power or degree; ; ; ; - Walter Lippman",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1018",
+  "unit": 26,
+  "headword": "underway",
+  "ipa": "'ʌndә'wei",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 航行中的；進行中的；起步的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "A coup is underway.",
+    "zh": null
+   },
+   {
+    "en": "An attack is underway.",
+    "zh": null
+   },
+   {
+    "en": "The attack is underway!",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "afoot"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "currently in progress",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1019",
+  "unit": 26,
+  "headword": "unpleasant",
+  "ipa": ".ʌn'pleznt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 使人不愉快的, 使人厭惡的, 煞風景的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "An unpleasant feeling is always bad.",
+    "zh": "不愉快的感覺永遠不好。"
+   },
+   {
+    "en": "We had an unpleasant experience there.",
+    "zh": "我們在那裡有一個不愉快的經歷。"
+   },
+   {
+    "en": "The gas gives off a strong, unpleasant smell.",
+    "zh": "這個氣體散發出強烈難聞的氣味。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "pleasant"
+  ],
+  "phrases": null,
+  "defsEn": "disagreeable to the senses, to the mind, or feelings",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1020",
+  "unit": 26,
+  "headword": "violin",
+  "ipa": ".vaiә'lin",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 小提琴",
+  "forms": {
+   "plural": "violins"
+  },
+  "examples": [
+   {
+    "en": "I play the violin.",
+    "zh": "我拉小提琴。"
+   },
+   {
+    "en": "Let me get my violin.",
+    "zh": "讓我拿一下我的小提琴。"
+   },
+   {
+    "en": "Tom played the violin.",
+    "zh": "湯姆拉小提琴。"
+   }
+  ],
+  "synonyms": [
+   "fiddle"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1021",
+  "unit": 26,
+  "headword": "ward",
+  "ipa": "wɒ:d",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 病房, 守衛, 保衛, 保護, 監護, 牢房, 行政區, 鎖孔內的榫舌\nvt. 使入病房, 守護, 保衛",
+  "forms": {
+   "plural": "wards",
+   "ing": "warding",
+   "pp": "warded",
+   "past": "warded",
+   "thirdSg": "wards"
+  },
+  "examples": [
+   {
+    "en": "She is my ward.",
+    "zh": null
+   },
+   {
+    "en": "Tom is my ward.",
+    "zh": null
+   },
+   {
+    "en": "Tom's in the psych ward.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person who is under the protection or in the custody of another",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1022",
+  "unit": 26,
+  "headword": "worthwhile",
+  "ipa": "'wә:θ'hwail",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 值得花時間的, 值得做的, 有真實價值的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I think it is worthwhile to see this film twice.",
+    "zh": "我覺得這部電影值得一看再看。"
+   },
+   {
+    "en": "The hard work was worthwhile because I passed the exam.",
+    "zh": "努力是值得的，因為我考過關了。"
+   },
+   {
+    "en": "This is a worthwhile book.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "sufficiently valuable to justify the investment of time or interest",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1023",
+  "unit": 26,
+  "headword": "adapter",
+  "ipa": "ә'dæptә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 適應者, 改編者, 接合器\n[計] 銜接器; 介面卡, 適配卡",
+  "forms": {
+   "plural": "adapters"
+  },
+  "examples": [
+   {
+    "en": "This is an adapter.",
+    "zh": null
+   },
+   {
+    "en": "I bought an adapter.",
+    "zh": null
+   },
+   {
+    "en": "The adapter is small.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "arranger",
+   "transcriber",
+   "adaptor"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a musician who adapts a composition for particular voices or instruments or for another style of performance",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1024",
+  "unit": 26,
+  "headword": "advisable",
+  "ipa": "әd'vaizәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 適當的, 明智的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "That would be advisable.",
+    "zh": null
+   },
+   {
+    "en": "It's advisable to do that.",
+    "zh": null
+   },
+   {
+    "en": "Precautions may be advisable.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "inadvisable"
+  ],
+  "phrases": null,
+  "defsEn": "worthy of being recommended or suggested; prudent or wise",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1025",
+  "unit": 26,
+  "headword": "archive",
+  "ipa": "'ɑ:kaiv",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 把...存檔\nn. 檔案館, 檔案檔案\n[計] 擋案庫, 存檔",
+  "forms": {
+   "plural": "archives",
+   "ing": "archiving",
+   "pp": "archived",
+   "past": "archived",
+   "thirdSg": "archives"
+  },
+  "examples": [
+   {
+    "en": "I created an archive of my emails.",
+    "zh": "我給自己的郵件做了一份檔案。"
+   },
+   {
+    "en": "I'm downloading this internet archive.",
+    "zh": "我在下載這份網路檔案。"
+   },
+   {
+    "en": "She was in the archive.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a depository containing historical records and documents",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1026",
+  "unit": 26,
+  "headword": "artistic",
+  "ipa": "ɑ:'tistik",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 藝術的, 藝術家的, 富有藝術性的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "My father is far from artistic.",
+    "zh": "我父親一點也不懂藝術。"
+   },
+   {
+    "en": "He was raised in an artistic family.",
+    "zh": "他在藝術世家長大。"
+   },
+   {
+    "en": "In addition, she has an artistic flair.",
+    "zh": "此外，她有藝術家天賦。"
+   }
+  ],
+  "synonyms": [
+   "aesthetic",
+   "esthetic"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "relating to or characteristic of art or artists",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1027",
+  "unit": 26,
+  "headword": "assurance",
+  "ipa": "ә'ʃuәrәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 保證, 把握, 信心, 保險\n[經] 保證, 擔保, 保險",
+  "forms": {
+   "plural": "assurances"
+  },
+  "examples": [
+   {
+    "en": "There are no assurances.",
+    "zh": null
+   },
+   {
+    "en": "I can give you assurances.",
+    "zh": null
+   },
+   {
+    "en": "I've been given assurances.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "self-assurance",
+   "confidence",
+   "self-confidence",
+   "authority",
+   "sureness"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "freedom from doubt; belief in yourself and your abilities",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1028",
+  "unit": 26,
+  "headword": "athletic",
+  "ipa": "æθ'letik",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 運動的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I'm not very athletic.",
+    "zh": "我不太擅長運動。"
+   },
+   {
+    "en": "I think Tom is athletic.",
+    "zh": "我認為湯姆好運動。"
+   },
+   {
+    "en": "The athletic meeting will be put off.",
+    "zh": "運動會要延期舉行。"
+   }
+  ],
+  "synonyms": [
+   "acrobatic",
+   "gymnastic"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "relating to or befitting athletics or athletes",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1029",
+  "unit": 26,
+  "headword": "attire",
+  "ipa": "ә'taiә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 服裝, 盛裝\nvt. 使穿衣, 打扮",
+  "forms": {
+   "pp": "attired",
+   "ing": "attiring",
+   "past": "attired",
+   "thirdSg": "attires"
+  },
+  "examples": [
+   {
+    "en": "Formal attire is required.",
+    "zh": null
+   },
+   {
+    "en": "He is careless about his attire.",
+    "zh": null
+   },
+   {
+    "en": "She is careless about her attire.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "garb",
+   "dress",
+   "overdress",
+   "prink"
+  ],
+  "antonyms": [
+   "underdress",
+   "dress down"
+  ],
+  "phrases": null,
+  "defsEn": "clothing of a distinctive style or for a particular occasion",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1030",
+  "unit": 26,
+  "headword": "auditor",
+  "ipa": "'ɒ:ditә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 審計員, 聽者, 旁聽生\n[經] 審計(查帳)員, 審計師, 會計檢查員",
+  "forms": {
+   "plural": "auditors"
+  },
+  "examples": [
+   {
+    "en": "Tom is an auditor.",
+    "zh": null
+   },
+   {
+    "en": "Ziri is an auditor.",
+    "zh": null
+   },
+   {
+    "en": "Ziri became an auditor.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "hearer",
+   "listener",
+   "attender"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who listens attentively",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1031",
+  "unit": 26,
+  "headword": "bankruptcy",
+  "ipa": "'bæŋkrәptsi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 破產者\n[經] 破產, 倒閉",
+  "forms": {
+   "plural": "bankruptcies"
+  },
+  "examples": [
+   {
+    "en": "Tom filed for bankruptcy.",
+    "zh": null
+   },
+   {
+    "en": "Tom needs to file bankruptcy.",
+    "zh": null
+   },
+   {
+    "en": "Tom has filed for bankruptcy.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "failure"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a state of complete lack of some abstract property",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1032",
+  "unit": 26,
+  "headword": "bulk",
+  "ipa": "bʌlk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 大小, 體積, 大塊, 大多數\nvt. 顯得大, 顯得重要",
+  "forms": {
+   "past": "bulked",
+   "ing": "bulking",
+   "plural": "bulks",
+   "thirdSg": "bulks",
+   "pp": "bulked"
+  },
+  "examples": [
+   {
+    "en": "I always buy in bulk.",
+    "zh": null
+   },
+   {
+    "en": "It's cheaper in bulk.",
+    "zh": null
+   },
+   {
+    "en": "Tom got a bulk discount.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "majority",
+   "mass",
+   "volume"
+  ],
+  "antonyms": [
+   "minority"
+  ],
+  "phrases": null,
+  "defsEn": "the property resulting from being or relating to the greater in number of two parts; the main part",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1033",
+  "unit": 26,
+  "headword": "butter",
+  "ipa": "'bʌtә",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 奶油, 黃油\nvt. 塗黃油於",
+  "forms": {
+   "pp": "buttered",
+   "ing": "buttering",
+   "past": "buttered",
+   "plural": "butters",
+   "thirdSg": "butters"
+  },
+  "examples": [
+   {
+    "en": "I need more butter.",
+    "zh": "我需要更多黃油。"
+   },
+   {
+    "en": "We eat butter on bread.",
+    "zh": "我們吃麵包夾黃油。"
+   },
+   {
+    "en": "Butter is made from milk.",
+    "zh": "牛油是用牛奶造的。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an edible emulsion of fat globules made by churning milk or cream; for cooking and table use",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1034",
+  "unit": 26,
+  "headword": "centimeter",
+  "ipa": "'sentimi:tә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 釐米\n[醫] 釐米",
+  "forms": {
+   "plural": "centimeters"
+  },
+  "examples": [
+   {
+    "en": "I'm almost 180 centimeters tall.",
+    "zh": "我差不多180公分高。"
+   },
+   {
+    "en": "I am almost 180 centimeters tall.",
+    "zh": "我差不多180公分高。"
+   },
+   {
+    "en": "The average height of the girls in class is over 155 centimeters.",
+    "zh": "這個班的女生平均身高超過了155公分。"
+   }
+  ],
+  "synonyms": [
+   "centimetre",
+   "cm"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a metric unit of length equal to one hundredth of a meter",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1035",
+  "unit": 26,
+  "headword": "circulate",
+  "ipa": "'sә:kjuleit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. (使)流通, (使)迴圈, (使)傳播",
+  "forms": {
+   "pp": "circulated",
+   "ing": "circulating",
+   "past": "circulated",
+   "thirdSg": "circulates"
+  },
+  "examples": [
+   {
+    "en": "The rumour is circulating.",
+    "zh": null
+   },
+   {
+    "en": "Blood circulates in the body.",
+    "zh": null
+   },
+   {
+    "en": "Rumors have been circulating.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "spread",
+   "circularize",
+   "circularise",
+   "distribute",
+   "disseminate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "become widely known and passed on",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1036",
+  "unit": 26,
+  "headword": "comb",
+  "ipa": "kәum",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 頭梳, 雞冠\nvt. 梳頭髮, 梳毛\nvi. (浪)湧起",
+  "forms": {
+   "past": "combed",
+   "ing": "combing",
+   "plural": "combs",
+   "pp": "combed",
+   "thirdSg": "combs"
+  },
+  "examples": [
+   {
+    "en": "It's a comb.",
+    "zh": "這是梳子。"
+   },
+   {
+    "en": "Comb your hair.",
+    "zh": "梳理你的頭髮。"
+   },
+   {
+    "en": "Where's my comb?",
+    "zh": "我的梳子在哪裡呢？"
+   }
+  ],
+  "synonyms": [
+   "cockscomb",
+   "coxcomb"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a flat device with narrow pointed teeth on one edge; disentangles or arranges hair",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1037",
+  "unit": 26,
+  "headword": "comfortably",
+  "ipa": "'kʌmfәtәbli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 安樂地, 舒服地, 寬裕地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "We sit comfortably together.",
+    "zh": "我們一起舒服地坐著。"
+   },
+   {
+    "en": "No matter how cold it is outside, the rooms are comfortably heated.",
+    "zh": "無論外面多麼寒冷，房間始終既舒適又溫暖。"
+   },
+   {
+    "en": "We will do it comfortably.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "well"
+  ],
+  "antonyms": [
+   "uncomfortably"
+  ],
+  "phrases": null,
+  "defsEn": "in mental comfort; without stress",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1038",
+  "unit": 26,
+  "headword": "compliance",
+  "ipa": "kәm'plaiәns",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 遵從, 順從, 屈從\n[化] 柔順; 順應",
+  "forms": {
+   "plural": "compliances"
+  },
+  "examples": [
+   {
+    "en": "Thank you for your compliance.",
+    "zh": null
+   },
+   {
+    "en": "Tom is the chief compliance officer.",
+    "zh": null
+   },
+   {
+    "en": "Tom was not in compliance with his doctor's orders.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "conformity",
+   "conformation",
+   "abidance",
+   "complaisance",
+   "compliancy"
+  ],
+  "antonyms": [
+   "nonconformity",
+   "noncompliance"
+  ],
+  "phrases": null,
+  "defsEn": "acting according to certain accepted standards",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1039",
+  "unit": 26,
+  "headword": "contraction",
+  "ipa": "kәn'trækʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 收縮, 縮寫式, 害病\n[醫] 收縮; 攣縮; 牙弓內縮",
+  "forms": {
+   "plural": "contractions"
+  },
+  "examples": [
+   {
+    "en": "Mary had a contraction.",
+    "zh": null
+   },
+   {
+    "en": "Rima is having contractions.",
+    "zh": null
+   },
+   {
+    "en": "Be careful with contractions.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "compression",
+   "condensation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "(physiology) a shortening or tensing of a part or organ (especially of a muscle or muscle fiber)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w1040",
+  "unit": 26,
+  "headword": "cookbook",
+  "ipa": "'kukbuk",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 食譜",
+  "forms": {
+   "plural": "cookbooks"
+  },
+  "examples": [
+   {
+    "en": "The girl reading a cookbook is Kate.",
+    "zh": "正在讀烹飪書的女孩是凱特。"
+   },
+   {
+    "en": "I wrote a cookbook.",
+    "zh": null
+   },
+   {
+    "en": "Have you seen my cookbook?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a book of recipes and cooking directions",
+  "note": null,
+  "audioUrl": null
+ }
+]

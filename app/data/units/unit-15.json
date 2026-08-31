@@ -1,0 +1,1481 @@
+[
+ {
+  "id": "w0561",
+  "unit": 15,
+  "headword": "workforce",
+  "ipa": "ˈwərkˌfɔrs",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 勞動力；工人總數, 職工總數",
+  "forms": {
+   "plural": "workforces"
+  },
+  "examples": [
+   {
+    "en": "Algeria has a young workforce.",
+    "zh": null
+   },
+   {
+    "en": "They're entering the workforce.",
+    "zh": null
+   },
+   {
+    "en": "What's Algeria's total workforce?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "manpower",
+   "hands",
+   "men"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the force of workers available",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0562",
+  "unit": 15,
+  "headword": "absent",
+  "ipa": "'æbsәnt",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "defsZh": "a. 缺席的, 不在的, 缺乏的, 漫不經心的\nvt. 使缺席",
+  "forms": {
+   "past": "absented",
+   "ing": "absenting",
+   "pp": "absented",
+   "thirdSg": "absents"
+  },
+  "examples": [
+   {
+    "en": "Tom is absent.",
+    "zh": "湯姆缺席。"
+   },
+   {
+    "en": "She is absent.",
+    "zh": "她不在。"
+   },
+   {
+    "en": "Tom is always absent.",
+    "zh": "湯姆總是曠課。"
+   }
+  ],
+  "synonyms": [
+   "remove",
+   "lacking",
+   "missing",
+   "wanting"
+  ],
+  "antonyms": [
+   "present"
+  ],
+  "phrases": null,
+  "defsEn": "go away or leave",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0563",
+  "unit": 15,
+  "headword": "accumulate",
+  "ipa": "ә'kju:mjuleit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 積聚, 堆積",
+  "forms": {
+   "pp": "accumulated",
+   "ing": "accumulating",
+   "thirdSg": "accumulates",
+   "past": "accumulated"
+  },
+  "examples": [
+   {
+    "en": "Dust had accumulated in the attic.",
+    "zh": "閣樓上積了灰。"
+   },
+   {
+    "en": "Tom has accumulated a lot of junk.",
+    "zh": "湯姆屯了很多垃圾。"
+   },
+   {
+    "en": "He has accumulated wealth.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "collect",
+   "amass",
+   "compile",
+   "hoard",
+   "cumulate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "get or gather together",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0564",
+  "unit": 15,
+  "headword": "appraisal",
+  "ipa": "ә'preizәl",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 評價, 估價\n[經] 評價, 評估",
+  "forms": {
+   "plural": "appraisals"
+  },
+  "examples": [
+   {
+    "en": "Our quarterly results will serve as the best appraisal of our approach.",
+    "zh": null
+   },
+   {
+    "en": "The World Bank has begun appraisal of Laos’ controversial Nam Theun II hydroelectric project.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "assessment",
+   "estimate",
+   "estimation"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the classification of someone or something with respect to its worth",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0565",
+  "unit": 15,
+  "headword": "apprentice",
+  "ipa": "ә'prentis",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 學徒, 生手\nvt. 使做學徒",
+  "forms": {
+   "plural": "apprentices",
+   "pp": "apprenticed",
+   "past": "apprenticed",
+   "ing": "apprenticing",
+   "thirdSg": "apprentices"
+  },
+  "examples": [
+   {
+    "en": "He's your senior fellow apprentice.",
+    "zh": "他是你的師兄。"
+   },
+   {
+    "en": "Tom has an apprentice.",
+    "zh": null
+   },
+   {
+    "en": "Are you an apprentice?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "learner",
+   "prentice"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "works for an expert to learn a trade",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0566",
+  "unit": 15,
+  "headword": "businessman",
+  "ipa": "'biznismæn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 商人, 實業家, 工商業家",
+  "forms": {
+   "plural": "businessmen"
+  },
+  "examples": [
+   {
+    "en": "I don't trust businessmen.",
+    "zh": "我不相信商人。"
+   },
+   {
+    "en": "He's a successful businessman.",
+    "zh": "他是個成功的商人。"
+   },
+   {
+    "en": "Tom seems to be a fairly successful businessman.",
+    "zh": "湯姆看來是箇很成功的商人。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person engaged in commercial or industrial business (especially an owner or executive)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0567",
+  "unit": 15,
+  "headword": "ceiling",
+  "ipa": "'si:liŋ",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 天花板\n[經] 頂點, 頂線, 上限",
+  "forms": {
+   "plural": "ceilings"
+  },
+  "examples": [
+   {
+    "en": "I saw a fly on the ceiling.",
+    "zh": "我看到天花板上有一隻蒼蠅"
+   },
+   {
+    "en": "He painted the ceiling blue.",
+    "zh": "他把天花板刷成了藍色。"
+   },
+   {
+    "en": "A fly can walk on the ceiling.",
+    "zh": "蒼蠅能在天花板上走。"
+   }
+  ],
+  "synonyms": [
+   "roof",
+   "cap"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the overhead upper surface of a covered space",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0568",
+  "unit": 15,
+  "headword": "colorful",
+  "ipa": "'kʌlәful",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 華美的, 富有色彩的, 有趣的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This ink is colorful.",
+    "zh": "這種墨水顏色鮮豔。"
+   },
+   {
+    "en": "The house was full of colorful art objects.",
+    "zh": "房子裡放滿了五顏六色的藝術品。"
+   },
+   {
+    "en": "The picture is colorful in contrast with this one.",
+    "zh": "和這幅比起上來，那幅畫的色彩鮮艷多了。"
+   }
+  ],
+  "synonyms": [
+   "colourful",
+   "colored",
+   "coloured"
+  ],
+  "antonyms": [
+   "colorless",
+   "colourless",
+   "uncolored"
+  ],
+  "phrases": null,
+  "defsEn": "having striking color",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0569",
+  "unit": 15,
+  "headword": "compensate",
+  "ipa": "'kɒmpenseit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "v. 償還, 補償, 付報酬",
+  "forms": {
+   "pp": "compensated",
+   "ing": "compensating",
+   "thirdSg": "compensates",
+   "past": "compensated"
+  },
+  "examples": [
+   {
+    "en": "You must compensate him for the money he lost.",
+    "zh": "你需要賠償他損失的錢。"
+   },
+   {
+    "en": "Tom must be compensated.",
+    "zh": null
+   },
+   {
+    "en": "I'm trying to compensate.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "counterbalance",
+   "correct",
+   "recompense",
+   "repair",
+   "indemnify"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "adjust for",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0570",
+  "unit": 15,
+  "headword": "costume",
+  "ipa": "'kɒstju:m",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 裝束, 服裝",
+  "forms": {
+   "plural": "costumes",
+   "past": "costumed",
+   "pp": "costumed",
+   "ing": "costuming",
+   "thirdSg": "costumes"
+  },
+  "examples": [
+   {
+    "en": "Sami was the only one who could fit into the costume.",
+    "zh": "薩米是唯一一個能穿上這件衣服的人。"
+   },
+   {
+    "en": "I like your costume.",
+    "zh": null
+   },
+   {
+    "en": "Do you like costumes?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the attire worn in a play or at a fancy dress ball",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0571",
+  "unit": 15,
+  "headword": "editorial",
+  "ipa": ".edi'tɒ:riәl",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 社論, 評論\na. 編輯的, 主筆的, 社論的",
+  "forms": {
+   "plural": "editorials"
+  },
+  "examples": [
+   {
+    "en": "Bill is on the editorial staff.",
+    "zh": "比爾在編輯部工作。"
+   },
+   {
+    "en": "It was an excellent editorial.",
+    "zh": null
+   },
+   {
+    "en": "The editorial office is located underground.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "column"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an article giving opinions or perspectives",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0572",
+  "unit": 15,
+  "headword": "effectiveness",
+  "ipa": "i'fektivnis",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 效力\n[經] 有效性, 能行性",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Don't mix up effectiveness and efficiency.",
+    "zh": null
+   },
+   {
+    "en": "Don't doubt the effectiveness of this drug.",
+    "zh": null
+   },
+   {
+    "en": "Don't doubt the effectiveness of this medicine.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "effectivity",
+   "effectualness",
+   "effectuality",
+   "potency",
+   "strength"
+  ],
+  "antonyms": [
+   "ineffectiveness"
+  ],
+  "phrases": null,
+  "defsEn": "power to be effective; the quality of being able to bring about an effect",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0573",
+  "unit": 15,
+  "headword": "facilitate",
+  "ipa": "fә'siliteit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使容易, 促進, 幫助\n[法] 使容易, 使便利, 推進",
+  "forms": {
+   "pp": "facilitated",
+   "thirdSg": "facilitates",
+   "ing": "facilitating",
+   "past": "facilitated"
+  },
+  "examples": [
+   {
+    "en": "He facilitated the talks.",
+    "zh": null
+   },
+   {
+    "en": "I think I can facilitate that.",
+    "zh": null
+   },
+   {
+    "en": "Facebook facilitated a genocide.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "ease",
+   "alleviate",
+   "help"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make easier",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0574",
+  "unit": 15,
+  "headword": "firefighter",
+  "ipa": "ˈfaɪəfaɪtə(r)",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. <美>消防隊員",
+  "forms": {
+   "plural": "firefighters"
+  },
+  "examples": [
+   {
+    "en": "My dream is to become a firefighter.",
+    "zh": "我的夢想是成為一名消防員。"
+   },
+   {
+    "en": "How much money do firefighters make?",
+    "zh": "消防員賺多少錢？"
+   },
+   {
+    "en": "The firefighters put out the fire in the blink of an eye.",
+    "zh": "消防員一眨眼的功夫就把火給滅了。"
+   }
+  ],
+  "synonyms": [
+   "fireman",
+   "fire-eater"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a member of a fire department who tries to extinguish fires",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0575",
+  "unit": 15,
+  "headword": "gasoline",
+  "ipa": "'gæsәli:n",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 汽油\n[化] 汽油",
+  "forms": null,
+  "examples": [
+   {
+    "en": "There is a good chance that gasoline prices will go up.",
+    "zh": "油價上漲的可能性很高。"
+   },
+   {
+    "en": "This car can go thirteen kilometers for every liter of gasoline.",
+    "zh": "這輛車每升油能跑十三公里。"
+   },
+   {
+    "en": "Tom could smell gasoline.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "gasolene",
+   "gas",
+   "petrol"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0576",
+  "unit": 15,
+  "headword": "inappropriate",
+  "ipa": ".inә'prәupriәt",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 不適當的, 不相稱的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "That's totally inappropriate.",
+    "zh": "這完全不合適。"
+   },
+   {
+    "en": "Tom's comment was inappropriate.",
+    "zh": "湯姆的評論不合適。"
+   },
+   {
+    "en": "Some people felt that Tom's behavior was inappropriate.",
+    "zh": "一部分人感覺Tom的行為舉止不太合適。"
+   }
+  ],
+  "synonyms": [
+   "incompatible",
+   "unfitting"
+  ],
+  "antonyms": [
+   "appropriate"
+  ],
+  "phrases": null,
+  "defsEn": "not suitable for a particular occasion etc",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0577",
+  "unit": 15,
+  "headword": "internet",
+  "ipa": "'intәnet",
+  "pos": null,
+  "defsZh": "[計] 因特網, 國際互連網, 網際網路, 互連網路, 廣域網",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I hate the internet.",
+    "zh": "我討厭網路。"
+   },
+   {
+    "en": "Internet is very slow.",
+    "zh": "網速很慢。"
+   },
+   {
+    "en": "He is on the Internet.",
+    "zh": "他在上網。"
+   }
+  ],
+  "synonyms": [
+   "net",
+   "cyberspace"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0578",
+  "unit": 15,
+  "headword": "landlord",
+  "ipa": "'lændlɒ:d",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 房東, 地主\n[經] 業主, 地主, 房東",
+  "forms": {
+   "plural": "landlords"
+  },
+  "examples": [
+   {
+    "en": "The landlord says he wants to raise the rent.",
+    "zh": "東家說要提高租金。"
+   },
+   {
+    "en": "Why did my sixty-year-old landlord buy a trampoline?",
+    "zh": "我的六十歲的房東為什麼買了一個蹦床？"
+   },
+   {
+    "en": "Why hasn't the landlord come to collect rent this month?",
+    "zh": "為什麼這個月房東還不來收房租？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a landowner who leases to others",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0579",
+  "unit": 15,
+  "headword": "layout",
+  "ipa": "'leiaut",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 佈局, 陳列, 規劃圖, 頁面佈局, 版面編排\n[計] 頁面佈局, 版面",
+  "forms": {
+   "plural": "layouts"
+  },
+  "examples": [
+   {
+    "en": "I've changed my website's layout.",
+    "zh": "我改了一下我網站的版面設計。"
+   },
+   {
+    "en": "I think this layout is very good.",
+    "zh": null
+   },
+   {
+    "en": "What keyboard layout do you have?",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a plan or design of something that is laid out",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0580",
+  "unit": 15,
+  "headword": "lunchtime",
+  "ipa": "'lʌntʃtaim",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 午餐時間",
+  "forms": {
+   "plural": "lunchtimes"
+  },
+  "examples": [
+   {
+    "en": "At lunchtime today, our usual restaurant was closed because of a funeral in the family.",
+    "zh": "今天午餐時間，我們常去的飯館關門了，因為他們家在辦喪事。"
+   },
+   {
+    "en": "It's not lunchtime yet.",
+    "zh": null
+   },
+   {
+    "en": "It isn't lunchtime yet.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the customary or habitual hour for eating lunch",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0581",
+  "unit": 15,
+  "headword": "payroll",
+  "ipa": "'peirәul",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 工資名單, 餉金名單, 發放的工資總額\n[計] 工資表, 工資單",
+  "forms": {
+   "plural": "payrolls"
+  },
+  "examples": [
+   {
+    "en": "Tom put me on the payroll.",
+    "zh": null
+   },
+   {
+    "en": "Tom is still on the payroll.",
+    "zh": null
+   },
+   {
+    "en": "How many people are there on the payroll?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "paysheet"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a list of employees and their salaries",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0582",
+  "unit": 15,
+  "headword": "pharmaceutical",
+  "ipa": ",fɑ:mә'sju:tikәl",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "defsZh": "a. 藥學的, 製藥的, 藥用的, 藥物的, 藥劑師的, 藥師的\nn. 藥品, 成藥, 藥劑",
+  "forms": {
+   "plural": "pharmaceuticals"
+  },
+  "examples": [
+   {
+    "en": "Ziri is a pharmaceutical consultant.",
+    "zh": null
+   },
+   {
+    "en": "Tom works for a pharmaceutical company.",
+    "zh": null
+   },
+   {
+    "en": "The pharmaceutical companies killed her.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "pharmaceutic"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0583",
+  "unit": 15,
+  "headword": "plausible",
+  "ipa": "'plɒ:zibl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 貌似真實的, 貌似合理的, 說得煞有其事的\n[法] 花言巧語的, 似乎有理的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I find it plausible.",
+    "zh": null
+   },
+   {
+    "en": "It's a plausible story.",
+    "zh": null
+   },
+   {
+    "en": "It sounds very plausible.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "implausible"
+  ],
+  "phrases": null,
+  "defsEn": "apparently reasonable and valid, and truthful",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0584",
+  "unit": 15,
+  "headword": "premium",
+  "ipa": "'pri:miәm",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 額外補貼, 獎金, 獎賞, 保險費\n[醫] 保險費",
+  "forms": {
+   "plural": "premiums"
+  },
+  "examples": [
+   {
+    "en": "Will my premiums go up?",
+    "zh": null
+   },
+   {
+    "en": "How much is the premium?",
+    "zh": null
+   },
+   {
+    "en": "Will insurance premiums go up?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "agio",
+   "agiotage"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "payment for insurance",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0585",
+  "unit": 15,
+  "headword": "safely",
+  "ipa": "'seifli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 安全地, 確實地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "They arrived here safely yesterday.",
+    "zh": "他們昨天平安抵達這裡。"
+   },
+   {
+    "en": "The boat was piloted safely into harbor.",
+    "zh": "船被安全地領入港口。"
+   },
+   {
+    "en": "It may safely be said that he will never succeed in business.",
+    "zh": "我可以肯定的說，他做生意一定永遠不會成功。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "with safety; in a safe manner",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0586",
+  "unit": 15,
+  "headword": "simplify",
+  "ipa": "'simplifai",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 單一化, 簡單化",
+  "forms": {
+   "pp": "simplified",
+   "thirdSg": "simplifies",
+   "ing": "simplifying",
+   "past": "simplified"
+  },
+  "examples": [
+   {
+    "en": "This is simplified Chinese.",
+    "zh": "這是簡體字。"
+   },
+   {
+    "en": "I like simplifying complex problems.",
+    "zh": "我喜歡把複雜的問題簡單化。"
+   },
+   {
+    "en": "I've simplified it a bit.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "complicate"
+  ],
+  "phrases": null,
+  "defsEn": "make simpler or easier or reduce in complexity or extent",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0587",
+  "unit": 15,
+  "headword": "specialty",
+  "ipa": "'speʃәlti",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 專業, 專長, 特產, 特製品, 特性, 特點\na. 專門的, 獨立的",
+  "forms": {
+   "plural": "specialties"
+  },
+  "examples": [
+   {
+    "en": "Fashion isn't my specialty.",
+    "zh": "時裝不是我的天分。"
+   },
+   {
+    "en": "Fashion is not my specialty.",
+    "zh": "時裝不是我的天分。"
+   },
+   {
+    "en": "What is the specialty food here?",
+    "zh": "這裡的特色菜是什麼？"
+   }
+  ],
+  "synonyms": [
+   "forte",
+   "metier",
+   "speciality",
+   "strength",
+   "peculiarity"
+  ],
+  "antonyms": [
+   "weak point"
+  ],
+  "phrases": null,
+  "defsEn": "an asset of special worth or utility",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0588",
+  "unit": 15,
+  "headword": "tech",
+  "ipa": "tek",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 技術學院或學校",
+  "forms": {
+   "plural": "techs"
+  },
+  "examples": [
+   {
+    "en": "Taiwan leads in tech.",
+    "zh": "臺灣是高科技領先國。"
+   },
+   {
+    "en": "Libertarianism is fashionable in tech bro circles.",
+    "zh": "自由意志主義在科技男的圈子裡很受追捧。"
+   },
+   {
+    "en": "Japan is a leader in the world's high-tech industry.",
+    "zh": "日本是世界高科技產業的領頭人。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a school teaching mechanical and industrial arts and the applied sciences",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0589",
+  "unit": 15,
+  "headword": "unexpected",
+  "ipa": ".ʌnik'spektid",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 料想不到的, 突然的, 意外的\n[法] 不能預料的, 意外的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "That is rather unexpected.",
+    "zh": "這真是很意外。"
+   },
+   {
+    "en": "Careful as he was, he made an unexpected mistake.",
+    "zh": "雖然他很小心，但還是犯了個想不到的錯誤。"
+   },
+   {
+    "en": "I just had an unexpected stream of consciousness.",
+    "zh": "我剛剛腦中突然迸發一股意識流。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "expected"
+  ],
+  "phrases": null,
+  "defsEn": "not expected or anticipated",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0590",
+  "unit": 15,
+  "headword": "unspecified",
+  "ipa": "'ʌn'spesifaid",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 未特別指出的, 未特別提到的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom was arrested on unspecified charges.",
+    "zh": null
+   },
+   {
+    "en": "In 1700, the king died at age 80 of unspecified causes.",
+    "zh": null
+   },
+   {
+    "en": "This wildcard character stands for an unspecified symbol.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "specified"
+  ],
+  "phrases": null,
+  "defsEn": "not stated explicitly or in detail",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0591",
+  "unit": 15,
+  "headword": "adhere",
+  "ipa": "әd'hiә",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 依附, 粘著, 堅持, 追隨, 擁護\nvt. 使粘附",
+  "forms": {
+   "pp": "adhered",
+   "ing": "adhering",
+   "past": "adhered",
+   "thirdSg": "adheres"
+  },
+  "examples": [
+   {
+    "en": "He adhered to the original plan.",
+    "zh": "他堅持原來的計畫。"
+   },
+   {
+    "en": "Ivy adheres to the wall.",
+    "zh": null
+   },
+   {
+    "en": "I adhered to my decision.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "cling",
+   "cleave",
+   "stick",
+   "cohere"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "be compatible or in accordance with",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0592",
+  "unit": 15,
+  "headword": "bankrupt",
+  "ipa": "'bæŋkrʌpt",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "defsZh": "n. 破產者\na. 破產的\nvt. 使破產",
+  "forms": {
+   "plural": "bankrupts",
+   "pp": "bankrupted",
+   "past": "bankrupted",
+   "thirdSg": "bankrupts",
+   "ing": "bankrupting"
+  },
+  "examples": [
+   {
+    "en": "He is bankrupt.",
+    "zh": "他破產了。"
+   },
+   {
+    "en": "He went bankrupt.",
+    "zh": "他破產了。"
+   },
+   {
+    "en": "He was declared bankrupt.",
+    "zh": "他被宣告破產。"
+   }
+  ],
+  "synonyms": [
+   "insolvent",
+   "ruin",
+   "break",
+   "smash",
+   "belly-up"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who has insufficient assets to cover their debts",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0593",
+  "unit": 15,
+  "headword": "caution",
+  "ipa": "'kɒ:ʃәn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 小心, 慎重, 警示\nvt. 警告\n[計] 警告",
+  "forms": {
+   "pp": "cautioned",
+   "past": "cautioned",
+   "plural": "cautions",
+   "thirdSg": "cautions",
+   "ing": "cautioning"
+  },
+  "examples": [
+   {
+    "en": "Caution! Wet Paint",
+    "zh": "注意！油漆未乾"
+   },
+   {
+    "en": "Caution: wet floor",
+    "zh": "小心地滑"
+   },
+   {
+    "en": "Caution! Wet floor.",
+    "zh": "小心地滑！"
+   }
+  ],
+  "synonyms": [
+   "cautiousness",
+   "carefulness",
+   "caveat",
+   "precaution",
+   "care"
+  ],
+  "antonyms": [
+   "incaution"
+  ],
+  "phrases": null,
+  "defsEn": "the trait of being cautious; being attentive to possible danger",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0594",
+  "unit": 15,
+  "headword": "clip",
+  "ipa": "klip",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 修剪, 夾子, 回形針, 剪下來的東西\nvt. 修剪, 痛打, 夾牢, 剪報\nvi. 剪報",
+  "forms": {
+   "plural": "clips",
+   "pp": "clipped",
+   "past": "clipped",
+   "ing": "clipping",
+   "thirdSg": "clips"
+  },
+  "examples": [
+   {
+    "en": "He clipped the sheep.",
+    "zh": "他為羊隻修剪羊毛。"
+   },
+   {
+    "en": "I have a newspaper clipping file.",
+    "zh": "我有一本剪報夾。"
+   },
+   {
+    "en": "Tom clipped his nails.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "magazine",
+   "time"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a metal frame or container holding cartridges; can be inserted into an automatic gun",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0595",
+  "unit": 15,
+  "headword": "comply",
+  "ipa": "kәm'plai",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 順從, 依從\n[法] 遵守, 承諾, 照做",
+  "forms": {
+   "pp": "complied",
+   "ing": "complying",
+   "past": "complied",
+   "thirdSg": "complies"
+  },
+  "examples": [
+   {
+    "en": "Hopefully you'll comply with traffic regulations after this.",
+    "zh": "希望你們以後嚴格遵守交通規則。"
+   },
+   {
+    "en": "Some beaches had failed to comply with environmental regulations.",
+    "zh": "一些海灘沒能遵守環保規定。"
+   },
+   {
+    "en": "Not complying with the naming conventions will result in parse errors.",
+    "zh": "不遵守命名規則會導致解析錯誤。"
+   }
+  ],
+  "synonyms": [
+   "follow"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "act in accordance with someone's rules, commands, or wishes",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0596",
+  "unit": 15,
+  "headword": "diner",
+  "ipa": "'dainә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 用餐者",
+  "forms": {
+   "plural": "diners"
+  },
+  "examples": [
+   {
+    "en": "Let's go to Paul's Diner.",
+    "zh": null
+   },
+   {
+    "en": "Chuck's Diner has closed.",
+    "zh": null
+   },
+   {
+    "en": "Sami was walking out of the diner.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a person eating a meal (especially in a restaurant)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0597",
+  "unit": 15,
+  "headword": "duplicate",
+  "ipa": "'dju:plikeit",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "defsZh": "n. 副本, 複本, 複製品\na. 複製的, 二重的\nvt. 複製, 使加倍\n[計] 複製",
+  "forms": {
+   "pp": "duplicated",
+   "plural": "duplicates",
+   "ing": "duplicating",
+   "past": "duplicated",
+   "thirdSg": "duplicates"
+  },
+  "examples": [
+   {
+    "en": "Send it in duplicate.",
+    "zh": null
+   },
+   {
+    "en": "This is a duplicate copy.",
+    "zh": null
+   },
+   {
+    "en": "Did you make a duplicate?",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "extra",
+   "duplication",
+   "reduplicate",
+   "double",
+   "repeat"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "something additional of the same kind",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0598",
+  "unit": 15,
+  "headword": "eager",
+  "ipa": "'i:gә",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 熱心的, 渴望的, 熱望的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Tom seems eager.",
+    "zh": "湯姆好像很急切。"
+   },
+   {
+    "en": "He is eager to please.",
+    "zh": "他非常想讓別人滿意。"
+   },
+   {
+    "en": "He is eager to go there.",
+    "zh": "他渴望去那裡。"
+   }
+  ],
+  "synonyms": [
+   "bore",
+   "eagre",
+   "aegir"
+  ],
+  "antonyms": [
+   "uneager"
+  ],
+  "phrases": null,
+  "defsEn": "a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0599",
+  "unit": 15,
+  "headword": "economist",
+  "ipa": "i:'kɒnәmist",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 經濟學者, 經濟家\n[經] 經濟學家",
+  "forms": {
+   "plural": "economists"
+  },
+  "examples": [
+   {
+    "en": "Many economists are ignorant of that fact.",
+    "zh": "很多經濟學家都不知道這點。"
+   },
+   {
+    "en": "Tom is no economist.",
+    "zh": null
+   },
+   {
+    "en": "Tom is an economist.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an expert in the science of economics",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0600",
+  "unit": 15,
+  "headword": "embassy",
+  "ipa": "'embәsi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 大使館, 大使館全體人員\n[經] 大使館",
+  "forms": {
+   "plural": "embassies"
+  },
+  "examples": [
+   {
+    "en": "Where is the Russian embassy?",
+    "zh": "俄羅斯大使館在哪兒？"
+   },
+   {
+    "en": "Where is the British embassy?",
+    "zh": "英國大使館在哪裡？"
+   },
+   {
+    "en": "Where is the Mexican embassy?",
+    "zh": "墨西哥大使館在哪裡？"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a diplomatic building where ambassadors live or work",
+  "note": null,
+  "audioUrl": null
+ }
+]

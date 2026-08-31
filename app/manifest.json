@@ -1,7 +1,7 @@
 {
-  "name": "多益日課 — TOEIC 400 單字",
+  "name": "多益日課 — TOEIC 單字",
   "short_name": "多益日課",
-  "description": "TOEIC 400 核心單字：每日一單元、間隔複習、單字測驗。",
+  "description": "TOEIC 1250 核心單字（TSL 1.2 全量）：每日一單元、間隔複習、單字測驗。",
   "lang": "zh-Hant-TW",
   "start_url": "./index.html",
   "scope": "./",

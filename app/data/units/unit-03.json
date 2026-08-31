@@ -18,6 +18,14 @@
    {
     "en": "The third quarter GNP growth was 1% over the preceding quarter.",
     "zh": "第三季國民生產總值較上一季成長了1％。"
+   },
+   {
+    "en": "They preceded each other.",
+    "zh": null
+   },
+   {
+    "en": "See the preceding example.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -52,6 +60,14 @@
    {
     "en": "History develops through the replacement of the old by the new.",
     "zh": "新事物取代舊事物推動歷史發展。"
+   },
+   {
+    "en": "I'd like a replacement.",
+    "zh": null
+   },
+   {
+    "en": "No replacement was named.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -143,7 +159,7 @@
   "id": "w0085",
   "unit": 3,
   "headword": "coworker",
-  "ipa": null,
+  "ipa": "ˈkoʊˈwərkər",
   "pos": [
    "n"
   ],
@@ -190,6 +206,10 @@
    {
     "en": "I'll keep all the ideas we discussed for the upcoming project proposal.",
     "zh": "對於下一個專案提案，我們討論過的所有想法，我都會記下來。"
+   },
+   {
+    "en": "Do you have any upcoming exhibits?",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -224,6 +244,10 @@
    {
     "en": "The tablecloth is in the cabinet.",
     "zh": "桌布在櫥櫃裡。"
+   },
+   {
+    "en": "Down with the Cabinet!",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -251,6 +275,14 @@
    {
     "en": "This is an appliance for drying clothes.",
     "zh": "這是一個晾衣服的器具。"
+   },
+   {
+    "en": "This is an old appliance.",
+    "zh": null
+   },
+   {
+    "en": "I can't fix the appliances.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -313,6 +345,10 @@
    {
     "en": "I know an English language instructor who comes from Canada.",
     "zh": "我認識一個加拿大來的英語教師。"
+   },
+   {
+    "en": "She's a ski instructor.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -497,7 +533,7 @@
   "id": "w0096",
   "unit": 3,
   "headword": "laptop",
-  "ipa": null,
+  "ipa": "ˈlæpˌtɑp",
   "pos": null,
   "defsZh": "[計] 膝上型的",
   "forms": {
@@ -548,6 +584,10 @@
    {
     "en": "Translate the underlined part.",
     "zh": "翻譯劃線部分。"
+   },
+   {
+    "en": "I underline critical issues.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -767,6 +807,14 @@
    {
     "en": "The straits were too narrow for the cruise ship.",
     "zh": "這個海峽對遊艇來說太窄了。"
+   },
+   {
+    "en": "We met on a cruise.",
+    "zh": null
+   },
+   {
+    "en": "It is a luxury cruise.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -864,6 +912,10 @@
    {
     "en": "Good day, lords. In what way can I refine upon my adroitness in aural comprehension?",
     "zh": "早安，師傅。我應該怎麼樣提高聽力能力？"
+   },
+   {
+    "en": "It's beyond my comprehension.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1051,6 +1103,14 @@
    {
     "en": "When the landlord's away, the tenants will play.",
     "zh": "當房東不在, 房客就會大玩特玩。"
+   },
+   {
+    "en": "Tom is my tenant.",
+    "zh": null
+   },
+   {
+    "en": "Tom is a good tenant.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1241,6 +1301,10 @@
    {
     "en": "We apologize for the delay and regret any inconvenience it may have caused.",
     "zh": "我們對這次的延遲表示抱歉，並對可能造成的不便表示遺憾。"
+   },
+   {
+    "en": "That was an inconvenience.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1276,6 +1340,14 @@
    {
     "en": "Some Shanghainese hold large banquets when they get married.",
     "zh": "上海人結婚，有的人家辦酒宴場面很大。"
+   },
+   {
+    "en": "They had a banquet at 12:00.",
+    "zh": null
+   },
+   {
+    "en": "The banquet will be open-air.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1348,6 +1420,14 @@
    {
     "en": "My life seems unreal.",
     "zh": "我的生活似乎不是真實的。"
+   },
+   {
+    "en": "This is so unreal.",
+    "zh": null
+   },
+   {
+    "en": "It was very unreal.",
+    "zh": null
    }
   ],
   "synonyms": [

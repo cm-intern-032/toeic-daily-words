@@ -13,6 +13,14 @@
    {
     "en": "Why is there a Miss Italy but no Mister Italy?",
     "zh": "為什麼有義大利小姐卻沒有義大利先生？"
+   },
+   {
+    "en": "You're a creep, Mister!",
+    "zh": null
+   },
+   {
+    "en": "Tom calls no man mister.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -111,7 +119,20 @@
   ],
   "defsZh": "n. 電子書",
   "forms": null,
-  "examples": [],
+  "examples": [
+   {
+    "en": "I downloaded the e-book.",
+    "zh": null
+   },
+   {
+    "en": "I refuse to read e-books.",
+    "zh": null
+   },
+   {
+    "en": "Do you know what an e-book is?",
+    "zh": null
+   }
+  ],
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
@@ -359,6 +380,10 @@
    {
     "en": "I won’t forgive you unless you apologise sincerely.",
     "zh": "我不會原諒你，除非你真誠地道歉。"
+   },
+   {
+    "en": "I sincerely hope not.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -465,6 +490,14 @@
    {
     "en": "Can I get a refund for this train ticket?",
     "zh": "這張火車票能報銷嗎？"
+   },
+   {
+    "en": "I want a refund.",
+    "zh": null
+   },
+   {
+    "en": "I want a refund!",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -539,6 +572,10 @@
    {
     "en": "An old worker was found repairing machinery in the workshop.",
     "zh": "有人發現一個老工人在車間修機器。"
+   },
+   {
+    "en": "Tom is in his workshop.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -675,6 +712,14 @@
    {
     "en": "Could you send me a brochure?",
     "zh": "你能寄宣傳冊給我嗎？"
+   },
+   {
+    "en": "I saw your brochure.",
+    "zh": null
+   },
+   {
+    "en": "I don't need the brochure.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -827,6 +872,10 @@
    {
     "en": "Meet me at the lobby of the Imperial Hotel at 6:30 p.m.",
     "zh": "下午六點半到帝國酒店的大堂找我。"
+   },
+   {
+    "en": "Wait in the lobby.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -908,6 +957,10 @@
    {
     "en": "I don't worry so much about my resume.",
     "zh": "我對自己的履歷不那麼在意。"
+   },
+   {
+    "en": "He resumed reading after lunch.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -942,6 +995,14 @@
    {
     "en": "She sent me the enclosed check.",
     "zh": "她把隨附的支票寄給了我。"
+   },
+   {
+    "en": "I enclose a photo.",
+    "zh": null
+   },
+   {
+    "en": "She enclosed a photo.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1012,6 +1073,10 @@
    {
     "en": "Pretty good. Did you go to today's history seminar?",
     "zh": "非常好。你去了今天的歷史研討會嗎？"
+   },
+   {
+    "en": "We held a seminar.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -1037,6 +1102,14 @@
    {
     "en": "That technician is highly skilled.",
     "zh": "那位技師技術很好。"
+   },
+   {
+    "en": "Tom is a technician.",
+    "zh": null
+   },
+   {
+    "en": "Sami is a technician.",
+    "zh": null
    }
   ],
   "synonyms": null,
@@ -1185,6 +1258,10 @@
    {
     "en": "The traveler was delighted at the sight of a light in the distance.",
     "zh": "發現了遠處的燈光的旅行者歡喜不已。"
+   },
+   {
+    "en": "I lost my travelers checks.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1213,6 +1290,14 @@
    {
     "en": "The telephone operator asked the caller to hold on until a connection was made.",
     "zh": "電話運營商提示來電人等候接通。"
+   },
+   {
+    "en": "The caller hung up.",
+    "zh": null
+   },
+   {
+    "en": "The caller is Gunter.",
+    "zh": null
    }
   ],
   "synonyms": [
@@ -1314,6 +1399,14 @@
    {
     "en": "In case the shipment is delayed, we have special delay insurance.",
     "zh": "萬一船運遲了，我們有特別的遲到保險。"
+   },
+   {
+    "en": "I'm expecting a shipment.",
+    "zh": null
+   },
+   {
+    "en": "Thank you for the shipment.",
+    "zh": null
    }
   ],
   "synonyms": [

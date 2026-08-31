@@ -16,9 +16,11 @@ OUT_UNITS = ROOT.parent / "app" / "data" / "units"
 OUT_UNITS.mkdir(parents=True, exist_ok=True)
 REPORT = ROOT.parent / "reports" / "m0-coverage-report.txt"
 
-TOTAL_WORDS = 400
+TOTAL_WORDS = None   # None = 取 TSL 全量（有中文釋義者）；設數字則截前 N 字
 UNIT_SIZE = 40
 MAX_EXAMPLES = 3
+
+import eng_to_ipa    # CMUdict 底，補 ECDICT 缺的音標；查不到會回帶 * 的字串
 
 from opencc import OpenCC
 cc = OpenCC("s2twp")
@@ -152,7 +154,7 @@ def index_sentences(pairs, variant_map):
 skipped = []
 selected = []
 for rank, w in tsl:
-    if len(selected) >= TOTAL_WORDS:
+    if TOTAL_WORDS and len(selected) >= TOTAL_WORDS:
         break
     row = ecdict.get(w)
     if not row:
@@ -193,6 +195,9 @@ words = []
 for i, (rank, w, row, defs) in enumerate(selected):
     defs_en, synonyms, antonyms = wordnet_fields(w)
     ipa = (row["phonetic"] or "").strip() or None
+    if not ipa:                                  # ECDICT 缺音標 → CMUdict 補
+        gen = eng_to_ipa.convert(w)
+        ipa = None if "*" in gen else gen
     words.append({
         "id": f"w{i+1:04d}",
         "unit": i // UNIT_SIZE + 1,
@@ -210,14 +215,20 @@ for i, (rank, w, row, defs) in enumerate(selected):
         "audioUrl": None,
     })
 
-# ── 5b. 缺例句的字：改用純英文例句補位（zh: null，UI 條件渲染） ──
-missing = [x for x in words if not x["examples"]]
-if missing:
-    print(f"supplementing english-only examples for {len(missing)} words …")
-    miss_variants = collections.defaultdict(list)   # token -> [word dict]
-    for x in missing:
-        for v in word_variants(x["headword"], x["forms"]):
-            miss_variants[v].append(x)
+# ── 5b. 例句不足 MAX_EXAMPLES 的字：用純英文例句補滿（雙語優先在前，
+#        補位句 zh: null，UI 條件渲染）。片語/連字號字用子字串比對。 ──
+short = [x for x in words if len(x["examples"]) < MAX_EXAMPLES]
+if short:
+    print(f"supplementing english-only examples for {len(short)} words …")
+    tok_variants = collections.defaultdict(list)    # token -> [word dict]
+    phrase_words = []                               # 含空格/連字號的字：逐句子字串比對
+    for x in short:
+        hw = x["headword"]
+        if " " in hw or "-" in hw:
+            phrase_words.append((re.compile(r"\b" + re.escape(hw) + r"s?\b", re.I), x))
+        else:
+            for v in word_variants(hw, x["forms"]):
+                tok_variants[v].append(x)
     cand = collections.defaultdict(list)            # headword -> [en]
     with bz2.open(RAW / "eng_sentences.tsv.bz2", "rt", encoding="utf-8") as f:
         for line in f:
@@ -228,27 +239,32 @@ if missing:
             n = en.count(" ") + 1
             if n < 4 or n > 14:
                 continue
-            toks = set(TOKEN.findall(en.lower()))
-            for tok in toks:
-                for x in miss_variants.get(tok, ()):
+            low = en.lower()
+            for tok in set(TOKEN.findall(low)):
+                for x in tok_variants.get(tok, ()):
                     if len(cand[x["headword"]]) < 40:
                         cand[x["headword"]].append(en)
-    for x in missing:
-        picks, seen = [], set()
+            for pat, x in phrase_words:
+                if len(cand[x["headword"]]) < 40 and pat.search(en):
+                    cand[x["headword"]].append(en)
+    for x in short:
+        seen = {e["en"].lower() for e in x["examples"]}
         for en in sorted(cand.get(x["headword"], []), key=len):
+            if len(x["examples"]) >= MAX_EXAMPLES:
+                break
             if en.lower() in seen:
                 continue
             seen.add(en.lower())
-            picks.append({"en": en, "zh": None})
-            if len(picks) >= MAX_EXAMPLES:
-                break
-        x["examples"] = picks
+            x["examples"].append({"en": en, "zh": None})
 
-for u in range(1, TOTAL_WORDS // UNIT_SIZE + 1):
+import math, shutil
+N_UNITS = math.ceil(len(words) / UNIT_SIZE)
+shutil.rmtree(OUT_UNITS); OUT_UNITS.mkdir(parents=True)   # 清掉舊檔避免殘留
+for u in range(1, N_UNITS + 1):
     chunk = [x for x in words if x["unit"] == u]
     path = OUT_UNITS / f"unit-{u:02d}.json"
     path.write_text(json.dumps(chunk, ensure_ascii=False, indent=1), encoding="utf-8")
-print(f"wrote {TOTAL_WORDS // UNIT_SIZE} unit files")
+print(f"wrote {N_UNITS} unit files ({len(words)} words) — 記得同步 config.js 的 UNITS 與 sw.js 的單元數")
 
 # ── 6. coverage report ─────────────────────────────────────────
 def pct(n):
@@ -266,11 +282,11 @@ n_ex_zh = sum(1 for x in words if any(e.get("zh") for e in x["examples"]))
 n_pos = have("pos")
 
 lines = [
-    "M0 coverage report — TOEIC 單字學習 App 第一版",
-    f"字表：TSL 1.2 前 {TOTAL_WORDS} 字（依 TOEIC 語料頻率），單元 = 每 {UNIT_SIZE} 字",
+    "M0 coverage report — TOEIC 單字學習 App",
+    f"字表：TSL 1.2 共 {len(words)} 字（依 TOEIC 語料頻率），{N_UNITS} 單元 × 至多 {UNIT_SIZE} 字",
     "",
     f"{'欄位':<14}{'覆蓋':>22}   門檻   判定",
-    f"{'中文釋義':<14}{pct(len(words)):>22}   100%   {'PASS' if len(words)==TOTAL_WORDS else 'FAIL'}",
+    f"{'中文釋義':<14}{pct(len(words)):>22}   100%   PASS（無釋義者已剔除，見下方清單）",
     f"{'IPA 音標':<14}{pct(n_ipa):>22}   >=90%  {'PASS' if n_ipa/len(words)>=.9 else 'FAIL'}",
     f"{'詞性':<14}{pct(n_pos):>22}   (參考)  {'—'}",
     f"{'變形(名/動)':<14}{f'{n_verbforms}/{n_vn} = {n_verbforms/max(n_vn,1)*100:.1f}%':>22}   >=80%  {'PASS' if n_verbforms/max(n_vn,1)>=.8 else 'FAIL'}",

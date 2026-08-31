@@ -1,18 +1,18 @@
-M0 coverage report — TOEIC 單字學習 App 第一版
-字表：TSL 1.2 前 400 字（依 TOEIC 語料頻率），單元 = 每 40 字
+M0 coverage report — TOEIC 單字學習 App
+字表：TSL 1.2 共 1250 字（依 TOEIC 語料頻率），32 單元 × 至多 40 字
 
 欄位                                覆蓋   門檻   判定
-中文釋義                400/400 = 100.0%   100%   PASS
-IPA 音標               393/400 = 98.2%   >=90%  PASS
-詞性                   394/400 = 98.5%   (參考)  —
-變形(名/動)              320/339 = 94.4%   >=80%  PASS
-英英釋義                 396/400 = 99.0%   >=95%  PASS
-同/反義詞                318/400 = 79.5%   >=60%  PASS
-例句含中譯                311/400 = 77.8%   >=50%  PASS
-例句(含純英補位)          397/400 = 99.2%   (參考)  —
+中文釋義              1250/1250 = 100.0%   100%   PASS（無釋義者已剔除，見下方清單）
+IPA 音標             1245/1250 = 99.6%   >=90%  PASS
+詞性                 1236/1250 = 98.9%   (參考)  —
+變形(名/動)              921/992 = 92.8%   >=80%  PASS
+英英釋義               1236/1250 = 98.9%   >=95%  PASS
+同/反義詞               983/1250 = 78.6%   >=60%  PASS
+例句含中譯               883/1250 = 70.6%   >=50%  PASS
+例句(含純英補位)        1242/1250 = 99.4%   (參考)  —
 
-缺 IPA：e-book, coworker, laptop, workplace, download, affordable, ice cream
-缺英英釋義：e-book, coworker, distractor, ice cream
-缺例句：e-book, distractor, ice cream
+缺 IPA：e-book, login, webpage, smartphone, by-law
+缺英英釋義：e-book, coworker, distractor, ice cream, anytime, login, hotline, repairperson, flextime, refundable, whoever, smartphone, by-law, videoconference
+缺例句：distractor, purchaser, repairperson, flextime, misidentify, by-law, restatement, videoconference
 
 TSL 前段被跳過的字（原因）：

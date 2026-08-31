@@ -1,0 +1,1478 @@
+[
+ {
+  "id": "w0401",
+  "unit": 11,
+  "headword": "accustom",
+  "ipa": "ә'kʌstәm",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 使習慣於",
+  "forms": {
+   "pp": "accustomed",
+   "past": "accustomed",
+   "thirdSg": "accustoms",
+   "ing": "accustoming"
+  },
+  "examples": [
+   {
+    "en": "He's accustomed to traveling.",
+    "zh": "他習慣了旅行。"
+   },
+   {
+    "en": "I'm accustomed to the climate.",
+    "zh": "我對這氣候習慣了。"
+   },
+   {
+    "en": "I am accustomed to the climate.",
+    "zh": "我對這氣候習慣了。"
+   }
+  ],
+  "synonyms": [
+   "habituate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make psychologically or physically used (to something)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0402",
+  "unit": 11,
+  "headword": "clinic",
+  "ipa": "'klinik",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 診所, 臨床教學\n[醫] 診所(門診部); 臨床(講解); 臨床(學)科",
+  "forms": {
+   "plural": "clinics"
+  },
+  "examples": [
+   {
+    "en": "Where is the nearest clinic?",
+    "zh": "最近的診所在哪裡？"
+   },
+   {
+    "en": "She went to the Takasu clinic.",
+    "zh": "她去了高須診所。"
+   },
+   {
+    "en": "This clinic is doing laser surgery.",
+    "zh": "這個診所正在做鐳射手術。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a medical establishment run by a group of medical specialists",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0403",
+  "unit": 11,
+  "headword": "desktop",
+  "ipa": "'desktɔp",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 桌面\n[計] 桌面",
+  "forms": {
+   "plural": "desktops"
+  },
+  "examples": [
+   {
+    "en": "A laptop is better than a desktop.",
+    "zh": "膝上型電腦比臺式電腦好。"
+   },
+   {
+    "en": "I created a shortcut on the desktop.",
+    "zh": "我在桌面上建了一個快捷方式。"
+   },
+   {
+    "en": "I think you will find it convenient to put a short-cut on the desktop.",
+    "zh": "我想你遲早會知道在桌面建立一個快捷方式是有多方便。"
+   }
+  ],
+  "synonyms": [
+   "background"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the top of a desk",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0404",
+  "unit": 11,
+  "headword": "jog",
+  "ipa": "dʒɒg",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 輕推, 輕撞, 慢跑\nv. 輕推, (使)蹣跚行進, (使)慢跑",
+  "forms": {
+   "past": "jogged",
+   "ing": "jogging",
+   "plural": "jogs",
+   "pp": "jogged",
+   "thirdSg": "jogs"
+  },
+  "examples": [
+   {
+    "en": "I like jogging.",
+    "zh": "我喜歡跑步。"
+   },
+   {
+    "en": "I jog in the morning.",
+    "zh": "我上午慢跑。"
+   },
+   {
+    "en": "Try to lose weight by jogging.",
+    "zh": "試著藉由慢跑來減肥。"
+   }
+  ],
+  "synonyms": [
+   "trot",
+   "lope",
+   "nudge"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a sharp change in direction",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0405",
+  "unit": 11,
+  "headword": "leisure",
+  "ipa": "'li:ʒә",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 空閒, 閒暇, 悠閒\na. 空閒的, 有閒的",
+  "forms": {
+   "past": "leisured"
+  },
+  "examples": [
+   {
+    "en": "Is there any leisure in China?",
+    "zh": "中國有什麼閒暇嗎？"
+   },
+   {
+    "en": "She spends her leisure time making dolls.",
+    "zh": "她利用空閒時間做布娃娃。"
+   },
+   {
+    "en": "I often spend my leisure time listening to the radio.",
+    "zh": "我常常在我的閒暇時候聽廣播。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "time available for ease and relaxation",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0406",
+  "unit": 11,
+  "headword": "nap",
+  "ipa": "næp",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 小睡, 稍睡, 細毛, 孤注一擲\nvi. 小睡, 疏忽\nvt. 使拉毛, 打盹度過, 預測...為獲勝馬",
+  "forms": {
+   "ing": "napping",
+   "plural": "naps",
+   "pp": "napped",
+   "past": "napped",
+   "thirdSg": "naps"
+  },
+  "examples": [
+   {
+    "en": "I took a nap.",
+    "zh": "我小睡了一會兒。"
+   },
+   {
+    "en": "Tom says he needs a nap.",
+    "zh": "湯姆說他需要午睡。"
+   },
+   {
+    "en": "Mary is having a nap after lunch.",
+    "zh": "瑪麗在睡午覺呢。"
+   }
+  ],
+  "synonyms": [
+   "sleep",
+   "pile"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a period of time spent sleeping",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0407",
+  "unit": 11,
+  "headword": "reinforce",
+  "ipa": ".ri:in'fɒ:s",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "defsZh": "vt. 加強, 增援, 補充\nvi. 求援, 得到增援\nn. 加固材料",
+  "forms": {
+   "pp": "reinforced",
+   "thirdSg": "reinforces",
+   "ing": "reinforcing",
+   "past": "reinforced"
+  },
+  "examples": [
+   {
+    "en": "It reinforces his fame.",
+    "zh": null
+   },
+   {
+    "en": "We need to reinforce the roof.",
+    "zh": null
+   },
+   {
+    "en": "The slab is reinforced concrete.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "reenforce",
+   "reward"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "make stronger",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0408",
+  "unit": 11,
+  "headword": "sender",
+  "ipa": "'sendә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 寄件人, 發報機\n[經] 送貨人, 傳送者",
+  "forms": {
+   "plural": "senders"
+  },
+  "examples": [
+   {
+    "en": "Don't flip-flop the addresses of the sender and recipient!",
+    "zh": "不要把寄件人、收件人地址的姓名填反了！"
+   },
+   {
+    "en": "Return to the sender.",
+    "zh": null
+   },
+   {
+    "en": "Postage fees have to be paid by sender.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "transmitter"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who transmits a message",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0409",
+  "unit": 11,
+  "headword": "vacuum",
+  "ipa": "''vækjuәm",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "defsZh": "n. 真空, 空間, 真空吸塵器\na. 真空的, 產生真空的, 利用真空的\nvt. 用吸塵器打掃",
+  "forms": {
+   "plural": "vacuums",
+   "thirdSg": "vacuums",
+   "ing": "vacuuming",
+   "past": "vacuumed",
+   "pp": "vacuumed"
+  },
+  "examples": [
+   {
+    "en": "A cat abhors a vacuum.",
+    "zh": "貓很討厭吸塵器。"
+   },
+   {
+    "en": "Cats hate vacuum cleaners.",
+    "zh": "貓很討厭吸塵器。"
+   },
+   {
+    "en": "Turn off the vacuum cleaner!",
+    "zh": "把吸塵器關掉！"
+   }
+  ],
+  "synonyms": [
+   "vacuity",
+   "void",
+   "vacancy",
+   "emptiness"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the absence of matter",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0410",
+  "unit": 11,
+  "headword": "wireless",
+  "ipa": "'waiәlis",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 無線電\na. 無線的, 無線電的",
+  "forms": {
+   "plural": "wirelesses",
+   "pp": "wirelessed",
+   "past": "wirelessed"
+  },
+  "examples": [
+   {
+    "en": "Should I buy a wireless mouse?",
+    "zh": "要不要買個無線滑鼠呢？"
+   },
+   {
+    "en": "Tom has wireless headphones.",
+    "zh": null
+   },
+   {
+    "en": "These earphones are wireless.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "radio",
+   "radiocommunication",
+   "tuner"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "medium for communication",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0411",
+  "unit": 11,
+  "headword": "yearly",
+  "ipa": "'jiәli",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "defsZh": "a. 每年的, 一年一度的\nadv. 一年一次, 每年",
+  "forms": null,
+  "examples": [
+   {
+    "en": "I visit the city yearly.",
+    "zh": null
+   },
+   {
+    "en": "I worked on a yearly contract.",
+    "zh": null
+   },
+   {
+    "en": "This has become a yearly tradition.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "annual",
+   "yearbook",
+   "annually"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a reference book that is published regularly once every year",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0412",
+  "unit": 11,
+  "headword": "appreciation",
+  "ipa": "ә.pri:ʃi'eiʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 感激, 賞識, 鑑別\n[經] 漲價, 增值",
+  "forms": {
+   "plural": "appreciations"
+  },
+  "examples": [
+   {
+    "en": "He always comes to show his appreciation during the New Year and holidays.",
+    "zh": "過年過節時，他總是來慰勞。"
+   },
+   {
+    "en": "This is genuine appreciation.",
+    "zh": null
+   },
+   {
+    "en": "You deserve that appreciation.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "grasp",
+   "hold",
+   "taste",
+   "discernment",
+   "perceptiveness"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "understanding of the nature or meaning or quality or magnitude of something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0413",
+  "unit": 11,
+  "headword": "cargo",
+  "ipa": "'kɑ:gәu",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 貨物\n[經] 貨櫃",
+  "forms": {
+   "plural": "cargoes"
+  },
+  "examples": [
+   {
+    "en": "The cargo ship arrived four hours early.",
+    "zh": "貨船早到了四小時。"
+   },
+   {
+    "en": "Khaki shorts with cargo pockets do not make you an adventurer.",
+    "zh": "單有卡其褲，還成不了冒險家。"
+   },
+   {
+    "en": "It's a cargo ship.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "lading",
+   "freight",
+   "load",
+   "loading",
+   "payload"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "goods carried by a large vehicle",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0414",
+  "unit": 11,
+  "headword": "cooperate",
+  "ipa": "kәu'ɒpәreit",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vi. 合作, 協力, 配合\n[化] 合作",
+  "forms": {
+   "ing": "cooperating",
+   "past": "cooperated",
+   "pp": "cooperated",
+   "thirdSg": "cooperates"
+  },
+  "examples": [
+   {
+    "en": "We are working hard to cooperate more.",
+    "zh": "我們正在努力擴充套件合作。"
+   },
+   {
+    "en": "I'd like to cooperate.",
+    "zh": null
+   },
+   {
+    "en": "I'm happy to cooperate.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "collaborate"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "work together on a common enterprise of project",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0415",
+  "unit": 11,
+  "headword": "distract",
+  "ipa": "dis'trækt",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 轉移, 分心, 使發狂",
+  "forms": {
+   "pp": "distracted",
+   "ing": "distracting",
+   "past": "distracted",
+   "thirdSg": "distracts"
+  },
+  "examples": [
+   {
+    "en": "Don't distract me while I am studying.",
+    "zh": "我學習的時候不要打擾我。"
+   },
+   {
+    "en": "Meanwhile, Jiang Qin distracted Jiang Feng's older brother Yan Daxia.",
+    "zh": "與此同時江琴分散了江楓的哥哥燕大俠的注意力。"
+   },
+   {
+    "en": "That noise distracts me.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "deflect",
+   "perturb",
+   "unhinge",
+   "disquiet",
+   "trouble"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "draw someone's attention away from something",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0416",
+  "unit": 11,
+  "headword": "dividend",
+  "ipa": "'dividend",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 被除數, 股利\n[計] 被除數",
+  "forms": {
+   "plural": "dividends"
+  },
+  "examples": [
+   {
+    "en": "Lying and cheating pay dividends.",
+    "zh": null
+   },
+   {
+    "en": "Those are pretty amazing dividends.",
+    "zh": null
+   },
+   {
+    "en": "The bank has raised its dividend by 20%.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "that part of the earnings of a corporation that is distributed to its shareholders; usually paid quarterly",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0417",
+  "unit": 11,
+  "headword": "exemption",
+  "ipa": "ig'zempʃәn",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 解除, 免除, 免稅\n[化] 免檢",
+  "forms": {
+   "plural": "exemptions"
+  },
+  "examples": [
+   {
+    "en": "Is death the only possible exemption?",
+    "zh": "死是唯一的解脫方式嗎？"
+   },
+   {
+    "en": "Why are there exemptions?",
+    "zh": null
+   },
+   {
+    "en": "Tom was given an exemption.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "freedom",
+   "immunity"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "immunity from an obligation or duty",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0418",
+  "unit": 11,
+  "headword": "furnish",
+  "ipa": "'fә:niʃ",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 供給, 提供, 裝設\n[化] 供應; 供給; 配料",
+  "forms": {
+   "pp": "furnished",
+   "past": "furnished",
+   "ing": "furnishing",
+   "thirdSg": "furnishes"
+  },
+  "examples": [
+   {
+    "en": "The room is fully furnished.",
+    "zh": "房間裡傢俱齊全。"
+   },
+   {
+    "en": "We furnished the refugees with blankets.",
+    "zh": "我們提供了難民們毛毯。"
+   },
+   {
+    "en": "His home is furnished in a very cozy way.",
+    "zh": "他家的佈局非常溫馨。"
+   }
+  ],
+  "synonyms": [
+   "supply",
+   "provide",
+   "render"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "give something useful or necessary to",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0419",
+  "unit": 11,
+  "headword": "hourly",
+  "ipa": "'auәli",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "defsZh": "a. 每小時的, 以小時計的, 頻繁的\nadv. 每小時地, 頻繁地, 不絕地",
+  "forms": null,
+  "examples": [
+   {
+    "en": "What's your hourly rate?",
+    "zh": null
+   },
+   {
+    "en": "How much is your hourly pay?",
+    "zh": null
+   },
+   {
+    "en": "Sami doesn't know what his hourly pay is.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "occurring every hour or payable by the hour",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0420",
+  "unit": 11,
+  "headword": "laundry",
+  "ipa": "'lɒ:ndri",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 洗衣店, 洗好的衣服, 洗滌\n[機] 洗衣作, 洗衣店, 洗衣房",
+  "forms": {
+   "plural": "laundries"
+  },
+  "examples": [
+   {
+    "en": "I use laundry detergent.",
+    "zh": "我用洗衣粉。"
+   },
+   {
+    "en": "Do you have laundry to do?",
+    "zh": "你有要洗的衣服嗎？"
+   },
+   {
+    "en": "Doing the laundry is my job.",
+    "zh": "洗衣服是我的工作。"
+   }
+  ],
+  "synonyms": [
+   "wash",
+   "washing",
+   "washables"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "garments or white goods that can be cleaned by laundering",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0421",
+  "unit": 11,
+  "headword": "mandatory",
+  "ipa": "'mændәtәri",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 命令的, 託管的\n[經] 受託者, 命令者",
+  "forms": null,
+  "examples": [
+   {
+    "en": "That isn't mandatory.",
+    "zh": "那不是強制性的。"
+   },
+   {
+    "en": "A cooking course should be mandatory in schools.",
+    "zh": "烹飪課程應該作為學校的必修課。"
+   },
+   {
+    "en": "It is a mandatory mark.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "mandatary",
+   "mandate",
+   "compulsory",
+   "required"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the recipient of a mandate",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0422",
+  "unit": 11,
+  "headword": "mechanical",
+  "ipa": "mi'kænikәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 機械的, 機械性的, 力學的\n[醫] 機械的, 力學的",
+  "forms": {
+   "plural": "mechanicals"
+  },
+  "examples": [
+   {
+    "en": "I got a piece of lead for my mechanical pencil from her.",
+    "zh": "我從她那裡拿了一根自動鉛筆芯。"
+   },
+   {
+    "en": "Ours is a mechanical age.",
+    "zh": null
+   },
+   {
+    "en": "This is a mechanical toy.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "nonmechanical"
+  ],
+  "phrases": null,
+  "defsEn": "using (or as if using) mechanisms or tools or devices",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0423",
+  "unit": 11,
+  "headword": "pharmacy",
+  "ipa": "'fɑ:mәsi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 藥房, 配藥學, 製藥業\n[醫] 藥學, 藥劑學, 調劑學, 藥房",
+  "forms": {
+   "plural": "pharmacies"
+  },
+  "examples": [
+   {
+    "en": "Where's the closest pharmacy?",
+    "zh": "最近的藥房在哪裡?"
+   },
+   {
+    "en": "The pharmacy is near the hospital.",
+    "zh": "藥局在醫院附近。"
+   },
+   {
+    "en": "This afternoon I went to a pharmacy.",
+    "zh": "今天下午我去了一趟藥妝店。"
+   }
+  ],
+  "synonyms": [
+   "pharmaceutics",
+   "drugstore",
+   "chemist's"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "the art and science of preparing and dispensing drugs and medicines,",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0424",
+  "unit": 11,
+  "headword": "promotional",
+  "ipa": "prәu'mәuʃәnl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 增進的",
+  "forms": {
+   "plural": "promotionals"
+  },
+  "examples": [
+   {
+    "en": "Customers who purchase a new device can enjoy additional trial period as a promotional offer.",
+    "zh": "購買新裝置的使用者可享有額外試用優惠。"
+   },
+   {
+    "en": "Karl presented a promotional video.",
+    "zh": null
+   },
+   {
+    "en": "Tom took part in a promotional event.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "of or relating to serving as publicity",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0425",
+  "unit": 11,
+  "headword": "quarterly",
+  "ipa": "'kwɔ:tәli",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "defsZh": "a. 季度的, 按季度的, 每季的\nadv. 按季, 每三個月, 每季一次\nn. 季刊",
+  "forms": {
+   "plural": "quarterlies"
+  },
+  "examples": [
+   {
+    "en": "I get a divestment quarterly.",
+    "zh": null
+   },
+   {
+    "en": "When annualized, the quarterly gain represents a 4% growth.",
+    "zh": null
+   },
+   {
+    "en": "A quarterly growth of 1.2% means an annual growth rate of 4.8%.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a periodical that is published every quarter (or four issues per year)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0426",
+  "unit": 11,
+  "headword": "residential",
+  "ipa": ".rezi'denʃәl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 住宅的, 與居住有關的\n[法] 有關居住的, 房產的:居所的, 適於居住的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Please write down your residential address and home number.",
+    "zh": "請寫下住址和家庭電話。"
+   },
+   {
+    "en": "This is residential property.",
+    "zh": null
+   },
+   {
+    "en": "Residential towers were bombed.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "nonresidential"
+  ],
+  "phrases": null,
+  "defsEn": "used or designed for residence or limited to residences",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0427",
+  "unit": 11,
+  "headword": "scholarship",
+  "ipa": "'skɒlәʃip",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 學問, 學術成就, 獎學金",
+  "forms": {
+   "plural": "scholarships"
+  },
+  "examples": [
+   {
+    "en": "Luckily she won a scholarship.",
+    "zh": "她很幸運地贏得了獎學金。"
+   },
+   {
+    "en": "He applied for the scholarship.",
+    "zh": "他申請了獎學金。"
+   },
+   {
+    "en": "He won a scholarship to study in Germany.",
+    "zh": "他贏取了一份去德國留學的獎學金。"
+   }
+  ],
+  "synonyms": [
+   "eruditeness",
+   "erudition",
+   "learnedness",
+   "learning",
+   "encyclopedism"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "financial aid provided to a student on the basis of academic merit",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0428",
+  "unit": 11,
+  "headword": "seeker",
+  "ipa": "'si:kә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 搜尋者, 探求者\n[法] 搜尋人, 搜查人",
+  "forms": {
+   "plural": "seekers"
+  },
+  "examples": [
+   {
+    "en": "He's a peace seeker.",
+    "zh": null
+   },
+   {
+    "en": "Tom's a glory seeker.",
+    "zh": null
+   },
+   {
+    "en": "Boris was the seeker.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "searcher",
+   "quester"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone making a search or inquiry",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0429",
+  "unit": 11,
+  "headword": "temporarily",
+  "ipa": "'tempәrәrәli",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 暫時, 一時, 臨時",
+  "forms": null,
+  "examples": [
+   {
+    "en": "This kind of medicine can temporarily alleviate pain. If you need it, just take it.",
+    "zh": "這種藥可以暫時緩解身體的疼痛，你需要的話就拿去吧。"
+   },
+   {
+    "en": "Can you fix it temporarily?",
+    "zh": null
+   },
+   {
+    "en": "I was only hired temporarily.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "permanently"
+  ],
+  "phrases": null,
+  "defsEn": "for a limited time only; not permanently",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0430",
+  "unit": 11,
+  "headword": "towel",
+  "ipa": "'tauәl",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "defsZh": "n. 手巾, 毛巾\nv. 擦乾身子",
+  "forms": {
+   "plural": "towels",
+   "past": "towelled",
+   "ing": "towelling",
+   "thirdSg": "towels",
+   "pp": "towelled"
+  },
+  "examples": [
+   {
+    "en": "I need a towel.",
+    "zh": "我需要一塊毛巾。"
+   },
+   {
+    "en": "Hand me my towel.",
+    "zh": "幫我遞一下毛巾。"
+   },
+   {
+    "en": "Sami's towels stank.",
+    "zh": "薩米的毛巾難聞死了。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a rectangular piece of absorbent cloth (or paper) for drying or wiping",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0431",
+  "unit": 11,
+  "headword": "unattended",
+  "ipa": ".ʌnә'tendid",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 無人出席的, 無隨員的, 無侍從的, 無伴的, 未被注意的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "We left the land unattended.",
+    "zh": null
+   },
+   {
+    "en": "The pump was left unattended.",
+    "zh": null
+   },
+   {
+    "en": "Sami left the kids unattended.",
+    "zh": null
+   }
+  ],
+  "synonyms": [
+   "neglected"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "not watched",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0432",
+  "unit": 11,
+  "headword": "accessible",
+  "ipa": "әk'sesәbl",
+  "pos": [
+   "adj"
+  ],
+  "defsZh": "a. 易接近的, 可進入的, 可使用的, 易受影響的, 可理解的",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Those records are not accessible to the public.",
+    "zh": "這些記錄不對公眾開放。"
+   },
+   {
+    "en": "New York is accessible by train from Washington.",
+    "zh": "從華盛頓乘火車可以到紐約。"
+   },
+   {
+    "en": "Google has played an important role in making information more accessible over the internet.",
+    "zh": "Google 在推動網際網路資訊普及化上，發揮了重要作用。"
+   }
+  ],
+  "synonyms": [
+   "approachable"
+  ],
+  "antonyms": [
+   "inaccessible"
+  ],
+  "phrases": null,
+  "defsEn": "capable of being reached",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0433",
+  "unit": 11,
+  "headword": "afterward",
+  "ipa": "'ɑ:ftәwәd",
+  "pos": [
+   "adv"
+  ],
+  "defsZh": "adv. 然後, 後來",
+  "forms": null,
+  "examples": [
+   {
+    "en": "Ivan was fired afterwards.",
+    "zh": "伊凡後來被開除了。"
+   },
+   {
+    "en": "Where will we go afterwards?",
+    "zh": "我們以後往哪走？"
+   },
+   {
+    "en": "Afterwards, he set off for Villain Valley.",
+    "zh": "然後他出發去了惡人谷。"
+   }
+  ],
+  "synonyms": [
+   "subsequently",
+   "later",
+   "afterwards",
+   "after"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "happening at a time subsequent to a reference time",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0434",
+  "unit": 11,
+  "headword": "apology",
+  "ipa": "ә'pɒlәdʒi",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 道歉, 辯護\n[法] 道歉, 謝罪, 辯解者",
+  "forms": {
+   "plural": "apologies"
+  },
+  "examples": [
+   {
+    "en": "We owe you an apology.",
+    "zh": "我們欠你個道歉。"
+   },
+   {
+    "en": "We didn't get an apology.",
+    "zh": "我們沒有收到過道歉。"
+   },
+   {
+    "en": "I must make an apology to her.",
+    "zh": "我不得不向她道歉。"
+   }
+  ],
+  "synonyms": [
+   "apologia",
+   "excuse"
+  ],
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "an expression of regret at having caused trouble for someone",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0435",
+  "unit": 11,
+  "headword": "assemble",
+  "ipa": "ә'sembl",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 集合, 收集, 裝配\nvi. 集合\n[計] 彙編",
+  "forms": {
+   "pp": "assembled",
+   "ing": "assembling",
+   "past": "assembled",
+   "thirdSg": "assembles"
+  },
+  "examples": [
+   {
+    "en": "They assemble planes.",
+    "zh": "他們組裝飛機。"
+   },
+   {
+    "en": "Where are we assembling?",
+    "zh": "我們在哪裡集合？"
+   },
+   {
+    "en": "The mechanic assembled the engine.",
+    "zh": "這名技師組裝了這臺引擎。"
+   }
+  ],
+  "synonyms": [
+   "piece",
+   "tack",
+   "meet",
+   "gather",
+   "forgather"
+  ],
+  "antonyms": [
+   "disassemble"
+  ],
+  "phrases": null,
+  "defsEn": "create by putting components or members together",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0436",
+  "unit": 11,
+  "headword": "automatic",
+  "ipa": ".ɒ:tә'mætik",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "defsZh": "n. 自動手槍, 自動機械\na. 自動的, 機械的, 必然的, 無意識的",
+  "forms": {
+   "plural": "automatics"
+  },
+  "examples": [
+   {
+    "en": "The door is automatic.",
+    "zh": null
+   },
+   {
+    "en": "This car is an automatic.",
+    "zh": null
+   },
+   {
+    "en": "This is an automatic door.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": [
+   "manual"
+  ],
+  "phrases": null,
+  "defsEn": "light machine gun",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0437",
+  "unit": 11,
+  "headword": "boardroom",
+  "ipa": "'bɒ:drum",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 會議室, 證券交換場所",
+  "forms": {
+   "plural": "boardrooms"
+  },
+  "examples": [
+   {
+    "en": "You're wanted in the boardroom.",
+    "zh": null
+   },
+   {
+    "en": "The directors meet in boardrooms every Monday.",
+    "zh": null
+   },
+   {
+    "en": "The meeting with the CEO was in the boardroom.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a room where a committee meets (such as the board of directors of a company)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0438",
+  "unit": 11,
+  "headword": "carpenter",
+  "ipa": "'kɑ:pintә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 木匠",
+  "forms": {
+   "plural": "carpenters",
+   "ing": "carpentering",
+   "past": "carpentered",
+   "thirdSg": "carpenters",
+   "pp": "carpentered"
+  },
+  "examples": [
+   {
+    "en": "He is a good carpenter.",
+    "zh": "他是個好木匠。"
+   },
+   {
+    "en": "My grandfather is a carpenter.",
+    "zh": "我爺爺是個木匠。"
+   },
+   {
+    "en": "The carpenter brought his tools along.",
+    "zh": "木匠帶了工具。"
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "a woodworker who makes or repairs wooden objects",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0439",
+  "unit": 11,
+  "headword": "caterer",
+  "ipa": "'keitәrә",
+  "pos": [
+   "n"
+  ],
+  "defsZh": "n. 備辦食物者, 備辦宴席者",
+  "forms": {
+   "plural": "caterers"
+  },
+  "examples": [
+   {
+    "en": "Ziri is a caterer.",
+    "zh": null
+   },
+   {
+    "en": "Ziri became a caterer.",
+    "zh": null
+   },
+   {
+    "en": "Markku made his pile as a caterer for the well-to-do.",
+    "zh": null
+   }
+  ],
+  "synonyms": null,
+  "antonyms": null,
+  "phrases": null,
+  "defsEn": "someone who provides food and service (as for a party)",
+  "note": null,
+  "audioUrl": null
+ },
+ {
+  "id": "w0440",
+  "unit": 11,
+  "headword": "classify",
+  "ipa": "'klæsifai",
+  "pos": [
+   "v"
+  ],
+  "defsZh": "vt. 分類, 歸類, 分等\n[建] 分類, 分級, 分粒",
+  "forms": {
+   "pp": "classified",
+   "ing": "classifying",
+   "thirdSg": "classifies",
+   "past": "classified"
+  },
+  "examples": [
+   {
+    "en": "The classified documents were hidden.",
+    "zh": "機密檔案被藏起來了。"
+   },
+   {
+    "en": "We should classify them before throwing them out.",
+    "zh": "我們在扔掉之前得分類。"
+   },
+   {
+    "en": "The classified ad wanted female singers to form an a cappella group.",
+    "zh": "這則分類廣告招募女歌手組成無伴奏合唱團。"
+   }
+  ],
+  "synonyms": [
+   "class",
+   "sort",
+   "assort",
+   "separate",
+   "relegate"
+  ],
+  "antonyms": [
+   "declassify"
+  ],
+  "phrases": null,
+  "defsEn": "arrange or order by classes or categories",
+  "note": null,
+  "audioUrl": null
+ }
+]
