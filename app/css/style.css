@@ -286,5 +286,13 @@ dialog.dlg::backdrop{background:rgba(16,21,39,.45)}
 /* 單元卡分頁器與翻卡的滑動手勢 */
 .pager .wordcard,.flashcard3d{touch-action:pan-y}
 .pager .wordcard{will-change:transform}
-.nav-chev{font-size:24px;line-height:1}
-.nav-chev:disabled{opacity:.3}
+
+/* 沉浸式畫面：隱藏底部分頁列，內容用回底部空間 */
+body.no-tabs .tabbar{display:none}
+body.no-tabs #main{padding-bottom:calc(24px + var(--kb-h,0px) + env(safe-area-inset-bottom))}
+
+/* 螢幕閱讀器專用（視覺隱藏、可聚焦） */
+.sr-only{
+  position:absolute;width:1px;height:1px;padding:0;margin:-1px;
+  overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;
+}
