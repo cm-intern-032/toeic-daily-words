@@ -29,8 +29,7 @@
    }
   ],
   "synonyms": [
-   "assimilate",
-   "ingest"
+   "draw"
   ],
   "antonyms": null,
   "phrases": null,
@@ -68,11 +67,9 @@
    }
   ],
   "synonyms": [
-   "administrate",
    "distribute",
    "deal",
-   "lot",
-   "dispense"
+   "lot"
   ],
   "antonyms": null,
   "phrases": null,
@@ -105,15 +102,9 @@
    }
   ],
   "synonyms": [
-   "copious",
-   "plenteous",
-   "plentiful",
-   "rich",
-   "sizable"
+   "rich"
   ],
-  "antonyms": [
-   "meager"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "more than enough in size or scope or capacity",
   "note": null,
@@ -150,11 +141,7 @@
     "zh": "她對古董很感興趣。"
    }
   ],
-  "synonyms": [
-   "old-timer",
-   "oldtimer",
-   "gaffer"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an elderly man",
@@ -225,11 +212,14 @@
    }
   ],
   "synonyms": [
-   "browsing"
+   "shop",
+   "crop",
+   "range",
+   "surf"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "vegetation (such as young shoots, twigs, and leaves) that is suitable for animals to eat",
+  "defsEn": "shop around; not necessarily buying",
   "note": null,
   "audioUrl": null
  },
@@ -260,11 +250,7 @@
    }
   ],
   "synonyms": [
-   "pass",
-   "adieu",
-   "adios",
-   "arrivederci",
-   "bye-bye"
+   "pass"
   ],
   "antonyms": null,
   "phrases": null,
@@ -333,11 +319,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "aggregator",
-   "gatherer",
-   "accumulator"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a person who collects things",
@@ -377,9 +359,7 @@
    "adjust",
    "adapt"
   ],
-  "antonyms": [
-   "deviate"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "be similar, be in line with",
   "note": null,
@@ -411,9 +391,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "over-crowding"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "excessive accumulation of blood or other fluid in a body part",
@@ -481,13 +459,10 @@
     "zh": "正好相反，我從沒說過這樣的話。"
    }
   ],
-  "synonyms": [
-   "reverse",
-   "opposite"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a relation of direct opposition",
+  "defsEn": "very opposed in nature or character or purpose",
   "note": null,
   "audioUrl": null
  },
@@ -517,9 +492,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "sheepskin"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a document certifying the successful completion of a course of study",
@@ -552,10 +525,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "distributer",
-   "allocator"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "someone who markets merchandise",
@@ -593,11 +563,7 @@
     "zh": "你曾試過用水肺潛水嗎？"
    }
   ],
-  "synonyms": [
-   "honkytonk",
-   "diving",
-   "nosedive"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a cheap disreputable nightclub or dance hall",
@@ -630,14 +596,8 @@
     "zh": "他不像從前那樣精力充沛了。"
    }
   ],
-  "synonyms": [
-   "gumptious",
-   "industrious",
-   "up-and-coming"
-  ],
-  "antonyms": [
-   "lethargic"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "possessing or exerting or displaying energy",
   "note": null,
@@ -734,9 +694,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "alien"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "being or from or characteristic of another place or part of the world",
@@ -772,7 +730,6 @@
   "synonyms": [
    "cloth",
    "material",
-   "textile",
    "framework"
   ],
   "antonyms": null,
@@ -808,10 +765,7 @@
    }
   ],
   "synonyms": [
-   "generalisation",
-   "induction",
-   "generality",
-   "abstraction"
+   "induction"
   ],
   "antonyms": null,
   "phrases": null,
@@ -845,10 +799,7 @@
   ],
   "synonyms": [
    "counsel",
-   "counseling",
-   "counselling",
-   "direction",
-   "steering"
+   "direction"
   ],
   "antonyms": null,
   "phrases": null,
@@ -887,9 +838,7 @@
     "zh": "我嚼口香糖。"
    }
   ],
-  "synonyms": [
-   "gingiva"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a preparation (usually made of sweetened chicle) for chewing",
@@ -920,9 +869,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "hesitating"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "lacking decisiveness of character; unable to act or decide quickly or firmly",
@@ -956,8 +903,7 @@
    }
   ],
   "synonyms": [
-   "index",
-   "indicant"
+   "index"
   ],
   "antonyms": null,
   "phrases": null,
@@ -990,9 +936,7 @@
    }
   ],
   "synonyms": [
-   "separately",
-   "singly",
-   "severally"
+   "separately"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1060,9 +1004,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "life-style"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a manner of living that reflects the person's values and attitudes",
@@ -1196,9 +1138,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "organisational"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "of or relating to an organization",
@@ -1232,9 +1172,6 @@
    }
   ],
   "synonyms": [
-   "mentality",
-   "mindset",
-   "mind-set",
    "expectation",
    "prospect"
   ],
@@ -1268,12 +1205,7 @@
     "zh": "這個男孩兒精通物理學。"
    }
   ],
-  "synonyms": [
-   "purgative",
-   "cathartic",
-   "physic",
-   "aperient"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the science of matter and energy and their interactions",
@@ -1349,13 +1281,7 @@
     "zh": "湯姆看起來很疑惑。"
    }
   ],
-  "synonyms": [
-   "puzzler",
-   "mystifier",
-   "teaser",
-   "perplex",
-   "vex"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a particularly baffling problem that is said to have a correct solution",
@@ -1388,13 +1314,11 @@
    }
   ],
   "synonyms": [
-   "automatic",
-   "reflex",
-   "self-referent"
+   "automatic"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a personal pronoun compounded with -self to show the agent's action affects the agent",
+  "defsEn": "without volition or conscious control",
   "note": null,
   "audioUrl": null
  },
@@ -1425,10 +1349,7 @@
    }
   ],
   "synonyms": [
-   "white",
-   "snow-clad",
-   "snow-covered",
-   "snow-white"
+   "white"
   ],
   "antonyms": null,
   "phrases": null,

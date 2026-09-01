@@ -31,8 +31,7 @@
    }
   ],
   "synonyms": [
-   "insight",
-   "brainwave"
+   "insight"
   ],
   "antonyms": null,
   "phrases": null,
@@ -71,9 +70,7 @@
     "zh": "他覺得這像箇鳥籠。"
    }
   ],
-  "synonyms": [
-   "coop"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an enclosure made or wire or metal bars in which birds or animals can be kept",
@@ -107,8 +104,7 @@
    }
   ],
   "synonyms": [
-   "film",
-   "celluloid"
+   "film"
   ],
   "antonyms": null,
   "phrases": null,
@@ -142,11 +138,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "coaction",
-   "collaborationism",
-   "quislingism"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "act of working jointly",
@@ -179,9 +171,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "condo"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "one of the dwelling units in a condominium",
@@ -213,11 +203,8 @@
    }
   ],
   "synonyms": [
-   "back-to-back",
-   "sequent",
-   "sequential",
    "serial",
-   "successive"
+   "straight"
   ],
   "antonyms": null,
   "phrases": null,
@@ -278,11 +265,7 @@
    }
   ],
   "synonyms": [
-   "gilded",
-   "grand",
-   "luxurious",
-   "opulent",
-   "princely"
+   "grand"
   ],
   "antonyms": null,
   "phrases": null,
@@ -315,12 +298,9 @@
    }
   ],
   "synonyms": [
-   "suitable",
-   "worthy"
+   "suitable"
   ],
-  "antonyms": [
-   "undesirable"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "worth having or seeking or achieving",
   "note": null,
@@ -353,10 +333,7 @@
    }
   ],
   "synonyms": [
-   "disagreement",
-   "divergence",
-   "variance",
-   "variant"
+   "disagreement"
   ],
   "antonyms": null,
   "phrases": null,
@@ -396,15 +373,15 @@
    }
   ],
   "synonyms": [
-   "despatch",
-   "communique",
-   "shipment",
-   "expedition",
-   "expeditiousness"
+   "complete",
+   "murder",
+   "hit",
+   "off",
+   "remove"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "an official report (usually sent in haste)",
+  "defsEn": "send away towards a designated goal",
   "note": null,
   "audioUrl": null
  },
@@ -472,14 +449,13 @@
    }
   ],
   "synonyms": [
-   "muffle",
-   "mute",
-   "damp",
-   "dampen"
+   "slow"
   ],
-  "antonyms": null,
+  "antonyms": [
+   "bright"
+  ],
   "phrases": null,
-  "defsEn": "make dull in appearance",
+  "defsEn": "lacking in liveliness or animation",
   "note": null,
   "audioUrl": null
  },
@@ -541,10 +517,7 @@
   "synonyms": [
    "equally"
   ],
-  "antonyms": [
-   "unevenly",
-   "unequally"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "in equal amounts or shares; in a balanced or impartial way",
   "note": null,
@@ -576,9 +549,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "excellency"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the quality of excelling; possessing good qualities in high degree",
@@ -611,7 +582,6 @@
   ],
   "synonyms": [
    "entirely",
-   "solely",
    "alone",
    "only"
   ],
@@ -649,9 +619,7 @@
    }
   ],
   "synonyms": [
-   "leave",
-   "leave-taking",
-   "parting"
+   "leave"
   ],
   "antonyms": null,
   "phrases": null,
@@ -691,10 +659,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "weariness",
-   "tiredness"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "temporary loss of strength and energy resulting from hard physical or mental work",
@@ -730,9 +695,7 @@
   "synonyms": [
    "financial"
   ],
-  "antonyms": [
-   "nonfinancial"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "involving financial matters",
   "note": null,
@@ -846,13 +809,7 @@
     "zh": "倫敦以霧著名。"
    }
   ],
-  "synonyms": [
-   "fogginess",
-   "murk",
-   "murkiness",
-   "daze",
-   "haze"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "droplets of water vapor suspended in the air near the ground",
@@ -886,9 +843,7 @@
   "synonyms": [
    "officially"
   ],
-  "antonyms": [
-   "informally"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "with official authorization",
   "note": null,
@@ -920,11 +875,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "gramme",
-   "gm",
-   "g"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a metric unit of weight equal to one thousandth of a kilogram",
@@ -957,9 +908,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "enchiridion"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a concise reference book providing specific information about a subject or location",
@@ -993,8 +942,6 @@
    }
   ],
   "synonyms": [
-   "earphone",
-   "earpiece",
    "phone"
   ],
   "antonyms": null,
@@ -1030,11 +977,7 @@
    }
   ],
   "synonyms": [
-   "warmer",
-   "fastball",
-   "smoke",
-   "hummer",
-   "bullet"
+   "smoke"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1102,10 +1045,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "tramp",
-   "tramper"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a foot traveler; someone who goes on an extended walk (for pleasure)",
@@ -1136,12 +1076,10 @@
     "zh": "當我無家可歸的時候，我常在那張長椅上睡覺。"
    }
   ],
-  "synonyms": [
-   "stateless"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "someone unfortunate without housing",
+  "defsEn": "without nationality or citizenship",
   "note": null,
   "audioUrl": null
  },
@@ -1173,11 +1111,7 @@
    }
   ],
   "synonyms": [
-   "igniter",
-   "ignitor",
-   "light",
-   "barge",
-   "flatboat"
+   "light"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1210,14 +1144,9 @@
    }
   ],
   "synonyms": [
-   "loud",
-   "aloud",
-   "obstreperously",
-   "clamorously",
-   "forte"
+   "loud"
   ],
   "antonyms": [
-   "softly",
    "piano"
   ],
   "phrases": null,
@@ -1252,14 +1181,10 @@
    }
   ],
   "synonyms": [
-   "trueness",
    "commitment",
-   "allegiance",
    "dedication"
   ],
-  "antonyms": [
-   "disloyalty"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the quality of being loyal",
   "note": null,
@@ -1295,11 +1220,7 @@
     "zh": "我們是時候買新的微波爐了。"
    }
   ],
-  "synonyms": [
-   "micro-cook",
-   "zap",
-   "nuke"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens and for transmitting telephone, facsimile, video and data",
@@ -1356,9 +1277,7 @@
    }
   ],
   "synonyms": [
-   "orderly",
-   "refined",
-   "tasteful"
+   "clean"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1426,9 +1345,7 @@
   "synonyms": [
    "formally"
   ],
-  "antonyms": [
-   "unofficially"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "in an official role",
   "note": null,
@@ -1466,9 +1383,6 @@
    }
   ],
   "synonyms": [
-   "getup",
-   "rig",
-   "turnout",
    "kit"
   ],
   "antonyms": null,

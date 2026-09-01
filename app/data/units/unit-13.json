@@ -30,9 +30,7 @@
   ],
   "synonyms": [
    "compliment",
-   "felicitate",
-   "pride",
-   "plume"
+   "pride"
   ],
   "antonyms": null,
   "phrases": null,
@@ -72,8 +70,7 @@
    }
   ],
   "synonyms": [
-   "bodyguard",
-   "accompaniment"
+   "date"
   ],
   "antonyms": null,
   "phrases": null,
@@ -147,10 +144,7 @@
     "zh": "湯姆脫了口罩。"
    }
   ],
-  "synonyms": [
-   "masquerade",
-   "masque"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a covering to disguise or conceal the face",
@@ -171,9 +165,7 @@
   },
   "examples": [],
   "synonyms": [
-   "buyer",
-   "emptor",
-   "vendee"
+   "buyer"
   ],
   "antonyms": null,
   "phrases": null,
@@ -213,9 +205,7 @@
    }
   ],
   "synonyms": [
-   "bag",
-   "handbag",
-   "pocketbook"
+   "bag"
   ],
   "antonyms": null,
   "phrases": null,
@@ -359,11 +349,7 @@
     "zh": "肥皂沒了。"
    }
   ],
-  "synonyms": [
-   "scoop",
-   "max",
-   "goop"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a cleansing agent made from the salts of vegetable or animal fats",
@@ -435,14 +421,9 @@
    }
   ],
   "synonyms": [
-   "higher-up",
-   "superordinate",
-   "victor",
    "master"
   ],
-  "antonyms": [
-   "inferior"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "one of greater rank or station or quality",
   "note": null,
@@ -504,9 +485,7 @@
     "zh": "需要小蘇打。"
    }
   ],
-  "synonyms": [
-   "broil"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "cook and make edible by putting in a hot oven",
@@ -539,9 +518,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "bourgeois"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a capitalist who engages in industrial commercial enterprise",
@@ -608,7 +585,6 @@
   ],
   "synonyms": [
    "defective",
-   "incorrect",
    "wrong"
   ],
   "antonyms": null,
@@ -643,13 +619,7 @@
     "zh": "你的愛好是什麼？"
    }
   ],
-  "synonyms": [
-   "avocation",
-   "by-line",
-   "pursuit",
-   "sideline",
-   "hobbyhorse"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an auxiliary activity",
@@ -719,11 +689,7 @@
     "zh": "今天我走了10公里。"
    }
   ],
-  "synonyms": [
-   "kilometre",
-   "km",
-   "klick"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a metric unit of length equal to 1000 meters (or 0.621371 miles)",
@@ -826,11 +792,7 @@
     "zh": "我不想誤導任何人。"
    }
   ],
-  "synonyms": [
-   "misdirect",
-   "misguide",
-   "misinform"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "lead someone in the wrong direction or give someone wrong directions",
@@ -867,7 +829,6 @@
    }
   ],
   "synonyms": [
-   "mislay",
    "lose"
   ],
   "antonyms": null,
@@ -1009,7 +970,7 @@
    }
   ],
   "synonyms": [
-   "wrack"
+   "wheel"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1046,12 +1007,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "reconstruct",
-   "redo",
-   "recast",
-   "reforge"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "do over, as of (part of) a house",
@@ -1122,9 +1078,7 @@
     "zh": "觀光巴士穿過了一條長長的隧道。"
    }
   ],
-  "synonyms": [
-   "burrow"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a passageway through or under something, usually underground (especially one for trains or cars)",
@@ -1155,15 +1109,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "limitless",
-   "outright",
-   "straight-out",
-   "inexhaustible"
-  ],
-  "antonyms": [
-   "limited"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "having no limits in range or scope; - Philip Rahv",
   "note": null,
@@ -1228,9 +1175,7 @@
     "zh": "波士頓有動物園嗎？"
    }
   ],
-  "synonyms": [
-   "menagerie"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the facility where wild animals are housed for exhibition",
@@ -1270,13 +1215,11 @@
    }
   ],
   "synonyms": [
-   "alerting",
-   "alarm",
-   "alarum"
+   "alive"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "condition of heightened watchfulness or preparation for action",
+  "defsEn": "engaged in or accustomed to close observation",
   "note": null,
   "audioUrl": null
  },
@@ -1340,12 +1283,9 @@
    }
   ],
   "synonyms": [
-   "fame",
    "renown"
   ],
-  "antonyms": [
-   "infamy"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "a widely known person",
   "note": null,
@@ -1382,10 +1322,8 @@
   ],
   "synonyms": [
    "subtract",
-   "withhold",
-   "recoup",
-   "deduce",
-   "infer"
+   "infer",
+   "derive"
   ],
   "antonyms": [
    "add"
@@ -1423,10 +1361,7 @@
   ],
   "synonyms": [
    "break",
-   "interruption",
-   "gap",
-   "disturbance",
-   "commotion"
+   "gap"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1460,10 +1395,7 @@
     "zh": "薩米是名電工。"
    }
   ],
-  "synonyms": [
-   "lineman",
-   "linesman"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a person who installs or repairs electrical or telephone lines",

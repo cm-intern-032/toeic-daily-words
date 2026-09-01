@@ -24,10 +24,7 @@
    }
   ],
   "synonyms": [
-   "aggressively",
-   "crisply",
-   "sharp",
-   "acutely"
+   "sharp"
   ],
   "antonyms": null,
   "phrases": null,
@@ -62,9 +59,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "dissimilarity"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the quality of being similar",
   "note": null,
@@ -130,10 +125,7 @@
    }
   ],
   "synonyms": [
-   "witness",
-   "viewer",
-   "watcher",
-   "looker"
+   "witness"
   ],
   "antonyms": null,
   "phrases": null,
@@ -168,11 +160,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "stereophony",
-   "stereophonic",
-   "two-channel"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound",
@@ -205,9 +193,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "stowage"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a room in which things are stored",
@@ -243,9 +229,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "subsidise"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "support through subsidies",
@@ -277,11 +261,8 @@
    }
   ],
   "synonyms": [
-   "leery",
-   "mistrustful",
-   "untrusting",
-   "wary",
-   "fishy"
+   "funny",
+   "suspect"
   ],
   "antonyms": null,
   "phrases": null,
@@ -314,9 +295,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "tasteless"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "pleasing to the sense of taste",
   "note": null,
@@ -349,9 +328,8 @@
   "synonyms": [
    "fantastic",
    "grand",
-   "howling",
-   "marvelous",
-   "marvellous"
+   "tremendous",
+   "wonderful"
   ],
   "antonyms": null,
   "phrases": null,
@@ -389,10 +367,8 @@
   ],
   "synonyms": [
    "resistance",
-   "metro",
    "tube",
-   "subway",
-   "belowground"
+   "subway"
   ],
   "antonyms": null,
   "phrases": null,
@@ -429,9 +405,7 @@
    "amateur",
    "recreational"
   ],
-  "antonyms": [
-   "paid"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "not paid",
   "note": null,
@@ -558,11 +532,7 @@
     "zh": "綿羊提供我們羊毛。"
    }
   ],
-  "synonyms": [
-   "woolen",
-   "woollen",
-   "fleece"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a fabric made from the hair of sheep",
@@ -601,10 +571,6 @@
    }
   ],
   "synonyms": [
-   "furrow",
-   "crease",
-   "crinkle",
-   "seam",
    "line"
   ],
   "antonyms": null,
@@ -642,9 +608,7 @@
   "synonyms": [
    "truth"
   ],
-  "antonyms": [
-   "inaccuracy"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the quality of being near to the true value",
   "note": null,
@@ -675,8 +639,7 @@
    }
   ],
   "synonyms": [
-   "anyway",
-   "anyways"
+   "anyway"
   ],
   "antonyms": null,
   "phrases": null,
@@ -710,10 +673,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "appetiser",
-   "starter"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "food or drink to stimulate the appetite (usually served before a meal or as the first course)",
@@ -750,11 +710,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "discharge",
-   "spark",
-   "bow"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "electrical conduction through a gas in an applied electric field",
@@ -791,10 +747,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "hearing",
-   "tryout"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the ability to hear; the auditory faculty",
@@ -828,13 +781,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "knapsack",
-   "packsack",
-   "rucksack",
-   "haversack",
-   "pack"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a bag carried by a strap on your back or shoulder",
@@ -977,8 +924,9 @@
   "synonyms": [
    "boundary",
    "edge",
-   "bounds",
-   "limit"
+   "limit",
+   "leap",
+   "spring"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1013,10 +961,7 @@
     "zh": "新官上任三把火。"
    }
   ],
-  "synonyms": [
-   "heather",
-   "ling"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle",
@@ -1082,15 +1027,10 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "chili",
-   "chilli",
-   "chile",
-   "parky"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "very hot and finely tapering pepper of special pungency",
+  "defsEn": "not characterized by emotion; -C.W.Cunningham",
   "note": null,
   "audioUrl": null
  },
@@ -1120,9 +1060,7 @@
     "zh": "在我六歲的時候，我第一次被帶去看馬戲。"
    }
   ],
-  "synonyms": [
-   "carnival"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a travelling company of entertainers; including trained animals",
@@ -1160,9 +1098,7 @@
     "zh": "我就當你誇我了。"
    }
   ],
-  "synonyms": [
-   "congratulate"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a remark (or act) expressing praise and admiration",
@@ -1189,10 +1125,10 @@
   ],
   "synonyms": [
    "cargo",
-   "lading",
    "freight",
    "load",
-   "loading"
+   "shipment",
+   "commitment"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1332,10 +1268,6 @@
    }
   ],
   "synonyms": [
-   "pulverize",
-   "pulverise",
-   "crush",
-   "smash",
    "destroy"
   ],
   "antonyms": null,
@@ -1399,13 +1331,10 @@
     "zh": "非常時期需要非常措施。"
    }
   ],
-  "synonyms": [
-   "despairing",
-   "do-or-die"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a person who is frightened and in need of help",
+  "defsEn": "arising from or marked by despair or loss of hope",
   "note": null,
   "audioUrl": null
  },
@@ -1440,10 +1369,7 @@
    }
   ],
   "synonyms": [
-   "waste",
-   "desolate",
-   "ravage",
-   "scourge"
+   "waste"
   ],
   "antonyms": null,
   "phrases": null,

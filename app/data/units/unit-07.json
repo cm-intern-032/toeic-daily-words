@@ -28,8 +28,7 @@
   "synonyms": [
    "car",
    "auto",
-   "machine",
-   "motorcar"
+   "machine"
   ],
   "antonyms": null,
   "phrases": null,
@@ -98,10 +97,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "uncomplete",
-   "uncompleted"
-  ],
+  "synonyms": null,
   "antonyms": [
    "complete"
   ],
@@ -205,12 +201,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "sorrel",
-   "pier",
-   "wharf",
-   "wharfage"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an enclosure in a court of law where the defendant sits during the trial",
@@ -277,8 +268,7 @@
   ],
   "synonyms": [
    "recently",
-   "late",
-   "latterly"
+   "late"
   ],
   "antonyms": null,
   "phrases": null,
@@ -346,11 +336,7 @@
    }
   ],
   "synonyms": [
-   "sponsor",
-   "donor",
-   "giver",
-   "bestower",
-   "conferrer"
+   "sponsor"
   ],
   "antonyms": null,
   "phrases": null,
@@ -454,11 +440,10 @@
    }
   ],
   "synonyms": [
-   "world-wide",
    "global",
-   "planetary",
    "world",
-   "cosmopolitan"
+   "general",
+   "universal"
   ],
   "antonyms": null,
   "phrases": null,
@@ -492,11 +477,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "bearer",
-   "toter",
-   "flattop"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "someone whose employment involves carrying something",
@@ -534,11 +515,11 @@
    }
   ],
   "synonyms": [
-   "denominate",
    "delegate",
-   "depute",
    "assign",
-   "indicate"
+   "indicate",
+   "point",
+   "show"
   ],
   "antonyms": null,
   "phrases": null,
@@ -573,14 +554,13 @@
    }
   ],
   "synonyms": [
-   "scoop",
-   "sole"
+   "single"
   ],
   "antonyms": [
    "inclusive"
   ],
   "phrases": null,
-  "defsEn": "a news report that is reported first by one news organization",
+  "defsEn": "not divided or shared with others",
   "note": null,
   "audioUrl": null
  },
@@ -611,8 +591,7 @@
    }
   ],
   "synonyms": [
-   "market",
-   "foodstuff"
+   "market"
   ],
   "antonyms": null,
   "phrases": null,
@@ -648,7 +627,6 @@
    }
   ],
   "synonyms": [
-   "prep",
    "preparation"
   ],
   "antonyms": null,
@@ -684,8 +662,7 @@
    }
   ],
   "synonyms": [
-   "memo",
-   "memoranda"
+   "memo"
   ],
   "antonyms": null,
   "phrases": null,
@@ -752,12 +729,7 @@
     "zh": "這個工作不適合年輕女孩。"
    }
   ],
-  "synonyms": [
-   "rooms",
-   "cortege",
-   "retinue",
-   "entourage"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a musical composition of several movements only loosely connected",
@@ -788,10 +760,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "exhaustive",
-   "thoroughgoing"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "painstakingly careful and accurate",
@@ -824,10 +793,7 @@
     "zh": "他順道去了這家書店。"
    }
   ],
-  "synonyms": [
-   "bookshop",
-   "bookstall"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a shop where books are sold",
@@ -865,8 +831,7 @@
   ],
   "synonyms": [
    "provide",
-   "supply",
-   "ply"
+   "supply"
   ],
   "antonyms": null,
   "phrases": null,
@@ -900,12 +865,10 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "alveolar"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a consonant articulated with the tip of the tongue near the gum ridge",
+  "defsEn": "of or relating to the teeth",
   "note": null,
   "audioUrl": null
  },
@@ -936,7 +899,6 @@
    }
   ],
   "synonyms": [
-   "continuance",
    "length"
   ],
   "antonyms": null,
@@ -977,8 +939,7 @@
    }
   ],
   "synonyms": [
-   "sofa",
-   "couch"
+   "sofa"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1046,7 +1007,6 @@
    }
   ],
   "synonyms": [
-   "frequenter",
    "sponsor",
    "supporter"
   ],
@@ -1083,10 +1043,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "over-the-counter drug",
-   "over-the-counter medicine"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "directions prescribed beforehand; the action of prescribing authoritative rules or directions",
   "note": null,
@@ -1117,12 +1074,10 @@
    }
   ],
   "synonyms": [
-   "generative"
+   "fat",
+   "rich"
   ],
-  "antonyms": [
-   "unproductive",
-   "consumptive"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "producing or capable of producing (especially abundantly)",
   "note": null,
@@ -1193,11 +1148,11 @@
    }
   ],
   "synonyms": [
-   "batch",
    "deal",
-   "flock",
-   "hatful",
-   "heap"
+   "lot",
+   "mass",
+   "mess",
+   "mountain"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1236,11 +1191,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "depute",
-   "designate",
-   "assign"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a person appointed or elected to represent others",
@@ -1307,9 +1258,6 @@
    }
   ],
   "synonyms": [
-   "reckoner",
-   "figurer",
-   "estimator",
    "computer"
   ],
   "antonyms": null,
@@ -1344,11 +1292,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "culmination",
-   "closing",
-   "windup"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "(American football) a successful forward pass in football",
@@ -1386,7 +1330,6 @@
    }
   ],
   "synonyms": [
-   "shortcoming",
    "fault",
    "flaw"
   ],
@@ -1421,9 +1364,7 @@
    }
   ],
   "synonyms": [
-   "refuse",
-   "scraps",
-   "drivel"
+   "refuse"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1464,12 +1405,11 @@
    "exclude",
    "except",
    "neglect",
-   "pretermit",
-   "drop"
+   "drop",
+   "miss"
   ],
   "antonyms": [
-   "include",
-   "attend to"
+   "include"
   ],
   "phrases": null,
   "defsEn": "prevent from being included or considered or accepted",

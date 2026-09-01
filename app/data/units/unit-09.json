@@ -24,16 +24,9 @@
    }
   ],
   "synonyms": [
-   "civilized",
-   "civilised",
-   "cultivated",
-   "cultured",
-   "genteel"
+   "civil"
   ],
-  "antonyms": [
-   "impolite",
-   "uncivil"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "showing regard for others in manners, speech, behavior, etc.",
   "note": null,
@@ -64,9 +57,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "unprotective"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "intended or adapted to afford protection of some kind",
   "note": null,
@@ -99,10 +90,7 @@
    }
   ],
   "synonyms": [
-   "marketer",
-   "vender",
-   "vendor",
-   "trafficker"
+   "vendor"
   ],
   "antonyms": null,
   "phrases": null,
@@ -136,9 +124,7 @@
     "zh": "我看到湯姆推著嬰兒車走在人行道上。"
    }
   ],
-  "synonyms": [
-   "pavement"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "walk consisting of a paved area for pedestrians; usually beside a street or roadway",
@@ -251,7 +237,6 @@
    }
   ],
   "synonyms": [
-   "theodolite",
    "transportation",
    "passage"
   ],
@@ -287,11 +272,7 @@
     "zh": "我掉了我的錢包。"
    }
   ],
-  "synonyms": [
-   "billfold",
-   "notecase",
-   "pocketbook"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a pocket-size case for holding papers and paper money",
@@ -365,10 +346,9 @@
    }
   ],
   "synonyms": [
-   "insouciant",
-   "nonchalant",
    "everyday",
-   "daily"
+   "daily",
+   "chance"
   ],
   "antonyms": null,
   "phrases": null,
@@ -409,8 +389,7 @@
   ],
   "synonyms": [
    "exercise",
-   "practice",
-   "recitation"
+   "practice"
   ],
   "antonyms": null,
   "phrases": null,
@@ -448,8 +427,6 @@
   ],
   "synonyms": [
    "spring",
-   "outflow",
-   "outpouring",
    "jet"
   ],
   "antonyms": null,
@@ -550,9 +527,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "unpopularity"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the quality of being widely admired or accepted or sought after",
   "note": null,
@@ -585,8 +560,6 @@
    }
   ],
   "synonyms": [
-   "posting",
-   "placard",
    "notice",
    "bill",
    "card"
@@ -623,9 +596,7 @@
   ],
   "synonyms": [
    "quickly",
-   "quick",
-   "readily",
-   "pronto"
+   "quick"
   ],
   "antonyms": null,
   "phrases": null,
@@ -693,8 +664,6 @@
    }
   ],
   "synonyms": [
-   "void",
-   "emptiness",
    "vacuum"
   ],
   "antonyms": null,
@@ -733,10 +702,7 @@
     "zh": "她坐在長椅上。"
    }
   ],
-  "synonyms": [
-   "terrace",
-   "judiciary"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a long seat for more than one person",
@@ -763,9 +729,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "accumulative"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "increasing by successive addition",
@@ -832,8 +796,7 @@
    }
   ],
   "synonyms": [
-   "administration",
-   "disposition"
+   "administration"
   ],
   "antonyms": null,
   "phrases": null,
@@ -931,13 +894,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "knowing",
-   "learned",
-   "lettered",
-   "well-educated",
-   "well-read"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "highly educated; having extensive information or understanding",
@@ -970,11 +927,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "organiser",
-   "arranger",
-   "PDA"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a person who brings order and organization to an enterprise",
@@ -1007,9 +960,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "delinquent"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "past due; not paid at the scheduled time",
@@ -1042,13 +993,7 @@
     "zh": "我的預測是正確的。"
    }
   ],
-  "synonyms": [
-   "anticipation",
-   "prevision",
-   "foretelling",
-   "forecasting",
-   "prognostication"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the act of predicting (as by reasoning about the future)",
@@ -1082,11 +1027,7 @@
    }
   ],
   "synonyms": [
-   "endorser",
-   "indorser",
-   "ratifier",
-   "reader",
-   "contributor"
+   "reader"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1123,7 +1064,6 @@
   "synonyms": [
    "brochure",
    "folder",
-   "leaflet",
    "pamphlet"
   ],
   "antonyms": null,
@@ -1195,9 +1135,7 @@
    }
   ],
   "synonyms": [
-   "inscribe",
    "enter",
-   "enrol",
    "recruit"
   ],
   "antonyms": null,
@@ -1237,11 +1175,7 @@
    }
   ],
   "synonyms": [
-   "thwart",
-   "queer",
-   "spoil",
-   "scotch",
-   "foil"
+   "cross"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1279,16 +1213,8 @@
     "zh": "旗袍是一種17世紀起源於中國的傳統式樣的女性服裝。"
    }
   ],
-  "synonyms": [
-   "dress",
-   "clothe",
-   "enclothe",
-   "garb",
-   "raiment"
-  ],
-  "antonyms": [
-   "undress"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "an article of clothing",
   "note": null,
@@ -1320,7 +1246,9 @@
     "zh": null
    }
   ],
-  "synonyms": null,
+  "synonyms": [
+   "preference"
+  ],
   "antonyms": null,
   "phrases": null,
   "defsEn": "the act of orienting",
@@ -1355,7 +1283,8 @@
   ],
   "synonyms": [
    "exit",
-   "issue"
+   "issue",
+   "release"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1392,7 +1321,6 @@
   ],
   "synonyms": [
    "package",
-   "bundle",
    "parcel"
   ],
   "antonyms": null,
@@ -1460,9 +1388,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "spec"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a detailed description of design criteria for a piece of work",

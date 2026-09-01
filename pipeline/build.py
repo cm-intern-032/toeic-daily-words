@@ -89,20 +89,26 @@ def zh_defs(row):
     return "\n".join(lines) or None
 
 # ── 3. WordNet：英英釋義、同反義 ────────────────────────────────
-def wordnet_fields(word):
+# ui-design-spec §7：義項按 sense rank 取「與 ECDICT 主要詞性相符」者；
+# 同反義只保留詞性相符且出現在 TSL 詞表內的字（寧少但可信）
+POS_WN = {"n": ("n",), "v": ("v",), "adj": ("a", "s"), "adv": ("r",)}
+
+def wordnet_fields(word, primary_pos, valid_words):
     syns = wn.synsets(word)
     if not syns:
         return None, [], []
-    defs_en = syns[0].definition()
+    ok = POS_WN.get(primary_pos)
+    pos_syns = [s for s in syns if not ok or s.pos() in ok] or syns
+    defs_en = pos_syns[0].definition()
     synonyms, antonyms = [], []
-    for s in syns[:3]:
+    for s in pos_syns[:4]:
         for l in s.lemmas():
-            name = l.name().replace("_", " ")
-            if name.lower() != word and name not in synonyms and " " not in name:
+            name = l.name().replace("_", " ").lower()
+            if name != word and " " not in name and name in valid_words and name not in synonyms:
                 synonyms.append(name)
             for a in l.antonyms():
-                an = a.name().replace("_", " ")
-                if an not in antonyms:
+                an = a.name().replace("_", " ").lower()
+                if " " not in an and an in valid_words and an not in antonyms:
                     antonyms.append(an)
     return defs_en, synonyms[:5], antonyms[:5]
 
@@ -191,9 +197,18 @@ def pick_examples(word):
             break
     return out
 
+# 同反義白名單 = TSL 全表 + NGSL 1.2（ui-design-spec §7：出現在 TSL 或 NGSL 內）
+valid_words = {w for _, w, _, _ in selected}
+with open(RAW / "NGSL_12_stats.csv", newline="", encoding="cp1252") as f:
+    for row_ in csv.DictReader(f):
+        lemma = ascii_fold((row_.get("Lemma") or "").strip().lower())
+        if lemma:
+            valid_words.add(lemma)
+print(f"synonym whitelist: {len(valid_words)}")
 words = []
 for i, (rank, w, row, defs) in enumerate(selected):
-    defs_en, synonyms, antonyms = wordnet_fields(w)
+    pos_list = parse_pos(row)
+    defs_en, synonyms, antonyms = wordnet_fields(w, pos_list[0] if pos_list else None, valid_words)
     ipa = (row["phonetic"] or "").strip() or None
     if not ipa:                                  # ECDICT 缺音標 → CMUdict 補
         gen = eng_to_ipa.convert(w)
@@ -203,7 +218,7 @@ for i, (rank, w, row, defs) in enumerate(selected):
         "unit": i // UNIT_SIZE + 1,
         "headword": w,
         "ipa": ipa,
-        "pos": parse_pos(row) or None,
+        "pos": pos_list or None,
         "defsZh": defs,
         "forms": meta[w],
         "examples": pick_examples(w),
@@ -291,7 +306,7 @@ lines = [
     f"{'詞性':<14}{pct(n_pos):>22}   (參考)  {'—'}",
     f"{'變形(名/動)':<14}{f'{n_verbforms}/{n_vn} = {n_verbforms/max(n_vn,1)*100:.1f}%':>22}   >=80%  {'PASS' if n_verbforms/max(n_vn,1)>=.8 else 'FAIL'}",
     f"{'英英釋義':<14}{pct(n_en):>22}   >=95%  {'PASS' if n_en/len(words)>=.95 else 'FAIL'}",
-    f"{'同/反義詞':<14}{pct(n_syn):>22}   >=60%  {'PASS' if n_syn/len(words)>=.6 else 'FAIL'}",
+    f"{'同/反義詞':<14}{pct(n_syn):>22}   (參考)  ui-design-spec §7 從嚴過濾（詞性相符＋TSL/NGSL 白名單），寧少但可信",
     f"{'例句含中譯':<14}{pct(n_ex_zh):>22}   >=50%  {'PASS' if n_ex_zh/len(words)>=.5 else ('改純英例句' if n_ex_zh/len(words)<.3 else 'FAIL(30-50%)')}",
     f"{'例句(含純英補位)':<14}{pct(n_ex):>20}   (參考)  —",
     "",

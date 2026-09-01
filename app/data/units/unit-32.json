@@ -58,10 +58,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "undependable",
-   "treacherous"
-  ],
+  "synonyms": null,
   "antonyms": [
    "reliable",
    "dependable"
@@ -102,16 +99,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "acclamation",
-   "plaudits",
-   "plaudit",
-   "eclat",
-   "hail"
-  ],
-  "antonyms": [
-   "boo"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "enthusiastic approval",
   "note": null,
@@ -142,13 +131,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "continuing",
-   "inveterate"
-  ],
-  "antonyms": [
-   "acute"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "being long-lasting and recurrent or characterized by long suffering",
   "note": null,
@@ -184,13 +168,9 @@
    }
   ],
   "synonyms": [
-   "devolve",
-   "drop",
-   "degenerate"
+   "drop"
   ],
-  "antonyms": [
-   "recuperate"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "become worse or disintegrate",
   "note": null,
@@ -252,13 +232,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "unauthorised",
-   "wildcat"
-  ],
-  "antonyms": [
-   "authorized"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "not endowed with authority",
   "note": null,
@@ -295,14 +270,9 @@
    }
   ],
   "synonyms": [
-   "break",
-   "transgress",
-   "offend",
-   "infract",
-   "breach"
+   "break"
   ],
   "antonyms": [
-   "conform to",
    "keep"
   ],
   "phrases": null,
@@ -342,9 +312,7 @@
   "synonyms": [
    "disconnect"
   ],
-  "antonyms": [
-   "plug in"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "pull the plug of (electrical appliances) and render inoperable",
   "note": null,

@@ -56,9 +56,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "deficient"
-  ],
+  "synonyms": null,
   "antonyms": [
    "sufficient"
   ],
@@ -92,9 +90,7 @@
    }
   ],
   "synonyms": [
-   "basic",
-   "prefatorial",
-   "prefatory"
+   "basic"
   ],
   "antonyms": null,
   "phrases": null,
@@ -133,11 +129,7 @@
    }
   ],
   "synonyms": [
-   "debris",
-   "dust",
-   "rubble",
-   "detritus",
-   "trash"
+   "dust"
   ],
   "antonyms": null,
   "phrases": null,
@@ -170,10 +162,7 @@
    }
   ],
   "synonyms": [
-   "dame",
-   "madam",
-   "lady",
-   "gentlewoman"
+   "lady"
   ],
   "antonyms": null,
   "phrases": null,
@@ -207,9 +196,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "milage"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "distance measured in miles",
@@ -324,7 +311,7 @@
    "package",
    "portion",
    "share",
-   "tract"
+   "packet"
   ],
   "antonyms": null,
   "phrases": null,
@@ -392,12 +379,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "periodic"
-  ],
-  "antonyms": [
-   "aperiodic"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "a publication that appears at fixed intervals",
   "note": null,
@@ -431,9 +414,7 @@
    }
   ],
   "synonyms": [
-   "lozenge",
-   "tablet",
-   "tab"
+   "tablet"
   ],
   "antonyms": null,
   "phrases": null,
@@ -468,11 +449,9 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "unportable"
-  ],
+  "antonyms": null,
   "phrases": null,
-  "defsEn": "a small light typewriter; usually with a case in which it can be carried",
+  "defsEn": "easily or conveniently transported",
   "note": null,
   "audioUrl": null
  },
@@ -501,9 +480,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "unpunctual"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "acting or arriving or performed exactly at the time appointed",
   "note": null,
@@ -536,7 +513,6 @@
    }
   ],
   "synonyms": [
-   "diversion",
    "refreshment"
   ],
   "antonyms": null,
@@ -575,15 +551,11 @@
    }
   ],
   "synonyms": [
-   "alleviate",
-   "palliate",
-   "assuage",
-   "exempt",
-   "free"
+   "free",
+   "still",
+   "ease"
   ],
-  "antonyms": [
-   "enforce"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "provide physical relief, as from pain",
   "note": null,
@@ -616,7 +588,6 @@
    }
   ],
   "synonyms": [
-   "admonisher",
    "monitor"
   ],
   "antonyms": null,
@@ -656,11 +627,7 @@
     "zh": "謠言說他辭職了。"
    }
   ],
-  "synonyms": [
-   "rumour",
-   "hearsay",
-   "bruit"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "gossip (usually a mixture of truth and untruth) passed around by word of mouth",
@@ -732,9 +699,7 @@
     "zh": "我乘車去了海邊。"
    }
   ],
-  "synonyms": [
-   "seaboard"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the shore of a sea or ocean regarded as a resort",
@@ -771,14 +736,11 @@
    }
   ],
   "synonyms": [
-   "abridge",
-   "foreshorten",
-   "abbreviate",
    "cut",
-   "contract"
+   "contract",
+   "reduce"
   ],
   "antonyms": [
-   "lengthen",
    "expand"
   ],
   "phrases": null,
@@ -812,8 +774,7 @@
   ],
   "synonyms": [
    "especially",
-   "particularly",
-   "peculiarly"
+   "particularly"
   ],
   "antonyms": null,
   "phrases": null,
@@ -853,10 +814,8 @@
    }
   ],
   "synonyms": [
-   "spillway",
-   "wasteweir",
-   "spillage",
-   "release"
+   "release",
+   "fall"
   ],
   "antonyms": null,
   "phrases": null,
@@ -967,7 +926,8 @@
    }
   ],
   "synonyms": [
-   "pad"
+   "pad",
+   "pill"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1039,10 +999,6 @@
    }
   ],
   "synonyms": [
-   "peddle",
-   "monger",
-   "huckster",
-   "hawk",
    "pitch"
   ],
   "antonyms": null,
@@ -1115,8 +1071,7 @@
   ],
   "synonyms": [
    "emphasis",
-   "dialect",
-   "idiom"
+   "stress"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1148,14 +1103,10 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "consultative",
-   "consultatory",
-   "consultive"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "an announcement that usually advises or warns the public of some threat",
+  "defsEn": "giving advice; ,",
   "note": null,
   "audioUrl": null
  },
@@ -1184,16 +1135,8 @@
     "zh": "湯姆睡著了嗎？"
    }
   ],
-  "synonyms": [
-   "benumbed",
-   "numb",
-   "deceased",
-   "departed",
-   "gone"
-  ],
-  "antonyms": [
-   "awake"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "in a state of sleep",
   "note": null,
@@ -1226,9 +1169,7 @@
    }
   ],
   "synonyms": [
-   "reliable",
-   "unquestionable",
-   "veritable"
+   "reliable"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1262,10 +1203,7 @@
     "zh": "在美國的麵包店，\"麵包師傅的一打\"是13，不是12。"
    }
   ],
-  "synonyms": [
-   "bakeshop",
-   "bakehouse"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a workplace where baked goods (breads and cakes and pastries) are produced or sold",
@@ -1298,9 +1236,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "cartonful"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the quantity contained in a carton",
@@ -1370,9 +1306,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "incompatible"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "able to exist and perform in harmonious or agreeable combination",
   "note": null,
@@ -1403,11 +1337,8 @@
    }
   ],
   "synonyms": [
-   "ingestion",
-   "intake",
-   "uptake",
-   "phthisis",
-   "usance"
+   "use",
+   "expenditure"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1439,12 +1370,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "handily"
-  ],
-  "antonyms": [
-   "inconveniently"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "in a convenient manner",
   "note": null,
@@ -1477,11 +1404,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "decorative",
-   "ornamental",
-   "enhancive"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a toiletry designed to beautify the body",
