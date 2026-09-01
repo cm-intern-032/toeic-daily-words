@@ -257,7 +257,7 @@ async function renderFlash([arg]) {
   const isTask = (query || "").includes("task=first");
   const words = (await Content.loadUnit(n)).filter(w => !Store.wordP(w.id).deleted);
   if (!flash || flash.unit !== n || flash.isTask !== isTask) {
-    flash = { unit: n, words, i: 0, back: false, isTask };
+    flash = { unit: n, words, i: 0, back: false, isTask, lastSpoken: null };
   }
   flash.words = words;
   if (flash.i >= words.length) flash.i = Math.max(0, words.length - 1);
@@ -271,20 +271,25 @@ function drawFlash() {
     return;
   }
   const w = words[i];
-  const face = !back
-    ? `<span class="headword">${esc(w.headword)}</span>
+  // 正反面同時渲染成 3D 卡片，翻面只切 class，動畫才有「同一張卡」的連續性
+  const front = `<span class="headword">${esc(w.headword)}</span>
        ${w.ipa ? `<p class="ipa">/${esc(w.ipa)}/</p>` : ""}
        ${w.pos ? `<p class="pos">${esc(posLabel(w.pos))}</p>` : ""}
-       <p class="fliphint">點卡片看釋義</p>`
-    : `${defsHtml(w, 4)}
+       <p class="fliphint">點卡片看釋義</p>`;
+  const backFace = `${defsHtml(w, 4)}
        ${(w.examples || [])[0] ? exHtml(w.examples[0]) : ""}`;
 
   $main().innerHTML = `
     ${topbar("快速記憶 · Unit " + unit, "#/unit/" + unit)}
     <div class="pad flashpad">
       <p class="flash-i">${i + 1} / ${words.length}</p>
-      <button class="card flashcard" onclick="flash.back=!flash.back;drawFlash()"
-        aria-label="${flash.back ? "卡片背面，點擊翻回正面" : "點擊翻面看釋義"}">${face}</button>
+      <div class="flashwrap">
+        <button class="card flashcard3d ${back ? "flipped" : ""}" id="flashCard" onclick="flipCard()"
+          aria-label="${back ? "卡片背面，點擊翻回正面" : "點擊翻面看釋義"}">
+          <span class="face front">${front}</span>
+          <span class="face back">${backFace}</span>
+        </button>
+      </div>
       <div class="rowbtns center">
         ${speakBtn(w.headword, true)}
         <button class="iconbtn big" onclick="flashDelete()" aria-label="刪除">${ICONS.trash}</button>
@@ -296,6 +301,20 @@ function drawFlash() {
           : `<button class="btn" onclick="flashFinish()">完成瀏覽</button>`}
       </div>
     </div>`;
+
+  // 顯示新卡片時自動發音一次（設定可關；unlock 已在進入流程的手勢中完成）
+  if (Store.meta().autoSpeak !== false && flash.lastSpoken !== w.id) {
+    flash.lastSpoken = w.id;
+    Speech.speak(w.headword);
+  }
+}
+
+/* 翻面只切 class，讓 3D 轉場接手；不重繪整頁 */
+function flipCard() {
+  flash.back = !flash.back;
+  const el = document.getElementById("flashCard");
+  el.classList.toggle("flipped", flash.back);
+  el.setAttribute("aria-label", flash.back ? "卡片背面，點擊翻回正面" : "點擊翻面看釋義");
 }
 
 function flashDelete() {
@@ -457,10 +476,21 @@ function answer(pickId, rightId, btn) {
     if (b.dataset.id === rightId) b.classList.add("correct");
     else if (b === btn) b.classList.add("wrong");
   });
-  document.getElementById("quiznext").innerHTML =
-    `<span class="fb ${ok ? "ok" : "no"}">${ok ? "答對！" : "答錯，正確答案已標示"}</span>
-     <button class="btn" onclick="quiz.i++;quiz.answered=false;route()">${quiz.i + 1 >= quiz.list.length ? "看結果" : "下一題"}</button>`;
-  document.querySelector("#quiznext .btn").focus();
+  if (ok) {
+    // 答對不打斷節奏：短暫顯示回饋後自動進下一題；答錯才停下來看正確答案
+    document.getElementById("quiznext").innerHTML = `<span class="fb ok">答對！</span>`;
+    const qi = quiz.i;
+    setTimeout(() => {
+      if (quiz && quiz.answered && quiz.i === qi && location.hash === "#/quiz-run") {
+        quiz.i++; quiz.answered = false; route();
+      }
+    }, 600);
+  } else {
+    document.getElementById("quiznext").innerHTML =
+      `<span class="fb no">答錯，正確答案已標示</span>
+       <button class="btn" onclick="quiz.i++;quiz.answered=false;route()">${quiz.i + 1 >= quiz.list.length ? "看結果" : "下一題"}</button>`;
+    document.querySelector("#quiznext .btn").focus();
+  }
 }
 
 async function renderQuizDone() {
@@ -534,8 +564,12 @@ function renderSettings() {
         <p id="ioMsg" class="muted" role="status"></p>
       </div>
       <div class="card">
-        <h2>發音測試</h2>
+        <h2>發音</h2>
         <p class="muted">${Speech.supported ? "使用系統語音（en-US）。" : "注意：此瀏覽器不支援語音合成。"}</p>
+        <label class="switchrow">
+          <input type="checkbox" id="autoSpeak" ${Store.meta().autoSpeak !== false ? "checked" : ""}>
+          快速記憶顯示新卡片時自動發音
+        </label>
         <button class="btn ghost" ${Speech.supported ? "" : "disabled"}
           onclick="Speech.unlock();Speech.speak('This is a pronunciation test. Concrete. Vacation. Client.')">播放測試句</button>
       </div>
@@ -547,6 +581,9 @@ function renderSettings() {
         Tatoeba（例句，CC BY 2.0 FR）· OpenCC（簡轉繁）。</p>
       </div>
     </div>`;
+  document.getElementById("autoSpeak").addEventListener("change", e => {
+    Store.updateMeta({ autoSpeak: e.target.checked });
+  });
 }
 
 function doExport() {

@@ -2,7 +2,7 @@
    視覺準則見專案根目錄 DESIGN.md（taste-design 方法論）。 */
 :root{
   --ground:#EFF1F6; --surface:#FFFFFF; --surface-2:#F6F7FB;
-  --ink:#1D2440; --ink-2:#5B6380; --ink-3:#8B92AC; --line:#DCE0EB;
+  --ink:#1D2440; --ink-2:#5B6380; --ink-3:#68718D; --line:#DCE0EB;
   --accent:#DFAF52; --accent-soft:#F7ECD2; --accent-ink:#8A6100;
   --btn-bg:#24305E; --btn-ink:#FFFFFF;
   --good:#25754F; --good-bg:#E0F1E8; --bad:#B54258; --bad-bg:#F8E6EA;
@@ -177,12 +177,21 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 .flashpad{display:flex;flex-direction:column;gap:14px}
 .flash-i{color:var(--ink-3);font-size:12.5px;text-align:center;margin:0;
   font-family:var(--font-mono)}
-.flashcard{
-  min-height:300px;display:flex;flex-direction:column;justify-content:center;
-  align-items:center;text-align:center;cursor:pointer;margin:0;gap:6px;
-  width:100%;font:inherit;color:inherit;
+.flashwrap{perspective:1200px;width:100%}
+.flashcard3d{
+  position:relative;display:block;width:100%;min-height:320px;
+  margin:0;padding:0;cursor:pointer;font:inherit;color:inherit;
+  transform-style:preserve-3d;transition:transform .5s var(--ease);
 }
-.flashcard .defs p{font-size:17px}
+.flashcard3d.flipped{transform:rotateY(180deg)}
+.flashcard3d .face{
+  position:absolute;inset:0;border-radius:16px;
+  backface-visibility:hidden;-webkit-backface-visibility:hidden;
+  display:flex;flex-direction:column;justify-content:center;align-items:center;
+  text-align:center;gap:6px;padding:24px 20px;
+}
+.flashcard3d .face.back{transform:rotateY(180deg);overflow-y:auto}
+.flashcard3d .defs p{font-size:17px}
 .fliphint{color:var(--ink-3);font-size:12.5px;margin-top:14px}
 
 /* 測驗 */
@@ -234,6 +243,16 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 @media (prefers-reduced-motion: reduce){
   *{transition:none!important;animation:none!important}
 }
+
+/* 按壓回饋：列表列與選項按下變色（iOS 原生手感） */
+.wordrow:active,.unitrow:active{background:var(--surface-2)}
+.opts button:active:not(:disabled){background:var(--surface-2)}
+@keyframes pop{50%{transform:scale(1.03)}}
+.opts button.correct{animation:pop .3s var(--ease)}
+
+/* 設定開關列 */
+.switchrow{display:flex;align-items:center;gap:10px;font-size:14px;margin:10px 0;cursor:pointer}
+.switchrow input{font-size:16px;width:20px;height:20px;accent-color:var(--btn-bg);margin:0}
 
 /* 進場：卡片 cascade 浮現（DESIGN.md §6）；reduced-motion 由上方全域規則停用 */
 @keyframes rise{from{opacity:0;transform:translateY(8px)}}
