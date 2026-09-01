@@ -1,6 +1,6 @@
 /* Service worker：預快取整個 app（殼 + 10 份單元 JSON），離線完全可用。
    更新流程：改版時把 VERSION +1，舊快取在 activate 時清掉。 */
-const VERSION = "v1.3.0";
+const VERSION = "v1.4.0";
 const CACHE = "toeic-vocab-" + VERSION;
 
 const PRECACHE = [
@@ -37,7 +37,11 @@ self.addEventListener("fetch", e => {
   e.respondWith(
     caches.match(e.request, { ignoreSearch: true }).then(hit => hit ||
       fetch(e.request).then(res => {
-        if (res.ok && new URL(e.request.url).origin === location.origin) {
+        const origin = new URL(e.request.url).origin;
+        const cacheable = origin === location.origin ||
+          origin === "https://fonts.googleapis.com" ||   // 字體離線也要在
+          origin === "https://fonts.gstatic.com";
+        if (res.ok && cacheable) {
           const copy = res.clone();
           caches.open(CACHE).then(c => c.put(e.request, copy));
         }

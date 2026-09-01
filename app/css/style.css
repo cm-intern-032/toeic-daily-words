@@ -1,46 +1,49 @@
-/* 多益日課 — mobile-first, iPhone Safari 為主要目標 */
+/* 多益日課 — mobile-first, iPhone Safari 為主要目標。
+   視覺準則見專案根目錄 DESIGN.md（taste-design 方法論）。 */
 :root{
   --ground:#EFF1F6; --surface:#FFFFFF; --surface-2:#F6F7FB;
   --ink:#1D2440; --ink-2:#5B6380; --ink-3:#8B92AC; --line:#DCE0EB;
-  --accent:#F0B429; --accent-soft:#FBEECB; --accent-ink:#8A6100;
+  --accent:#DFAF52; --accent-soft:#F7ECD2; --accent-ink:#8A6100;
   --btn-bg:#24305E; --btn-ink:#FFFFFF;
   --good:#25754F; --good-bg:#E0F1E8; --bad:#B54258; --bad-bg:#F8E6EA;
   --shadow:0 1px 2px rgba(29,36,64,.05),0 6px 18px rgba(29,36,64,.06);
-  --focus:#4A5FB0;
+  --focus:#8A6100;
+  --font-mono:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,monospace;
+  --ease:cubic-bezier(.2,.7,.3,1);
 }
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
     --ground:#101527; --surface:#1A2038; --surface-2:#20274A;
     --ink:#E9ECF7; --ink-2:#A6ADCB; --ink-3:#7A82A6; --line:#2E3557;
-    --accent:#FFC94A; --accent-soft:#3A3350; --accent-ink:#FFD97A;
+    --accent:#E5C06A; --accent-soft:#3A3350; --accent-ink:#EFCF87;
     --btn-bg:#4A5FB0; --btn-ink:#FFFFFF;
     --good:#5FC996; --good-bg:#1E3A2F; --bad:#EE8298; --bad-bg:#432231;
     --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 18px rgba(0,0,0,.35);
-    --focus:#8296DD;
+    --focus:#E5C06A;
   }
 }
 :root[data-theme="dark"]{
   --ground:#101527; --surface:#1A2038; --surface-2:#20274A;
   --ink:#E9ECF7; --ink-2:#A6ADCB; --ink-3:#7A82A6; --line:#2E3557;
-  --accent:#FFC94A; --accent-soft:#3A3350; --accent-ink:#FFD97A;
+  --accent:#E5C06A; --accent-soft:#3A3350; --accent-ink:#EFCF87;
   --btn-bg:#4A5FB0; --btn-ink:#FFFFFF;
   --good:#5FC996; --good-bg:#1E3A2F; --bad:#EE8298; --bad-bg:#432231;
   --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 18px rgba(0,0,0,.35);
-  --focus:#8296DD;
+  --focus:#E5C06A;
 }
 
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{
   margin:0; background:var(--ground); color:var(--ink);
-  font:15px/1.65 "Noto Sans TC",-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif;
+  font:15px/1.65 "Outfit","Noto Sans TC",-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif;
   min-height:100vh; padding-bottom:calc(64px + env(safe-area-inset-bottom));
   -webkit-tap-highlight-color:transparent;
 }
 button{font-family:inherit;font-size:inherit;cursor:pointer}
 textarea,input{font-family:inherit;color:var(--ink)}
 :focus-visible{outline:2px solid var(--focus);outline-offset:2px;border-radius:4px}
-h1,h2,h3{margin:0;font-weight:700}
+h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 [hidden]{display:none!important}
 
 .topbar{
@@ -59,8 +62,8 @@ h1,h2,h3{margin:0;font-weight:700}
 .pad-s{padding:12px}
 .mt{margin-top:12px}
 .muted{color:var(--ink-2);font-size:13.5px;margin:4px 0}
-.datefmt{color:var(--ink-3);font-size:13px;letter-spacing:.12em;margin:2px 0 12px;
-  font-variant-numeric:tabular-nums}
+.datefmt{color:var(--ink-3);font-size:12.5px;letter-spacing:.1em;margin:2px 0 12px;
+  font-family:var(--font-mono)}
 .secttl{font-size:14px;color:var(--ink-2);margin:18px 0 8px}
 
 .card{
@@ -74,7 +77,9 @@ h1,h2,h3{margin:0;font-weight:700}
 .btn{
   border:none;border-radius:11px;background:var(--btn-bg);color:var(--btn-ink);
   padding:11px 20px;font-weight:700;font-size:15px;margin-top:8px;
+  transition:transform .12s var(--ease);
 }
+.btn:active,.iconbtn:active,.chipbtn:active{transform:translateY(1px)}
 .btn.ghost{background:var(--surface-2);color:var(--ink);border:1px solid var(--line)}
 .btn.danger{background:var(--bad-bg);color:var(--bad);border:1px solid var(--bad)}
 .btn.small{padding:6px 14px;font-size:13px;margin:0}
@@ -97,7 +102,7 @@ h1,h2,h3{margin:0;font-weight:700}
 .statrow{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:16px}
 .stat{background:var(--surface);border:1px solid var(--line);border-radius:14px;
   text-align:center;padding:14px 6px}
-.stat b{font-size:26px;font-variant-numeric:tabular-nums;display:block;line-height:1.2}
+.stat b{font-size:24px;font-family:var(--font-mono);display:block;line-height:1.3}
 .stat span{font-size:12px;color:var(--ink-2)}
 .notice{background:var(--accent-soft);color:var(--accent-ink);border-radius:12px;
   padding:10px 14px;font-size:13.5px;margin-bottom:12px}
@@ -133,8 +138,8 @@ h1,h2,h3{margin:0;font-weight:700}
 /* 單字詳情 */
 .w-head{display:flex;align-items:center;gap:12px;justify-content:space-between}
 .headword{font-size:clamp(1.9rem,8vw,2.6rem);font-weight:700;line-height:1.15;
-  overflow-wrap:anywhere}
-.ipa{color:var(--ink-3);font-style:italic;margin:2px 0;font-size:15px}
+  letter-spacing:-.015em;overflow-wrap:anywhere}
+.ipa{color:var(--ink-3);margin:2px 0;font-size:14px;font-family:var(--font-mono)}
 .pos{color:var(--accent-ink);font-weight:700;font-size:13px;letter-spacing:.08em;margin:2px 0}
 .defs p{margin:3px 0;font-size:16px}
 .wordcard h3{font-size:13px;color:var(--ink-3);letter-spacing:.1em;margin:16px 0 6px}
@@ -146,13 +151,13 @@ h1,h2,h3{margin:0;font-weight:700}
 .ex .en{margin:0;font-size:15px}
 .ex .zh{margin:2px 0 0;color:var(--ink-2);font-size:13.5px}
 .defen{color:var(--ink-2);font-size:14px;margin:0}
-.w-stats{color:var(--ink-3);font-size:12.5px;margin-top:16px;
-  font-variant-numeric:tabular-nums}
+.w-stats{color:var(--ink-3);font-size:12px;margin-top:16px;
+  font-family:var(--font-mono)}
 
 /* 快速記憶 */
 .flashpad{display:flex;flex-direction:column;gap:14px}
-.flash-i{color:var(--ink-3);font-size:13px;text-align:center;margin:0;
-  font-variant-numeric:tabular-nums}
+.flash-i{color:var(--ink-3);font-size:12.5px;text-align:center;margin:0;
+  font-family:var(--font-mono)}
 .flashcard{
   min-height:300px;display:flex;flex-direction:column;justify-content:center;
   align-items:center;text-align:center;cursor:pointer;margin:0;gap:6px;
@@ -181,8 +186,8 @@ h1,h2,h3{margin:0;font-weight:700}
 .fb.ok{color:var(--good)}
 .fb.no{color:var(--bad)}
 .center-card{text-align:center;padding:30px 18px}
-.scorehero{font-size:56px;font-weight:700;margin:0;line-height:1.1;
-  font-variant-numeric:tabular-nums}
+.scorehero{font-size:52px;font-weight:500;margin:0;line-height:1.1;
+  font-family:var(--font-mono)}
 .scorehero small{font-size:22px;color:var(--ink-3);font-weight:400}
 
 /* 設定 */
@@ -208,3 +213,12 @@ h1,h2,h3{margin:0;font-weight:700}
 @media (prefers-reduced-motion: reduce){
   *{transition:none!important;animation:none!important}
 }
+
+/* 進場：卡片 cascade 浮現（DESIGN.md §6）；reduced-motion 由上方全域規則停用 */
+@keyframes rise{from{opacity:0;transform:translateY(8px)}}
+.pad>.card{animation:rise .26s var(--ease) backwards}
+.pad>.card:nth-child(2){animation-delay:40ms}
+.pad>.card:nth-child(3){animation-delay:80ms}
+.pad>.card:nth-child(4){animation-delay:120ms}
+.pad>.card:nth-child(5){animation-delay:160ms}
+.pad>.card:nth-child(6){animation-delay:200ms}
