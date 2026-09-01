@@ -674,10 +674,19 @@ function restoreAll() {
 }
 
 /* ── 設定 ─────────────────────────────── */
+const APP_VERSION = (document.querySelector('meta[name="app-version"]') || {}).content || "dev";
+
 function renderSettings() {
   $main().innerHTML = `
     ${topbar("設定")}
     <div class="pad">
+      <div class="card">
+        <h2>版本與更新</h2>
+        <p class="muted">目前版本 ${esc(APP_VERSION)}。iOS 主畫面 App 沒有重新整理手勢，
+        覺得內容不對或想立即拿新版時，用這顆按鈕手動更新。</p>
+        <button class="btn" id="checkUpdateBtn">檢查並更新到最新版</button>
+        <p class="muted" id="updMsg" role="status"></p>
+      </div>
       <div class="card">
         <h2>恢復已刪除的單字</h2>
         <button class="btn ghost" onclick="nav('#/restore')">前往恢復頁</button>
@@ -717,6 +726,38 @@ function renderSettings() {
   document.getElementById("autoSpeak").addEventListener("change", e => {
     Store.updateMeta({ autoSpeak: e.target.checked });
   });
+  document.getElementById("checkUpdateBtn").addEventListener("click", checkUpdate);
+}
+
+/* 手動更新：?live=1 直通網路查線上版號（ios-pwa-rules §13），
+   有新版就讓 SW 重新安裝預快取，接管後自動重新載入 */
+async function checkUpdate() {
+  const btn = document.getElementById("checkUpdateBtn");
+  const msg = document.getElementById("updMsg");
+  btn.disabled = true;
+  msg.textContent = "檢查中…";
+  try {
+    const res = await fetch("index.html?live=1", { cache: "no-store" });
+    const m = (await res.text()).match(/name="app-version" content="([^"]+)"/);
+    const latest = m && m[1];
+    const reg = "serviceWorker" in navigator ? await navigator.serviceWorker.getRegistration() : null;
+    if (reg) await reg.update(); // 觸發新 SW 下載與預快取（新版會 skipWaiting 接管）
+    if (latest && latest !== APP_VERSION) {
+      msg.textContent = `發現新版本 ${latest}，下載中，完成後會自動重新載入…`;
+      if (reg && navigator.serviceWorker.controller) {
+        navigator.serviceWorker.addEventListener("controllerchange", () => location.reload(), { once: true });
+        setTimeout(() => location.reload(), 8000); // 保險絲：逾時直接重載
+      } else {
+        setTimeout(() => location.reload(), 1500);
+      }
+    } else {
+      msg.textContent = `已是最新版本（${APP_VERSION}）。剛發佈的新版可能要等幾分鐘 CDN 更新。`;
+      btn.disabled = false;
+    }
+  } catch (e) {
+    msg.textContent = "無法連上網路，請稍後再試。";
+    btn.disabled = false;
+  }
 }
 
 function doExport() {
