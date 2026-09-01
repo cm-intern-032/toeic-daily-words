@@ -28,9 +28,7 @@
     "zh": "我對這氣候習慣了。"
    }
   ],
-  "synonyms": [
-   "habituate"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "make psychologically or physically used (to something)",
@@ -136,11 +134,7 @@
     "zh": "試著藉由慢跑來減肥。"
    }
   ],
-  "synonyms": [
-   "trot",
-   "lope",
-   "nudge"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a sharp change in direction",
@@ -253,7 +247,6 @@
    }
   ],
   "synonyms": [
-   "reenforce",
    "reward"
   ],
   "antonyms": null,
@@ -288,9 +281,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "transmitter"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "someone who transmits a message",
@@ -330,10 +321,7 @@
    }
   ],
   "synonyms": [
-   "vacuity",
-   "void",
-   "vacancy",
-   "emptiness"
+   "vacancy"
   ],
   "antonyms": null,
   "phrases": null,
@@ -371,9 +359,7 @@
    }
   ],
   "synonyms": [
-   "radio",
-   "radiocommunication",
-   "tuner"
+   "radio"
   ],
   "antonyms": null,
   "phrases": null,
@@ -407,13 +393,11 @@
    }
   ],
   "synonyms": [
-   "annual",
-   "yearbook",
-   "annually"
+   "annual"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a reference book that is published regularly once every year",
+  "defsEn": "occurring or payable every year",
   "note": null,
   "audioUrl": null
  },
@@ -444,11 +428,8 @@
    }
   ],
   "synonyms": [
-   "grasp",
    "hold",
-   "taste",
-   "discernment",
-   "perceptiveness"
+   "taste"
   ],
   "antonyms": null,
   "phrases": null,
@@ -483,11 +464,10 @@
    }
   ],
   "synonyms": [
-   "lading",
    "freight",
    "load",
-   "loading",
-   "payload"
+   "shipment",
+   "consignment"
   ],
   "antonyms": null,
   "phrases": null,
@@ -524,9 +504,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "collaborate"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "work together on a common enterprise of project",
@@ -563,11 +541,8 @@
    }
   ],
   "synonyms": [
-   "deflect",
-   "perturb",
-   "unhinge",
-   "disquiet",
-   "trouble"
+   "trouble",
+   "disorder"
   ],
   "antonyms": null,
   "phrases": null,
@@ -635,8 +610,7 @@
    }
   ],
   "synonyms": [
-   "freedom",
-   "immunity"
+   "freedom"
   ],
   "antonyms": null,
   "phrases": null,
@@ -675,8 +649,7 @@
   ],
   "synonyms": [
    "supply",
-   "provide",
-   "render"
+   "provide"
   ],
   "antonyms": null,
   "phrases": null,
@@ -743,9 +716,7 @@
    }
   ],
   "synonyms": [
-   "wash",
-   "washing",
-   "washables"
+   "wash"
   ],
   "antonyms": null,
   "phrases": null,
@@ -777,15 +748,10 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "mandatary",
-   "mandate",
-   "compulsory",
-   "required"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "the recipient of a mandate",
+  "defsEn": "required by rule",
   "note": null,
   "audioUrl": null
  },
@@ -816,9 +782,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "nonmechanical"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "using (or as if using) mechanisms or tools or devices",
   "note": null,
@@ -850,11 +814,7 @@
     "zh": "今天下午我去了一趟藥妝店。"
    }
   ],
-  "synonyms": [
-   "pharmaceutics",
-   "drugstore",
-   "chemist's"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the art and science of preparing and dispensing drugs and medicines,",
@@ -925,7 +885,7 @@
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a periodical that is published every quarter (or four issues per year)",
+  "defsEn": "of or relating to or consisting of a quarter",
   "note": null,
   "audioUrl": null
  },
@@ -954,9 +914,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "nonresidential"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "used or designed for residence or limited to residences",
   "note": null,
@@ -988,13 +946,7 @@
     "zh": "他贏取了一份去德國留學的獎學金。"
    }
   ],
-  "synonyms": [
-   "eruditeness",
-   "erudition",
-   "learnedness",
-   "learning",
-   "encyclopedism"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "financial aid provided to a student on the basis of academic merit",
@@ -1027,10 +979,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "searcher",
-   "quester"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "someone making a search or inquiry",
@@ -1132,9 +1081,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "neglected"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "not watched",
@@ -1165,12 +1112,8 @@
     "zh": "Google 在推動網際網路資訊普及化上，發揮了重要作用。"
    }
   ],
-  "synonyms": [
-   "approachable"
-  ],
-  "antonyms": [
-   "inaccessible"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "capable of being reached",
   "note": null,
@@ -1202,8 +1145,6 @@
   ],
   "synonyms": [
    "subsequently",
-   "later",
-   "afterwards",
    "after"
   ],
   "antonyms": null,
@@ -1239,7 +1180,6 @@
    }
   ],
   "synonyms": [
-   "apologia",
    "excuse"
   ],
   "antonyms": null,
@@ -1279,14 +1219,10 @@
   ],
   "synonyms": [
    "piece",
-   "tack",
    "meet",
-   "gather",
-   "forgather"
+   "gather"
   ],
-  "antonyms": [
-   "disassemble"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "create by putting components or members together",
   "note": null,
@@ -1320,9 +1256,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "manual"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "light machine gun",
   "note": null,
@@ -1463,13 +1397,9 @@
   "synonyms": [
    "class",
    "sort",
-   "assort",
-   "separate",
-   "relegate"
+   "separate"
   ],
-  "antonyms": [
-   "declassify"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "arrange or order by classes or categories",
   "note": null,

@@ -27,8 +27,8 @@ const ICONS = {
   trash: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>`,
   list: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>`,
 };
-function speakBtn(headword, big) {
-  return `<button class="iconbtn${big ? " big" : ""}" data-word="${esc(headword)}"
+function speakBtn(headword, extra) {
+  return `<button class="iconbtn${extra ? " " + extra : ""}" data-word="${esc(headword)}"
     onclick="Speech.unlock();Speech.speak(this.dataset.word)" aria-label="發音">${ICONS.speaker}</button>`;
 }
 
@@ -151,13 +151,13 @@ async function renderHome() {
   const graduated = Object.values(Store.units()).filter(u => u.stage >= CONFIG.GRADUATE_STAGE).length;
 
   const weekday = "日一二三四五六"[new Date().getDay()];
-  let cards = "";
+  let sections = "";
 
   if (tasks.newUnit) {
     const words = await Content.loadUnit(tasks.newUnit);
     const fresh = words.filter(w => !Store.wordP(w.id).deleted);
-    cards += `<div class="card task">
-      <div class="task-tag new">新單元</div>
+    sections += `<div class="task">
+      <div class="task-tag">新單元</div>
       <h2>Unit ${tasks.newUnit}</h2>
       <p>${fresh.length} 個新單字，先快速瀏覽一遍，再用單字卷檢驗。</p>
       <button class="btn" onclick="Speech.unlock();nav('#/flash/${tasks.newUnit}?task=first')">開始學習</button>
@@ -165,68 +165,99 @@ async function renderHome() {
   }
 
   for (const r of tasks.reviewUnits) {
-    if (r.weak.length === 0) {
-      cards += `<div class="card task">
-        <div class="task-tag review">複習</div>
+    sections += r.weak.length === 0
+      ? `<div class="task">
+        <div class="task-tag">複習</div>
         <h2>Unit ${r.unit}</h2>
         <p>這個單元的字都已掌握，直接完成今天的複習。</p>
         <button class="btn ghost" onclick="Scheduler.completeUnit(${r.unit});route()">標記完成</button>
-      </div>`;
-    } else {
-      cards += `<div class="card task">
-        <div class="task-tag review">複習</div>
+      </div>`
+      : `<div class="task">
+        <div class="task-tag">複習</div>
         <h2>Unit ${r.unit}</h2>
         <p>${r.weak.length} 個待加強的字（低盒位或正確率不足）。</p>
         <button class="btn" onclick='Speech.unlock();startQuiz({kind:"review",unit:${r.unit}})'>開始複習測驗</button>
       </div>`;
-    }
   }
 
   if (!tasks.newUnit && tasks.reviewUnits.length === 0) {
-    cards = `<div class="card task done-card">
-      <h2>今天的任務都完成了</h2>
-      <p>${graduated >= CONFIG.UNITS ? "全部單元畢業，恭喜！" : "想加練可以到「測驗」自由出卷。"}</p>
+    sections = `<div class="done-note">
+      <b>今天的任務都完成了</b>
+      ${graduated >= CONFIG.UNITS ? "全部單元畢業，恭喜！" : "想加練可以到「測驗」自由出卷。"}
     </div>`;
   }
 
   const defer = tasks.deferred.length
     ? `<div class="notice">今日複習量已達上限（${CONFIG.DAILY_WEAK_CAP} 字），Unit ${tasks.deferred.join("、")} 順延到明天。</div>` : "";
 
+  // 未來 7 天複習負載（ui-design-spec §6.3）
+  const today = Dates.today();
+  const days = [];
+  for (let d = 0; d < 7; d++) {
+    const date = Dates.plus(today, d);
+    let count = 0;
+    for (let n = 1; n <= CONFIG.UNITS; n++) {
+      const u = Store.units()[n];
+      if (u && u.stage > 0 && u.stage < CONFIG.GRADUATE_STAGE && u.nextDue === date) {
+        const words = await Content.loadUnit(n);
+        count += words.filter(w => { const q = Store.wordP(w.id); return q.deleted !== "unit" && Store.isWeak(q); }).length;
+      }
+    }
+    days.push({ count, wd: "日一二三四五六"[new Date(date.replace(/-/g, "/")).getDay()] });
+  }
+  const maxLoad = Math.max(1, ...days.map(x => x.count));
+  const loadbars = days.map((x, idx) => `<div class="col ${idx === 0 ? "today" : ""}">
+      <span class="d">${x.count || ""}</span>
+      <div class="bar" style="height:${x.count ? Math.max(6, Math.round(x.count / maxLoad * 64)) : 2}px"></div>
+      <span class="d">${idx === 0 ? "今天" : x.wd}</span>
+    </div>`).join("");
+
   $main().innerHTML = `
     ${topbar("今日任務")}
     <div class="pad">
       <p class="datefmt">${Dates.today().replaceAll("-", " / ")}（${weekday}）</p>
       ${defer}
-      ${cards}
-      <div class="statrow">
-        <div class="stat"><b>${learned}</b><span>已學單字</span></div>
-        <div class="stat"><b>${mastered}</b><span>已掌握</span></div>
-        <div class="stat"><b>${graduated}</b><span>畢業單元</span></div>
+      ${sections}
+      <div class="loadchart">
+        <p class="fieldname">未來 7 天複習負載</p>
+        <div class="loadbars">${loadbars}</div>
+      </div>
+      <div class="stat3">
+        <div><b>${learned}</b><span>已學單字</span></div>
+        <div><b>${mastered}</b><span>已掌握</span></div>
+        <div><b>${graduated}</b><span>畢業單元</span></div>
       </div>
       ${Store.persistOk ? "" : `<div class="notice bad">注意：無法寫入儲存空間，進度不會保留。請確認 Safari 沒有使用無痕模式。</div>`}
     </div>`;
 }
 
-/* ── 單元列表 ─────────────────────────── */
+/* ── 單元列表（ui-design-spec §6.2）：格子圖 + 64px 列 ── */
+const heatColor = s => `var(--heat-${Math.min(6, Math.max(0, s))})`;
+
 async function renderUnits() {
-  await Content.loadAll(); // 平行抓 10 個單元，之後的 loadUnit 都命中快取
-  let rows = "";
+  await Content.loadAll(); // 平行抓全部單元，之後的 loadUnit 都命中快取
+  let cells = "", rows = "";
   for (let n = 1; n <= CONFIG.UNITS; n++) {
     const words = await Content.loadUnit(n);
     const u = Store.units()[n];
-    const stage = u ? u.stage : 0;
-    const learned = words.filter(w => { const p = Store.wordP(w.id); return !p.deleted && Store.attempted(p); }).length;
-    const alive = words.filter(w => !Store.wordP(w.id).deleted).length;
-    const stagePips = Array.from({ length: CONFIG.GRADUATE_STAGE }, (_, i) =>
-      `<i class="${i < stage ? "on" : ""}"></i>`).join("");
-    rows += `<button class="card unitrow" onclick="nav('#/unit/${n}')">
-      <div class="unitrow-head"><span class="u-title">Unit ${n}</span>
-        <span class="stagelbl">${stage >= CONFIG.GRADUATE_STAGE ? "畢業" : "stage " + stage}</span></div>
-      <div class="bar"><div style="width:${alive ? learned / alive * 100 : 0}%"></div></div>
-      <div class="unitrow-foot"><span>已學 ${learned}/${alive}</span><span class="pips">${stagePips}</span></div>
+    const stage = Math.min(u ? u.stage : 0, 6); // 熱度色階 0–6（stage 7 畢業視同 6）
+    const learned = words.filter(w => { const p = Store.wordP(w.id); return p.deleted !== "unit" && Store.attempted(p); }).length;
+    const alive = words.filter(w => Store.wordP(w.id).deleted !== "unit").length;
+    cells += `<button style="background:${heatColor(stage)}" class="${stage >= 3 ? "deep" : ""}"
+      onclick="nav('#/unit/${n}')" aria-label="Unit ${n}，熱度 ${stage}">${n}</button>`;
+    rows += `<button class="unitrow" onclick="nav('#/unit/${n}')">
+      <span class="heat" style="background:${heatColor(stage)}"></span>
+      <span class="u-mid">
+        <span class="u-title">Unit ${n}</span>
+        <span class="track"><span style="width:${alive ? learned / alive * 100 : 0}%"></span></span>
+      </span>
+      <span class="u-count">${learned}<small>/ ${alive}</small></span>
     </button>`;
   }
-  $main().innerHTML = `${topbar("單元列表")}<div class="pad">${rows}</div>`;
+  $main().innerHTML = `${topbar("單元")}<div class="pad">
+    <div class="gridmap">${cells}</div>
+    <div class="list">${rows}</div>
+  </div>`;
 }
 
 /* ── 單元字表 ─────────────────────────── */
@@ -261,6 +292,7 @@ function drawPager(enterDir) {
       <div class="pager">
         <div class="card wordcard" id="pagerCard">${wordCardHtml(w)}</div>
       </div>
+      ${wstats3Html(w.id)}
       <!-- 視覺上以滑動為唯一導航；保留螢幕閱讀器專用的前後頁按鈕 -->
       <button class="sr-only" ${i === 0 ? "disabled" : ""} onclick="pagerGo(-1)">上一個單字</button>
       <button class="sr-only" ${i === words.length - 1 ? "disabled" : ""} onclick="pagerGo(1)">下一個單字</button>
@@ -309,7 +341,7 @@ function renderUnitList(n, alive) {
   }).join("");
   $main().innerHTML = `
     ${topbar("Unit " + n + " 索引", "#/unit/" + n)}
-    <div class="pad"><div class="card list">${rows}</div></div>`;
+    <div class="pad"><div class="list">${rows}</div></div>`;
 }
 
 /* 分頁器鍵盤操作（桌面） */
@@ -320,32 +352,42 @@ document.addEventListener("keydown", e => {
   if (e.key === "ArrowRight") pagerGo(1);
 });
 
-/* ── 單字卡模板（分頁器與獨立詳情頁共用） ── */
+/* ── 單字卡模板（分頁器與獨立詳情頁共用，ui-design-spec §6.1） ── */
 function wordCardHtml(w) {
   const p = Store.wordP(w.id);
-  const acc = p.correct + p.incorrect ? Math.round(Store.acc(p) * 100) + "%" : "—";
   const formsRow = w.forms ? Object.entries({ plural: "複數", past: "過去式", pp: "過去分詞", ing: "現在分詞", thirdSg: "三單" })
     .filter(([k]) => w.forms[k]).map(([k, lbl]) => `<span class="chip">${lbl} ${esc(w.forms[k])}</span>`).join("") : "";
   const examples = (w.examples || []).map(exHtml).join("");
+  const boxes = Array.from({ length: CONFIG.LEITNER_MAX_BOX }, (_, k) => `<i class="${k < p.box ? "on" : ""}"></i>`).join("");
   return `
+        <div class="boxsq" role="img" aria-label="盒位 ${p.box}/${CONFIG.LEITNER_MAX_BOX}">${boxes}</div>
         <div class="w-head">
-          <h2 class="headword">${esc(w.headword)}</h2>
-          ${speakBtn(w.headword)}
+          <span class="headword">${esc(w.headword)}</span>
+          ${speakBtn(w.headword, "speak40")}
         </div>
         ${w.ipa ? `<p class="ipa">/${esc(w.ipa)}/</p>` : ""}
-        ${w.pos ? `<p class="pos">${esc(posLabel(w.pos))}</p>` : ""}
         ${defsHtml(w)}
-        ${formsRow ? `<div class="chips">${formsRow}</div>` : ""}
+        ${formsRow ? `<div class="chips scroll">${formsRow}</div>` : ""}
         ${examples ? `<h3>例句</h3>${examples}` : ""}
         ${w.synonyms ? `<h3>同義</h3><div class="chips">${w.synonyms.map(s => `<span class="chip">${esc(s)}</span>`).join("")}</div>` : ""}
         ${w.antonyms ? `<h3>反義</h3><div class="chips">${w.antonyms.map(s => `<span class="chip anti">${esc(s)}</span>`).join("")}</div>` : ""}
         ${w.defsEn ? `<h3>英英釋義</h3><p class="defen">${esc(w.defsEn)}</p>` : ""}
         ${w.note ? `<h3>說明</h3><p>${esc(w.note)}</p>` : ""}
-        <div class="w-stats">答對 ${p.correct} · 答錯 ${p.incorrect} · 正確率 ${acc} · 盒位 ${p.box}/${CONFIG.LEITNER_MAX_BOX}</div>
-        <div class="rowbtns">
-          <button class="btn ghost" onclick="toggleStar('${w.id}')">${p.starred ? "★ 已收藏" : "☆ 收藏"}</button>
-          <button class="btn danger" onclick="deleteWord('${w.id}','unit')">刪除此字</button>
+        <div class="cardfoot">
+          <button class="btn ghost small" onclick="toggleStar('${w.id}')">${p.starred ? "★ 已收藏" : "☆ 收藏"}</button>
+          <button class="linkbtn danger" onclick="deleteWord('${w.id}','unit')">刪除此字</button>
         </div>`;
+}
+
+/* 單字統計三欄：不進卡片、貼齊畫面底（§3.6） */
+function wstats3Html(id) {
+  const p = Store.wordP(id);
+  const acc = p.correct + p.incorrect ? Math.round(Store.acc(p) * 100) + "%" : "—";
+  return `<div class="wstats3">
+    <div><b>${p.correct}</b><span>答對</span></div>
+    <div><b>${p.incorrect}</b><span>答錯</span></div>
+    <div><b>${acc}</b><span>正確率</span></div>
+  </div>`;
 }
 
 /* ── 單字詳情（跨情境的獨立頁：測驗結果、恢復頁等入口） ── */
@@ -356,6 +398,7 @@ async function renderWord([id]) {
     ${topbar("單字詳情", "#/unit/" + w.unit)}
     <div class="pad">
       <div class="card wordcard">${wordCardHtml(w)}</div>
+      ${wstats3Html(w.id)}
     </div>`;
 }
 
@@ -402,7 +445,7 @@ function drawFlash() {
   // 正反面同時渲染成 3D 卡片，翻面只切 class，動畫才有「同一張卡」的連續性
   const front = `<span class="headword">${esc(w.headword)}</span>
        ${w.ipa ? `<p class="ipa">/${esc(w.ipa)}/</p>` : ""}
-       ${w.pos ? `<p class="pos">${esc(posLabel(w.pos))}</p>` : ""}
+       ${w.pos ? `<p class="posline">${esc(posLabel(w.pos))}</p>` : ""}
        <p class="fliphint">點卡片看釋義</p>`;
   const backFace = `${defsHtml(w, 4)}
        ${(w.examples || [])[0] ? exHtml(w.examples[0]) : ""}`;
@@ -419,7 +462,7 @@ function drawFlash() {
         </button>
       </div>
       <div class="rowbtns center">
-        ${speakBtn(w.headword, true)}
+        ${speakBtn(w.headword, "big")}
         <button class="iconbtn big" onclick="flashDelete()" aria-label="刪除">${ICONS.trash}</button>
       </div>
       <div class="rowbtns">
@@ -471,16 +514,20 @@ function flashFinish() {
   flash = null;
 }
 
-/* ── 測驗選擇 ─────────────────────────── */
+/* ── 測驗選擇（ui-design-spec §6.4）：單一 pill 組 + 單選/複選切換 ── */
 let multiSel = new Set();
+let quizPick = "single";
 
 async function renderQuizSetup() {
   const all = await Content.loadAll();
   const starred = all.filter(w => { const p = Store.wordP(w.id); return p.deleted !== "unit" && p.starred; });
   const wrong = all.filter(w => { const p = Store.wordP(w.id); return !p.deleted && Store.isWrongOften(p); });
 
-  const unitChips = Array.from({ length: CONFIG.UNITS }, (_, i) => i + 1)
-    .map(n => `<button class="chipbtn ${multiSel.has(n) ? "sel" : ""}" onclick="toggleMulti(${n})">U${n}</button>`).join("");
+  const unitChips = Array.from({ length: CONFIG.UNITS }, (_, i) => i + 1).map(n =>
+    quizPick === "single"
+      ? `<button class="chipbtn" onclick='Speech.unlock();startQuiz({kind:"unit",unit:${n}})'>U${n}</button>`
+      : `<button class="chipbtn ${multiSel.has(n) ? "sel" : ""}" onclick="toggleMulti(${n})">U${n}</button>`
+  ).join("");
 
   const wrongRows = wrong.slice(0, 60).map(w =>
     `<div class="wordrow slim"><div><b>${esc(w.headword)}</b><span class="zh">${esc(shortDef(w))}</span></div>
@@ -489,30 +536,32 @@ async function renderQuizSetup() {
   $main().innerHTML = `
     ${topbar("測驗")}
     <div class="pad">
-      <div class="card">
-        <h2>單元卷</h2><p class="muted">單一單元 40 字（已刪除的字不出現）。</p>
-        <div class="chiprow">${Array.from({ length: CONFIG.UNITS }, (_, i) => i + 1)
-          .map(n => `<button class="chipbtn" onclick='Speech.unlock();startQuiz({kind:"unit",unit:${n}})'>U${n}</button>`).join("")}</div>
-      </div>
-      <div class="card">
-        <h2>多單元複選</h2><p class="muted">點選要合併出題的單元。</p>
+      <div class="section">
+        <h2>單元卷</h2>
+        <div class="segtoggle" role="group" aria-label="出題方式">
+          <button class="${quizPick === "single" ? "on" : ""}" onclick="setQuizPick('single')">單選</button>
+          <button class="${quizPick === "multi" ? "on" : ""}" onclick="setQuizPick('multi')">複選</button>
+        </div>
         <div class="chiprow">${unitChips}</div>
-        <button class="btn" ${multiSel.size ? "" : "disabled"} onclick="Speech.unlock();startMultiQuiz()">開始（${multiSel.size} 個單元）</button>
+        ${quizPick === "multi"
+          ? `<button class="btn" ${multiSel.size ? "" : "disabled"} onclick="Speech.unlock();startMultiQuiz()">開始（${multiSel.size} 個單元）</button>`
+          : `<p class="muted">點選單元即開始出題（已刪除的字不出現）。</p>`}
       </div>
-      <div class="card">
-        <h2>收藏單字 <span class="cnt">${starred.length}</span></h2>
-        <button class="btn" ${starred.length >= CONFIG.QUIZ_OPTIONS ? "" : "disabled"} onclick='Speech.unlock();startQuiz({kind:"star"})'>開始</button>
+      <div class="section">
+        <h2>收藏單字<span class="cnt">${starred.length}</span></h2>
+        <button class="btn ghost" ${starred.length >= CONFIG.QUIZ_OPTIONS ? "" : "disabled"} onclick='Speech.unlock();startQuiz({kind:"star"})'>開始</button>
         ${starred.length < CONFIG.QUIZ_OPTIONS ? `<p class="muted">至少收藏 ${CONFIG.QUIZ_OPTIONS} 個字才能出題。</p>` : ""}
       </div>
-      <div class="card">
-        <h2>常錯單字 <span class="cnt">${wrong.length}</span></h2>
-        <p class="muted">答錯 ≥ ${CONFIG.WRONG_MIN_INCORRECT} 次且正確率 &lt; ${CONFIG.WRONG_ACC * 100}% 的字。</p>
-        <button class="btn" ${wrong.length >= CONFIG.QUIZ_OPTIONS ? "" : "disabled"} onclick='Speech.unlock();startQuiz({kind:"wrong"})'>開始</button>
+      <div class="section">
+        <h2>常錯單字<span class="cnt">${wrong.length}</span></h2>
+        <p class="muted">答錯 ${CONFIG.WRONG_MIN_INCORRECT} 次以上且正確率低於 ${CONFIG.WRONG_ACC * 100}% 的字。</p>
+        <button class="btn ghost" ${wrong.length >= CONFIG.QUIZ_OPTIONS ? "" : "disabled"} onclick='Speech.unlock();startQuiz({kind:"wrong"})'>開始</button>
         ${wrongRows ? `<div class="list mt">${wrongRows}</div>` : ""}
       </div>
     </div>`;
 }
 
+function setQuizPick(m) { quizPick = m; renderQuizSetup(); }
 function toggleMulti(n) { multiSel.has(n) ? multiSel.delete(n) : multiSel.add(n); renderQuizSetup(); }
 function removeFromWrong(id) { Store.updateWord(id, { deleted: "wrongList" }); renderQuizSetup(); }
 function startMultiQuiz() { startQuiz({ kind: "multi", units: [...multiSel] }); }
@@ -583,10 +632,10 @@ async function renderQuizRun() {
     ${topbar(quiz.title, "#/quiz")}
     <div class="pad">
       <p class="flash-i">${i + 1} / ${list.length}　得分 ${quiz.correct}</p>
-      <div class="card quizcard">
+      <div class="card quizhead">
         <div class="w-head">
-          <h2 class="headword">${esc(w.headword)}</h2>
-          ${speakBtn(w.headword)}
+          <span class="headword">${esc(w.headword)}</span>
+          ${speakBtn(w.headword, "speak40")}
         </div>
         ${w.ipa ? `<p class="ipa">/${esc(w.ipa)}/</p>` : ""}
       </div>
@@ -640,15 +689,15 @@ async function renderQuizDone() {
   $main().innerHTML = `
     ${topbar("測驗結果")}
     <div class="pad">
-      <div class="card center-card">
+      <div class="center-sect">
         <p class="scorehero">${correct}<small>/${list.length}</small></p>
-        <p class="muted">${title} · 正確率 ${pct}%${task ? " · 今日進度已更新 ✓" : ""}</p>
+        <p class="muted">${title}，正確率 ${pct}%${task ? "，今日進度已更新" : ""}</p>
         <div class="rowbtns center">
           <button class="btn" onclick="quiz=null;nav('#/home')">回今日任務</button>
           <button class="btn ghost" onclick="quiz=null;nav('#/quiz')">再出一卷</button>
         </div>
       </div>
-      ${wrongRows ? `<h3 class="secttl">答錯的字</h3><div class="card list">${wrongRows}</div>` : ""}
+      ${wrongRows ? `<p class="secttl">答錯的字</p><div class="list">${wrongRows}</div>` : ""}
     </div>`;
   quiz = null;
 }
@@ -664,7 +713,7 @@ async function renderRestore() {
     ${topbar("恢復已刪除", "#/settings")}
     <div class="pad">
       ${deleted.length ? `<button class="btn" onclick="restoreAll()">全部恢復（${deleted.length}）</button>
-        <div class="card list mt">${rows}</div>`
+        <div class="list mt">${rows}</div>`
         : `<div class="notice">沒有被刪除的單字。</div>`}
     </div>`;
 }
@@ -680,18 +729,18 @@ function renderSettings() {
   $main().innerHTML = `
     ${topbar("設定")}
     <div class="pad">
-      <div class="card">
+      <div class="section">
         <h2>版本與更新</h2>
         <p class="muted">目前版本 ${esc(APP_VERSION)}。iOS 主畫面 App 沒有重新整理手勢，
         覺得內容不對或想立即拿新版時，用這顆按鈕手動更新。</p>
         <button class="btn" id="checkUpdateBtn">檢查並更新到最新版</button>
         <p class="muted" id="updMsg" role="status"></p>
       </div>
-      <div class="card">
+      <div class="section">
         <h2>恢復已刪除的單字</h2>
         <button class="btn ghost" onclick="nav('#/restore')">前往恢復頁</button>
       </div>
-      <div class="card">
+      <div class="section">
         <h2>備份與還原</h2>
         <p class="muted">進度只存在這台裝置的瀏覽器裡。Safari 可能在儲存空間不足或長期未使用時清除資料，請定期備份。</p>
         <div class="rowbtns">
@@ -705,7 +754,7 @@ function renderSettings() {
         <button class="btn ghost" onclick="doImport()">匯入並覆蓋</button>
         <p id="ioMsg" class="muted" role="status"></p>
       </div>
-      <div class="card">
+      <div class="section">
         <h2>發音</h2>
         <p class="muted">${Speech.supported ? "使用系統語音（en-US）。" : "注意：此瀏覽器不支援語音合成。"}</p>
         <label class="switchrow">
@@ -715,7 +764,7 @@ function renderSettings() {
         <button class="btn ghost" ${Speech.supported ? "" : "disabled"}
           onclick="Speech.unlock();Speech.speak('This is a pronunciation test. Concrete. Vacation. Client.')">播放測試句</button>
       </div>
-      <div class="card about">
+      <div class="section about">
         <h2>關於</h2>
         <p class="muted">TOEIC 單字學習 — 1250 字（TSL 1.2 全量，依多益語料詞頻分 32 單元）。</p>
         <p class="muted">資料來源：TOEIC Service List 1.2（Browne, Culligan &amp; Phillips, CC BY）·

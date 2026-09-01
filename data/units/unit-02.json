@@ -27,9 +27,7 @@
    }
   ],
   "synonyms": [
-   "lease",
-   "letting",
-   "renting"
+   "lease"
   ],
   "antonyms": null,
   "phrases": null,
@@ -64,9 +62,7 @@
    }
   ],
   "synonyms": [
-   "guarantee",
-   "warrant",
-   "warrantee"
+   "guarantee"
   ],
   "antonyms": null,
   "phrases": null,
@@ -202,7 +198,8 @@
    }
   ],
   "synonyms": [
-   "response"
+   "response",
+   "receipt"
   ],
   "antonyms": null,
   "phrases": null,
@@ -235,13 +232,9 @@
    }
   ],
   "synonyms": [
-   "right",
-   "aright"
+   "right"
   ],
-  "antonyms": [
-   "incorrectly",
-   "wrongly"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "in an accurate manner",
   "note": null,
@@ -279,8 +272,7 @@
    }
   ],
   "synonyms": [
-   "rental",
-   "letting"
+   "rental"
   ],
   "antonyms": null,
   "phrases": null,
@@ -321,8 +313,7 @@
   "synonyms": [
    "bike",
    "wheel",
-   "cycle",
-   "pedal"
+   "cycle"
   ],
   "antonyms": null,
   "phrases": null,
@@ -360,9 +351,7 @@
    }
   ],
   "synonyms": [
-   "advise",
-   "apprise",
-   "apprize"
+   "advise"
   ],
   "antonyms": null,
   "phrases": null,
@@ -401,10 +390,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "prevue",
-   "trailer"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
@@ -439,11 +425,8 @@
    }
   ],
   "synonyms": [
-   "attender",
    "tender",
-   "attendee",
-   "meeter",
-   "accompaniment"
+   "attendee"
   ],
   "antonyms": null,
   "phrases": null,
@@ -508,13 +491,8 @@
     "zh": "八時半方便你嗎？"
    }
   ],
-  "synonyms": [
-   "commodious"
-  ],
-  "antonyms": [
-   "inconvenient",
-   "incommodious"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "suited to your comfort or purpose or needs",
   "note": null,
@@ -586,9 +564,7 @@
    }
   ],
   "synonyms": [
-   "hint",
-   "clew",
-   "cue"
+   "hint"
   ],
   "antonyms": null,
   "phrases": null,
@@ -668,7 +644,7 @@
    "get",
    "find",
    "incur",
-   "prevail"
+   "hold"
   ],
   "antonyms": null,
   "phrases": null,
@@ -703,13 +679,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "ellipse",
-   "egg-shaped",
-   "elliptic",
-   "elliptical",
-   "oval-shaped"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it",
@@ -781,7 +751,6 @@
    }
   ],
   "synonyms": [
-   "out-of-door",
    "outside"
   ],
   "antonyms": [
@@ -819,8 +788,7 @@
    }
   ],
   "synonyms": [
-   "bag",
-   "grip"
+   "bag"
   ],
   "antonyms": null,
   "phrases": null,
@@ -857,7 +825,6 @@
   "synonyms": [
    "finish",
    "goal",
-   "terminus",
    "address"
   ],
   "antonyms": null,
@@ -895,7 +862,8 @@
   "synonyms": [
    "business",
    "job",
-   "line"
+   "line",
+   "occupancy"
   ],
   "antonyms": null,
   "phrases": null,
@@ -933,11 +901,7 @@
    }
   ],
   "synonyms": [
-   "prorogue",
-   "table",
-   "shelve",
-   "defer",
-   "remit"
+   "table"
   ],
   "antonyms": null,
   "phrases": null,
@@ -975,11 +939,7 @@
    }
   ],
   "synonyms": [
-   "belie",
-   "negate",
-   "contravene",
-   "oppose",
-   "controvert"
+   "oppose"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1049,9 +1009,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "illation"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation",
@@ -1125,12 +1083,14 @@
    }
   ],
   "synonyms": [
-   "covenant",
-   "concordat"
+   "thick",
+   "summary"
   ],
-  "antonyms": null,
+  "antonyms": [
+   "loose"
+  ],
   "phrases": null,
-  "defsEn": "a small cosmetics case with a mirror; to be carried in a woman's purse",
+  "defsEn": "closely and firmly united or packed together",
   "note": null,
   "audioUrl": null
  },
@@ -1163,9 +1123,7 @@
    }
   ],
   "synonyms": [
-   "ware",
-   "product",
-   "trade"
+   "product"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1266,7 +1224,7 @@
    }
   ],
   "synonyms": [
-   "designation"
+   "recognition"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1340,14 +1298,15 @@
   ],
   "synonyms": [
    "go",
-   "deviate",
    "vary",
-   "diverge",
-   "part"
+   "part",
+   "start",
+   "quit"
   ],
   "antonyms": [
    "come",
-   "conform"
+   "conform",
+   "stay"
   ],
   "phrases": null,
   "defsEn": "move away from a place into another direction",
@@ -1415,11 +1374,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "tactics",
-   "maneuver",
-   "manoeuvre"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a plan for attaining a particular goal",
@@ -1452,12 +1407,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "redevelopment",
-   "overhaul",
-   "restoration",
-   "refurbishment"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the act of improving by renewing and restoring",
@@ -1497,15 +1447,11 @@
    }
   ],
   "synonyms": [
-   "ascent",
-   "acclivity",
    "rise",
    "raise",
    "climb"
   ],
-  "antonyms": [
-   "descent"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "an upward slope or grade (as in a road)",
   "note": null,

@@ -61,15 +61,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "personalise",
-   "individualize",
-   "individualise"
-  ],
-  "antonyms": [
-   "depersonalize",
-   "depersonalise"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "make personal or more personal",
   "note": null,
@@ -101,17 +94,14 @@
    }
   ],
   "synonyms": [
-   "ailing",
-   "indisposed",
-   "peaked",
-   "sickly",
-   "unwell"
+   "ill",
+   "badly"
   ],
   "antonyms": [
    "well"
   ],
   "phrases": null,
-  "defsEn": "somewhat ill or prone to illness",
+  "defsEn": "(`ill' is often used as a combining form) in a poor or improper or unsatisfactory manner; not well",
   "note": null,
   "audioUrl": null
  },
@@ -139,10 +129,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "esteemed",
-   "honored"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "having an illustrious reputation; respected",
@@ -254,15 +241,11 @@
    }
   ],
   "synonyms": [
-   "sketch",
-   "survey",
-   "CV",
-   "restart",
-   "re-start"
+   "summarize"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "short descriptive summary (of events)",
+  "defsEn": "take up or begin anew",
   "note": null,
   "audioUrl": null
  },
@@ -292,9 +275,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "reunification"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a party of former associates who have come together again",
@@ -331,8 +312,6 @@
    }
   ],
   "synonyms": [
-   "revolutionise",
-   "overturn",
    "inspire"
   ],
   "antonyms": null,
@@ -483,15 +462,14 @@
    }
   ],
   "synonyms": [
-   "tip",
-   "lead",
-   "wind",
-   "hint",
-   "bullock"
+   "direct",
+   "point",
+   "head",
+   "guide"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "an indication of potential opportunity",
+  "defsEn": "direct the course; determine the direction of travelling",
   "note": null,
   "audioUrl": null
  },
@@ -526,12 +504,11 @@
   ],
   "synonyms": [
    "action",
-   "litigate",
    "process"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "French writer whose novels described the sordid side of city life (1804-1857)",
+  "defsEn": "institute legal proceedings against; file a suit against",
   "note": null,
   "audioUrl": null
  },
@@ -627,8 +604,8 @@
    "enormous",
    "fantastic",
    "grand",
-   "howling",
-   "marvelous"
+   "terrific",
+   "wonderful"
   ],
   "antonyms": null,
   "phrases": null,
@@ -660,9 +637,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "afoot"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "currently in progress",
@@ -728,9 +703,7 @@
     "zh": "湯姆拉小提琴。"
    }
   ],
-  "synonyms": [
-   "fiddle"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow",
@@ -832,11 +805,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "arranger",
-   "transcriber",
-   "adaptor"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a musician who adapts a composition for particular voices or instruments or for another style of performance",
@@ -868,9 +837,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "inadvisable"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "worthy of being recommended or suggested; prudent or wise",
   "note": null,
@@ -910,7 +877,7 @@
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a depository containing historical records and documents",
+  "defsEn": "put into an archive",
   "note": null,
   "audioUrl": null
  },
@@ -938,10 +905,7 @@
     "zh": "此外，她有藝術家天賦。"
    }
   ],
-  "synonyms": [
-   "aesthetic",
-   "esthetic"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "relating to or characteristic of art or artists",
@@ -975,11 +939,8 @@
    }
   ],
   "synonyms": [
-   "self-assurance",
    "confidence",
-   "self-confidence",
-   "authority",
-   "sureness"
+   "authority"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1011,10 +972,7 @@
     "zh": "運動會要延期舉行。"
    }
   ],
-  "synonyms": [
-   "acrobatic",
-   "gymnastic"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "relating to or befitting athletics or athletes",
@@ -1052,15 +1010,9 @@
    }
   ],
   "synonyms": [
-   "garb",
-   "dress",
-   "overdress",
-   "prink"
+   "dress"
   ],
-  "antonyms": [
-   "underdress",
-   "dress down"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "clothing of a distinctive style or for a particular occasion",
   "note": null,
@@ -1093,9 +1045,7 @@
    }
   ],
   "synonyms": [
-   "hearer",
-   "listener",
-   "attender"
+   "listener"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1246,10 +1196,7 @@
     "zh": "這個班的女生平均身高超過了155公分。"
    }
   ],
-  "synonyms": [
-   "centimetre",
-   "cm"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a metric unit of length equal to one hundredth of a meter",
@@ -1287,10 +1234,8 @@
   ],
   "synonyms": [
    "spread",
-   "circularize",
-   "circularise",
    "distribute",
-   "disseminate"
+   "broadcast"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1329,10 +1274,7 @@
     "zh": "我的梳子在哪裡呢？"
    }
   ],
-  "synonyms": [
-   "cockscomb",
-   "coxcomb"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a flat device with narrow pointed teeth on one edge; disentangles or arranges hair",
@@ -1366,9 +1308,7 @@
   "synonyms": [
    "well"
   ],
-  "antonyms": [
-   "uncomfortably"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "in mental comfort; without stress",
   "note": null,
@@ -1401,16 +1341,9 @@
    }
   ],
   "synonyms": [
-   "conformity",
-   "conformation",
-   "abidance",
-   "complaisance",
-   "compliancy"
+   "submission"
   ],
-  "antonyms": [
-   "nonconformity",
-   "noncompliance"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "acting according to certain accepted standards",
   "note": null,
@@ -1442,11 +1375,10 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "compression",
-   "condensation"
+  "synonyms": null,
+  "antonyms": [
+   "expansion"
   ],
-  "antonyms": null,
   "phrases": null,
   "defsEn": "(physiology) a shortening or tensing of a part or organ (especially of a muscle or muscle fiber)",
   "note": null,

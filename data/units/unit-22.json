@@ -25,13 +25,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "spine",
-   "thorn",
-   "prickle",
-   "pricker",
-   "spikelet"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a small sharp-pointed tip resembling a spike on a stem or leaf",
@@ -64,9 +58,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "telecom"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "(often plural) systems used in transmitting messages over a distance electronically",
@@ -98,12 +90,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "seasonable",
-   "well-timed",
-   "seasonably",
-   "apropos"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "before a time limit expires",
@@ -169,12 +156,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "agreeableness"
-  ],
-  "antonyms": [
-   "disagreeableness"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "pleasantness resulting from agreeable conditions",
   "note": null,
@@ -211,15 +194,12 @@
    }
   ],
   "synonyms": [
-   "estimate",
-   "gauge",
-   "guess",
-   "judge",
-   "approximative"
+   "rough",
+   "near"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "be close or similar",
+  "defsEn": "not quite exact or correct",
   "note": null,
   "audioUrl": null
  },
@@ -294,9 +274,7 @@
     "zh": "我們要在海邊烤肉。"
    }
   ],
-  "synonyms": [
-   "barbeque"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "meat that has been barbecued or grilled in a highly seasoned sauce",
@@ -330,11 +308,8 @@
    }
   ],
   "synonyms": [
-   "novice",
-   "tyro",
-   "tiro",
-   "initiate",
-   "founder"
+   "founder",
+   "father"
   ],
   "antonyms": null,
   "phrases": null,
@@ -366,9 +341,7 @@
     "zh": "他在生物學考試時作弊。"
    }
   ],
-  "synonyms": [
-   "biota"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the science that studies living organisms",
@@ -408,8 +381,7 @@
    }
   ],
   "synonyms": [
-   "cover",
-   "mantle"
+   "cover"
   ],
   "antonyms": null,
   "phrases": null,
@@ -446,7 +418,6 @@
   "synonyms": [
    "president",
    "chairman",
-   "chairwoman",
    "chair"
   ],
   "antonyms": null,
@@ -479,16 +450,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "benevolent",
-   "kindly",
-   "sympathetic",
-   "good-hearted",
-   "openhearted"
-  ],
-  "antonyms": [
-   "uncharitable"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "relating to or characterized by charity",
   "note": null,
@@ -595,9 +558,7 @@
     "zh": "教我怎麼摺紙鶴吧。我忘記怎麼折了。"
    }
   ],
-  "synonyms": [
-   "Grus"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "United States writer (1871-1900)",
@@ -669,12 +630,11 @@
    "reliable",
    "honest",
    "true",
-   "rock-steady",
-   "steady-going"
+   "good",
+   "safe"
   ],
   "antonyms": [
-   "unreliable",
-   "undependable"
+   "unreliable"
   ],
   "phrases": null,
   "defsEn": "worthy of reliance or trust",
@@ -711,16 +671,13 @@
    }
   ],
   "synonyms": [
-   "gulf",
-   "disconnection",
    "unplug"
   ],
   "antonyms": [
-   "plug in",
    "connect"
   ],
   "phrases": null,
-  "defsEn": "an unbridgeable disparity (as from a failure of understanding)",
+  "defsEn": "pull the plug of (electrical appliances) and render inoperable",
   "note": null,
   "audioUrl": null
  },
@@ -754,14 +711,9 @@
    }
   ],
   "synonyms": [
-   "discard",
-   "fling",
-   "toss",
-   "incline"
+   "discard"
   ],
-  "antonyms": [
-   "indispose"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "give, sell, or transfer to another",
   "note": null,
@@ -832,13 +784,11 @@
    }
   ],
   "synonyms": [
-   "dynamical"
+   "active"
   ],
-  "antonyms": [
-   "undynamic"
-  ],
+  "antonyms": null,
   "phrases": null,
-  "defsEn": "an efficient incentive",
+  "defsEn": "characterized by action or forcefulness or force of personality",
   "note": null,
   "audioUrl": null
  },
@@ -866,12 +816,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "sky-high"
-  ],
-  "antonyms": [
-   "unenthusiastically"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "with enthusiasm; in an enthusiastic manner",
   "note": null,
@@ -909,14 +855,9 @@
    }
   ],
   "synonyms": [
-   "freelancer",
-   "free-lance",
-   "independent",
-   "self-employed"
+   "independent"
   ],
-  "antonyms": [
-   "salaried"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "a writer or artist who sells services to different employers without a long-term contract with any of them",
   "note": null,
@@ -953,11 +894,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "grillroom",
-   "grille",
-   "grillwork"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a restaurant where food is cooked on a grill",
@@ -988,11 +925,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "accustomed",
-   "customary",
-   "wonted"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "commonly used or practiced; usual",
@@ -1054,9 +987,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "priceless"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "having incalculable monetary, intellectual, or spiritual worth",
@@ -1125,11 +1056,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "softback",
-   "soft-cover",
-   "paperbacked"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a book with paper covers",
@@ -1164,8 +1091,7 @@
    }
   ],
   "synonyms": [
-   "discount",
-   "rabbet"
+   "discount"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1241,10 +1167,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "procreate",
-   "multiply"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "make a copy or equivalent of",
@@ -1282,9 +1205,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "spraying"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a pesticide in suspension or solution; intended for spraying",
@@ -1356,9 +1277,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "strategical"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "relating to or concerned with strategy",
@@ -1396,10 +1315,7 @@
    }
   ],
   "synonyms": [
-   "band",
-   "banding",
-   "chevron",
-   "stripes"
+   "band"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1434,11 +1350,7 @@
    }
   ],
   "synonyms": [
-   "adolescent",
-   "stripling",
-   "teenager",
-   "teenage",
-   "teenaged"
+   "teenager"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1476,10 +1388,9 @@
    }
   ],
   "synonyms": [
-   "allure",
-   "entice",
-   "lure",
-   "invite"
+   "invite",
+   "charm",
+   "influence"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1513,9 +1424,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "timekeeper"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a timepiece that measures a time interval and signals its end",

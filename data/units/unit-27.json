@@ -70,11 +70,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "dosage",
-   "VD",
-   "STD"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a measured portion of medicine taken at any one time",
@@ -112,11 +108,7 @@
     "zh": "湯姆會打邦哥鼓。"
    }
   ],
-  "synonyms": [
-   "membranophone",
-   "tympan",
-   "barrel"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end",
@@ -153,9 +145,6 @@
    }
   ],
   "synonyms": [
-   "implant",
-   "engraft",
-   "imbed",
    "plant"
   ],
   "antonyms": null,
@@ -230,9 +219,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "hasten"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "speed up the progress of; facilitate",
@@ -265,9 +252,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "asphyxiator"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a manually operated device for extinguishing small fires",
@@ -300,16 +285,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "acquaintance",
-   "conversance",
-   "conversancy",
-   "intimacy",
-   "closeness"
-  ],
-  "antonyms": [
-   "unfamiliarity"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "personal knowledge or information about someone or something",
   "note": null,
@@ -384,10 +361,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "vacillate",
-   "waver"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "cause to fluctuate or move in a wavelike pattern",
@@ -419,11 +393,9 @@
    }
   ],
   "synonyms": [
-   "fluid",
    "liquid",
    "smooth",
-   "eloquent",
-   "facile"
+   "silver"
   ],
   "antonyms": null,
   "phrases": null,
@@ -455,14 +427,8 @@
     "zh": "我看上去像是很有力氣的人，可實際上並非如此。"
    }
   ],
-  "synonyms": [
-   "candidly",
-   "frankly",
-   "aboveboard"
-  ],
-  "antonyms": [
-   "dishonestly"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "(used as intensives reflecting the speaker's attitude) it is sincerely the case that",
   "note": null,
@@ -561,9 +527,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "hygienics"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a condition promoting sanitary practices",
@@ -597,13 +561,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "built-in",
-   "constitutional",
-   "inbuilt",
-   "inherent",
-   "entire"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the result of a mathematical integration; F(x) is the integral of f(x) if dF/dx = f(x)",
@@ -634,13 +592,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "synergistic",
-   "interactional"
-  ],
-  "antonyms": [
-   "antagonistic"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more)",
   "note": null,
@@ -675,10 +628,7 @@
     "zh": "不要插手我的事。"
    }
   ],
-  "synonyms": [
-   "intervene",
-   "interpose"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "come between so as to be hindrance or obstacle",
@@ -711,10 +661,7 @@
     "zh": "米以公斤為單位來出售。"
    }
   ],
-  "synonyms": [
-   "kg",
-   "kilo"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "one thousand grams; the basic unit of mass adopted under the Systeme International d'Unites",
@@ -781,10 +728,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "whippersnapper",
-   "jackanapes"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a professional boxer who weighs between 131 and 135 pounds",
@@ -822,15 +766,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "virtue",
-   "deservingness",
-   "meritoriousness",
-   "deserve"
-  ],
-  "antonyms": [
-   "demerit"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "any admirable quality or attribute",
   "note": null,
@@ -895,16 +832,10 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "destitute",
-   "impoverished",
-   "indigent",
-   "necessitous",
-   "poverty-stricken"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "needy people collectively",
+  "defsEn": "poor enough to need help from others",
   "note": null,
   "audioUrl": null
  },
@@ -938,9 +869,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "underpay"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "pay too much",
   "note": null,
@@ -975,9 +904,7 @@
   "synonyms": [
    "booklet",
    "brochure",
-   "folder",
-   "leaflet",
-   "tract"
+   "folder"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1012,12 +939,10 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "overtone"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "the derivative of a function of two or more variables with respect to a single variable while the other variables are considered to be constant",
+  "defsEn": "being or affecting only a part; not total",
   "note": null,
   "audioUrl": null
  },
@@ -1050,10 +975,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "punish",
-   "penalise"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "impose a penalty on; inflict punishment on",
@@ -1089,10 +1011,7 @@
     "zh": "空氣被廢氣汙染了。"
    }
   ],
-  "synonyms": [
-   "foul",
-   "contaminate"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "make impure",
@@ -1129,8 +1048,7 @@
    }
   ],
   "synonyms": [
-   "order",
-   "dictate"
+   "order"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1168,11 +1086,9 @@
   "synonyms": [
    "likely"
   ],
-  "antonyms": [
-   "improbable"
-  ],
+  "antonyms": null,
   "phrases": null,
-  "defsEn": "an applicant likely to be chosen",
+  "defsEn": "likely but not certain to be or become true or real",
   "note": null,
   "audioUrl": null
  },
@@ -1204,10 +1120,8 @@
   ],
   "synonyms": [
    "outstanding",
-   "salient",
-   "spectacular",
-   "striking",
-   "big"
+   "big",
+   "large"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1269,7 +1183,6 @@
    }
   ],
   "synonyms": [
-   "resettlement",
    "move"
   ],
   "antonyms": null,
@@ -1305,9 +1218,7 @@
    }
   ],
   "synonyms": [
-   "abode",
-   "residency",
-   "abidance"
+   "hall"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1348,9 +1259,13 @@
   "synonyms": [
    "recover",
    "find",
-   "regain"
+   "remember",
+   "recall",
+   "think"
   ],
-  "antonyms": null,
+  "antonyms": [
+   "forget"
+  ],
   "phrases": null,
   "defsEn": "get or find back; recover the use of",
   "note": null,
@@ -1382,7 +1297,9 @@
     "zh": null
    }
   ],
-  "synonyms": null,
+  "synonyms": [
+   "passenger"
+  ],
   "antonyms": null,
   "phrases": null,
   "defsEn": "a traveler who actively rides an animal (as a horse or camel)",
@@ -1421,7 +1338,8 @@
    }
   ],
   "synonyms": [
-   "caoutchouc"
+   "safety",
+   "safe"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1456,8 +1374,7 @@
    }
   ],
   "synonyms": [
-   "carpet",
-   "carpeting"
+   "carpet"
   ],
   "antonyms": null,
   "phrases": null,

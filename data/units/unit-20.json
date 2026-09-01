@@ -26,9 +26,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "discourtesy"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "a courteous or respectful or considerate act",
   "note": null,
@@ -58,12 +56,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "creativeness"
-  ],
-  "antonyms": [
-   "uncreativeness"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the ability to create",
   "note": null,
@@ -96,11 +90,7 @@
    }
   ],
   "synonyms": [
-   "dissension",
-   "dissonance",
-   "discrepancy",
-   "divergence",
-   "variance"
+   "discrepancy"
   ],
   "antonyms": [
    "agreement"
@@ -136,9 +126,7 @@
     "zh": "新老師辜負了這個班學生的期望。"
    }
   ],
-  "synonyms": [
-   "letdown"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a feeling of dissatisfaction that results when your expectations are not realized",
@@ -208,10 +196,7 @@
     "zh": "不知怎麼的，我覺得翻譯好像已經不再是一件樂事了。"
    }
   ],
-  "synonyms": [
-   "gratifying",
-   "pleasurable"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "affording satisfaction or pleasure",
@@ -279,14 +264,11 @@
    }
   ],
   "synonyms": [
-   "favourable",
    "golden",
    "lucky",
-   "prosperous"
+   "friendly"
   ],
-  "antonyms": [
-   "unfavorable"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "encouraging or approving or pleasing",
   "note": null,
@@ -320,8 +302,6 @@
   ],
   "synonyms": [
    "chief",
-   "gaffer",
-   "honcho",
    "boss"
   ],
   "antonyms": null,
@@ -397,7 +377,6 @@
    }
   ],
   "synonyms": [
-   "laminitis",
    "beginner",
    "father"
   ],
@@ -433,9 +412,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "fund-raise"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "raise money for a cause or project",
@@ -467,7 +444,6 @@
    }
   ],
   "synonyms": [
-   "artwork",
    "art",
    "graphic"
   ],
@@ -506,7 +482,7 @@
   "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "United States blues musician who transcribed and published traditional blues music (1873-1958)",
+  "defsEn": "easy to reach",
   "note": null,
   "audioUrl": null
  },
@@ -535,7 +511,6 @@
    }
   ],
   "synonyms": [
-   "risky",
    "wild"
   ],
   "antonyms": null,
@@ -601,9 +576,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "humidness"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "wetness in the atmosphere",
@@ -635,9 +608,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "uninfluential"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "having or exercising influence or power",
   "note": null,
@@ -667,10 +638,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "countrywide",
-   "nationally"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "occurring or extending throughout a country or nation",
@@ -709,8 +677,7 @@
    }
   ],
   "synonyms": [
-   "tablet",
-   "inkpad"
+   "tablet"
   ],
   "antonyms": null,
   "phrases": null,
@@ -749,11 +716,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "paraphrasis",
-   "rephrase",
-   "reword"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "rewording for the purpose of clarification",
@@ -789,9 +752,7 @@
   "synonyms": [
    "arrangement",
    "location",
-   "locating",
-   "position",
-   "positioning"
+   "position"
   ],
   "antonyms": null,
   "phrases": null,
@@ -857,8 +818,7 @@
    }
   ],
   "synonyms": [
-   "promotion",
-   "packaging"
+   "promotion"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1007,11 +967,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "mutely",
-   "wordlessly",
-   "taciturnly"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "without speaking",
@@ -1256,13 +1212,8 @@
     "zh": "小屋乾淨又整潔。"
    }
   ],
-  "synonyms": [
-   "neaten",
-   "straighten"
-  ],
-  "antonyms": [
-   "untidy"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "receptacle that holds odds and ends (as sewing materials)",
   "note": null,
@@ -1367,9 +1318,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "desperately"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "with great urgency",
@@ -1396,8 +1345,7 @@
    }
   ],
   "synonyms": [
-   "walk",
-   "paseo"
+   "walk"
   ],
   "antonyms": null,
   "phrases": null,

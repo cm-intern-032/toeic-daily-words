@@ -55,14 +55,10 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "responder",
-   "answerer",
-   "answering"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "the codefendant (especially in a divorce proceeding) who is accused of adultery with the corespondent",
+  "defsEn": "replying",
   "note": null,
   "audioUrl": null
  },
@@ -90,9 +86,7 @@
     "zh": "瑪麗通常不戴首飾。"
    }
   ],
-  "synonyms": [
-   "jewellery"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an adornment (as a bracelet or ring or necklace) made of precious metals and set with gems (or imitation gems)",
@@ -127,9 +121,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "regulation time"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "work done in addition to regular working hours",
   "note": null,
@@ -230,10 +222,7 @@
   ],
   "synonyms": [
    "prominent",
-   "salient",
-   "spectacular",
-   "striking",
-   "owing"
+   "great"
   ],
   "antonyms": null,
   "phrases": null,
@@ -274,12 +263,12 @@
    }
   ],
   "synonyms": [
-   "skimming",
-   "plane"
+   "plane",
+   "scan"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a thin layer covering the surface of a liquid",
+  "defsEn": "travel on the surface of water",
   "note": null,
   "audioUrl": null
  },
@@ -343,8 +332,7 @@
    }
   ],
   "synonyms": [
-   "sweet",
-   "afters"
+   "sweet"
   ],
   "antonyms": null,
   "phrases": null,
@@ -384,9 +372,7 @@
    }
   ],
   "synonyms": [
-   "wallop",
-   "impingement",
-   "encroachment"
+   "shock"
   ],
   "antonyms": null,
   "phrases": null,
@@ -419,11 +405,7 @@
    }
   ],
   "synonyms": [
-   "advanced",
-   "forward-looking",
-   "modern",
-   "innovational",
-   "groundbreaking"
+   "modern"
   ],
   "antonyms": null,
   "phrases": null,
@@ -462,7 +444,6 @@
   ],
   "synonyms": [
    "ask",
-   "enquire",
    "wonder",
    "investigate"
   ],
@@ -500,10 +481,7 @@
     "zh": "英語不是一朝一夕就能學會的。"
    }
   ],
-  "synonyms": [
-   "nightlong",
-   "all-night"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "lasting, open, or operating through the whole night",
@@ -536,10 +514,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "locale",
-   "locus"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the scene of any event or action (especially the place of a meeting)",
@@ -605,9 +580,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "logotype"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a company emblem or device",
@@ -640,9 +613,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "newssheet"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "report or open letter giving informal or confidential news of interest to a special group",
@@ -744,13 +715,7 @@
     "zh": "開始多雲了。"
    }
   ],
-  "synonyms": [
-   "nebulose",
-   "nebulous",
-   "muddy",
-   "mirky",
-   "murky"
-  ],
+  "synonyms": null,
   "antonyms": [
    "clear"
   ],
@@ -785,9 +750,7 @@
     "zh": "誰是你最喜歡的攝影師？"
    }
   ],
-  "synonyms": [
-   "lensman"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "someone who takes photographs professionally",
@@ -859,10 +822,7 @@
    }
   ],
   "synonyms": [
-   "ticket",
-   "rag",
-   "shred",
-   "tatter"
+   "ticket"
   ],
   "antonyms": null,
   "phrases": null,
@@ -930,11 +890,9 @@
    }
   ],
   "synonyms": [
-   "facet",
    "view",
    "prospect",
-   "scene",
-   "vista"
+   "scene"
   ],
   "antonyms": null,
   "phrases": null,
@@ -973,11 +931,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "scrutinize",
-   "scrutinise",
-   "inspect"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an inspection of the accounting procedures and records by a trained accountant or CPA",
@@ -1010,9 +964,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "declarer"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "someone (a person or firm) who contracts to build things",
@@ -1048,9 +1000,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "upload"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "transfer a file or program from a central computer to a smaller computer or to a computer at a remote location",
   "note": null,
@@ -1083,10 +1033,7 @@
    }
   ],
   "synonyms": [
-   "watchword",
-   "word",
-   "parole",
-   "countersign"
+   "word"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1124,11 +1071,7 @@
    }
   ],
   "synonyms": [
-   "forbid",
-   "interdict",
-   "proscribe",
-   "veto",
-   "disallow"
+   "forbid"
   ],
   "antonyms": [
    "permit",
@@ -1166,8 +1109,7 @@
    }
   ],
   "synonyms": [
-   "bowl",
-   "arena"
+   "bowl"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1203,8 +1145,6 @@
    }
   ],
   "synonyms": [
-   "terminus",
-   "depot",
    "pole",
    "end"
   ],
@@ -1274,7 +1214,6 @@
    }
   ],
   "synonyms": [
-   "fillip",
    "incentive"
   ],
   "antonyms": null,
@@ -1314,13 +1253,7 @@
     "zh": "傑西推著手推車散步。"
    }
   ],
-  "synonyms": [
-   "handcart",
-   "pushcart",
-   "go-cart",
-   "haul",
-   "hale"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a heavy open wagon usually having two wheels and drawn by an animal",
@@ -1351,16 +1284,10 @@
     "zh": "全都好吃！"
    }
   ],
-  "synonyms": [
-   "delightful",
-   "delectable",
-   "luscious",
-   "pleasant-tasting",
-   "scrumptious"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "variety of sweet eating apples",
+  "defsEn": "greatly pleasing or entertaining",
   "note": null,
   "audioUrl": null
  },
@@ -1433,7 +1360,6 @@
   ],
   "synonyms": [
    "oversee",
-   "superintend",
    "manage",
    "monitor"
   ],
@@ -1473,9 +1399,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "wait"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a woman waiter",

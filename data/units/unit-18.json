@@ -27,8 +27,6 @@
   ],
   "synonyms": [
    "innovation",
-   "excogitation",
-   "conception",
    "design"
   ],
   "antonyms": null,
@@ -68,14 +66,9 @@
   ],
   "synonyms": [
    "annoy",
-   "rag",
-   "bother",
-   "rile",
-   "nark"
+   "bother"
   ],
-  "antonyms": [
-   "soothe"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "cause annoyance in; disturb, especially by minor irritations",
   "note": null,
@@ -108,8 +101,7 @@
    }
   ],
   "synonyms": [
-   "cabinet",
-   "footlocker"
+   "cabinet"
   ],
   "antonyms": null,
   "phrases": null,
@@ -147,10 +139,16 @@
     "zh": "我們看漏了這件重要的事。"
    }
   ],
-  "synonyms": null,
+  "synonyms": [
+   "neglect",
+   "omit",
+   "drop",
+   "miss",
+   "dominate"
+  ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a high place affording a good view",
+  "defsEn": "look past, fail to notice",
   "note": null,
   "audioUrl": null
  },
@@ -219,13 +217,10 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "collectible",
-   "collectable"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a liability account showing how much is owed for goods and services purchased on credit",
+  "defsEn": "subject to or requiring payment especially as specified",
   "note": null,
   "audioUrl": null
  },
@@ -256,11 +251,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "prelim",
-   "overture",
-   "prelude"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a minor match preceding the main event",
@@ -357,9 +348,7 @@
     "zh": "我希望一切都順利。"
    }
   ],
-  "synonyms": [
-   "swimmingly"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "with no problems or difficulties",
@@ -391,15 +380,10 @@
    }
   ],
   "synonyms": [
-   "sunlight",
    "sun",
-   "temperateness",
-   "cheerfulness",
    "cheer"
   ],
-  "antonyms": [
-   "uncheerfulness"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the rays of the sun",
   "note": null,
@@ -436,9 +420,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "towage"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the act of hauling something (as a vehicle) by means of a hitch or rope",
@@ -472,7 +454,6 @@
    }
   ],
   "synonyms": [
-   "transcriber",
    "interpreter"
   ],
   "antonyms": null,
@@ -507,10 +488,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "tutelage",
-   "tutorship"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a fee paid for instruction (especially for higher education)",
@@ -578,13 +556,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "misdemeanor",
-   "misdemeanour",
-   "infraction",
-   "infringement",
-   "trespass"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a crime less serious than a felony",
@@ -648,15 +620,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "credence",
-   "adoption",
-   "acceptation",
-   "espousal"
-  ],
-  "antonyms": [
-   "rejection"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the mental attitude that something is believable and should be accepted as true",
   "note": null,
@@ -691,9 +656,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "apportion"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "distribute according to a plan or set apart for a special purpose",
@@ -724,12 +687,8 @@
     "zh": "我是有志向的人——清楚自己的目標。"
    }
   ],
-  "synonyms": [
-   "challenging"
-  ],
-  "antonyms": [
-   "unambitious"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "having a strong desire for success or achievement",
   "note": null,
@@ -794,11 +753,7 @@
     "zh": "湯姆跑啊跑, 直到他終於看到了電話亭。"
    }
   ],
-  "synonyms": [
-   "cubicle",
-   "stall",
-   "kiosk"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a table (in a restaurant or bar) surrounded by two high-backed benches",
@@ -834,12 +789,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "elucidate"
-  ],
-  "antonyms": [
-   "obfuscate"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "make clear and (more) comprehensible",
   "note": null,
@@ -871,10 +822,7 @@
     "zh": "她是我的同學。"
    }
   ],
-  "synonyms": [
-   "schoolmate",
-   "schoolfellow"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an acquaintance that you go to school with",
@@ -913,8 +861,6 @@
   "synonyms": [
    "collect",
    "accumulate",
-   "amass",
-   "hoard",
    "compose"
   ],
   "antonyms": null,
@@ -949,9 +895,7 @@
     "zh": "我的塗改液用完了，現在寫字只用鉛筆。"
    }
   ],
-  "synonyms": [
-   "rectification"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the act of offering an improvement to replace a mistake; setting right",
@@ -987,11 +931,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "custom-make",
-   "customise",
-   "tailor-make"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "make to specifications",
@@ -1103,7 +1043,6 @@
   ],
   "synonyms": [
    "stop",
-   "cease",
    "quit",
    "break"
   ],
@@ -1174,9 +1113,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "drouth"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a shortage of rainfall",
@@ -1213,9 +1150,7 @@
    }
   ],
   "synonyms": [
-   "conserve",
    "husband",
-   "economise",
    "save"
   ],
   "antonyms": [
@@ -1254,10 +1189,9 @@
   ],
   "synonyms": [
    "access",
-   "accession",
    "admission",
-   "admittance",
-   "entrance"
+   "entrance",
+   "entry"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1291,9 +1225,7 @@
     "zh": "從那兒很容易就能看到焰火。"
    }
   ],
-  "synonyms": [
-   "pyrotechnic"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "(usually plural) a device with an explosive that burns at a low rate and with colored flames; can be used to illuminate areas or send signals etc.",
@@ -1333,10 +1265,9 @@
   ],
   "synonyms": [
    "cargo",
-   "lading",
    "load",
-   "loading",
-   "payload"
+   "shipment",
+   "consignment"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1378,9 +1309,7 @@
   "synonyms": [
    "child",
    "kid",
-   "youngster",
-   "minor",
-   "shaver"
+   "minor"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1414,10 +1343,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "gal",
-   "congius"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "United States liquid unit equal to 4 quarts or 3.785 liters",
@@ -1450,9 +1376,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "nurseryman"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "someone who takes care of a garden",

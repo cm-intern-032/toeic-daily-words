@@ -24,9 +24,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "unenthusiastic"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "having or showing great excitement and interest",
   "note": null,
@@ -58,9 +56,7 @@
     "zh": "儘管他考試成績不高，但他畢業後還是很成功。"
    }
   ],
-  "synonyms": [
-   "commencement"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the successful completion of a program of study",
@@ -91,13 +87,7 @@
     "zh": "在結冰的街道上我們很難保持平衡。"
    }
   ],
-  "synonyms": [
-   "frigid",
-   "frosty",
-   "frozen",
-   "glacial",
-   "wintry"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "devoid of warmth and cordiality; expressive of unfriendliness or disdain",
@@ -132,14 +122,9 @@
    }
   ],
   "synonyms": [
-   "guerrilla",
-   "guerilla",
-   "insurgent",
    "second"
   ],
-  "antonyms": [
-   "regular"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "a member of an irregular armed force that fights a stronger force by sabotage and harassment",
   "note": null,
@@ -272,9 +257,7 @@
    }
   ],
   "synonyms": [
-   "bike",
-   "motorbike",
-   "cycle"
+   "bike"
   ],
   "antonyms": null,
   "phrases": null,
@@ -311,12 +294,9 @@
   "synonyms": [
    "essential",
    "requirement",
-   "requisite",
    "necessary"
   ],
-  "antonyms": [
-   "inessential"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the condition of being essential or indispensable",
   "note": null,
@@ -348,10 +328,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "contriver",
-   "deviser"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a person who makes plans",
@@ -384,9 +361,7 @@
     "zh": "她是個女程式設計師嗎？"
    }
   ],
-  "synonyms": [
-   "coder"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a person who designs and writes and tests computer programs",
@@ -498,10 +473,9 @@
   ],
   "synonyms": [
    "balance",
-   "residual",
-   "residue",
-   "residuum",
-   "rest"
+   "rest",
+   "difference",
+   "end"
   ],
   "antonyms": null,
   "phrases": null,
@@ -570,9 +544,7 @@
   "synonyms": [
    "steady"
   ],
-  "antonyms": [
-   "unsteadily"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "at a steady rate or pace",
   "note": null,
@@ -602,8 +574,7 @@
    }
   ],
   "synonyms": [
-   "shareholder",
-   "shareowner"
+   "shareholder"
   ],
   "antonyms": null,
   "phrases": null,
@@ -670,11 +641,7 @@
    }
   ],
   "synonyms": [
-   "accoutrement",
-   "accouterment",
-   "appurtenance",
-   "supplement",
-   "add-on"
+   "supplement"
   ],
   "antonyms": null,
   "phrases": null,
@@ -709,12 +676,9 @@
    }
   ],
   "synonyms": [
-   "fabrication",
    "forum"
   ],
-  "antonyms": [
-   "disassembly"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "a group of machine parts that fit together to form a self-contained unit",
   "note": null,
@@ -747,11 +711,7 @@
     "zh": "她有一整籃的蘋果。"
    }
   ],
-  "synonyms": [
-   "handbasket",
-   "basketful",
-   "hoop"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a container that is usually woven and has handles",
@@ -785,15 +745,10 @@
    }
   ],
   "synonyms": [
-   "enfranchisement",
    "documentation",
-   "corroboration",
-   "certificate",
-   "credential"
+   "certificate"
   ],
-  "antonyms": [
-   "disenfranchisement"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the act of certifying or bestowing a franchise on",
   "note": null,
@@ -831,8 +786,8 @@
    }
   ],
   "synonyms": [
-   "closing",
-   "cloture"
+   "settlement",
+   "resolution"
   ],
   "antonyms": null,
   "phrases": null,
@@ -871,15 +826,8 @@
     "zh": "我不喜歡大城市。"
    }
   ],
-  "synonyms": [
-   "disfavor",
-   "disfavour",
-   "disapproval"
-  ],
-  "antonyms": [
-   "liking",
-   "like"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "an inclination to withhold approval from some person or group",
   "note": null,
@@ -912,7 +860,6 @@
    }
   ],
   "synonyms": [
-   "downstair",
    "below"
   ],
   "antonyms": [
@@ -949,10 +896,10 @@
   ],
   "synonyms": [
    "termination",
-   "expiry",
-   "passing",
    "loss",
-   "departure"
+   "departure",
+   "exit",
+   "release"
   ],
   "antonyms": null,
   "phrases": null,
@@ -988,9 +935,7 @@
   ],
   "synonyms": [
    "concern",
-   "worry",
-   "vexation",
-   "cephalalgia"
+   "worry"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1033,8 +978,7 @@
    "fix",
    "hole",
    "mess",
-   "muddle",
-   "pickle"
+   "press"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1107,9 +1051,7 @@
   "synonyms": [
    "affirmative"
   ],
-  "antonyms": [
-   "pessimistic"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "expecting the best in this best of all possible worlds",
   "note": null,
@@ -1142,13 +1084,7 @@
     "zh": "當時正是早高峰，來來往往的行人和車輛很多。"
    }
   ],
-  "synonyms": [
-   "walker",
-   "footer",
-   "prosaic",
-   "prosy",
-   "earthbound"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a person who travels by foot",
@@ -1255,9 +1191,7 @@
     "zh": "他住在東京郊區。"
    }
   ],
-  "synonyms": [
-   "suburbia"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a residential district located on the outskirts of a city",
@@ -1290,10 +1224,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "coup",
-   "putsch"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a sudden and decisive change of government illegally or by force",
@@ -1324,13 +1255,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "diffident",
-   "shy",
-   "timid",
-   "uncertain",
-   "incertain"
-  ],
+  "synonyms": null,
   "antonyms": [
    "confident",
    "certain",
@@ -1367,14 +1292,12 @@
     "zh": "圖書館在樓上。"
    }
   ],
-  "synonyms": [
-   "upstair"
-  ],
+  "synonyms": null,
   "antonyms": [
    "downstairs"
   ],
   "phrases": null,
-  "defsEn": "the part of a building above the ground floor",
+  "defsEn": "on or of upper floors of a building",
   "note": null,
   "audioUrl": null
  },

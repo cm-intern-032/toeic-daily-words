@@ -23,10 +23,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "Mr",
-   "Mr."
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a form of address for a man",
@@ -100,7 +97,6 @@
   ],
   "synonyms": [
    "customer",
-   "node",
    "guest"
   ],
   "antonyms": null,
@@ -166,11 +162,7 @@
     "zh": "機場很近。"
    }
   ],
-  "synonyms": [
-   "airdrome",
-   "aerodrome",
-   "drome"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
@@ -204,8 +196,7 @@
    }
   ],
   "synonyms": [
-   "memorandum",
-   "memoranda"
+   "memorandum"
   ],
   "antonyms": null,
   "phrases": null,
@@ -276,14 +267,10 @@
    }
   ],
   "synonyms": [
-   "legitimate",
-   "coherent",
-   "consistent",
-   "ordered"
+   "consistent"
   ],
   "antonyms": [
-   "illogical",
-   "incoherent"
+   "illogical"
   ],
   "phrases": null,
   "defsEn": "capable of or reflecting the capability for correct and valid reasoning",
@@ -321,10 +308,7 @@
     "zh": "我不知道如何傳真。"
    }
   ],
-  "synonyms": [
-   "facsimile",
-   "telefax"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "duplicator that transmits the copy by wire or radio",
@@ -387,12 +371,9 @@
    }
   ],
   "synonyms": [
-   "unfeignedly",
    "truly"
   ],
-  "antonyms": [
-   "insincerely"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "with sincerity; without pretense",
   "note": null,
@@ -424,11 +405,8 @@
    }
   ],
   "synonyms": [
-   "erstwhile",
    "former",
-   "old",
-   "onetime",
-   "one-time"
+   "old"
   ],
   "antonyms": null,
   "phrases": null,
@@ -500,11 +478,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "repayment",
-   "return",
-   "repay"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "money returned to a payer",
@@ -538,14 +512,11 @@
    }
   ],
   "synonyms": [
-   "good",
-   "goodness"
+   "good"
   ],
   "antonyms": [
    "evil",
-   "evilness",
-   "bad",
-   "badness"
+   "bad"
   ],
   "phrases": null,
   "defsEn": "benefit",
@@ -614,9 +585,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "uptown"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the central area or commercial center of a town or city",
   "note": null,
@@ -725,7 +694,6 @@
   "synonyms": [
    "booklet",
    "folder",
-   "leaflet",
    "pamphlet"
   ],
   "antonyms": null,
@@ -760,11 +728,7 @@
     "zh": "我們在中午吃了飯。"
    }
   ],
-  "synonyms": [
-   "midday",
-   "noonday",
-   "noontide"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the middle of the day",
@@ -797,10 +761,7 @@
     "zh": "艾倫很幸運地考過了稅務師考試。"
    }
   ],
-  "synonyms": [
-   "comptroller",
-   "controller"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "someone who maintains and audits business accounts",
@@ -838,9 +799,7 @@
     "zh": "每週六鮑勃在雜貨店做店員。"
    }
   ],
-  "synonyms": [
-   "salesclerk"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an employee who performs clerical work (e.g., keeps records or accounts)",
@@ -879,11 +838,7 @@
    }
   ],
   "synonyms": [
-   "anteroom",
-   "antechamber",
-   "hall",
-   "foyer",
-   "vestibule"
+   "hall"
   ],
   "antonyms": null,
   "phrases": null,
@@ -964,15 +919,11 @@
    }
   ],
   "synonyms": [
-   "sketch",
-   "survey",
-   "CV",
-   "restart",
-   "re-start"
+   "summarize"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "short descriptive summary (of events)",
+  "defsEn": "take up or begin anew",
   "note": null,
   "audioUrl": null
  },
@@ -1006,11 +957,9 @@
    }
   ],
   "synonyms": [
-   "envelop",
-   "enfold",
-   "enwrap",
    "wrap",
-   "confine"
+   "insert",
+   "introduce"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1044,9 +993,7 @@
     "zh": "瑪麗從大約500名申請者中脫穎而出。"
    }
   ],
-  "synonyms": [
-   "applier"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a person who requests or seeks something such as assistance or employment or admission",
@@ -1147,8 +1094,7 @@
   ],
   "synonyms": [
    "fabric",
-   "material",
-   "textile"
+   "material"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1229,8 +1175,7 @@
    }
   ],
   "synonyms": [
-   "reception",
-   "acknowledge"
+   "reception"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1264,9 +1209,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "traveller"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a person who changes location",
@@ -1337,10 +1280,8 @@
    }
   ],
   "synonyms": [
-   "metro",
    "tube",
-   "underground",
-   "underpass"
+   "underground"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1411,10 +1352,10 @@
   ],
   "synonyms": [
    "cargo",
-   "lading",
    "freight",
    "load",
-   "loading"
+   "consignment",
+   "dispatch"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1452,11 +1393,9 @@
    }
   ],
   "synonyms": [
-   "deduce",
    "deduct",
    "derive",
-   "generalize",
-   "generalise"
+   "guess"
   ],
   "antonyms": null,
   "phrases": null,

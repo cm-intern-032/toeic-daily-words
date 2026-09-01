@@ -25,9 +25,7 @@
     "zh": "我免費得到了這個吸塵器。"
    }
   ],
-  "synonyms": [
-   "cleanser"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a preparation used in cleaning something",
@@ -133,9 +131,7 @@
    }
   ],
   "synonyms": [
-   "shuttlecock",
-   "bird",
-   "birdie"
+   "bird"
   ],
   "antonyms": null,
   "phrases": null,
@@ -240,12 +236,9 @@
   ],
   "synonyms": [
    "similar",
-   "like",
-   "likewise"
+   "like"
   ],
-  "antonyms": [
-   "unalike"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "having the same or similar characteristics",
   "note": null,
@@ -286,8 +279,8 @@
    "spirit",
    "tone",
    "feel",
-   "feeling",
-   "flavour"
+   "look",
+   "smell"
   ],
   "antonyms": null,
   "phrases": null,
@@ -327,11 +320,7 @@
    }
   ],
   "synonyms": [
-   "outing",
-   "cinch",
-   "breeze",
-   "snap",
-   "pushover"
+   "snap"
   ],
   "antonyms": null,
   "phrases": null,
@@ -470,10 +459,8 @@
    }
   ],
   "synonyms": [
-   "authorise",
    "pass",
-   "clear",
-   "empower"
+   "clear"
   ],
   "antonyms": null,
   "phrases": null,
@@ -507,13 +494,9 @@
   ],
   "synonyms": [
    "normally",
-   "usually",
-   "unremarkably",
-   "ordinarily"
+   "usually"
   ],
-  "antonyms": [
-   "remarkably"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "under normal conditions",
   "note": null,
@@ -545,9 +528,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "dispersion"
-  ],
+  "synonyms": null,
   "antonyms": [
    "concentration"
   ],
@@ -583,7 +564,6 @@
    }
   ],
   "synonyms": [
-   "couch",
    "lounge"
   ],
   "antonyms": null,
@@ -624,7 +604,9 @@
   "synonyms": [
    "suit",
    "fit",
-   "adapt"
+   "adapt",
+   "hold",
+   "admit"
   ],
   "antonyms": null,
   "phrases": null,
@@ -654,10 +636,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "low-cost",
-   "low-priced"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "that you have the financial means for",
@@ -694,11 +673,8 @@
    }
   ],
   "synonyms": [
-   "rag",
    "bother",
-   "irritate",
-   "rile",
-   "nark"
+   "irritate"
   ],
   "antonyms": null,
   "phrases": null,
@@ -736,11 +712,12 @@
    }
   ],
   "synonyms": [
-   "transpose"
+   "convert",
+   "exchange"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a regular journey of some distance to and from your place of work",
+  "defsEn": "exchange positions without a change in value",
   "note": null,
   "audioUrl": null
  },
@@ -776,11 +753,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "co-ordinate",
-   "organize",
-   "organise"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a number that identifies a position relative to an axis",
@@ -853,13 +826,11 @@
   "synonyms": [
    "discontinue",
    "stop",
-   "cease",
    "resign",
    "depart"
   ],
   "antonyms": [
    "continue",
-   "take office",
    "stay"
   ],
   "phrases": null,
@@ -895,10 +866,8 @@
   ],
   "synonyms": [
    "authorization",
-   "authorisation",
-   "potency",
-   "dominance",
-   "say-so"
+   "assurance",
+   "confidence"
   ],
   "antonyms": null,
   "phrases": null,
@@ -930,10 +899,7 @@
     "zh": "我接種了流感疫苗。"
    }
   ],
-  "synonyms": [
-   "influenza",
-   "grippe"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an acute febrile highly contagious viral disease",
@@ -972,7 +938,7 @@
    }
   ],
   "synonyms": [
-   "skipper"
+   "master"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1007,11 +973,8 @@
    }
   ],
   "synonyms": [
-   "installing",
-   "installment",
-   "instalment",
    "facility",
-   "initiation"
+   "induction"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1078,15 +1041,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "handiness",
-   "accessibility",
-   "availableness"
-  ],
-  "antonyms": [
-   "inaccessibility",
-   "unavailability"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the quality of being at hand when needed",
   "note": null,
@@ -1126,8 +1082,7 @@
   "synonyms": [
    "deal",
    "buy",
-   "steal",
-   "dicker"
+   "steal"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1162,14 +1117,9 @@
    }
   ],
   "synonyms": [
-   "costless",
-   "free",
-   "gratis",
-   "gratuitous"
+   "free"
   ],
-  "antonyms": [
-   "uncomplimentary"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "conveying or resembling a compliment",
   "note": null,
@@ -1207,8 +1157,6 @@
    }
   ],
   "synonyms": [
-   "hiking",
-   "tramp",
    "rise",
    "boost",
    "raise"
@@ -1279,12 +1227,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "productiveness"
-  ],
-  "antonyms": [
-   "unproductiveness"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the quality of being productive or having the power to produce",
   "note": null,
@@ -1314,9 +1258,7 @@
     "zh": "這是我們多雨的季節。"
    }
   ],
-  "synonyms": [
-   "showery"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "(of weather) wet by periods of rain",
@@ -1418,10 +1360,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "dealing",
-   "dealings"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the act of transacting within or between groups (as carrying on commercial activities)",
@@ -1452,13 +1391,9 @@
     "zh": "怎麼不高興？"
    }
   ],
-  "synonyms": [
-   "dysphoric",
-   "distressed"
-  ],
+  "synonyms": null,
   "antonyms": [
-   "happy",
-   "euphoric"
+   "happy"
   ],
   "phrases": null,
   "defsEn": "experiencing or marked by or causing sadness or sorrow or discontent",
@@ -1495,7 +1430,8 @@
    }
   ],
   "synonyms": [
-   "control"
+   "control",
+   "swear"
   ],
   "antonyms": null,
   "phrases": null,

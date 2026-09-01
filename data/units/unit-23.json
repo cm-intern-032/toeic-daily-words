@@ -29,10 +29,7 @@
    }
   ],
   "synonyms": [
-   "drop",
-   "discharge",
-   "unlade",
-   "offload"
+   "drop"
   ],
   "antonyms": null,
   "phrases": null,
@@ -64,14 +61,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "remarkably",
-   "outstandingly",
-   "unco"
-  ],
-  "antonyms": [
-   "unremarkably"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "to a remarkable degree or extent",
   "note": null,
@@ -108,10 +99,10 @@
   ],
   "synonyms": [
    "resign",
-   "renounce",
    "empty",
    "abandon",
-   "revoke"
+   "lift",
+   "reverse"
   ],
   "antonyms": null,
   "phrases": null,
@@ -151,9 +142,7 @@
    }
   ],
   "synonyms": [
-   "giant",
-   "hulk",
-   "heavyweight"
+   "giant"
   ],
   "antonyms": null,
   "phrases": null,
@@ -185,12 +174,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "sagely"
-  ],
-  "antonyms": [
-   "foolishly"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "in a wise manner",
   "note": null,
@@ -222,10 +207,7 @@
     "zh": "外行談策略，內行談後勤。"
    }
   ],
-  "synonyms": [
-   "recreational",
-   "unpaid"
-  ],
+  "synonyms": null,
   "antonyms": [
    "professional"
   ],
@@ -260,9 +242,7 @@
     "zh": "大使被從華沙召回。"
    }
   ],
-  "synonyms": [
-   "embassador"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a diplomat of the highest rank; accredited as representative from one country to another",
@@ -293,9 +273,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "afresh"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "again but in a new or different way",
@@ -446,9 +424,7 @@
   ],
   "synonyms": [
    "design",
-   "pattern",
-   "draft",
-   "draught"
+   "pattern"
   ],
   "antonyms": null,
   "phrases": null,
@@ -487,9 +463,7 @@
     "zh": "別纏我了!"
    }
   ],
-  "synonyms": [
-   "glitch"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "general term for any insect or similar creeping or crawling invertebrate",
@@ -521,15 +495,11 @@
    }
   ],
   "synonyms": [
-   "timid",
    "conservative"
   ],
-  "antonyms": [
-   "brave",
-   "incautious"
-  ],
+  "antonyms": null,
   "phrases": null,
-  "defsEn": "people who are fearful and cautious",
+  "defsEn": "showing careful forethought",
   "note": null,
   "audioUrl": null
  },
@@ -603,13 +573,7 @@
     "zh": "湯姆拍了手。"
    }
   ],
-  "synonyms": [
-   "bang",
-   "eruption",
-   "blast",
-   "bam",
-   "gonorrhea"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a sudden very loud noise",
@@ -640,11 +604,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "commercialism",
-   "mercantilism",
-   "DoC"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "transactions (sales and purchases) having the objective of supplying commodities (goods and services)",
@@ -754,11 +714,8 @@
    }
   ],
   "synonyms": [
-   "counsellor",
    "advocate",
-   "counsel",
-   "counselor-at-law",
-   "pleader"
+   "counsel"
   ],
   "antonyms": null,
   "phrases": null,
@@ -831,12 +788,9 @@
    }
   ],
   "synonyms": [
-   "fragile",
-   "frail"
+   "soft"
   ],
-  "antonyms": [
-   "rugged"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "exquisitely fine and subtle and pleasing; susceptible to injury",
   "note": null,
@@ -868,12 +822,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "dependance",
-   "dependency",
-   "addiction",
-   "habituation"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the state of relying on or being controlled by someone or something else",
@@ -906,9 +855,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "beguilement"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "mental turmoil",
@@ -1009,10 +956,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "exuberance",
-   "ebullience"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a feeling of excitement",
@@ -1045,11 +989,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "partisan",
-   "partizan",
-   "fancier"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an ardent and enthusiastic supporter of some person or activity",
@@ -1082,10 +1022,8 @@
   ],
   "synonyms": [
    "apparent",
-   "manifest",
    "patent",
-   "plain",
-   "unmistakable"
+   "plain"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1119,15 +1057,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "flexibleness",
-   "tractability",
-   "tractableness"
-  ],
-  "antonyms": [
-   "inflexibility",
-   "intractability"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the property of being flexible; easily bent or shaped",
   "note": null,
@@ -1175,13 +1106,9 @@
     "zh": "她恰巧知道他的地址。"
    }
   ],
-  "synonyms": [
-   "fortuitously",
-   "luckily"
-  ],
+  "synonyms": null,
   "antonyms": [
-   "unfortunately",
-   "unluckily"
+   "unfortunately"
   ],
   "phrases": null,
   "defsEn": "by good fortune",
@@ -1211,8 +1138,7 @@
    }
   ],
   "synonyms": [
-   "bottom",
-   "merchantman"
+   "bottom"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1317,10 +1243,7 @@
     "zh": "我的兒子厭煩了漢堡包。"
    }
   ],
-  "synonyms": [
-   "beefburger",
-   "burger"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients",
@@ -1359,11 +1282,10 @@
    }
   ],
   "synonyms": [
-   "jeopardy",
-   "peril",
    "risk",
-   "endangerment",
-   "luck"
+   "luck",
+   "fortune",
+   "chance"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1397,9 +1319,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "householder"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "someone who owns a home",
@@ -1434,9 +1354,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "beseeching"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "a mood that expresses an intention to influence the listener's behavior",
   "note": null,
@@ -1472,12 +1390,9 @@
    }
   ],
   "synonyms": [
-   "expand",
-   "amplify"
+   "expand"
   ],
-  "antonyms": [
-   "deflate"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "exaggerate or make bigger",
   "note": null,

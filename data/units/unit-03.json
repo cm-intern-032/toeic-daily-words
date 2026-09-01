@@ -29,15 +29,11 @@
    }
   ],
   "synonyms": [
-   "predate",
-   "forego",
-   "forgo",
-   "antecede",
-   "antedate"
+   "lead"
   ],
   "antonyms": [
-   "postdate",
-   "succeed"
+   "succeed",
+   "follow"
   ],
   "phrases": null,
   "defsEn": "be earlier in time; go back further",
@@ -71,11 +67,9 @@
    }
   ],
   "synonyms": [
-   "replacing",
-   "surrogate",
    "alternate",
-   "substitution",
-   "permutation"
+   "switch",
+   "substitute"
   ],
   "antonyms": null,
   "phrases": null,
@@ -212,11 +206,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "approaching",
-   "coming",
-   "forthcoming"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "of the relatively near future",
@@ -286,11 +276,7 @@
    }
   ],
   "synonyms": [
-   "contraption",
-   "contrivance",
-   "convenience",
-   "gadget",
-   "gizmo"
+   "convenience"
   ],
   "antonyms": null,
   "phrases": null,
@@ -486,9 +472,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "invalid"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "well grounded in logic or truth or having legal force",
   "note": null,
@@ -521,7 +505,8 @@
    }
   ],
   "synonyms": [
-   "admittance"
+   "entree",
+   "access"
   ],
   "antonyms": null,
   "phrases": null,
@@ -591,13 +576,11 @@
    }
   ],
   "synonyms": [
-   "underscore",
-   "emphasize",
-   "emphasise"
+   "emphasize"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a line drawn underneath (especially under written matter)",
+  "defsEn": "give extra weight to (a communication)",
   "note": null,
   "audioUrl": null
  },
@@ -663,7 +646,6 @@
    }
   ],
   "synonyms": [
-   "aeroplane",
    "plane"
   ],
   "antonyms": null,
@@ -699,7 +681,7 @@
    }
   ],
   "synonyms": [
-   "assigning"
+   "grant"
   ],
   "antonyms": null,
   "phrases": null,
@@ -741,9 +723,9 @@
   "synonyms": [
    "issue",
    "outlet",
-   "passing",
    "loss",
-   "departure"
+   "departure",
+   "expiration"
   ],
   "antonyms": null,
   "phrases": null,
@@ -776,9 +758,7 @@
    }
   ],
   "synonyms": [
-   "attendant",
-   "attender",
-   "meeter"
+   "attendant"
   ],
   "antonyms": null,
   "phrases": null,
@@ -885,9 +865,7 @@
     "zh": "Gunter和Rima在咖啡館見過面。"
    }
   ],
-  "synonyms": [
-   "coffeehouse"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a small restaurant where drinks and snacks are sold",
@@ -918,12 +896,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "inclusion"
-  ],
-  "antonyms": [
-   "incomprehension"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "an ability to understand the meaning or importance of something (or the knowledge acquired as a result)",
   "note": null,
@@ -957,8 +931,6 @@
    }
   ],
   "synonyms": [
-   "promenade",
-   "plaza",
    "center"
   ],
   "antonyms": null,
@@ -994,8 +966,7 @@
    }
   ],
   "synonyms": [
-   "medicine",
-   "medicament"
+   "medicine"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1033,10 +1004,7 @@
     "zh": "他回收電池。"
    }
   ],
-  "synonyms": [
-   "reprocess",
-   "reuse"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "cause to repeat a cycle",
@@ -1072,10 +1040,7 @@
     "zh": "我必須更新我的護照。"
    }
   ],
-  "synonyms": [
-   "regenerate",
-   "reincarnate"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "reestablish on a new, usually improved, basis or make new or like new",
@@ -1187,11 +1152,11 @@
    }
   ],
   "synonyms": [
-   "going",
-   "leaving",
-   "deviation",
-   "divergence",
-   "difference"
+   "difference",
+   "loss",
+   "exit",
+   "expiration",
+   "release"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1226,13 +1191,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "miniskirt"
-  ],
-  "antonyms": [
-   "midi",
-   "maxi"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "a very short skirt",
   "note": null,
@@ -1264,13 +1224,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "fittingness",
-   "seaworthiness"
-  ],
-  "antonyms": [
-   "unfitness"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the quality of being suitable",
   "note": null,
@@ -1307,11 +1262,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "incommodiousness",
-   "troublesomeness",
-   "worriment"
-  ],
+  "synonyms": null,
   "antonyms": [
    "convenience"
   ],
@@ -1351,9 +1302,7 @@
    }
   ],
   "synonyms": [
-   "feast",
-   "spread",
-   "junket"
+   "spread"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1394,10 +1343,6 @@
    }
   ],
   "synonyms": [
-   "cupboard",
-   "W.C.",
-   "loo",
-   "wardrobe",
    "press"
   ],
   "antonyms": null,
@@ -1430,12 +1375,11 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "artificial"
-  ],
+  "synonyms": null,
   "antonyms": [
    "real",
-   "natural"
+   "natural",
+   "substantial"
   ],
   "phrases": null,
   "defsEn": "lacking in reality or substance or genuineness; not corresponding to acknowledged facts or criteria",

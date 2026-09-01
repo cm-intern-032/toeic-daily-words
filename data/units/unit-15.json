@@ -25,11 +25,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "manpower",
-   "hands",
-   "men"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the force of workers available",
@@ -66,17 +62,12 @@
     "zh": "湯姆總是曠課。"
    }
   ],
-  "synonyms": [
-   "remove",
-   "lacking",
-   "missing",
-   "wanting"
-  ],
+  "synonyms": null,
   "antonyms": [
    "present"
   ],
   "phrases": null,
-  "defsEn": "go away or leave",
+  "defsEn": "not being in a specified place",
   "note": null,
   "audioUrl": null
  },
@@ -111,10 +102,8 @@
   ],
   "synonyms": [
    "collect",
-   "amass",
    "compile",
-   "hoard",
-   "cumulate"
+   "gather"
   ],
   "antonyms": null,
   "phrases": null,
@@ -146,8 +135,7 @@
   ],
   "synonyms": [
    "assessment",
-   "estimate",
-   "estimation"
+   "estimate"
   ],
   "antonyms": null,
   "phrases": null,
@@ -186,10 +174,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "learner",
-   "prentice"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "works for an expert to learn a trade",
@@ -289,16 +274,8 @@
     "zh": "和這幅比起上來，那幅畫的色彩鮮艷多了。"
    }
   ],
-  "synonyms": [
-   "colourful",
-   "colored",
-   "coloured"
-  ],
-  "antonyms": [
-   "colorless",
-   "colourless",
-   "uncolored"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "having striking color",
   "note": null,
@@ -334,13 +311,14 @@
    }
   ],
   "synonyms": [
-   "counterbalance",
    "correct",
-   "recompense",
    "repair",
-   "indemnify"
+   "cover",
+   "right"
   ],
-  "antonyms": null,
+  "antonyms": [
+   "wrong"
+  ],
   "phrases": null,
   "defsEn": "adjust for",
   "note": null,
@@ -444,15 +422,9 @@
    }
   ],
   "synonyms": [
-   "effectivity",
-   "effectualness",
-   "effectuality",
-   "potency",
    "strength"
   ],
-  "antonyms": [
-   "ineffectiveness"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "power to be effective; the quality of being able to bring about an effect",
   "note": null,
@@ -489,7 +461,6 @@
   ],
   "synonyms": [
    "ease",
-   "alleviate",
    "help"
   ],
   "antonyms": null,
@@ -524,10 +495,7 @@
     "zh": "消防員一眨眼的功夫就把火給滅了。"
    }
   ],
-  "synonyms": [
-   "fireman",
-   "fire-eater"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a member of a fire department who tries to extinguish fires",
@@ -559,9 +527,7 @@
    }
   ],
   "synonyms": [
-   "gasolene",
-   "gas",
-   "petrol"
+   "gas"
   ],
   "antonyms": null,
   "phrases": null,
@@ -593,10 +559,7 @@
     "zh": "一部分人感覺Tom的行為舉止不太合適。"
    }
   ],
-  "synonyms": [
-   "incompatible",
-   "unfitting"
-  ],
+  "synonyms": null,
   "antonyms": [
    "appropriate"
   ],
@@ -628,8 +591,7 @@
    }
   ],
   "synonyms": [
-   "net",
-   "cyberspace"
+   "net"
   ],
   "antonyms": null,
   "phrases": null,
@@ -762,9 +724,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "paysheet"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a list of employees and their salaries",
@@ -798,12 +758,10 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "pharmaceutic"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment",
+  "defsEn": "of or relating to pharmacy or pharmacists",
   "note": null,
   "audioUrl": null
  },
@@ -832,9 +790,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "implausible"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "apparently reasonable and valid, and truthful",
   "note": null,
@@ -866,10 +822,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "agio",
-   "agiotage"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "payment for insurance",
@@ -973,15 +926,9 @@
    }
   ],
   "synonyms": [
-   "forte",
-   "metier",
-   "speciality",
-   "strength",
-   "peculiarity"
+   "strength"
   ],
-  "antonyms": [
-   "weak point"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "an asset of special worth or utility",
   "note": null,
@@ -1045,9 +992,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "expected"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "not expected or anticipated",
   "note": null,
@@ -1078,9 +1023,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "specified"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "not stated explicitly or in detail",
   "note": null,
@@ -1116,10 +1059,7 @@
    }
   ],
   "synonyms": [
-   "cling",
-   "cleave",
-   "stick",
-   "cohere"
+   "stick"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1159,13 +1099,7 @@
     "zh": "他被宣告破產。"
    }
   ],
-  "synonyms": [
-   "insolvent",
-   "ruin",
-   "break",
-   "smash",
-   "belly-up"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "someone who has insufficient assets to cover their debts",
@@ -1204,15 +1138,9 @@
    }
   ],
   "synonyms": [
-   "cautiousness",
-   "carefulness",
-   "caveat",
-   "precaution",
    "care"
   ],
-  "antonyms": [
-   "incaution"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the trait of being cautious; being attentive to possible danger",
   "note": null,
@@ -1363,11 +1291,7 @@
    }
   ],
   "synonyms": [
-   "extra",
-   "duplication",
-   "reduplicate",
-   "double",
-   "repeat"
+   "extra"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1399,16 +1323,10 @@
     "zh": "他渴望去那裡。"
    }
   ],
-  "synonyms": [
-   "bore",
-   "eagre",
-   "aegir"
-  ],
-  "antonyms": [
-   "uneager"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
-  "defsEn": "a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)",
+  "defsEn": "having or showing keen interest or intense desire or impatient expectancy",
   "note": null,
   "audioUrl": null
  },

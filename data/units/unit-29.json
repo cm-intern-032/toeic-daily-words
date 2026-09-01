@@ -24,9 +24,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "symptomatic"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "concerned with diagnosis; used for furthering diagnosis",
@@ -63,9 +61,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "plot"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a drawing intended to explain how something works; a drawing showing the relation between the parts",
@@ -98,11 +94,7 @@
     "zh": "這顆鑽石不是真的。"
    }
   ],
-  "synonyms": [
-   "adamant",
-   "rhombus",
-   "rhomb"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a transparent piece of diamond that has been cut and polished and is valued as a precious gem",
@@ -138,12 +130,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "disenable",
-   "incapacitate",
-   "invalid",
-   "handicap"
-  ],
+  "synonyms": null,
   "antonyms": [
    "enable"
   ],
@@ -182,12 +169,7 @@
     "zh": "我的室友真噁心。"
    }
   ],
-  "synonyms": [
-   "revolt",
-   "repel",
-   "nauseate",
-   "sicken"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "strong feelings of dislike",
@@ -218,10 +200,7 @@
     "zh": "我想買十二個甜甜圈。"
    }
   ],
-  "synonyms": [
-   "doughnut",
-   "sinker"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a small ring-shaped friedcake",
@@ -254,12 +233,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "doorkeeper",
-   "porter",
-   "gatekeeper",
-   "ostiary"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "someone who guards an entrance",
@@ -333,10 +307,7 @@
    "raise",
    "lift"
   ],
-  "antonyms": [
-   "demote",
-   "lower"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "give a promotion to or assign to a higher position",
   "note": null,
@@ -406,8 +377,7 @@
    }
   ],
   "synonyms": [
-   "registration",
-   "enrolment"
+   "registration"
   ],
   "antonyms": null,
   "phrases": null,
@@ -479,10 +449,7 @@
   ],
   "synonyms": [
    "prohibit",
-   "interdict",
-   "proscribe",
-   "veto",
-   "disallow"
+   "prevent"
   ],
   "antonyms": [
    "permit",
@@ -524,12 +491,7 @@
     "zh": "這把叉子是髒的。"
    }
   ],
-  "synonyms": [
-   "branching",
-   "ramification",
-   "forking",
-   "crotch"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "cutlery used for serving and eating food",
@@ -566,12 +528,10 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "further"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "United States songwriter whose songs embody the sentiment of the South before the American Civil War (1826-1864)",
+  "defsEn": "providing or receiving nurture or parental care though not related by blood or legal ties",
   "note": null,
   "audioUrl": null
  },
@@ -601,10 +561,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "pickup",
-   "lam"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the attribute of being capable of rapid acceleration",
@@ -643,11 +600,7 @@
    }
   ],
   "synonyms": [
-   "chitchat",
-   "chit-chat",
-   "gab",
-   "gabfest",
-   "tittle-tattle"
+   "comment"
   ],
   "antonyms": null,
   "phrases": null,
@@ -679,10 +632,7 @@
     "zh": "駭客很會利用電腦安全措拖的漏洞。"
    }
   ],
-  "synonyms": [
-   "cyber-terrorist",
-   "cyberpunk"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "someone who plays golf poorly",
@@ -713,11 +663,7 @@
     "zh": "她比您更刻苦。"
    }
   ],
-  "synonyms": [
-   "industrious",
-   "tireless",
-   "untiring"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "characterized by hard work and perseverance",
@@ -748,9 +694,7 @@
     "zh": "我覺得湯姆有些過於性急了。"
    }
   ],
-  "synonyms": [
-   "raring"
-  ],
+  "synonyms": null,
   "antonyms": [
    "patient"
   ],
@@ -783,12 +727,9 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "collateral"
-  ],
+  "synonyms": null,
   "antonyms": [
-   "direct",
-   "lineal"
+   "direct"
   ],
   "phrases": null,
   "defsEn": "having intervening factors or persons or influences",
@@ -861,10 +802,7 @@
    }
   ],
   "synonyms": [
-   "crossroad",
-   "crossway",
-   "crossing",
-   "carrefour"
+   "product"
   ],
   "antonyms": null,
   "phrases": null,
@@ -931,11 +869,7 @@
     "zh": "湯姆穿著牛仔褲。"
    }
   ],
-  "synonyms": [
-   "jean",
-   "denim",
-   "dungaree"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "(usually plural) close-fitting trousers of heavy denim for manual work or casual wear",
@@ -1034,9 +968,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "lifesaver"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an attendant employed at a beach or pool to protect swimmers from accidents",
@@ -1102,10 +1034,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "memorial",
-   "repository"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a structure erected to commemorate persons or events",
@@ -1176,7 +1105,6 @@
    }
   ],
   "synonyms": [
-   "compel",
    "oblige",
    "bind",
    "hold"
@@ -1217,15 +1145,12 @@
    }
   ],
   "synonyms": [
-   "compel",
    "obligate",
    "bind",
    "hold",
    "accommodate"
   ],
-  "antonyms": [
-   "disoblige"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "force somebody to do something",
   "note": null,
@@ -1257,10 +1182,7 @@
     "zh": "拖堂情況對於學生們而言十分常見。"
    }
   ],
-  "synonyms": [
-   "happening",
-   "occurrent"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an event that happens",
@@ -1292,14 +1214,9 @@
    }
   ],
   "synonyms": [
-   "functional",
-   "usable",
-   "useable",
-   "operable"
+   "functional"
   ],
-  "antonyms": [
-   "nonoperational"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "pertaining to a process or series of actions for achieving a result",
   "note": null,
@@ -1425,9 +1342,7 @@
    "partly",
    "part"
   ],
-  "antonyms": [
-   "wholly"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "in part; in some degree; not wholly",
   "note": null,
@@ -1463,10 +1378,7 @@
     "zh": "她討厭青椒。"
    }
   ],
-  "synonyms": [
-   "capsicum",
-   "peppercorn"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "climber having dark red berries (peppercorns) when fully ripe; southern India and Sri Lanka; naturalized in northern Burma and Assam",

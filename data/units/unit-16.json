@@ -32,9 +32,7 @@
    "fix",
    "secure"
   ],
-  "antonyms": [
-   "unfasten"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "cause to be firmly attached",
   "note": null,
@@ -65,9 +63,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "harmless"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "causing or capable of causing harm",
   "note": null,
@@ -97,17 +93,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "enlightening",
-   "illuminating",
-   "instructive",
-   "informatory"
-  ],
-  "antonyms": [
-   "unenlightening",
-   "uninstructive",
-   "uninformative"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "tending to increase knowledge or dissipate ignorance",
   "note": null,
@@ -144,13 +131,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "establish",
-   "found",
-   "plant",
-   "constitute",
-   "bring"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an association organized to promote art or science or education",
@@ -220,9 +201,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "topically"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "by a particular locality",
@@ -298,7 +277,9 @@
   "synonyms": [
    "propose",
    "name",
-   "make"
+   "make",
+   "appoint",
+   "constitute"
   ],
   "antonyms": null,
   "phrases": null,
@@ -410,11 +391,7 @@
    }
   ],
   "synonyms": [
-   "doctor",
-   "doc",
-   "MD",
-   "Dr.",
-   "medico"
+   "doctor"
   ],
   "antonyms": null,
   "phrases": null,
@@ -454,16 +431,10 @@
     "zh": "我們擦亮了鞋子。"
    }
   ],
-  "synonyms": [
-   "gloss",
-   "glossiness",
-   "burnish",
-   "refinement",
-   "culture"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "the property of being smooth and shiny",
+  "defsEn": "of or relating to Poland or its people or culture",
   "note": null,
   "audioUrl": null
  },
@@ -566,7 +537,6 @@
    }
   ],
   "synonyms": [
-   "practise",
    "practice"
   ],
   "antonyms": null,
@@ -601,9 +571,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "remotion"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the act of removing",
@@ -637,9 +605,7 @@
   "synonyms": [
    "acceptable"
   ],
-  "antonyms": [
-   "unsatisfactory"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "giving satisfaction",
   "note": null,
@@ -672,11 +638,9 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "year-round"
-  ],
+  "antonyms": null,
   "phrases": null,
-  "defsEn": "a worker who finds employment only in certain seasons",
+  "defsEn": "occurring at or dependent on a particular season",
   "note": null,
   "audioUrl": null
  },
@@ -705,9 +669,7 @@
    }
   ],
   "synonyms": [
-   "individually",
-   "singly",
-   "severally"
+   "individually"
   ],
   "antonyms": null,
   "phrases": null,
@@ -742,7 +704,9 @@
     "zh": null
    }
   ],
-  "synonyms": null,
+  "synonyms": [
+   "upset"
+  ],
   "antonyms": null,
   "phrases": null,
   "defsEn": "the ratio of the number of workers that had to be replaced in a given time period to the average number of workers",
@@ -773,9 +737,7 @@
     "zh": "如果兩個人總是意見相同，那麼他們其中一個就沒必要了。"
    }
   ],
-  "synonyms": [
-   "unneeded"
-  ],
+  "synonyms": null,
   "antonyms": [
    "necessary"
   ],
@@ -912,10 +874,7 @@
     "zh": "無人領取的物品被拍賣了。"
    }
   ],
-  "synonyms": [
-   "vendue",
-   "auctioneer"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a variety of bridge in which tricks made in excess of the contract are scored toward game; now generally superseded by contract bridge",
@@ -982,9 +941,7 @@
     "zh": "他們從地下室到閣樓都打掃了。"
    }
   ],
-  "synonyms": [
-   "cellar"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
@@ -1016,12 +973,11 @@
    }
   ],
   "synonyms": [
-   "advance",
    "ahead"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "being ahead of time or need",
+  "defsEn": "ahead of time; in anticipation",
   "note": null,
   "audioUrl": null
  },
@@ -1083,12 +1039,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "docudrama",
-   "infotainment",
-   "documental",
-   "objective"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a film or TV program presenting the facts about a person or event",
@@ -1122,9 +1073,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "downswing"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a worsening of business or economic activity",
@@ -1157,11 +1106,7 @@
     "zh": "臺灣容易發生地震。"
    }
   ],
-  "synonyms": [
-   "quake",
-   "temblor",
-   "seism"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity",
@@ -1192,13 +1137,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "graceful",
-   "refined"
-  ],
-  "antonyms": [
-   "inelegant"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "refined and tasteful in appearance or behavior or style",
   "note": null,
@@ -1228,13 +1168,7 @@
     "zh": "酗酒是導致陽痿的一個因素。"
    }
   ],
-  "synonyms": [
-   "inordinate",
-   "undue",
-   "unreasonable",
-   "extravagant",
-   "exuberant"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "beyond normal limits",
@@ -1268,12 +1202,9 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "varietal",
-   "varietal wine"
-  ],
+  "antonyms": null,
   "phrases": null,
-  "defsEn": "a wine that is a blend of several varieties of grapes with no one grape predominating; a wine that does not carry the name of any specific grape",
+  "defsEn": "relating to or common to or descriptive of all members of a genus",
   "note": null,
   "audioUrl": null
  },
@@ -1309,10 +1240,7 @@
    }
   ],
   "synonyms": [
-   "wind",
-   "malarkey",
-   "malarky",
-   "nothingness"
+   "wind"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1348,9 +1276,7 @@
    }
   ],
   "synonyms": [
-   "life",
-   "life-time",
-   "lifespan"
+   "life"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1389,9 +1315,7 @@
     "zh": "我想要按摩。我需要放鬆。"
    }
   ],
-  "synonyms": [
-   "knead"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "kneading and rubbing parts of the body to increase circulation and promote relaxation",
@@ -1427,12 +1351,9 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "maximise"
-  ],
+  "synonyms": null,
   "antonyms": [
-   "minimize",
-   "minimise"
+   "minimize"
   ],
   "phrases": null,
   "defsEn": "make as big or large as possible",
@@ -1466,9 +1387,6 @@
    }
   ],
   "synonyms": [
-   "meek",
-   "modest",
-   "balmy",
    "soft"
   ],
   "antonyms": [

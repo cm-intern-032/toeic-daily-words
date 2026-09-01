@@ -29,13 +29,7 @@
     "zh": "儘管下著雨，他還是出去了。"
    }
   ],
-  "synonyms": [
-   "malice",
-   "maliciousness",
-   "spitefulness",
-   "venom",
-   "cattiness"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "feeling a need to see others suffer",
@@ -70,9 +64,6 @@
   ],
   "synonyms": [
    "bath",
-   "toilet",
-   "lavatory",
-   "lav",
    "can"
   ],
   "antonyms": null,
@@ -113,10 +104,7 @@
    }
   ],
   "synonyms": [
-   "cabriolet",
-   "hack",
-   "taxi",
-   "taxicab"
+   "taxi"
   ],
   "antonyms": null,
   "phrases": null,
@@ -152,8 +140,7 @@
   ],
   "synonyms": [
    "agreement",
-   "commensurateness",
-   "proportionateness"
+   "balance"
   ],
   "antonyms": null,
   "phrases": null,
@@ -193,8 +180,7 @@
    }
   ],
   "synonyms": [
-   "run",
-   "ravel"
+   "run"
   ],
   "antonyms": null,
   "phrases": null,
@@ -264,10 +250,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "carving",
-   "sculpt"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a three-dimensional work of plastic art",
@@ -339,8 +322,7 @@
    }
   ],
   "synonyms": [
-   "counter",
-   "sideboard"
+   "counter"
   ],
   "antonyms": null,
   "phrases": null,
@@ -446,7 +428,7 @@
    }
   ],
   "synonyms": [
-   "wetting"
+   "escape"
   ],
   "antonyms": null,
   "phrases": null,
@@ -481,7 +463,6 @@
    }
   ],
   "synonyms": [
-   "tenancy",
    "occupation"
   ],
   "antonyms": null,
@@ -552,10 +533,6 @@
    }
   ],
   "synonyms": [
-   "reclamation",
-   "rehabilitation",
-   "refilling",
-   "replenishment",
    "replacement"
   ],
   "antonyms": null,
@@ -588,9 +565,7 @@
     "zh": "你有一個緊急的訊息。"
    }
   ],
-  "synonyms": [
-   "pressing"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "compelling immediate action",
@@ -622,8 +597,7 @@
    }
   ],
   "synonyms": [
-   "yearly",
-   "p.a."
+   "yearly"
   ],
   "antonyms": null,
   "phrases": null,
@@ -657,9 +631,7 @@
     "zh": "我喜歡打籃球。"
    }
   ],
-  "synonyms": [
-   "hoops"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop",
@@ -698,8 +670,7 @@
   "synonyms": [
    "cancel",
    "erase",
-   "edit",
-   "blue-pencil"
+   "edit"
   ],
   "antonyms": [
    "record"
@@ -733,13 +704,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "unlogical",
-   "confused",
-   "disconnected",
-   "disjointed",
-   "disordered"
-  ],
+  "synonyms": null,
   "antonyms": [
    "logical"
   ],
@@ -781,11 +746,7 @@
    }
   ],
   "synonyms": [
-   "darling",
-   "favorite",
-   "favourite",
-   "dearie",
-   "deary"
+   "favorite"
   ],
   "antonyms": null,
   "phrases": null,
@@ -820,13 +781,9 @@
    }
   ],
   "synonyms": [
-   "text",
-   "schoolbook",
-   "casebook"
+   "text"
   ],
-  "antonyms": [
-   "trade edition"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "a book prepared for use in schools or colleges",
   "note": null,
@@ -857,9 +814,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "inaccurately"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "with few mistakes",
   "note": null,
@@ -932,9 +887,7 @@
   "synonyms": [
    "director"
   ],
-  "antonyms": [
-   "insulator"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the person who leads a musical group",
   "note": null,
@@ -966,9 +919,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "examiner"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a high ranking police officer",
@@ -1006,10 +957,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "interne",
-   "houseman"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an advanced student or graduate in medicine gaining supervised practical experience (`houseman' is a British term)",
@@ -1076,10 +1024,7 @@
    }
   ],
   "synonyms": [
-   "verification",
-   "check",
-   "substantiation",
-   "ratification"
+   "check"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1111,9 +1056,7 @@
     "zh": "讓我來第一箇祝賀。"
    }
   ],
-  "synonyms": [
-   "felicitation"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the act of acknowledging that someone has an occasion for celebration",
@@ -1146,9 +1089,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "expertness"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "skillfulness by virtue of possessing special knowledge",
@@ -1185,9 +1126,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "chart"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a visual representation of the relations between certain quantities plotted with reference to a set of axes",
@@ -1254,13 +1193,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "usefulness"
-  ],
-  "antonyms": [
-   "inutility",
-   "uselessness"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "a company that performs a public service; subject to government regulation",
   "note": null,
@@ -1294,7 +1228,6 @@
    }
   ],
   "synonyms": [
-   "verifier",
    "coupon"
   ],
   "antonyms": null,
@@ -1396,17 +1329,9 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "minimise",
-   "understate",
-   "downplay",
-   "belittle",
-   "denigrate"
-  ],
+  "synonyms": null,
   "antonyms": [
-   "maximize",
-   "maximise",
-   "overstate"
+   "maximize"
   ],
   "phrases": null,
   "defsEn": "make small or insignificant",
@@ -1438,9 +1363,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "obligatory"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "possible but not necessary; left to personal choice",
   "note": null,

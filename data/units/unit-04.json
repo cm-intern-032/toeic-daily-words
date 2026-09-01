@@ -30,15 +30,11 @@
   ],
   "synonyms": [
    "die",
-   "decease",
-   "perish",
    "go",
-   "exit"
+   "exit",
+   "pass"
   ],
-  "antonyms": [
-   "be born",
-   "inhale"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "lose validity",
   "note": null,
@@ -73,7 +69,6 @@
   "synonyms": [
    "booklet",
    "brochure",
-   "leaflet",
    "pamphlet"
   ],
   "antonyms": null,
@@ -113,9 +108,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "xerox"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a photographic copy of written or printed or graphic work",
@@ -152,11 +145,7 @@
    }
   ],
   "synonyms": [
-   "restitute",
-   "refurbish",
-   "animate",
-   "recreate",
-   "reanimate"
+   "repair"
   ],
   "antonyms": null,
   "phrases": null,
@@ -191,7 +180,6 @@
    }
   ],
   "synonyms": [
-   "cheery",
    "gay"
   ],
   "antonyms": null,
@@ -332,9 +320,8 @@
   ],
   "synonyms": [
    "soon",
-   "presently",
-   "curtly",
-   "short"
+   "short",
+   "briefly"
   ],
   "antonyms": null,
   "phrases": null,
@@ -374,9 +361,7 @@
    }
   ],
   "synonyms": [
-   "bite",
-   "collation",
-   "nosh"
+   "bite"
   ],
   "antonyms": null,
   "phrases": null,
@@ -448,9 +433,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "duplicator"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "apparatus that makes copies of typed, written or drawn material",
@@ -519,9 +502,7 @@
    }
   ],
   "synonyms": [
-   "drink",
-   "drinkable",
-   "potable"
+   "drink"
   ],
   "antonyms": null,
   "phrases": null,
@@ -554,7 +535,6 @@
    }
   ],
   "synonyms": [
-   "athirst",
    "thirsty"
   ],
   "antonyms": [
@@ -627,9 +607,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "receiver"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a person who receives something",
@@ -662,9 +640,7 @@
     "zh": "你想靠窗還是走廊？"
    }
   ],
-  "synonyms": [
-   "gangway"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a long narrow passage (as in a cave or woods)",
@@ -702,9 +678,7 @@
   ],
   "synonyms": [
    "visit",
-   "audit",
-   "scrutinize",
-   "scrutinise"
+   "audit"
   ],
   "antonyms": null,
   "phrases": null,
@@ -739,11 +713,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "machinist",
-   "auto-mechanic",
-   "car-mechanic"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a craftsman skilled in operating machine tools",
@@ -776,12 +746,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "amalgamation",
-   "uniting",
-   "fusion",
-   "unification"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the combination of two or more commercial companies",
@@ -845,10 +810,7 @@
     "zh": "她給他一件毛衣。"
    }
   ],
-  "synonyms": [
-   "jumper",
-   "perspirer"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a crocheted or knitted garment covering the upper part of the body",
@@ -883,10 +845,8 @@
   ],
   "synonyms": [
    "component",
-   "constituent",
    "element",
-   "factor",
-   "fixings"
+   "factor"
   ],
   "antonyms": null,
   "phrases": null,
@@ -924,13 +884,10 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "revision",
-   "rescript"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
-  "defsEn": "something that has been written again",
+  "defsEn": "write differently; alter the writing of",
   "note": null,
   "audioUrl": null
  },
@@ -1068,7 +1025,8 @@
    }
   ],
   "synonyms": [
-   "restroom"
+   "restroom",
+   "appliance"
   ],
   "antonyms": [
    "inconvenience"
@@ -1104,9 +1062,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "ineligible"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "qualified for or allowed or worthy of being chosen",
   "note": null,
@@ -1277,9 +1233,7 @@
     "zh": "我把它放在抽屜裡。"
    }
   ],
-  "synonyms": [
-   "draftsman"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a boxlike container in a piece of furniture; made so as to slide in and out",
@@ -1427,8 +1381,6 @@
   ],
   "synonyms": [
    "certification",
-   "credential",
-   "credentials",
    "security"
   ],
   "antonyms": null,

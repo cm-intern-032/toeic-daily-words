@@ -30,10 +30,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "inset",
-   "cut-in"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a folded section placed between the leaves of another publication",
@@ -67,7 +64,6 @@
    }
   ],
   "synonyms": [
-   "lector",
    "reader"
   ],
   "antonyms": null,
@@ -101,9 +97,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "meaningless"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "having a meaning or purpose",
   "note": null,
@@ -139,8 +133,6 @@
    }
   ],
   "synonyms": [
-   "memorise",
-   "con",
    "learn"
   ],
   "antonyms": null,
@@ -177,9 +169,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "merchandiser"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a businessperson engaged in retail trade",
@@ -213,10 +203,8 @@
    }
   ],
   "synonyms": [
-   "alteration",
    "adjustment",
-   "qualifying",
-   "limiting"
+   "change"
   ],
   "antonyms": null,
   "phrases": null,
@@ -251,12 +239,9 @@
    }
   ],
   "synonyms": [
-   "resident",
-   "occupier"
+   "resident"
   ],
-  "antonyms": [
-   "nonresident"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "someone who lives at a particular place for a prolonged period or who was born there",
   "note": null,
@@ -294,17 +279,11 @@
    }
   ],
   "synonyms": [
-   "soak",
-   "surcharge",
-   "gazump",
-   "fleece",
-   "plume"
+   "hook"
   ],
-  "antonyms": [
-   "undercharge"
-  ],
+  "antonyms": null,
   "phrases": null,
-  "defsEn": "a price that is too high",
+  "defsEn": "rip off; ask an unreasonable price",
   "note": null,
   "audioUrl": null
  },
@@ -339,7 +318,6 @@
   ],
   "synonyms": [
    "supervise",
-   "superintend",
    "manage"
   ],
   "antonyms": null,
@@ -380,10 +358,7 @@
    }
   ],
   "synonyms": [
-   "request",
-   "postulation",
-   "prayer",
-   "orison"
+   "request"
   ],
   "antonyms": null,
   "phrases": null,
@@ -422,9 +397,7 @@
     "zh": "他們打了一場枕頭戰。"
    }
   ],
-  "synonyms": [
-   "rest"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a cushion to support the head of a sleeping person",
@@ -488,9 +461,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "clayware"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "ceramic ware made from clay and baked in a kiln",
@@ -558,11 +529,8 @@
    }
   ],
   "synonyms": [
-   "publicise",
    "air",
-   "bare",
-   "advertise",
-   "advertize"
+   "advertise"
   ],
   "antonyms": null,
   "phrases": null,
@@ -601,11 +569,7 @@
     "zh": "醫生在觀察X光片。"
    }
   ],
-  "synonyms": [
-   "beam",
-   "shaft",
-   "irradiation"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a column of light (as from a beacon)",
@@ -712,11 +676,11 @@
    }
   ],
   "synonyms": [
-   "review",
-   "freshen",
-   "refreshen"
+   "review"
   ],
-  "antonyms": null,
+  "antonyms": [
+   "tire"
+  ],
   "phrases": null,
   "defsEn": "refresh one's memory",
   "note": null,
@@ -812,17 +776,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "dependability",
-   "dependableness",
-   "reliableness"
-  ],
-  "antonyms": [
-   "undependability",
-   "undependableness",
-   "unreliability",
-   "unreliableness"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "the quality of being dependable or reliable",
   "note": null,
@@ -852,10 +807,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "loath",
-   "loth"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "unwillingness to do something contrary to your custom",
@@ -890,12 +842,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "sewerage",
-   "cloaca",
-   "gutter",
-   "toilet"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a waste pipe that carries away sewage or surface water",
@@ -1001,10 +948,7 @@
     "zh": "我非常困。"
    }
   ],
-  "synonyms": [
-   "sleepy-eyed",
-   "sleepyheaded"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "ready to fall asleep",
@@ -1042,12 +986,7 @@
     "zh": "裁縫師要幫我重新修褲腳。"
    }
   ],
-  "synonyms": [
-   "seamster",
-   "sartor",
-   "orient",
-   "cut"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a person whose occupation is making and altering garments",
@@ -1082,10 +1021,8 @@
   ],
   "synonyms": [
    "expiration",
-   "expiry",
-   "endpoint",
-   "terminus",
-   "result"
+   "result",
+   "outcome"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1119,12 +1056,7 @@
     "zh": "沒有證據你們不能指責他偷東西。"
    }
   ],
-  "synonyms": [
-   "larceny",
-   "thievery",
-   "thieving",
-   "stealing"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the act of taking something from someone unlawfully",
@@ -1191,9 +1123,7 @@
    }
   ],
   "synonyms": [
-   "transmittal",
-   "transmitting",
-   "transmittance"
+   "infection"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1233,9 +1163,9 @@
   "synonyms": [
    "convey",
    "communicate",
-   "impart",
    "conduct",
-   "carry"
+   "carry",
+   "channel"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1268,8 +1198,7 @@
    }
   ],
   "synonyms": [
-   "fresh",
-   "idle"
+   "fresh"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1306,13 +1235,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "relinquish",
-   "forgo",
-   "forego",
-   "foreswear",
-   "forfeit"
-  ],
+  "synonyms": null,
   "antonyms": [
    "claim"
   ],
@@ -1348,13 +1271,7 @@
     "zh": "他給了我1萬日元。"
    }
   ],
-  "synonyms": [
-   "hankering",
-   "ache",
-   "yearn",
-   "pine",
-   "languish"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a yearning for something or to do something",
@@ -1392,13 +1309,9 @@
   ],
   "synonyms": [
    "trip",
-   "actuate",
-   "trigger",
-   "spark"
+   "trigger"
   ],
-  "antonyms": [
-   "inactivate"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "put in motion or move to act",
   "note": null,
@@ -1463,14 +1376,13 @@
    }
   ],
   "synonyms": [
-   "affirmatory",
    "optimistic"
   ],
   "antonyms": [
    "negative"
   ],
   "phrases": null,
-  "defsEn": "a reply of affirmation",
+  "defsEn": "affirming or giving assent",
   "note": null,
   "audioUrl": null
  },

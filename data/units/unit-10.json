@@ -28,8 +28,7 @@
   "synonyms": [
    "car",
    "automobile",
-   "machine",
-   "motorcar"
+   "machine"
   ],
   "antonyms": null,
   "phrases": null,
@@ -67,11 +66,8 @@
    }
   ],
   "synonyms": [
-   "adorn",
-   "grace",
-   "ornament",
-   "embellish",
-   "beautify"
+   "deck",
+   "dress"
   ],
   "antonyms": null,
   "phrases": null,
@@ -107,7 +103,6 @@
   ],
   "synonyms": [
    "discount",
-   "entailment",
    "implication"
   ],
   "antonyms": null,
@@ -143,9 +138,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "indefinite"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "precise; explicit and clearly defined",
   "note": null,
@@ -176,11 +169,7 @@
    }
   ],
   "synonyms": [
-   "economic",
-   "frugal",
-   "scotch",
-   "sparing",
-   "stinting"
+   "economic"
   ],
   "antonyms": null,
   "phrases": null,
@@ -212,12 +201,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "expeditiously"
-  ],
-  "antonyms": [
-   "inefficiently"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "with efficiency; in an efficient manner",
   "note": null,
@@ -250,11 +235,7 @@
    }
   ],
   "synonyms": [
-   "circular",
-   "handbill",
-   "bill",
-   "broadside",
-   "broadsheet"
+   "bill"
   ],
   "antonyms": null,
   "phrases": null,
@@ -294,8 +275,7 @@
    }
   ],
   "synonyms": [
-   "dealership",
-   "enfranchisement"
+   "dealership"
   ],
   "antonyms": null,
   "phrases": null,
@@ -328,10 +308,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "stingy",
-   "ungenerous"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "willing to give and share unstintingly",
   "note": null,
@@ -370,11 +347,12 @@
   ],
   "synonyms": [
    "disrupt",
-   "disturb"
+   "disturb",
+   "break"
   ],
   "antonyms": null,
   "phrases": null,
-  "defsEn": "a signal that temporarily stops the execution of a program so that another procedure can be carried out",
+  "defsEn": "make a break in",
   "note": null,
   "audioUrl": null
  },
@@ -441,10 +419,7 @@
     "zh": "薩米穿著藍褲子。"
    }
   ],
-  "synonyms": [
-   "trouser",
-   "gasp"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the noise made by a short puff of steam (as from an engine)",
@@ -476,9 +451,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "unprofitable"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "yielding material gain or profit",
   "note": null,
@@ -510,9 +483,7 @@
     "zh": "冰箱髒了。"
    }
   ],
-  "synonyms": [
-   "icebox"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "white goods in which food can be stored at low temperatures",
@@ -549,9 +520,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "recoup"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "pay back for some expense incurred",
@@ -584,10 +553,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "salesroom",
-   "saleroom"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an area where merchandise (such as cars) can be displayed",
@@ -695,10 +661,7 @@
   ],
   "synonyms": [
    "agent",
-   "factor",
-   "broke",
-   "bust",
-   "skint"
+   "factor"
   ],
   "antonyms": null,
   "phrases": null,
@@ -804,11 +767,7 @@
     "zh": "我因為時差而感到疲憊。"
    }
   ],
-  "synonyms": [
-   "squirt",
-   "spurt",
-   "spirt"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "an airplane powered by one or more jet engines",
@@ -839,12 +798,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "naturalistic"
-  ],
-  "antonyms": [
-   "unrealistic"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "aware or expressing awareness of things as they really are",
   "note": null,
@@ -875,8 +830,6 @@
    }
   ],
   "synonyms": [
-   "exhaustively",
-   "soundly",
    "good"
   ],
   "antonyms": null,
@@ -916,11 +869,8 @@
    }
   ],
   "synonyms": [
-   "rubbish",
-   "scrap",
-   "scum",
-   "folderol",
-   "tripe"
+   "glass",
+   "ice"
   ],
   "antonyms": null,
   "phrases": null,
@@ -956,10 +906,9 @@
   ],
   "synonyms": [
    "use",
-   "utilization",
-   "utilisation",
    "employment",
-   "exercise"
+   "exercise",
+   "custom"
   ],
   "antonyms": null,
   "phrases": null,
@@ -993,13 +942,7 @@
     "zh": "風真大。"
    }
   ],
-  "synonyms": [
-   "blowy",
-   "breezy",
-   "airy",
-   "impractical",
-   "visionary"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "abounding in or exposed to the wind or breezes",
@@ -1036,10 +979,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "automatize",
-   "automatise"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "make automatic or control or operate automatically",
@@ -1076,10 +1016,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "ferryboat",
-   "ferrying"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a boat that transports people or vehicles across a body of water and operates on a regular schedule",
@@ -1116,7 +1053,6 @@
    }
   ],
   "synonyms": [
-   "finalise",
    "settle"
   ],
   "antonyms": null,
@@ -1197,9 +1133,7 @@
   ],
   "synonyms": [
    "teach",
-   "learn",
-   "apprise",
-   "apprize"
+   "learn"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1232,15 +1166,10 @@
    }
   ],
   "synonyms": [
-   "patriotic",
    "firm",
-   "truehearted",
    "fast"
   ],
-  "antonyms": [
-   "disloyal",
-   "unpatriotic"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "steadfast in allegiance or duty",
   "note": null,
@@ -1273,9 +1202,7 @@
    }
   ],
   "synonyms": [
-   "lunch",
-   "tiffin",
-   "dejeuner"
+   "lunch"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1309,9 +1236,7 @@
     "zh": "剛才我的麥克風沒起作用，不知道為什麼。"
    }
   ],
-  "synonyms": [
-   "mike"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "device for converting sound waves into electrical energy",
@@ -1413,10 +1338,7 @@
    }
   ],
   "synonyms": [
-   "deficit",
-   "shortfall",
-   "dearth",
-   "famine"
+   "deficit"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1450,8 +1372,7 @@
   ],
   "synonyms": [
    "broad",
-   "wide",
-   "roomy"
+   "wide"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1488,9 +1409,7 @@
   "synonyms": [
    "achievement",
    "skill",
-   "acquirement",
-   "acquisition",
-   "attainment"
+   "acquisition"
   ],
   "antonyms": null,
   "phrases": null,

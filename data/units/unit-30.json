@@ -63,13 +63,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "plough",
-   "turn",
-   "cover",
-   "treat",
-   "handle"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing",
@@ -109,9 +103,7 @@
   ],
   "synonyms": [
    "question",
-   "inquiry",
-   "enquiry",
-   "interrogation"
+   "inquiry"
   ],
   "antonyms": [
    "answer"
@@ -147,9 +139,7 @@
     "zh": "不要翻越鐵軌！"
    }
   ],
-  "synonyms": [
-   "railroad"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight",
@@ -183,9 +173,7 @@
     "zh": "穿黃色雨衣的女孩是誰？"
    }
   ],
-  "synonyms": [
-   "waterproof"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a water-resistant coat",
@@ -322,9 +310,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "easiness"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "(physiology) the gradual lengthening of inactive muscle or muscle fibers",
@@ -358,8 +344,7 @@
    }
   ],
   "synonyms": [
-   "repeat",
-   "repeating"
+   "repeat"
   ],
   "antonyms": null,
   "phrases": null,
@@ -465,7 +450,6 @@
    }
   ],
   "synonyms": [
-   "orbiter",
    "planet"
   ],
   "antonyms": null,
@@ -538,11 +522,7 @@
    }
   ],
   "synonyms": [
-   "series",
-   "consecutive",
-   "sequent",
-   "sequential",
-   "successive"
+   "series"
   ],
   "antonyms": null,
   "phrases": null,
@@ -580,9 +560,7 @@
    }
   ],
   "synonyms": [
-   "stitch",
-   "tailor",
-   "tailor-make"
+   "tailor"
   ],
   "antonyms": null,
   "phrases": null,
@@ -623,7 +601,6 @@
   ],
   "synonyms": [
    "study",
-   "vignette",
    "survey",
    "resume"
   ],
@@ -694,10 +671,7 @@
     "zh": "旅行社的利潤猛漲。"
    }
   ],
-  "synonyms": [
-   "zoom",
-   "surge"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "the act of rising upward into the air",
@@ -731,8 +705,6 @@
    }
   ],
   "synonyms": [
-   "stimulation",
-   "stimulant",
    "input"
   ],
   "antonyms": null,
@@ -832,7 +804,6 @@
    }
   ],
   "synonyms": [
-   "athirst",
    "hungry"
   ],
   "antonyms": [
@@ -875,11 +846,10 @@
    }
   ],
   "synonyms": [
-   "bang",
    "boot",
    "charge",
    "rush",
-   "flush"
+   "kick"
   ],
   "antonyms": null,
   "phrases": null,
@@ -977,13 +947,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "hallmark",
-   "earmark",
-   "stylemark",
-   "brand",
-   "brandmark"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "a distinctive characteristic or attribute",
@@ -1016,9 +980,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "tropic"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "relating to or situated in or characteristic of the tropics (the region on either side of the equator)",
@@ -1051,9 +1013,7 @@
     "zh": "鯊魚的皮比鮪魚的皮粗糙多了。"
    }
   ],
-  "synonyms": [
-   "tunny"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "tropical American prickly pear of Jamaica",
@@ -1085,11 +1045,9 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "employed"
-  ],
+  "antonyms": null,
   "phrases": null,
-  "defsEn": "people who are involuntarily out of work (considered as a group)",
+  "defsEn": "not engaged in a gainful occupation",
   "note": null,
   "audioUrl": null
  },
@@ -1123,14 +1081,8 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "formalize",
-   "formalise",
-   "corroborate"
-  ],
-  "antonyms": [
-   "invalidate"
-  ],
+  "synonyms": null,
+  "antonyms": null,
   "phrases": null,
   "defsEn": "declare or make legally valid",
   "note": null,
@@ -1192,9 +1144,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "unwillingness"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "cheerful compliance",
   "note": null,
@@ -1263,11 +1213,11 @@
    }
   ],
   "synonyms": [
-   "bide",
    "stay",
-   "digest",
-   "endure",
-   "stomach"
+   "stomach",
+   "bear",
+   "stand",
+   "support"
   ],
   "antonyms": null,
   "phrases": null,
@@ -1300,9 +1250,7 @@
    }
   ],
   "synonyms": null,
-  "antonyms": [
-   "passively"
-  ],
+  "antonyms": null,
   "phrases": null,
   "defsEn": "in an active manner",
   "note": null,
@@ -1365,10 +1313,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "discerning",
-   "worried"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "quick to understand; - Nathaniel Hawthorne",
@@ -1399,10 +1344,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "self-propelled",
-   "self-propelling"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "of or relating to motor vehicles",
@@ -1431,9 +1373,7 @@
     "zh": null
    }
   ],
-  "synonyms": [
-   "bacterium"
-  ],
+  "synonyms": null,
   "antonyms": null,
   "phrases": null,
   "defsEn": "(microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants",
