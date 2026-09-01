@@ -44,9 +44,14 @@ function nav(hash) { location.hash = hash; }
 /* 每個路由屬於哪個底部分頁（新路由記得補一行） */
 const TAB_OF = { home: "home", units: "units", unit: "units", word: "units", flash: "home", quiz: "quiz", "quiz-run": "quiz", restore: "settings", settings: "settings" };
 
+/* 沉浸式葉層畫面（單字卡/索引/翻卡/測驗進行中）隱藏底部分頁列——
+   不是所有畫面都需要全域導航，專注畫面只留返回 */
+const CHROMELESS = new Set(["unit", "word", "flash", "quiz-run"]);
+
 async function route() {
   const parts = location.hash.replace(/^#\/?/, "").split("/");
   const view = routes[parts[0]] || renderHome;
+  document.body.classList.toggle("no-tabs", CHROMELESS.has(parts[0]));
   const tab = TAB_OF[parts[0] || "home"];
   document.querySelectorAll(".tabbar button").forEach(b => {
     b.classList.toggle("active", b.dataset.tab === tab);
@@ -256,12 +261,9 @@ function drawPager(enterDir) {
       <div class="pager">
         <div class="card wordcard" id="pagerCard">${wordCardHtml(w)}</div>
       </div>
-      <div class="rowbtns center pagenav">
-        <button class="iconbtn nav-chev" ${i === 0 ? "disabled" : ""} onclick="pagerGo(-1)" aria-label="上一個">‹</button>
-        <button class="btn ghost" onclick="Speech.unlock();nav('#/flash/${unit}')">快速記憶</button>
-        <button class="btn ghost" onclick='Speech.unlock();startQuiz({kind:"unit",unit:${unit}})'>單字卷</button>
-        <button class="iconbtn nav-chev" ${i === words.length - 1 ? "disabled" : ""} onclick="pagerGo(1)" aria-label="下一個">›</button>
-      </div>
+      <!-- 視覺上以滑動為唯一導航；保留螢幕閱讀器專用的前後頁按鈕 -->
+      <button class="sr-only" ${i === 0 ? "disabled" : ""} onclick="pagerGo(-1)">上一個單字</button>
+      <button class="sr-only" ${i === words.length - 1 ? "disabled" : ""} onclick="pagerGo(1)">下一個單字</button>
     </div>`;
 
   const card = document.getElementById("pagerCard");
