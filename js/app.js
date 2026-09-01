@@ -54,8 +54,33 @@ async function route() {
   catch (err) {
     $main().innerHTML = `<div class="pad"><div class="notice bad">載入失敗：${esc(err.message)}。請確認網路後重試。</div></div>`;
   }
-  window.scrollTo(0, 0);
+  $main().scrollTop = 0; // 滾動都在 #main 內層（ios-pwa-rules §3）
 }
+
+/* App 內對話框：standalone 下不用 confirm()/alert()（ios-pwa-rules §12） */
+function showDialog(msg, buttons) {
+  const dlg = document.getElementById("appDialog");
+  if (!dlg || typeof dlg.showModal !== "function") { // 極舊環境退回原生
+    if (buttons.length > 1) { if (window.confirm(msg)) buttons[buttons.length - 1].onPick?.(); }
+    else window.alert(msg);
+    return;
+  }
+  document.getElementById("dlgMsg").textContent = msg;
+  const host = document.getElementById("dlgBtns");
+  host.innerHTML = "";
+  for (const b of buttons) {
+    const btn = document.createElement("button");
+    btn.className = "btn " + (b.kind || "");
+    btn.textContent = b.label;
+    btn.addEventListener("click", () => { dlg.close(); b.onPick && b.onPick(); });
+    host.appendChild(btn);
+  }
+  dlg.showModal();
+}
+function showConfirm(msg, okLabel, onOk, danger) {
+  showDialog(msg, [{ label: "取消", kind: "ghost" }, { label: okLabel, kind: danger ? "danger" : "", onPick: onOk }]);
+}
+function showAlert(msg) { showDialog(msg, [{ label: "知道了" }]); }
 window.addEventListener("hashchange", route);
 
 function topbar(title, backHash) {
@@ -142,12 +167,12 @@ async function renderUnits() {
     const alive = words.filter(w => !Store.wordP(w.id).deleted).length;
     const stagePips = Array.from({ length: CONFIG.GRADUATE_STAGE }, (_, i) =>
       `<i class="${i < stage ? "on" : ""}"></i>`).join("");
-    rows += `<div class="card unitrow" onclick="nav('#/unit/${n}')">
-      <div class="unitrow-head"><h2>Unit ${n}</h2>
+    rows += `<button class="card unitrow" onclick="nav('#/unit/${n}')">
+      <div class="unitrow-head"><span class="u-title">Unit ${n}</span>
         <span class="stagelbl">${stage >= CONFIG.GRADUATE_STAGE ? "畢業" : "stage " + stage}</span></div>
       <div class="bar"><div style="width:${alive ? learned / alive * 100 : 0}%"></div></div>
       <div class="unitrow-foot"><span>已學 ${learned}/${alive}</span><span class="pips">${stagePips}</span></div>
-    </div>`;
+    </button>`;
   }
   $main().innerHTML = `${topbar("單元列表")}<div class="pad">${rows}</div>`;
 }
@@ -160,10 +185,10 @@ async function renderUnitDetail([n]) {
   const rows = alive.map(w => {
     const p = Store.wordP(w.id);
     const st = Store.isMastered(p) ? "✓" : Store.attempted(p) ? "…" : "";
-    return `<div class="wordrow" onclick="nav('#/word/${w.id}')">
+    return `<button class="wordrow" onclick="nav('#/word/${w.id}')">
       <div><b>${esc(w.headword)}</b>${p.starred ? '<span class="star">★</span>' : ""}<span class="zh">${esc(shortDef(w))}</span></div>
       <span class="wordst ${st === "✓" ? "ok" : ""}">${st}</span>
-    </div>`;
+    </button>`;
   }).join("");
   $main().innerHTML = `
     ${topbar("Unit " + n, "#/units")}
@@ -216,9 +241,10 @@ async function renderWord([id]) {
 
 function toggleStar(id) { Store.updateWord(id, { starred: !Store.wordP(id).starred }); route(); }
 function deleteWord(id, kind) {
-  if (!confirm("刪除後不會出現在學習與測驗中，可到設定→恢復找回。確定？")) return;
-  Store.updateWord(id, { deleted: kind });
-  history.back();
+  showConfirm("刪除後不會出現在學習與測驗中，可到設定→恢復找回。", "刪除", () => {
+    Store.updateWord(id, { deleted: kind });
+    history.back();
+  }, true);
 }
 
 /* ── 快速記憶 ─────────────────────────── */
@@ -244,10 +270,9 @@ function drawFlash() {
     $main().innerHTML = `${topbar("快速記憶", "#/unit/" + unit)}<div class="pad"><div class="notice">沒有可學習的字。</div></div>`;
     return;
   }
-  const done = i >= words.length - 1 && back;
   const w = words[i];
   const face = !back
-    ? `<h2 class="headword">${esc(w.headword)}</h2>
+    ? `<span class="headword">${esc(w.headword)}</span>
        ${w.ipa ? `<p class="ipa">/${esc(w.ipa)}/</p>` : ""}
        ${w.pos ? `<p class="pos">${esc(posLabel(w.pos))}</p>` : ""}
        <p class="fliphint">點卡片看釋義</p>`
@@ -258,7 +283,8 @@ function drawFlash() {
     ${topbar("快速記憶 · Unit " + unit, "#/unit/" + unit)}
     <div class="pad flashpad">
       <p class="flash-i">${i + 1} / ${words.length}</p>
-      <div class="card flashcard" onclick="flash.back=!flash.back;drawFlash()">${face}</div>
+      <button class="card flashcard" onclick="flash.back=!flash.back;drawFlash()"
+        aria-label="${flash.back ? "卡片背面，點擊翻回正面" : "點擊翻面看釋義"}">${face}</button>
       <div class="rowbtns center">
         ${speakBtn(w.headword, true)}
         <button class="iconbtn big" onclick="flashDelete()" aria-label="刪除">${ICONS.trash}</button>
@@ -274,12 +300,13 @@ function drawFlash() {
 
 function flashDelete() {
   const w = flash.words[flash.i];
-  if (!confirm(`刪除「${w.headword}」？`)) return;
-  Store.updateWord(w.id, { deleted: "unit" });
-  flash.words = flash.words.filter(x => x.id !== w.id);
-  if (flash.i >= flash.words.length) flash.i = Math.max(0, flash.words.length - 1);
-  flash.back = false;
-  drawFlash();
+  showConfirm(`刪除「${w.headword}」？`, "刪除", () => {
+    Store.updateWord(w.id, { deleted: "unit" });
+    flash.words = flash.words.filter(x => x.id !== w.id);
+    if (flash.i >= flash.words.length) flash.i = Math.max(0, flash.words.length - 1);
+    flash.back = false;
+    drawFlash();
+  }, true);
 }
 
 function flashFinish() {
@@ -367,7 +394,7 @@ async function startQuiz(opt) {
     title = "常錯單字卷";
   }
 
-  if (list.length === 0) { alert("沒有可出題的字。"); return; }
+  if (list.length === 0) { showAlert("沒有可出題的字。"); return; }
   quiz = {
     title, list: shuffle([...list]), pool: all, i: 0, correct: 0, wrongIds: [],
     task: opt.task ? { kind: opt.task, unit: opt.unit } : (opt.kind === "review" ? { kind: "review", unit: opt.unit } : null),
@@ -443,8 +470,8 @@ async function renderQuizDone() {
   let wrongRows = "";
   for (const id of wrongIds) {
     const w = await Content.getWord(id);
-    if (w) wrongRows += `<div class="wordrow slim" onclick="nav('#/word/${id}')">
-      <div><b>${esc(w.headword)}</b><span class="zh">${esc(shortDef(w))}</span></div><span>›</span></div>`;
+    if (w) wrongRows += `<button class="wordrow slim" onclick="nav('#/word/${id}')">
+      <div><b>${esc(w.headword)}</b><span class="zh">${esc(shortDef(w))}</span></div><span>›</span></button>`;
   }
   const pct = Math.round(correct / list.length * 100);
   $main().innerHTML = `
@@ -501,7 +528,8 @@ function renderSettings() {
         </div>
         <textarea id="exportArea" class="ta" hidden readonly></textarea>
         <p class="muted mt">還原：貼上備份內容後按匯入（會覆蓋現有進度）。</p>
-        <textarea id="importArea" class="ta" placeholder='{"progress":…}'></textarea>
+        <textarea id="importArea" class="ta" placeholder='{"progress":…}'
+          autocapitalize="off" autocomplete="off" spellcheck="false"></textarea>
         <button class="btn ghost" onclick="doImport()">匯入並覆蓋</button>
         <p id="ioMsg" class="muted" role="status"></p>
       </div>
@@ -536,18 +564,38 @@ function showExportText() {
 }
 function doImport() {
   const msg = document.getElementById("ioMsg");
-  try {
-    const text = document.getElementById("importArea").value;
-    if (!text.trim()) { msg.textContent = "請先貼上備份內容。"; return; }
-    if (!confirm("匯入會覆蓋現有進度，確定？")) return;
-    Store.importJson(text);
-    msg.textContent = "匯入完成。";
-  } catch (e) { msg.textContent = "匯入失敗：" + e.message; }
+  const text = document.getElementById("importArea").value;
+  if (!text.trim()) { msg.textContent = "請先貼上備份內容。"; return; }
+  showConfirm("匯入會覆蓋現有進度。", "匯入並覆蓋", () => {
+    try {
+      Store.importJson(text);
+      msg.textContent = "匯入完成。";
+    } catch (e) { msg.textContent = "匯入失敗：" + e.message; }
+  }, true);
 }
 
 /* ── 啟動 ─────────────────────────────── */
 Store.updateMeta({ lastOpenDate: Dates.today() });
 route();
+
+/* SW 註冊 + 新版本提示列（ios-pwa-rules §13）：
+   偵測到新 worker 裝好且目前頁面由舊版控制時，顯示更新列讓使用者重新載入 */
+function showUpdateBar() {
+  if (document.getElementById("updateBar")) return;
+  const bar = document.createElement("div");
+  bar.id = "updateBar";
+  bar.className = "updatebar";
+  bar.innerHTML = `<span>已下載新版本</span><button class="btn small" onclick="location.reload()">重新載入</button>`;
+  document.body.appendChild(bar);
+}
 if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register("sw.js").catch(() => {});
+  navigator.serviceWorker.register("sw.js").then(reg => {
+    reg.addEventListener("updatefound", () => {
+      const w = reg.installing;
+      if (!w) return;
+      w.addEventListener("statechange", () => {
+        if (w.state === "installed" && navigator.serviceWorker.controller) showUpdateBar();
+      });
+    });
+  }).catch(() => {});
 }

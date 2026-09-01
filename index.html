@@ -7,6 +7,7 @@
 <meta name="theme-color" content="#EFF1F6" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#101527" media="(prefers-color-scheme: dark)">
 <title>多益日課</title>
+<meta name="app-version" content="v1.5.0"><!-- 與 sw.js 的 VERSION 同步遞增（docs/ios-pwa-rules.md §13） -->
 <meta name="description" content="TOEIC 1250 核心單字（TSL 1.2 全量）：每日一單元、間隔複習、單字測驗。">
 <link rel="icon" href="icons/icon-192.png" type="image/png">
 <link rel="manifest" href="manifest.json">
@@ -20,6 +21,7 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<!-- shell-start（預覽版建置腳本擷取此區塊） -->
 <main id="main" aria-live="polite"></main>
 
 <nav class="tabbar" aria-label="主選單">
@@ -29,9 +31,16 @@
   <button data-tab="settings" onclick="nav('#/settings')"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg></span>設定</button>
 </nav>
 
+<dialog id="appDialog" class="dlg" aria-labelledby="dlgMsg">
+  <p id="dlgMsg"></p>
+  <div class="dlg-btns" id="dlgBtns"></div>
+</dialog>
+<!-- shell-end -->
+
 <script src="js/config.js"></script>
 <script src="js/store.js"></script>
 <script src="js/speech.js"></script>
+<script src="js/vp.js"></script>
 <script src="js/app.js"></script>
 </body>
 </html>
