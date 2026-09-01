@@ -21,9 +21,14 @@ function defsHtml(w, maxLines) {
   if (maxLines) lines = lines.slice(0, maxLines);
   return `<div class="defs">${lines.map(l => `<p>${l}</p>`).join("")}</div>`;
 }
+/* 行內 SVG 圖示（Feather icons, MIT）——全站禁用 emoji */
+const ICONS = {
+  speaker: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>`,
+  trash: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>`,
+};
 function speakBtn(headword, big) {
   return `<button class="iconbtn${big ? " big" : ""}" data-word="${esc(headword)}"
-    onclick="Speech.unlock();Speech.speak(this.dataset.word)" aria-label="發音">🔊</button>`;
+    onclick="Speech.unlock();Speech.speak(this.dataset.word)" aria-label="發音">${ICONS.speaker}</button>`;
 }
 
 /* ── 路由 ─────────────────────────────── */
@@ -102,7 +107,7 @@ async function renderHome() {
 
   if (!tasks.newUnit && tasks.reviewUnits.length === 0) {
     cards = `<div class="card task done-card">
-      <h2>今天的任務都完成了 🎉</h2>
+      <h2>今天的任務都完成了</h2>
       <p>${graduated >= CONFIG.UNITS ? "全部單元畢業，恭喜！" : "想加練可以到「測驗」自由出卷。"}</p>
     </div>`;
   }
@@ -121,7 +126,7 @@ async function renderHome() {
         <div class="stat"><b>${mastered}</b><span>已掌握</span></div>
         <div class="stat"><b>${graduated}</b><span>畢業單元</span></div>
       </div>
-      ${Store.persistOk ? "" : `<div class="notice bad">⚠ 無法寫入儲存空間，進度不會保留。請確認 Safari 沒有使用無痕模式。</div>`}
+      ${Store.persistOk ? "" : `<div class="notice bad">注意：無法寫入儲存空間，進度不會保留。請確認 Safari 沒有使用無痕模式。</div>`}
     </div>`;
 }
 
@@ -139,7 +144,7 @@ async function renderUnits() {
       `<i class="${i < stage ? "on" : ""}"></i>`).join("");
     rows += `<div class="card unitrow" onclick="nav('#/unit/${n}')">
       <div class="unitrow-head"><h2>Unit ${n}</h2>
-        <span class="stagelbl">${stage >= CONFIG.GRADUATE_STAGE ? "畢業 🎓" : "stage " + stage}</span></div>
+        <span class="stagelbl">${stage >= CONFIG.GRADUATE_STAGE ? "畢業" : "stage " + stage}</span></div>
       <div class="bar"><div style="width:${alive ? learned / alive * 100 : 0}%"></div></div>
       <div class="unitrow-foot"><span>已學 ${learned}/${alive}</span><span class="pips">${stagePips}</span></div>
     </div>`;
@@ -156,7 +161,7 @@ async function renderUnitDetail([n]) {
     const p = Store.wordP(w.id);
     const st = Store.isMastered(p) ? "✓" : Store.attempted(p) ? "…" : "";
     return `<div class="wordrow" onclick="nav('#/word/${w.id}')">
-      <div><b>${esc(w.headword)}</b>${p.starred ? " ⭐" : ""}<span class="zh">${esc(shortDef(w))}</span></div>
+      <div><b>${esc(w.headword)}</b>${p.starred ? '<span class="star">★</span>' : ""}<span class="zh">${esc(shortDef(w))}</span></div>
       <span class="wordst ${st === "✓" ? "ok" : ""}">${st}</span>
     </div>`;
   }).join("");
@@ -256,7 +261,7 @@ function drawFlash() {
       <div class="card flashcard" onclick="flash.back=!flash.back;drawFlash()">${face}</div>
       <div class="rowbtns center">
         ${speakBtn(w.headword, true)}
-        <button class="iconbtn big" onclick="flashDelete()" aria-label="刪除">🗑</button>
+        <button class="iconbtn big" onclick="flashDelete()" aria-label="刪除">${ICONS.trash}</button>
       </div>
       <div class="rowbtns">
         <button class="btn ghost" ${i === 0 ? "disabled" : ""} onclick="flash.i--;flash.back=false;drawFlash()">上一張</button>
@@ -502,7 +507,7 @@ function renderSettings() {
       </div>
       <div class="card">
         <h2>發音測試</h2>
-        <p class="muted">${Speech.supported ? "使用系統語音（en-US）。" : "⚠ 此瀏覽器不支援語音合成。"}</p>
+        <p class="muted">${Speech.supported ? "使用系統語音（en-US）。" : "注意：此瀏覽器不支援語音合成。"}</p>
         <button class="btn ghost" ${Speech.supported ? "" : "disabled"}
           onclick="Speech.unlock();Speech.speak('This is a pronunciation test. Concrete. Vacation. Client.')">播放測試句</button>
       </div>

@@ -1,6 +1,6 @@
 /* Service worker：預快取整個 app（殼 + 10 份單元 JSON），離線完全可用。
    更新流程：改版時把 VERSION +1，舊快取在 activate 時清掉。 */
-const VERSION = "v1.2.0";
+const VERSION = "v1.3.0";
 const CACHE = "toeic-vocab-" + VERSION;
 
 const PRECACHE = [
