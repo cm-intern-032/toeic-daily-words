@@ -1,6 +1,6 @@
 /* Service worker：預快取整個 app（殼 + 10 份單元 JSON），離線完全可用。
    更新流程：改版時把 VERSION +1，舊快取在 activate 時清掉。 */
-const VERSION = "v1.4.0";
+const VERSION = "v1.5.0";   // 與 index.html 的 app-version meta 同步遞增
 const CACHE = "toeic-vocab-" + VERSION;
 
 const PRECACHE = [
@@ -11,6 +11,7 @@ const PRECACHE = [
   "./js/config.js",
   "./js/store.js",
   "./js/speech.js",
+  "./js/vp.js",
   "./js/app.js",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
@@ -34,6 +35,11 @@ self.addEventListener("activate", e => {
 /* cache-first；不在快取的（例如未來加的資源）走網路並順手放進快取 */
 self.addEventListener("fetch", e => {
   if (e.request.method !== "GET") return;
+  // 更新偵測用直通路徑：?live=1 一律走網路，失敗才回快取（ios-pwa-rules §13）
+  if (new URL(e.request.url).searchParams.has("live")) {
+    e.respondWith(fetch(e.request).catch(() => caches.match(e.request, { ignoreSearch: true })));
+    return;
+  }
   e.respondWith(
     caches.match(e.request, { ignoreSearch: true }).then(hit => hit ||
       fetch(e.request).then(res => {

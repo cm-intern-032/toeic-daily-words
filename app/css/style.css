@@ -34,13 +34,26 @@
 
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
+html,body{height:100%;overflow:hidden}   /* 文件層不滾動（ios-pwa-rules §3） */
 body{
-  margin:0; background:var(--ground); color:var(--ink);
+  margin:0; position:fixed; inset:0; overscroll-behavior:none;
+  background:var(--ground); color:var(--ink);
   font:15px/1.65 "Outfit","Noto Sans TC",-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif;
-  min-height:100vh; padding-bottom:calc(64px + env(safe-area-inset-bottom));
   -webkit-tap-highlight-color:transparent;
 }
-button{font-family:inherit;font-size:inherit;cursor:pointer}
+#main{
+  height:100%; overflow-y:auto; overscroll-behavior-y:contain;
+  -webkit-overflow-scrolling:touch;
+  /* 鍵盤高度只墊這裡（--kb-h 由 js/vp.js 維護），面板幾何永不變 */
+  padding-bottom:calc(84px + var(--kb-h,0px) + env(safe-area-inset-bottom));
+  scroll-padding-bottom:calc(var(--kb-h,0px) + 32px);
+}
+button{
+  font-family:inherit;font-size:inherit;cursor:pointer;
+  touch-action:manipulation;                 /* 一般按鈕；自製手勢才用 none */
+  -webkit-touch-callout:none;
+  user-select:none;-webkit-user-select:none; /* 輸入框內絕不封鎖選字，僅按鈕 */
+}
 textarea,input{font-family:inherit;color:var(--ink)}
 :focus-visible{outline:2px solid var(--focus);outline-offset:2px;border-radius:4px}
 h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
@@ -55,7 +68,8 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 .topbar h1{font-size:17px;letter-spacing:.02em}
 .backbtn{
   border:none;background:none;color:var(--ink);
-  font-size:26px;line-height:1;padding:0 8px 2px 0;
+  font-size:26px;line-height:1;padding:0;
+  width:44px;height:44px;display:grid;place-items:center;margin-left:-12px;
 }
 
 .pad{padding:16px;max-width:640px;margin:0 auto}
@@ -87,7 +101,7 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 .rowbtns{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}
 .rowbtns.center{justify-content:center}
 .iconbtn{border:1px solid var(--line);background:var(--surface-2);border-radius:99px;
-  width:38px;height:38px;flex:none;color:var(--ink);
+  width:44px;height:44px;flex:none;color:var(--ink);
   display:inline-flex;align-items:center;justify-content:center}
 .iconbtn.big{width:52px;height:52px}
 .iconbtn svg{width:18px;height:18px}
@@ -109,7 +123,8 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 .notice.bad{background:var(--bad-bg);color:var(--bad)}
 
 /* 單元列表 */
-.unitrow{cursor:pointer}
+.unitrow{cursor:pointer;width:100%;text-align:left;font:inherit;color:inherit;display:block}
+.u-title{font-size:18px;font-weight:700;letter-spacing:-.01em}
 .unitrow-head{display:flex;justify-content:space-between;align-items:baseline}
 .stagelbl{font-size:12.5px;color:var(--ink-2)}
 .bar{height:6px;background:var(--surface-2);border:1px solid var(--line);
@@ -124,7 +139,9 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 .list{padding:4px 0}
 .wordrow{
   display:flex;justify-content:space-between;align-items:center;gap:10px;
-  padding:11px 16px;border-bottom:1px solid var(--line);cursor:pointer;
+  width:100%;padding:11px 16px;cursor:pointer;
+  background:none;border:0;border-bottom:1px solid var(--line);
+  text-align:left;font:inherit;color:inherit;
 }
 .wordrow:last-child{border-bottom:none}
 .wordrow b{font-size:16.5px}
@@ -133,11 +150,13 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 .wordst{color:var(--ink-3)}
 .star{color:var(--accent);margin-left:5px}
 .wordst.ok{color:var(--good);font-weight:700}
-.del{background:none;border:none;color:var(--ink-3);font-size:13px;padding:4px 8px}
+.del{background:none;border:none;color:var(--ink-3);font-size:13px;padding:8px 10px;position:relative}
+.del::after,.chipbtn::after,.btn.small::after{content:"";position:absolute;inset:-5px}
+.chipbtn,.btn.small{position:relative}
 
 /* 單字詳情 */
 .w-head{display:flex;align-items:center;gap:12px;justify-content:space-between}
-.headword{font-size:clamp(1.9rem,8vw,2.6rem);font-weight:700;line-height:1.15;
+.headword{display:block;font-size:clamp(1.9rem,8vw,2.6rem);font-weight:700;line-height:1.15;
   letter-spacing:-.015em;overflow-wrap:anywhere}
 .ipa{color:var(--ink-3);margin:2px 0;font-size:14px;font-family:var(--font-mono)}
 .pos{color:var(--accent-ink);font-weight:700;font-size:13px;letter-spacing:.08em;margin:2px 0}
@@ -161,6 +180,7 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 .flashcard{
   min-height:300px;display:flex;flex-direction:column;justify-content:center;
   align-items:center;text-align:center;cursor:pointer;margin:0;gap:6px;
+  width:100%;font:inherit;color:inherit;
 }
 .flashcard .defs p{font-size:17px}
 .fliphint{color:var(--ink-3);font-size:12.5px;margin-top:14px}
@@ -192,7 +212,8 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 
 /* 設定 */
 .ta{width:100%;min-height:90px;border:1px solid var(--line);border-radius:10px;
-  background:var(--surface-2);padding:10px;font-size:12.5px;margin-top:8px;resize:vertical}
+  background:var(--surface-2);padding:10px;margin-top:8px;resize:vertical;
+  font-size:max(16px,1rem)}  /* <16px 會觸發 iOS focus 整頁放大 */
 .about p{margin:4px 0}
 
 /* 底部分頁列 */
@@ -222,3 +243,21 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 .pad>.card:nth-child(4){animation-delay:120ms}
 .pad>.card:nth-child(5){animation-delay:160ms}
 .pad>.card:nth-child(6){animation-delay:200ms}
+
+/* App 內對話框（standalone 不用 confirm/alert，ios-pwa-rules §12） */
+dialog.dlg{border:none;border-radius:16px;background:var(--surface);color:var(--ink);
+  box-shadow:var(--shadow);padding:22px;width:min(320px,84vw);margin:auto}
+dialog.dlg::backdrop{background:rgba(16,21,39,.45)}
+.dlg p{margin:0 0 16px;font-size:15px;line-height:1.6}
+.dlg-btns{display:flex;gap:10px;justify-content:flex-end}
+.dlg-btns .btn{margin-top:0}
+
+/* 新版本提示列 */
+.updatebar{
+  position:fixed;left:12px;right:12px;z-index:30;
+  bottom:calc(64px + env(safe-area-inset-bottom) + 10px);
+  display:flex;align-items:center;justify-content:space-between;gap:12px;
+  background:var(--ink);color:var(--ground);
+  border-radius:12px;padding:10px 14px;font-size:13.5px;box-shadow:var(--shadow);
+}
+.updatebar .btn{background:var(--ground);color:var(--ink)}
