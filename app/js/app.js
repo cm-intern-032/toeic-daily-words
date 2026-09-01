@@ -25,6 +25,7 @@ function defsHtml(w, maxLines) {
 const ICONS = {
   speaker: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>`,
   trash: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>`,
+  list: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>`,
 };
 function speakBtn(headword, big) {
   return `<button class="iconbtn${big ? " big" : ""}" data-word="${esc(headword)}"
@@ -83,10 +84,56 @@ function showConfirm(msg, okLabel, onOk, danger) {
 function showAlert(msg) { showDialog(msg, [{ label: "知道了" }]); }
 window.addEventListener("hashchange", route);
 
-function topbar(title, backHash) {
+function topbar(title, backHash, action) {
   return `<div class="topbar">
     ${backHash != null ? `<button class="backbtn" onclick="history.length>1?history.back():nav('${backHash}')" aria-label="返回">‹</button>` : ""}
-    <h1>${esc(title)}</h1></div>`;
+    <h1>${esc(title)}</h1>
+    ${action ? `<div class="topbar-action">${action}</div>` : ""}</div>`;
+}
+
+/* 水平滑動手勢（ios-pwa-rules §3）：slop 判向、水平才 capture、
+   垂直交還瀏覽器捲動（元素需 touch-action:pan-y）、pointercancel 必處理 */
+function attachSwipe(el, onPrev, onNext) {
+  const SLOP = 8, THRESH = 70;
+  let startX = 0, startY = 0, dx = 0, decided = null, pid = null;
+  el.addEventListener("pointerdown", e => {
+    if (e.button) return;
+    pid = e.pointerId; startX = e.clientX; startY = e.clientY; dx = 0; decided = null;
+  });
+  el.addEventListener("pointermove", e => {
+    if (e.pointerId !== pid) return;
+    const mx = e.clientX - startX, my = e.clientY - startY;
+    if (!decided) {
+      if (Math.abs(mx) < SLOP && Math.abs(my) < SLOP) return;
+      decided = Math.abs(mx) > Math.abs(my) ? "h" : "v";
+      if (decided === "h") { try { el.setPointerCapture(pid); } catch (err) {} el.style.transition = "none"; }
+    }
+    if (decided !== "h") return;
+    dx = mx;
+    // 沒有目標方向時做阻尼（rubber-band）
+    const damp = (dx < 0 && !onNext) || (dx > 0 && !onPrev) ? 0.25 : 1;
+    el.style.transform = `translateX(${dx * damp}px)`;
+    el.style.opacity = String(1 - Math.min(Math.abs(dx * damp) / 500, .35));
+  });
+  const reset = () => {
+    el.style.transition = "transform .25s var(--ease), opacity .25s";
+    el.style.transform = ""; el.style.opacity = "";
+  };
+  const fly = (dir, cb) => {
+    el.style.transition = "transform .18s ease-out, opacity .18s";
+    el.style.transform = `translateX(${dir * window.innerWidth}px)`;
+    el.style.opacity = "0";
+    setTimeout(cb, 150);
+  };
+  el.addEventListener("pointerup", e => {
+    if (e.pointerId !== pid) return;
+    pid = null;
+    if (decided !== "h") return;
+    if (dx <= -THRESH && onNext) fly(-1, onNext);
+    else if (dx >= THRESH && onPrev) fly(1, onPrev);
+    else reset();
+  });
+  el.addEventListener("pointercancel", e => { if (e.pointerId === pid) { pid = null; reset(); } });
 }
 
 /* ── 首頁：今日任務 ───────────────────── */
@@ -178,45 +225,107 @@ async function renderUnits() {
 }
 
 /* ── 單元字表 ─────────────────────────── */
-async function renderUnitDetail([n]) {
+/* ── 單元＝可滑動的單字卡分頁器 ─────────
+   #/unit/n 直接開卡片，左滑下一個、右滑上一個；#/unit/n/list 是索引清單 */
+let pager = null; // {unit, words, i, lastSpoken}
+
+async function renderUnitDetail([n, mode]) {
   n = parseInt(n, 10);
   const words = await Content.loadUnit(n);
   const alive = words.filter(w => Store.wordP(w.id).deleted !== "unit");
-  const rows = alive.map(w => {
+  if (mode === "list") { renderUnitList(n, alive); return; }
+  if (!alive.length) {
+    $main().innerHTML = `${topbar("Unit " + n, "#/units")}
+      <div class="pad"><div class="empty"><b>此單元的字都被刪除了</b>可到設定→恢復找回。</div></div>`;
+    return;
+  }
+  if (!pager || pager.unit !== n) pager = { unit: n, i: 0, lastSpoken: null };
+  pager.words = alive;
+  if (pager.i >= alive.length) pager.i = alive.length - 1;
+  drawPager(0);
+}
+
+function drawPager(enterDir) {
+  const { words, i, unit } = pager;
+  const w = words[i];
+  $main().innerHTML = `
+    ${topbar("Unit " + unit, "#/units",
+      `<button class="iconbtn" onclick="nav('#/unit/${unit}/list')" aria-label="單字列表">${ICONS.list}</button>`)}
+    <div class="pad">
+      <p class="flash-i">${i + 1} / ${words.length}</p>
+      <div class="pager">
+        <div class="card wordcard" id="pagerCard">${wordCardHtml(w)}</div>
+      </div>
+      <div class="rowbtns center pagenav">
+        <button class="iconbtn nav-chev" ${i === 0 ? "disabled" : ""} onclick="pagerGo(-1)" aria-label="上一個">‹</button>
+        <button class="btn ghost" onclick="Speech.unlock();nav('#/flash/${unit}')">快速記憶</button>
+        <button class="btn ghost" onclick='Speech.unlock();startQuiz({kind:"unit",unit:${unit}})'>單字卷</button>
+        <button class="iconbtn nav-chev" ${i === words.length - 1 ? "disabled" : ""} onclick="pagerGo(1)" aria-label="下一個">›</button>
+      </div>
+    </div>`;
+
+  const card = document.getElementById("pagerCard");
+  if (enterDir) { // 新卡從滑動方向淡入
+    card.style.transform = `translateX(${enterDir * 32}px)`;
+    card.style.opacity = "0";
+    requestAnimationFrame(() => {
+      card.style.transition = "transform .22s var(--ease), opacity .22s";
+      card.style.transform = ""; card.style.opacity = "";
+    });
+  }
+  attachSwipe(card,
+    i > 0 ? () => pagerGo(-1) : null,
+    i < words.length - 1 ? () => pagerGo(1) : null);
+
+  if (Store.meta().autoSpeak !== false && pager.lastSpoken !== w.id) {
+    pager.lastSpoken = w.id;
+    Speech.speak(w.headword);
+  }
+}
+
+function pagerGo(dir) {
+  const next = Math.max(0, Math.min(pager.words.length - 1, pager.i + dir));
+  if (next === pager.i) return;
+  pager.i = next;
+  drawPager(dir);
+}
+
+function openPagerAt(unit, idx) {
+  pager = { unit, i: idx, lastSpoken: null };
+  const target = "#/unit/" + unit;
+  if (location.hash === target) route(); else nav(target);
+}
+
+function renderUnitList(n, alive) {
+  const rows = alive.map((w, idx) => {
     const p = Store.wordP(w.id);
     const st = Store.isMastered(p) ? "✓" : Store.attempted(p) ? "…" : "";
-    return `<button class="wordrow" onclick="nav('#/word/${w.id}')">
+    return `<button class="wordrow" onclick="openPagerAt(${n},${idx})">
       <div><b>${esc(w.headword)}</b>${p.starred ? '<span class="star">★</span>' : ""}<span class="zh">${esc(shortDef(w))}</span></div>
       <span class="wordst ${st === "✓" ? "ok" : ""}">${st}</span>
     </button>`;
   }).join("");
   $main().innerHTML = `
-    ${topbar("Unit " + n, "#/units")}
-    <div class="pad">
-      <div class="rowbtns">
-        <button class="btn" onclick="Speech.unlock();nav('#/flash/${n}')">快速記憶</button>
-        <button class="btn ghost" onclick='Speech.unlock();startQuiz({kind:"unit",unit:${n}})'>單字卷</button>
-      </div>
-      <div class="card list">${rows || "<p class='muted pad-s'>此單元的字都被刪除了，可到設定→恢復。</p>"}</div>
-    </div>`;
+    ${topbar("Unit " + n + " 索引", "#/unit/" + n)}
+    <div class="pad"><div class="card list">${rows}</div></div>`;
 }
 
-/* ── 單字詳情 ─────────────────────────── */
-async function renderWord([id]) {
-  const w = await Content.getWord(id);
-  if (!w) { nav("#/units"); return; }
-  const p = Store.wordP(id);
-  const acc = p.correct + p.incorrect ? Math.round(Store.acc(p) * 100) + "%" : "—";
+/* 分頁器鍵盤操作（桌面） */
+document.addEventListener("keydown", e => {
+  if (!pager || !location.hash.startsWith("#/unit/") || location.hash.endsWith("/list")) return;
+  if (e.target.matches("input,textarea,select")) return;
+  if (e.key === "ArrowLeft") pagerGo(-1);
+  if (e.key === "ArrowRight") pagerGo(1);
+});
 
+/* ── 單字卡模板（分頁器與獨立詳情頁共用） ── */
+function wordCardHtml(w) {
+  const p = Store.wordP(w.id);
+  const acc = p.correct + p.incorrect ? Math.round(Store.acc(p) * 100) + "%" : "—";
   const formsRow = w.forms ? Object.entries({ plural: "複數", past: "過去式", pp: "過去分詞", ing: "現在分詞", thirdSg: "三單" })
     .filter(([k]) => w.forms[k]).map(([k, lbl]) => `<span class="chip">${lbl} ${esc(w.forms[k])}</span>`).join("") : "";
-
   const examples = (w.examples || []).map(exHtml).join("");
-
-  $main().innerHTML = `
-    ${topbar("單字詳情", "#/unit/" + w.unit)}
-    <div class="pad">
-      <div class="card wordcard">
+  return `
         <div class="w-head">
           <h2 class="headword">${esc(w.headword)}</h2>
           ${speakBtn(w.headword)}
@@ -234,8 +343,17 @@ async function renderWord([id]) {
         <div class="rowbtns">
           <button class="btn ghost" onclick="toggleStar('${w.id}')">${p.starred ? "★ 已收藏" : "☆ 收藏"}</button>
           <button class="btn danger" onclick="deleteWord('${w.id}','unit')">刪除此字</button>
-        </div>
-      </div>
+        </div>`;
+}
+
+/* ── 單字詳情（跨情境的獨立頁：測驗結果、恢復頁等入口） ── */
+async function renderWord([id]) {
+  const w = await Content.getWord(id);
+  if (!w) { nav("#/units"); return; }
+  $main().innerHTML = `
+    ${topbar("單字詳情", "#/unit/" + w.unit)}
+    <div class="pad">
+      <div class="card wordcard">${wordCardHtml(w)}</div>
     </div>`;
 }
 
@@ -243,7 +361,15 @@ function toggleStar(id) { Store.updateWord(id, { starred: !Store.wordP(id).starr
 function deleteWord(id, kind) {
   showConfirm("刪除後不會出現在學習與測驗中，可到設定→恢復找回。", "刪除", () => {
     Store.updateWord(id, { deleted: kind });
-    history.back();
+    // 在分頁器裡刪除：原地補位到下一張；獨立詳情頁則返回上一頁
+    if (location.hash.startsWith("#/unit/") && pager) {
+      pager.words = pager.words.filter(x => x.id !== id);
+      if (!pager.words.length) { nav("#/units"); return; }
+      if (pager.i >= pager.words.length) pager.i = pager.words.length - 1;
+      drawPager(0);
+    } else {
+      history.back();
+    }
   }, true);
 }
 
@@ -301,6 +427,11 @@ function drawFlash() {
           : `<button class="btn" onclick="flashFinish()">完成瀏覽</button>`}
       </div>
     </div>`;
+
+  // 左右滑動換卡（與單元分頁器一致的手勢語彙）
+  attachSwipe(document.getElementById("flashCard"),
+    i > 0 ? () => { flash.i--; flash.back = false; drawFlash(); } : null,
+    i < words.length - 1 ? () => { flash.i++; flash.back = false; drawFlash(); } : null);
 
   // 顯示新卡片時自動發音一次（設定可關；unlock 已在進入流程的手勢中完成）
   if (Store.meta().autoSpeak !== false && flash.lastSpoken !== w.id) {

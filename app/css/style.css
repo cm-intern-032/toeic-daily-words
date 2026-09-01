@@ -42,7 +42,7 @@ body{
   -webkit-tap-highlight-color:transparent;
 }
 #main{
-  height:100%; overflow-y:auto; overscroll-behavior-y:contain;
+  height:100%; overflow-y:auto; overflow-x:hidden; overscroll-behavior-y:contain;
   -webkit-overflow-scrolling:touch;
   /* 鍵盤高度只墊這裡（--kb-h 由 js/vp.js 維護），面板幾何永不變 */
   padding-bottom:calc(84px + var(--kb-h,0px) + env(safe-area-inset-bottom));
@@ -66,6 +66,8 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
   padding:calc(10px + env(safe-area-inset-top)) 16px 10px;
 }
 .topbar h1{font-size:17px;letter-spacing:.02em}
+.topbar-action{margin-left:auto}
+.topbar-action .iconbtn{background:none;border:none}
 .backbtn{
   border:none;background:none;color:var(--ink);
   font-size:26px;line-height:1;padding:0;
@@ -280,3 +282,9 @@ dialog.dlg::backdrop{background:rgba(16,21,39,.45)}
   border-radius:12px;padding:10px 14px;font-size:13.5px;box-shadow:var(--shadow);
 }
 .updatebar .btn{background:var(--ground);color:var(--ink)}
+
+/* 單元卡分頁器與翻卡的滑動手勢 */
+.pager .wordcard,.flashcard3d{touch-action:pan-y}
+.pager .wordcard{will-change:transform}
+.nav-chev{font-size:24px;line-height:1}
+.nav-chev:disabled{opacity:.3}
